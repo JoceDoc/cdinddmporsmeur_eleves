@@ -5,12 +5,12 @@ site_name: Base MkDocs Material
 site_description: Exemple de site de base pour MkDocs avec le thème Material à personaliser
 site_author: "Jocelyne COZ" 
 copyright: Document partagé par <a href="https://github.com/JoceDoc" target="_blank">Jocelyne COZ</a> &copy; 2021 sous licence <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr" target="_blank">CC BY-NC-SA 4.0</a> <br> Illustrations par <a href="https://undraw.co/" target="_blank">UnDraw</a>
-site_url: https://JoceDoc.github.io/cdinddmporsmeur_eleves/ #  modifier au format https://votrePseudoGitHub.github.io/votreDepot/
+# site_url: https://JoceDoc.github.io/cdinddmporsmeur_eleves/ #  modifier au format https://votrePseudoGitHub.github.io/votreDepot/
 
 # Dépot du projet 
-repo_name: 'cdinddmporsmeur_eleves' 
-repo_url: https://github.com/JoceDoc/cdinddmporsmeur_eleves # Ajoute l'icone et le lien vers le dépot GitHub en haut à droite pour afficher et permettre d'éditer le fichier source
-edit_uri: tree/main/docs/
+# repo_name: 'cdinddmporsmeur_eleves' 
+# repo_url: https://github.com/JoceDoc/cdinddmporsmeur_eleves # Ajoute l'icone et le lien vers le dépot GitHub en haut à droite pour afficher et permettre d'éditer le fichier source
+# edit_uri: tree/main/docs/
 
 
 # Structure des dossiers :
