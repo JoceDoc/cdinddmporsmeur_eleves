@@ -1,4 +1,4 @@
-# Actualités
+## Actualités
 
 ==**MESSAGE DE M. QUINIO** (24/02/2021) à l'intention des élèves de terminale==
 
@@ -20,7 +20,7 @@ Les invitations aux portes ouvertes, des établissements du supérieur, sont à 
 ???+ info "Orientation et Parcours avenir"  
     L'actualité de l'orientation, les sites incontournables, des ressources par niveau, les salons et forums, la vie étudiante...
     
-# Ressources  
+## Ressources  
     
 === "Parcours AVENIR"
     - [**Réussir au lycée et après**](https://www.education.gouv.fr/reussir-au-lycee/2021-2022-bien-preparer-son-bac-et-son-entree-dans-le-superieur-326326)
