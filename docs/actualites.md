@@ -99,7 +99,7 @@ Expositions du moment à découvrir au CDI.
     [![Guide des métiers](./images/kiosqueonisep/Guide des métiers_Phosphore_2021-2022.jpg "Guide des métiers. Phosphore. 2021-2022"){width=20%}](./images/kiosqueonisep/Guide des métiers_Phosphore_2021-2022_sommaire.pdf){target=_blank}
 
 ???+ info "**Dernières publications ONISEP**"
-
+    [Sur le portail PMB](https://ecmorlaix.basecdi.fr/pmb/opac_css/index.php?lvl=cmspage&pageid=4&id_article=62){target=_blank}
 
 ### **Coups de coeur** :heart: 
 
