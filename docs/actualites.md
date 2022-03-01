@@ -51,7 +51,7 @@ Expositions du moment à découvrir au CDI.
     [![Science et Vie Junior. Hors-série](./images/abonnements/SVJ_hors-série_mars_2022_152.jpg "Science et Vie Junior, mars 2022, n°152HS"){width=20%}](./images/abonnements/SVJ_hors-série_mars_2022_152_sommaire.pdf){target=_blank}
     [![Sciences et avenir](./images/abonnements/Sciences et avenir_mars_2022_901.jpg "Sciences et avenir, mars 2022, n°901"){width=20%}](./images/abonnements/Sciences et avenir_mars_2022_901_sommaire.pdf){target=_blank}
     [![Sciences Ouest](./images/abonnements/Sciences ouest_mars_2022_397.jpg "Sciences Ouest, mars 2022, n°397"){width=20%}](./images/abonnements/Sciences ouest_mars_2022_397_sommaire.pdf){target=_blank}
-    [![Virgule](./images/abonnements/Virgule_février 2022_203.jpg "Virgule, février 2022, n°203"){width=20%}](./images/abonnements/Virgule_février 2022_203_sommaire.pdf){target=_blank}
+    [![Virgule](./images/abonnements/Virgule_mars_2022_204.jpg "Virgule, mars 2022, n°204"){width=20%}](./images/abonnements/Virgule_mars_2022_204_sommaire.pdf){target=_blank}
 
 
 ??? info "**Le kiosque du mois dernier**"    
