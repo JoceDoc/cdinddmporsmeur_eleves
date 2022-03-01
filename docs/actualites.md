@@ -40,19 +40,21 @@ Expositions du moment à découvrir au CDI.
     [![Ca m'intéresse](./images/abonnements/Ca m intéresse_mars_2022_493.jpg "Ca m'intéresse, mars 2022, n°493"){width=20%}](./images/abonnements/Ca m intéresse_mars_2022_493_sommaire.pdf){target=_blank}
     [![Journal de l'animation](./images/abonnements/Journal animation_mars_2022_227.jpg "Journal de l'animation, mars 2022, n°227"){width=20%}](./images/abonnements/Journal animation_mars_2022_227_sommaire.pdf){target=_blank}
     [![Journal de l'animation](./images/abonnements/Journal animation_hors-série_mars_2022_31.jpg "Journal de l'animation, mars 2022, n°31HS"){width=20%}](./images/abonnements/Journal animation_hors-série_mars_2022_31_sommaire.pdf){target=_blank}
+    [![Lire Magazine](./images/abonnements/Lire Magazine_mars_2022_505.jpg "Lire Magazine, mars 2022, n°505"){width=20%}](./images/abonnements/Lire Magazine_mars_2022_505_sommaire.pdf){target=_blank}
     [![Management](./images/abonnements/Management_février-mars_2022_301.jpg "Management, février-mars 2022, n°301"){width=20%}](./images/abonnements/Management_février-mars_2022_301_sommaire.pdf){target=_blank}
-    [![Phosphore](./images/abonnements/Phosphore_1erfévrier_2022_525.jpg "Phosphore, 1er février 2022, 525"){width=20%}](./images/abonnements/Phosphore_1erfévrier_2022_525_sommaire.pdf){target=_blank}
-    [![Phosphore](./images/abonnements/Phosphore_15_février_2022_526.jpg "Phosphore, 15 février 2022, 526"){width=20%}](./images/abonnements/Phosphore_15_février_2022_526_sommaire.pdf){target=_blank}
-    [![Pour l'Eco](./images/abonnements/Pour l Eco_février 2022_38.jpg "Pour l'Eco, février 2022, n°38"){width=20%}](./images/abonnements/Pour l Eco_février 2022_38_sommaire.pdf){target=_blank}
-    [![Que choisir](./images/abonnements/Que choisir_février 2022_610.jpg "Que choisir, février 2022, n°610"){width=20%}](./images/abonnements/Que choisir_février 2022_610_sommaire.pdf){target=_blank}
-    [![Science et Vie](./images/abonnements/SV_février_2022.jpg "Science et Vie, février 2022, n°1253"){width=20%}](./images/abonnements/SV_février_2022_sommaire.pdf){target=_blank}
-    [![Science et Vie Junior](./images/abonnements/SVJ_février_2022.jpg "Science et Vie Junior, février 2022, n°389"){width=20%}](./images/abonnements/SVJ_février_2022_sommaire.pdf){target=_blank}
-    [![Sciences et avenir](./images/abonnements/Sciences et avenir_février_2022_900.jpg "Sciences et avenir, février 2022, n°900"){width=20%}](./images/abonnements/Sciences et avenir_février_2022_900_sommaire.pdf){target=_blank}
-    [![Sciences Ouest](./images/abonnements/Sciences Ouest_février 2022_396.jpg "Sciences Ouest, janvier 2022, n°396"){width=20%}](./images/abonnements/Sciences Ouest_février 2022_396_sommaire.pdf){target=_blank}
+    [![Phosphore](./images/abonnements/Phosphore_1er_mars_2022_527.jpg "Phosphore, 1er mars 2022, 527"){width=20%}](./images/abonnements/Phosphore_1er_mars_2022_527_sommaire.pdf){target=_blank}
+    [![Pour l'Eco](./images/abonnements/Pour l'éco_mars_2022_39.jpg "Pour l'Eco, mars 2022, n°38"){width=20%}](./images/abonnements/Pour l'éco_mars_2022_39_sommaire.pdf){target=_blank}
+    [![Que choisir](./images/abonnements/Que choisir_mars 2022_611.jpg "Que choisir, mars 2022, n°611"){width=20%}](./images/abonnements/Que choisir_mars 2022_611_sommaire.pdf){target=_blank}
+    [![Science et Vie](./images/abonnements/SV_mars_2022_1254.jpg "Science et Vie, mars 2022, n°1254"){width=20%}](./images/abonnements/SV_mars_2022_1254_sommaire.pdf){target=_blank}
+    [![Science et Vie. Hors-série](./images/abonnements/SV_hors-série_mars_2022_300.jpg "Science et Vie, mars 2022, n°300HS"){width=20%}](./images/abonnements/SV_hors-série_mars_2022_300_sommaire.pdf){target=_blank}
+    [![Science et Vie Junior](./images/abonnements/SVJ_mars_2022_390.jpg "Science et Vie Junior, mars 2022, n°390"){width=20%}](./images/abonnements/SVJ_mars_2022_390_sommaire.pdf){target=_blank}
+    [![Science et Vie Junior. Hors-série](./images/abonnements/SVJ_hors-série_mars_2022_152.jpg "Science et Vie Junior, mars 2022, n°152HS"){width=20%}](./images/abonnements/SVJ_hors-série_mars_2022_152_sommaire.pdf){target=_blank}
+    [![Sciences et avenir](./images/abonnements/Sciences et avenir_mars_2022_901.jpg "Sciences et avenir, mars 2022, n°901"){width=20%}](./images/abonnements/Sciences et avenir_mars_2022_901_sommaire.pdf){target=_blank}
+    [![Sciences Ouest](./images/abonnements/Sciences ouest_mars_2022_397.jpg "Sciences Ouest, mars 2022, n°397"){width=20%}](./images/abonnements/Sciences ouest_mars_2022_397_sommaire.pdf){target=_blank}
     [![Virgule](./images/abonnements/Virgule_février 2022_203.jpg "Virgule, février 2022, n°203"){width=20%}](./images/abonnements/Virgule_février 2022_203_sommaire.pdf){target=_blank}
 
 
-???+ info "**Le kiosque du mois dernier**"    
+??? info "**Le kiosque du mois dernier**"    
 
     [![01.NET](./images/abonnements/01.NET_20220202_967.jpg "01.NET, 02 février 2022, n°967"){width=20%}](./images/abonnements/01.NET_20220202_967_sommaire.pdf){target=_blank}
     [![01.NET](./images/abonnements/01.NET_20220216_968.jpg "01.NET, 16 février 2022, n°967"){width=20%}](./images/abonnements/01.NET_20220216_968_sommaire.pdf){target=_blank}
