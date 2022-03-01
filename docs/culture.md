@@ -70,7 +70,7 @@ Autre lien intéressant les [**Expositions virtuelles de le BNF**](http://exposi
 [**British Museum**](https://www.britishmuseum.org/){target=_blank}
 
 ## Théâtre
-- [**Tréâtral magazine**](https://www.theatral-magazine.com/){target=_blank} : L'actualité de la création théâtrale.
+- [**Théâtral magazine**](https://www.theatral-magazine.com/){target=_blank} : L'actualité de la création théâtrale.
 
 - [**Sceneweb**](https://sceneweb.fr/){target=_blank} : L'actualité du spectacle vivant.
 
