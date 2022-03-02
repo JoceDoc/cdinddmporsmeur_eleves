@@ -6,7 +6,7 @@
 
 ![logo ECAM](./images/logo_ecam.jpg "logo"){width=30% align=left}
 
-![vue du CDI](./images/CDI_accueil_01.jpg "CDI"){width=50% align=right}
+![vue du CDI](./images/CDI_accueil_01.jpg "CDI"){width=45% align=right}
 Bienvenue sur le site du CDI de notre lycée.
 
 Les documentalistes Jocelyne COZ et Claire LEOST vous accueillent en continu du lundi au vendredi.
@@ -43,15 +43,19 @@ Les documentalistes Jocelyne COZ et Claire LEOST vous accueillent en continu du 
     
     | Vendredi | 8h30 - 16h30 |
   
-Dans ce site vous trouverez :
+## A découvrir
 
-- des ressources pour les disciplines que vous apprenez au lycée, pour l'orientation et le parcours avenir
-- des conseils méthodologiques et des tutoriels divers pour vous aider dans votre travail.
+- Des **ressources** pour les disciplines du lycée
+- Des **informations** et **ressources** pour l'orientation et le **parcours avenir**
+- Des **conseils méthodologiques** et des **tutoriels** divers pour vous aider dans votre travail.
     
-Pour voir les dernières nouveautés concernant les abonnements, rendez-vous dans l'onglet "Actualités" du site (Le kiosque, dernières nouveautés abonnements).
+Pour voir les dernières nouveautés concernant les abonnements, rendez-vous dans l'onglet **"Actualités"** du site (Le kiosque, dernières nouveautés abonnements).
 
-Pour découvrir les autres nouveautés du CDI, consultez le Portail de la base documentaire PMB, ci-dessous. Le padlet propose des liens vers d'autres ressources par discipline.
+Pour découvrir les autres nouveautés du CDI, consultez le Portail de la base documentaire PMB, ci-dessous.
 
+Sur le padlet propose des liens vers d'autres ressources par discipline.
+
+## PMB et PADLET
    * [**Portail - Base documentaire PMB**](https://ecmorlaix.basecdi.fr/pmb/opac_css/){target=_blank}
 
    * [**Padlet du CDI**](https://padlet.com/cdinddmporsmeur/CDI){target=_blank}
