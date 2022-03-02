@@ -29,7 +29,7 @@
     
     ==**Visible au CDI jusqu'à fin mars**==
 
-## Travaux d´élèves
+## Nos élèves ont du talent...
 :construction:
 
 ## Nouveautés
