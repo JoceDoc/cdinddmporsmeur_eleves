@@ -82,8 +82,7 @@
     [![Virgule](./images/abonnements/Virgule_février 2022_203.jpg "Virgule, février 2022, n°203"){width=20%}](./images/abonnements/Virgule_février 2022_203_sommaire.pdf){target=_blank}
 
     
-???+ info "**Les langues vivantes** :gb:"
-    :gb: :de: :es: :it: :cn: :gb: :de: :es: :it: :cn: :gb: :de: :es: :it: :cn: :gb: :de: :es: :it: :cn:
+???+ info "**Les langues vivantes** :gb: :de: :es: :it: :cn: :gb: :de: :es: :it: :cn: :gb: :de: :es: :it: :cn:"
     
     [![I love English world](./images/abonnements/IloveEnglishWorld_février_2022_346.jpg "I love english world, février 2022, n°346"){width=20%}](./images/abonnements/IloveEnglishWorld_février_2022_346_sommaire.pdf){target=_blank}
     [![I love English world](./images/abonnements/IloveEnglishWorld_mars_2022_347.jpg "I love english world, février 2022, n°346"){width=20%}](./images/abonnements/IloveEnglishWorld_mars_2022_347_sommaire.pdf){target=_blank}
