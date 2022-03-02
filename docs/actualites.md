@@ -1,6 +1,6 @@
 ## Expositions
 
-Expositions du moment à découvrir au CDI.
+==**Expositions du moment à découvrir au CDI...**==
 
 ??? info "**Frida KAHLO**"
      
@@ -10,7 +10,7 @@ Expositions du moment à découvrir au CDI.
     Pour aller plus loin : [**Frida Kahlo - France Culture**]( https://www.franceculture.fr/personne-frida-kahlo.html)
 
     
-??? info "**Projets franco-allemand**"
+??? info "**Projets franco-allemands**"
     
     ![expo00](./images/Expo_Projet_franco_allemand_00.jpg "Projet franco-allemand"){width=50% align=left}
     ![expo01](./images/Expo_Projet_franco_allemand_01.jpg "Projet franco-allemand"){width=50% align=left}
