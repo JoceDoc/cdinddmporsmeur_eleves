@@ -17,7 +17,7 @@
 
     A découvrir,
     
-    L'Exposition sur le thème des **relations franco-allemande**, "ennemis bien-aimés" (en lien avec l'Axe du programme : Identité et échanges) réalisée par les deux groupes de germanistes de Terminale générale et STMG.
+    L'Exposition sur le thème des **relations franco-allemandes**, "ennemis bien-aimés" (en lien avec l'Axe du programme : Identité et échanges) réalisée par les deux groupes de germanistes de Terminale générale et STMG.
 
     Rappel des grandes dates de cette relation un peu tendue qui a fini par se normaliser, grâce au couple De Gaulle - Adenauer.
     
