@@ -10,7 +10,7 @@
 
 **Bienvenue au CDI**
 
-Les documentalistes, Jocelyne COZ et Claire LEOST, vous accueillent en continu du lundi au vendredi.
+Les documentalistes, Jocelyne COZ et Claire LEOST, vous accueillent en continu du lundi au vendredi, pour répondre à vos questions, vous guider dans vos recherches, vous accompagner pour vos différents travaux... N'hésitez pas à nous solliciter.
 
 -------
 ## Présentation
@@ -33,7 +33,7 @@ Les documentalistes, Jocelyne COZ et Claire LEOST, vous accueillent en continu d
 
 
 
-??? info "Horaires d'ouverture"
+??? info "**Horaires d'ouverture**"
         
     | Lundi    |   9h - 18h30 |
     
