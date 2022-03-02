@@ -6,11 +6,25 @@
 
 ![logo ECAM](./images/logo_ecam.jpg "logo"){width=20% align=left}
 
-![vue du CDI](./images/CDI_accueil_01.jpg "CDI"){width=45% align=right}
+![vue du CDI](./images/CDI_accueil_01.jpg "CDI"){width=40% align=right}
 
 **Bienvenue au CDI**
 
-Les documentalistes, Jocelyne COZ et Claire LEOST, vous accueillent en continu du lundi au vendredi, pour répondre à vos questions, vous guider dans vos recherches, vous accompagner pour vos différents travaux, vous donner des conseils de lecture... N'hésitez pas à nous solliciter.
+Les documentalistes, 
+
+Jocelyne COZ et Claire LEOST, 
+
+vous accueillent en continu du lundi au vendredi, 
+
+pour répondre à vos questions, 
+
+vous guider dans vos recherches, 
+
+vous accompagner pour vos différents travaux, 
+
+vous donner des conseils de lecture...
+
+N'hésitez pas à nous solliciter.
 
 -------
 ## Présentation
