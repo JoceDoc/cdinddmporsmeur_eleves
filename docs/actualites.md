@@ -30,7 +30,7 @@ Expositions du moment à découvrir au CDI.
     ==**Visible au CDI jusqu'à fin mars**==
 
 ## Travaux d´élèves
-
+:construction:
 
 ## Nouveautés
 
@@ -83,6 +83,7 @@ Expositions du moment à découvrir au CDI.
 
     
 ???+ info "**Les langues vivantes**"
+    :uk: :de: :es: :it: :cn: :uk: :de: :es: :it: :cn: :uk: :de: :es: :it: :cn: :uk: :de: :es: :it: :cn:
     [![I love English world](./images/abonnements/IloveEnglishWorld_février_2022_346.jpg "I love english world, février 2022, n°346"){width=20%}](./images/abonnements/IloveEnglishWorld_février_2022_346_sommaire.pdf){target=_blank}
     [![I love English world](./images/abonnements/IloveEnglishWorld_mars_2022_347.jpg "I love english world, février 2022, n°346"){width=20%}](./images/abonnements/IloveEnglishWorld_mars_2022_347_sommaire.pdf){target=_blank}
     [![Vocable Allemand](./images/abonnements/Vocable_Allemand_20220203_857.jpg "Vocable Allemand, 03 février 2022, n°857"){width=20%}](./images/abonnements/Vocable_Allemand_20220203_857_sommaire.pdf){target=_blank}
