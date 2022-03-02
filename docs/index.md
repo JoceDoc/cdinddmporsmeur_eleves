@@ -1,9 +1,9 @@
 
 
 
-# CENTRE DE DOCUMENTATION ET D'INFORMATION 
-![logo ECAM](./images/logo_ecam.jpg "logo"){width=20% align=right}**LYCEE NOTRE-DAME-DU-MUR/LE PORSMEUR - MORLAIX (29)**
+# CENTRE DE DOCUMENTATION ET D'INFORMATION  ![logo ECAM](./images/logo_ecam.jpg "logo"){width=20% align=right}
 
+**LYCEE NOTRE-DAME-DU-MUR/LE PORSMEUR - MORLAIX (29)**
 
 
 ![vue du CDI](./images/CDI_accueil_01.jpg "CDI"){width=40% align=left}
@@ -59,7 +59,7 @@ Jocelyne Coz - Claire Léost
 - Des **informations** et **ressources** pour l'orientation et le **parcours avenir**
 - Des **conseils méthodologiques** et des **tutoriels** divers pour vous aider dans votre travail.
     
-Les dernières nouveautés du CDI pour la presse sont acessibles dans le [**kiosque du mois**](https://jocedoc.github.io/cdinddmporsmeur_eleves/actualites/#presse){target=blank} onglet Actualités.
+Les dernières nouveautés du CDI pour la presse sont acessibles dans le [**Kiosque du mois**](https://jocedoc.github.io/cdinddmporsmeur_eleves/actualites/#presse){target=blank}, onglet **Actualités**.
 
 Pour découvrir les autres nouveautés du CDI (documentaires, fictions, DVD...) consultez le Portail de la base documentaire PMB, ci-dessous.
 
