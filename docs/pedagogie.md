@@ -4,7 +4,18 @@ Pour vous aider et vous accompagner dans vos apprentissages :
 - ==**Pour les disciplines en LGT ou LP, les enseignements de spécialité**== : programmes officiels et ressources utiles...
 - ==**Projets pédagogiques**== : concours scolaires, projets d'AP, éducation aux médias et à l'information...
 ___
-## Méthodologie
+
+## Actualité des disciplines
+
+???+ tip "Semaine des mathématiques"
+    ==**Du 7 au 14 mars 2022** c'est la semaine des mathématiques==. L'occasion de renforcer l'attractivité des mathématiques.
+    
+    - [**"Maths en forme(s)"**](https://eduscol.education.fr/document/38933/download?attachment){target=_blank} : Découvrez le thème de l'édition 2022 et les propositions d'activités. 
+    - [**M@ths en formes**](https://www.mathsenvie.fr/?p=10530){target=_blank}
+    - [**Ressources**](https://maths.discip.ac-caen.fr/spip.php?article554){target=_blank}
+
+
+## Méthodologie pour tous
 ???+ "S'organiser"
     - [**Apprendre à travailler**](./pdf/Méthodologie_Apprendre_a_travailler.pdf){target=_blank}
     - [**Apprendre efficacement**](https://apprendre-reviser-memoriser.fr/){target=_blank}
@@ -42,7 +53,7 @@ ___
     - [**Excel Pratique**](https://www.excel-pratique.com/){target=_blank}
 
 ___
-## EMI
+## Education aux Médias et à l'Information
 ??? Pourquoi "Pourquoi et comment s'informer ?" 
     
     * S'informer pour comprendre le monde
@@ -61,6 +72,8 @@ ___
 ??? "Sites pour s'informer"
     - [**AFP**](https://www.afp.com/fr){target=_blank}
     - [**Reporters sans frontières**](https://rsf.org/){target=_blank}
+    - [**France24**](https://www.france24.com/fr/){target=_blank}
+    - [**FranceInfo**](ttps://mobile.francetvinfo.fr){target=_blank}
     
  
 ??? "Ressources pour l'EMI"
@@ -161,14 +174,7 @@ ___
     
     D'autres sites d'informations sur les spécialités sont à découvrir sous l'onglet [**orientation**](https://jocedoc.github.io/mon_premier_site/orientation/){target=_blank} du présent site, vers le padlet SECONDE.
   
-### Actualité des disciplines
 
-???+ tip "Semaine des mathématiques"
-    ==**Du 7 au 14 mars 2022** c'est la semaine des mathématiques==. L'occasion de renforcer l'attractivité des mathématiques.
-    
-    - [**"Maths en forme(s)"**](https://eduscol.education.fr/document/38933/download?attachment){target=_blank} : Découvrez le thème de l'édition 2022 et les propositions d'activités. 
-    - [**M@ths en formes**](https://www.mathsenvie.fr/?p=10530){target=_blank}
-    - [**Ressources**](https://maths.discip.ac-caen.fr/spip.php?article554){target=_blank}
 
 ___   
 ### Arts plastiques
