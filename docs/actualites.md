@@ -37,7 +37,7 @@
 ### Presse
 ==**Cliquez sur les "UNES" pour découvrir le sommaire du numéro...**==
    
-???+ info "**Le kiosque du mois**"
+???+ info "**Le kiosque du mois** :newspaper:"
   
     [![Alternatives Economiques](./images/abonnements/Alternatives Economiques_mars_2022_421.jpg "Alternatives Economiques, mars 2022, n°420"){width=20%}](./images/abonnements/Alternatives Economiques_mars_2022_421_sommaire.pdf){target=_blank}
     [![Ca m'intéresse](./images/abonnements/Ca m interesse_mars 2022_493.jpg "Ca m'intéresse, mars 2022, n°493"){width=20%}](./images/abonnements/Ca m interesse_mars 2022_493_sommaire.pdf){target=_blank}
@@ -57,7 +57,7 @@
     [![Virgule](./images/abonnements/Virgule_mars_2022_204.jpg "Virgule, mars 2022, n°204"){width=20%}](./images/abonnements/Virgule_mars_2022_204_sommaire.pdf){target=_blank}
 
 
-??? info "**Le kiosque du mois dernier**"    
+??? info "**Le kiosque du mois dernier** :newspaper:"    
 
     [![01.NET](./images/abonnements/01.NET_20220202_967.jpg "01.NET, 02 février 2022, n°967"){width=20%}](./images/abonnements/01.NET_20220202_967_sommaire.pdf){target=_blank}
     [![01.NET](./images/abonnements/01.NET_20220216_968.jpg "01.NET, 16 février 2022, n°967"){width=20%}](./images/abonnements/01.NET_20220216_968_sommaire.pdf){target=_blank}
@@ -82,7 +82,7 @@
     [![Virgule](./images/abonnements/Virgule_février 2022_203.jpg "Virgule, février 2022, n°203"){width=20%}](./images/abonnements/Virgule_février 2022_203_sommaire.pdf){target=_blank}
 
     
-???+ info "**Les langues vivantes** :gb: :de: :es: :it: :cn: :gb: :de: :es: :it: :cn: :gb: :de: :es: :it: :cn:"
+???+ info "**Les langues vivantes** :gb: :de: :es: :it: :cn:"
     
     [![I love English world](./images/abonnements/IloveEnglishWorld_février_2022_346.jpg "I love english world, février 2022, n°346"){width=20%}](./images/abonnements/IloveEnglishWorld_février_2022_346_sommaire.pdf){target=_blank}
     [![I love English world](./images/abonnements/IloveEnglishWorld_mars_2022_347.jpg "I love english world, février 2022, n°346"){width=20%}](./images/abonnements/IloveEnglishWorld_mars_2022_347_sommaire.pdf){target=_blank}
