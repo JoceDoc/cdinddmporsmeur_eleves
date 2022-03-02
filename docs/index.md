@@ -58,9 +58,9 @@ Pour découvrir les autres nouveautés du CDI, consultez le Portail de la base d
 Sur le padlet propose des liens vers d'autres ressources par discipline.
 
 ## Incontournables du CDI
-   * [**Portail - Base documentaire PMB**](https://ecmorlaix.basecdi.fr/pmb/opac_css/){target=_blank}
+   * [**Vers le portail PMB**](https://ecmorlaix.basecdi.fr/pmb/opac_css/){target=_blank} : pour interroger la **base documentaire** du lycée et trouver des références de documents pour vos recherches dans les différentes disciplines.
 
-   * [**Padlet du CDI**](https://padlet.com/cdinddmporsmeur/CDI){target=_blank}
+   * [**Vers le padlet du CDI**](https://padlet.com/cdinddmporsmeur/CDI){target=_blank}
 
 
  
