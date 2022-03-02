@@ -340,7 +340,7 @@ ___
 ## Réviser pour le BAC
 
 ??? "S'organiser, planifier son travail"
-    -[**Vidéos Lumni- Révisions BAC - Méthodologie**](https://www.lumni.fr/dossier/revisions-bac-methodologie){target=_blank}
+    - [**Un peu de méthode**](https://www.lumni.fr/dossier/revisions-bac-methodologie){target=_blank} : vidéos "**lumni**" pour réviser...
    
             
 ??? "Des sites pour réviser et s'entraîner"
@@ -353,4 +353,4 @@ ___
 ## Le Grand oral
    
 ??? "Se préparer pour l'oral"
-    [**Padlet de ressources pour le Grand Oral**](https://padlet.com/cdinddmporsmeur/grandoral2021){target=_blank}
+    [**Padlet de ressources pour le GO**](https://padlet.com/cdinddmporsmeur/grandoral2021){target=_blank}
