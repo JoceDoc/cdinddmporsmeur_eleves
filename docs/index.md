@@ -55,11 +55,11 @@ Jocelyne Coz - Claire Léost
   
 ## A découvrir
 
-- Des **ressources** pour les disciplines du lycée
-- Des **informations** et **ressources** pour l'orientation et le **parcours avenir**
-- Des **conseils méthodologiques** et des **tutoriels** divers pour vous aider dans votre travail.
+- Des ==**ressources**== pour les disciplines du lycée
+- Des ==**informations**== et ==**ressources**== pour l'orientation et le ==**parcours avenir**==.
+- Des ==**conseils méthodologiques**== et des ==**tutoriels**== divers pour vous aider dans votre travail.
     
-Les dernières nouveautés du CDI pour la presse sont acessibles dans le [**Kiosque du mois**](https://jocedoc.github.io/cdinddmporsmeur_eleves/actualites/#presse){target=blank}, onglet **Actualités**.
+Les dernières nouveautés du CDI pour la presse sont accessibles dans le [**Kiosque du mois**](https://jocedoc.github.io/cdinddmporsmeur_eleves/actualites/#presse){target=blank}, onglet **Actualités**.
 
 Pour découvrir les autres nouveautés du CDI (documentaires, fictions, DVD...) consultez le Portail de la base documentaire PMB, ci-dessous.
 
