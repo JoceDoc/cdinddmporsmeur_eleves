@@ -1,4 +1,8 @@
-Sur cette page, des ==**outils méthodologiques**==, des ==**ressources par discipline**==  et divers ==**projets pédagogiques**==.
+Pour vous aider et vous accompagner dans vos apprentissages :
+
+- ==**Conseils et tutoriels**== : pour s'organiser dans son travail, améliorer sa rédaction, chercher des informations et présenter le résultat de ses recherches...
+- ==**Pour les disciplines  et enseignements de spécialité**== : programmes officiels et ressources utiles...
+- ==**Projets pédagogiques**== : concours scolaires, projets d'AP, éducation aux médias et à l'information.
 ___
 ## Méthodologie
 ???+ "S'organiser"
@@ -32,7 +36,7 @@ ___
     - [**Citer ses sources**](./pdf/Méthodologie_Citer ses sources bibliographiques.pdf){target=_blank}
   
     
-??? "Applications utiles"
+???+ "Applications utiles"
     - [**PIX**](https://pix.fr/){target=_blank} : S'entraîner pour développer ses compétences numériques en vue de la certification de terminale.
     - [**Tutoriel pour une présentation avec PREZI**](https://prezi.com/r9ju2zs5ki65/guide-prezi-en-francais/){target=_blank}
     - [**Excel Pratique**](https://www.excel-pratique.com/){target=_blank}
