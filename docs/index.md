@@ -7,6 +7,7 @@
 ![logo ECAM](./images/logo_ecam.jpg "logo"){width=20% align=left}
 
 ![vue du CDI](./images/CDI_accueil_01.jpg "CDI"){width=45% align=right}
+
 **Bienvenue au CDI**
 
 Les documentalistes, Jocelyne COZ et Claire LEOST, vous accueillent en continu du lundi au vendredi.
