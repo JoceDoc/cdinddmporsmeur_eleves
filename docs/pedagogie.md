@@ -11,7 +11,8 @@ ___
     ==**Du 7 au 14 mars 2022** c'est la semaine des mathématiques==. L'occasion de renforcer l'attractivité des mathématiques.
     
     Le thème de l´édition 2022 [**"Maths en forme(s)"**](https://eduscol.education.fr/document/38933/download?attachment){target=_blank} peut se décliner en diverses activités.
-    - [**M@ths en formes**](https://www.mathsenvie.fr/?p=10530){target=_blank}
+    
+    - [**Les défis possibles**](https://www.mathsenvie.fr/?p=10530){target=_blank} par niveau, les modalités du concours...
     - [**Ressources**](https://maths.discip.ac-caen.fr/spip.php?article554){target=_blank}
 
 
