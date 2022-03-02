@@ -4,16 +4,17 @@
 # CENTRE DE DOCUMENTATION ET D'INFORMATION! 
 **LYCEE NOTRE-DAME-DU-MUR/LE PORSMEUR - MORLAIX (29)**
 
-![logo ECAM](./images/logo_ecam.jpg "logo"){width=30% align=left}
+![logo ECAM](./images/logo_ecam.jpg "logo"){width=20% align=left}
 
 ![vue du CDI](./images/CDI_accueil_01.jpg "CDI"){width=45% align=right}
-Bienvenue sur le site du CDI de notre lycée.
+**Bienvenue au CDI**
 
-Les documentalistes Jocelyne COZ et Claire LEOST vous accueillent en continu du lundi au vendredi.
+Les documentalistes, Jocelyne COZ et Claire LEOST, vous accueillent en continu du lundi au vendredi.
 
 -------
+## Présentation
 
-??? question "Pourquoi venir au CDI ? ..."
+??? question "**Pourquoi venir au CDI ? ...**"
 
     * Travailler dans un endroit agréable et propice à la concentration
 
@@ -55,7 +56,7 @@ Pour découvrir les autres nouveautés du CDI, consultez le Portail de la base d
 
 Sur le padlet propose des liens vers d'autres ressources par discipline.
 
-## PMB et PADLET
+## Incontournables du CDI
    * [**Portail - Base documentaire PMB**](https://ecmorlaix.basecdi.fr/pmb/opac_css/){target=_blank}
 
    * [**Padlet du CDI**](https://padlet.com/cdinddmporsmeur/CDI){target=_blank}
