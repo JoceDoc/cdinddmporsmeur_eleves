@@ -1,7 +1,7 @@
 Pour vous aider et vous accompagner dans vos apprentissages :
 
 - ==**Conseils et tutoriels**== : pour s'organiser dans son travail, améliorer sa rédaction, chercher des informations et présenter le résultat de ses recherches...
-- ==**Pour les disciplines  et enseignements de spécialité**== : programmes officiels et ressources utiles...
+- ==**Pour les disciplines, les enseignements de spécialité**== : programmes officiels et ressources utiles...
 - ==**Projets pédagogiques**== : concours scolaires, projets d'AP, éducation aux médias et à l'information...
 ___
 ## Méthodologie
@@ -337,6 +337,14 @@ ___
 
 ??? "Ressources" 
 
+
+## BAC PRO ASSP
+??? "Programmes et référentiel"
+    Sur le site [**Eduscol**](https://eduscol.education.fr/referentiels-professionnels/a127/a127c.pdf){target=_blank}
+    
+## BAC PRO AEPA
+ 
+ 
     
 ___
 ## Réviser pour le BAC
