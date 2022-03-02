@@ -97,7 +97,7 @@
 
 
 ### **Kiosque ONISEP**
-???+ info "**Dans la presse**"
+???+ info "**Dans la presse** :newspaper:"
     ![Le Monde Campus](./images/kiosqueonisep/Campus_20220210.jpg "Le Monde Campus, 10 février 2022"){width=20%}
     ![Le Monde Campus](./images/kiosqueonisep/Campus_20220217.jpg "Le Monde Campus, 17 février 2022"){width=20%}
     [![Guide des métiers](./images/kiosqueonisep/Guide des métiers_Phosphore_2021-2022.jpg "Guide des métiers. Phosphore. 2021-2022"){width=20%}](./images/kiosqueonisep/Guide des métiers_Phosphore_2021-2022_sommaire.pdf){target=_blank}
