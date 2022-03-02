@@ -62,9 +62,10 @@ Tout comme le site des  plus beaux [**musées de France**](https://www.les-musee
 Autre lien intéressant les [**Expositions virtuelles de le BNF**](http://expositions.bnf.fr/){target=blank}
 
 ??? "Musées"
+    - [**Grand Palais**](https://www.grandpalais.fr/fr){target=_blank}
     - [**Le Louvre**](https://www.louvre.fr/visites-en-ligne){target=_blank}
     - [**Musée d'Orsay**](https://www.musee-orsay.fr/fr){target=_blank}
-
+    
 
 ### A l'étranger
 [**British Museum**](https://www.britishmuseum.org/){target=_blank}
