@@ -204,7 +204,8 @@ ___
 ### HGGSP / Histoire-géographie EMC
 
 ??? "Programmes"
-    Sur le site [**Eduscol**](https://eduscol.education.fr/1676/programmes-et-ressources-en-histoire-geographie-geopolitique-et-sciences-politiques-voie-g){target=_blank}.
+    Sur le site [**Eduscol**](https://eduscol.education.fr/1676/programmes-et-ressources-en-histoire-geographie-geopolitique-et-sciences-politiques-voie-g){target=_blank} : programmes d´histoire, géographie, géopolitique et sciences politique...
+    [**Programme d´EMC**](https://eduscol.education.fr/1681/programmes-et-ressources-en-enseignement-moral-et-civique-voie-gt){target=_blank}
     
 ??? "Ressources" 
     - [**Le dessous des cartes**](https://www.arte.tv/fr/videos/RC-014036/le-dessous-des-cartes/){target=_blank} : le magazine géopolitique d'Arte.
@@ -212,6 +213,7 @@ ___
     - [**Lumni**](https://www.lumni.fr/recherche?query=G%C3%A9opolitique&establishment=lycee&schoolLevel=seconde){target=_blank} : Série Géopoliticus pour décrypter la géopolitique à l’aide d’infographies animées pour comprendre le monde et les grands enjeux politiques de notre temps.
     - [**IRIS - Institut de Relations Internationales et Stratégiques**](https://www.iris-france.org/){target=_blank}
     - [**Site du gouvernement**](https://www.gouvernement.fr){target=_blank} : composition, actualité du gouvernement français.
+    - [**
     
 ??? "Séances pédagogiques"   
     [**Faire une revue de presse thématique**](./pdf/HGGSP_1re_revue de presse thématique.pdf){target=_blank}
