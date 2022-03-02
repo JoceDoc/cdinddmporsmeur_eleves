@@ -350,7 +350,7 @@ ___
     
     
 ___ 
-## Le Grand oral
+## Grand Oral
    
 ??? "Se préparer pour l'oral"
     [**Padlet de ressources pour le GO**](https://padlet.com/cdinddmporsmeur/grandoral2021){target=_blank}
