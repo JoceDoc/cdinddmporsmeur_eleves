@@ -65,11 +65,10 @@ N'hésitez pas à nous solliciter.
 - Des **informations** et **ressources** pour l'orientation et le **parcours avenir**
 - Des **conseils méthodologiques** et des **tutoriels** divers pour vous aider dans votre travail.
     
-Pour voir les dernières nouveautés concernant les abonnements, rendez-vous dans l'onglet **"Actualités"** du site (Le kiosque, dernières nouveautés abonnements).
+Les dernières nouveautés du CDI pour la presse sont acessibles dans le [**kiosque du mois**](https://jocedoc.github.io/cdinddmporsmeur_eleves/actualites/#presse){target=blank} onglet Actualités.
 
-Pour découvrir les autres nouveautés du CDI, consultez le Portail de la base documentaire PMB, ci-dessous.
+Pour découvrir les autres nouveautés du CDI (documentaires, fictions, DVD...) consultez le Portail de la base documentaire PMB, ci-dessous.
 
-Sur le padlet propose des liens vers d'autres ressources par discipline.
 
 ## Incontournables du CDI
    * [**Vers le portail PMB**](https://ecmorlaix.basecdi.fr/pmb/opac_css/){target=_blank} : pour interroger la **base documentaire** du lycée et trouver des références de documents pour vos recherches dans les différentes disciplines.
