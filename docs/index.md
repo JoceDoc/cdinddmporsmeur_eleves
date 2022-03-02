@@ -2,11 +2,11 @@
 
 
 # CENTRE DE DOCUMENTATION ET D'INFORMATION! 
-**LYCEE NOTRE-DAME-DU-MUR/LE PORSMEUR - MORLAIX (29)**
+![logo ECAM](./images/logo_ecam.jpg "logo"){width=20% align=right}**LYCEE NOTRE-DAME-DU-MUR/LE PORSMEUR - MORLAIX (29)**
 
-![logo ECAM](./images/logo_ecam.jpg "logo"){width=20% align=left}
 
-![vue du CDI](./images/CDI_accueil_01.jpg "CDI"){width=40% align=right}
+
+![vue du CDI](./images/CDI_accueil_01.jpg "CDI"){width=40% align=left}
 
 **Bienvenue au CDI**
 
@@ -17,7 +17,6 @@ vous accompagner pour vos différents travaux,
 vous donner des conseils de lecture...
 
 N'hésitez pas à nous solliciter.
-
 Jocelyne Coz - Claire Léost
 
 -------
