@@ -33,11 +33,10 @@ Expositions du moment à découvrir au CDI.
 ## Nouveautés 
 
 ### Presse
+==**Cliquez sur les "UNES" pour découvrir le sommaire du numéro...**==
    
 ???+ info "**Le kiosque du mois**"
-
-    Cliquez sur les unes pour découvrir le sommaire du numéro...
-    
+  
     [![Alternatives Economiques](./images/abonnements/Alternatives Economiques_mars_2022_421.jpg "Alternatives Economiques, mars 2022, n°420"){width=20%}](./images/abonnements/Alternatives Economiques_mars_2022_421_sommaire.pdf){target=_blank}
     [![Ca m'intéresse](./images/abonnements/Ca m interesse_mars 2022_493.jpg "Ca m'intéresse, mars 2022, n°493"){width=20%}](./images/abonnements/Ca m interesse_mars 2022_493_sommaire.pdf){target=_blank}
     [![Journal de l'animation](./images/abonnements/Journal animation_mars_2022_227.jpg "Journal de l'animation, mars 2022, n°227"){width=20%}](./images/abonnements/Journal animation_mars_2022_227_sommaire.pdf){target=_blank}
