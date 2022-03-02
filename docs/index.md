@@ -17,6 +17,7 @@ vous accompagner pour vos différents travaux,
 vous donner des conseils de lecture...
 
 N'hésitez pas à nous solliciter.
+
 Jocelyne Coz - Claire Léost
 
 -------
