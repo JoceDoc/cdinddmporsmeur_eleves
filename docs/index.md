@@ -59,13 +59,13 @@ Jocelyne Coz - Claire Léost
 - Des ==**informations**== et ==**ressources**== pour l'orientation et le ==**parcours avenir**==.
 - Des ==**conseils méthodologiques**== et des ==**tutoriels**== divers pour vous aider dans votre travail.
     
-Les dernières nouveautés du CDI pour la presse sont accessibles dans le [**Kiosque du mois**](https://jocedoc.github.io/cdinddmporsmeur_eleves/actualites/#presse){target=blank}, onglet **Actualités**.
+Les dernières nouveautés du CDI pour la presse sont accessibles dans le [**Kiosque du mois**](https://jocedoc.github.io/cdinddmporsmeur_eleves/actualites/#presse){target=blank}, onglet ==**Actualités**==.
 
 Pour découvrir les autres nouveautés du CDI (documentaires, fictions, DVD...) consultez le Portail de la base documentaire PMB, ci-dessous.
 
 
 ## Incontournables du CDI
-   * [**Vers le portail PMB**](https://ecmorlaix.basecdi.fr/pmb/opac_css/){target=_blank} : pour interroger la **base documentaire** du lycée et trouver des références de documents pour vos recherches dans les différentes disciplines.
+   * [**Vers le portail PMB**](https://ecmorlaix.basecdi.fr/pmb/opac_css/){target=_blank} : pour interroger la ==**base documentaire**== du lycée et trouver des références de documents pour vos recherches dans les différentes disciplines.
 
    * [**Vers le padlet du CDI**](https://padlet.com/cdinddmporsmeur/CDI){target=_blank}
 
