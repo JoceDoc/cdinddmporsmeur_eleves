@@ -8,10 +8,9 @@ ___
 ## Actualité des disciplines
 
 ???+ tip "Semaine des mathématiques"
-    ==**Du 7 au 14 mars 2022** c'est la semaine des mathématiques==. L'occasion de renforcer l'attractivité des mathématiques.
+    ==**Du 7 au 14 mars 2022, c'est la semaine des mathématiques**==. L'occasion de renforcer l'attractivité des mathématiques.
     
-    Guide officiel de l´édition 2022 [**"Maths en forme(s)"**](https://eduscol.education.fr/document/38933/download?attachment){target=_blank}.
-    
+    - [**Guide officiel**](https://eduscol.education.fr/document/38933/download?attachment){target=_blank} de l´édition 2022 sur le thème est **"Les Maths en forme(s)"**.
     - [**Les défis possibles**](https://www.mathsenvie.fr/?p=10530){target=_blank} par niveau, les modalités du concours...
     - [**Ressources**](https://maths.discip.ac-caen.fr/spip.php?article554){target=_blank}
 
