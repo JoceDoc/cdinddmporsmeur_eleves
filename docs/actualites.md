@@ -29,8 +29,10 @@ Expositions du moment à découvrir au CDI.
     
     ==**Visible au CDI jusqu'à fin mars**==
 
+## Travaux d´élèves
 
-## Nouveautés 
+
+## Nouveautés
 
 ### Presse
 ==**Cliquez sur les "UNES" pour découvrir le sommaire du numéro...**==
@@ -101,7 +103,8 @@ Expositions du moment à découvrir au CDI.
 
 ???+ info "**Dernières publications ONISEP**"
     Notices des dernières nouveautés à retrouver sur le [**Portail PMB**](https://ecmorlaix.basecdi.fr/pmb/opac_css/index.php?lvl=cmspage&pageid=4&id_article=62){target=_blank}.
-    
+
+
     
 ### **Coups de coeur** :heart: 
 
