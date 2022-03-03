@@ -23,10 +23,10 @@ Les invitations aux portes ouvertes, des établissements du supérieur, sont à 
 ## Ressources  
     
 === "Parcours AVENIR"
-    - [**Réussir au lycée et après**](https://www.education.gouv.fr/reussir-au-lycee/2021-2022-bien-preparer-son-bac-et-son-entree-dans-le-superieur-326326)
-    - [**Ressources communes pour les lycéens**](https://padlet.com/cdinddmporsmeur/ORI_2020)
-    
-    - [**Guide Entrer dans le SUP 2022**](./pdf/GUIDE_ENTRER_DANS_LE_SUP_2022.pdf){target=_blank}
+    - [**Réussir au lycée et après**](https://www.education.gouv.fr/reussir-au-lycee/2021-2022-bien-preparer-son-bac-et-son-entree-dans-le-superieur-326326){target=_blank}
+    - [**Ressources communes pour les lycéens**](https://padlet.com/cdinddmporsmeur/ORI_2020){target=_blank}
+    - [**Guide "Entrer dans le SUP 2022"**](./pdf/GUIDE_ENTRER_DANS_LE_SUP_2022.pdf){target=_blank} : brochure ONISEP.
+    - [**Guide "Que faire après le BAC ?"**](./pdf/IDEO_Guide_BAC_2021-2022.pdf){target=_blank} : brochure IDEO - Région Bretagne.
 === "SECONDE"
     [**Vers le PADLET second**e](https://padlet.com/cdinddmporsmeur/orientation_seconde_2020){target=_blank}
 === "PREMIERE"
