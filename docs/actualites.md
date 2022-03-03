@@ -65,7 +65,7 @@
         Tristan Abily - 1G1
 
     ![Affiche](./images/Affiche_Emma_Charline.jpg "Affiche_Emma et Charline"){width=20%}
-    ![Affiche](./images/Affiche_Flora_Emma_Maelline.jpg "Flora, Emma et Maelline"){width=20%}
+    ![Affiche](./images/Affiche_Flora_Emma_Maelline.jpeg "Flora, Emma et Maelline"){width=20%}
     ![Affiche](./images/Affiche_Valentine_Monika_Camille.jpg "Valentine et Monika"){width=20%}
     ![Affiche](./images/Affiche_Lilou_Léa-Christine.jpg "Lilou et Léa-Christine"){width=20%}
     ![Affiche](./images/Affiche_Youan_Justine_Lee-Lou.jpg "Youan, Justine et Lee-Lou"){width=20%}
