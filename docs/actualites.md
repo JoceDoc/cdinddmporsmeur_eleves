@@ -30,7 +30,22 @@
     ==**Visible au CDI jusqu'à fin mars**==
 
 ## Nos élèves ont du talent...
-:construction:
+
+??? info "**Rendez-vous du Roudour**"
+    Les élèves de 1re HLP font la promotion des soirées théâtrales du 30 et 31 mars. Ils ont aussi créé un compte Instagram.
+    
+    
+    ![Affiche](./images/Affiche_Emma_Charline.jpg "Affiche_Roudour"){width=20%}]
+    ![Affiche](./images/Affiche_Flora_Emma_Maelline.jpg "Affiche_Roudour"){width=20%}]
+    ![Affiche](./images/Affiche_Valentine_Monika_Camille.jpg "Affiche_Roudour"){width=20%}]
+    ![Affiche](./images/Affiche_Lilou_Léa-Christine.jpg "Affiche_Roudour"){width=20%}]
+    ![Affiche](./images/Affiche_Youan_Justine_Lee-Lou.jpg "Affiche_Roudour"){width=20%}]
+    ![Affiche](./images/Affiche_Noah_Damarys.jpg "Affiche_Roudour"){width=20%}]
+    ![Affiche](./images/Affiche_Lou.jpg "Affiche_Roudour"){width=20%}]
+    ![Affiche](./images/Affiche_Math.jpg "Affiche_Roudour"){width=20%}]
+
+
+    
 
 ## Nouveautés
 
