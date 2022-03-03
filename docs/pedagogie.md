@@ -75,7 +75,12 @@ ___
     - [**France24**](https://www.france24.com/fr/){target=_blank}
     - [**FranceInfo**](ttps://mobile.francetvinfo.fr){target=_blank}
     
- 
+??? "Désintox : vrai ou fake"
+    En ces périodes troublées, il est plus que jamais **nécessaire et important** de lutter contre la désinformation. les sources d'informations pour ne pas relayer de fausses informations et alimenter la désinformation
+    - [**Quelles solutions pour lutter conte la désinformation**](https://www.europe1.fr/medias-tele/quelles-solutions-pour-lutter-contre-la-desinformation-4042553){target=_blank} : Fabrice Fries, président de l'AFP et auteur de "L'Emprise du faux" répond sur Europe1.
+    - [**FranceInfo**](https://www.francetvinfo.fr/vrai-ou-fake/){target=_blank}
+
+
 ??? "Ressources pour l'EMI"
     [**Padlet de ressources**](https://padlet.com/cdinddmporsmeur/emi){target=_blank}
 
