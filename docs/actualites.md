@@ -34,7 +34,7 @@
 ???+ tip "**Rendez-vous du Roudour**"
     Les élèves de 1re HLP font la promotion des ==**soirées théâtrales**== du 30 et 31 mars. Ils ont aussi créé un compte Instagram.
     
-        ???? "**Soirée illuminée**"
+        ???+ "**Soirée illuminée**"
 
         Les lumières s’allument et éclairent le bois
         Verni d’un beau parquet luisant comme un soleil,
