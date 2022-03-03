@@ -31,18 +31,65 @@
 
 ## Nos élèves ont du talent...
 
-??? info "**Rendez-vous du Roudour**"
-    Les élèves de 1re HLP font la promotion des soirées théâtrales du 30 et 31 mars. Ils ont aussi créé un compte Instagram.
+???+ tip "**Rendez-vous du Roudour**"
+    Les élèves de 1re HLP font la promotion des ==**soirées théâtrales**== du 30 et 31 mars. Ils ont aussi créé un compte Instagram.
     
+   ==**Soirée illuminée**==
+
+    Les lumières s’allument et éclairent le bois
+
+    Verni d’un beau parquet luisant comme un soleil,
+
+    Et qui, majestueux, rayonne comme un roi
+
+    Alors qu’il se découvre de ses longs draps vermeils.
     
-    ![Affiche](./images/Affiche_Emma_Charline.jpg "Affiche_Roudour"){width=20%}]
-    ![Affiche](./images/Affiche_Flora_Emma_Maelline.jpg "Affiche_Roudour"){width=20%}]
-    ![Affiche](./images/Affiche_Valentine_Monika_Camille.jpg "Affiche_Roudour"){width=20%}]
-    ![Affiche](./images/Affiche_Lilou_Léa-Christine.jpg "Affiche_Roudour"){width=20%}]
-    ![Affiche](./images/Affiche_Youan_Justine_Lee-Lou.jpg "Affiche_Roudour"){width=20%}]
-    ![Affiche](./images/Affiche_Noah_Damarys.jpg "Affiche_Roudour"){width=20%}]
-    ![Affiche](./images/Affiche_Lou.jpg "Affiche_Roudour"){width=20%}]
-    ![Affiche](./images/Affiche_Math.jpg "Affiche_Roudour"){width=20%}]
+
+    Une foule attend là, depuis sa vaste plaine
+    
+    Bondée, mais pourtant calme, arrosée de douceur,
+    
+    Florissante et joyeuse, observant cette scène
+    
+    Qui la nourrit d’un grand et paisible bonheur.
+
+
+    Soudain, les voici donc, ces acteurs éloquents,
+    
+    Parfois d’un air tragique, Antigone, Athalie
+    
+    Ou parfois amusé, le Médecin volant
+    
+    Mais toujours honorés, par un public ravi.
+
+
+    Leur voix de chérubins se porte à la façon
+    
+    D’un écho apaisant les sommets couronnés,
+    
+    Les falaises, les champs, les forêts de ces monts,
+    
+    Ainsi que tous les lacs de ces lieux enneigés.
+    
+
+    Le spectacle fini, le public applaudit.
+    
+    C’est ainsi l’allégresse, ô plaine si joyeuse,
+    
+    Tu récompenses là le travail infini
+    
+    Des artistes au cœur d’une soirée heureuse.
+
+    Tristan Abily - 1G1
+
+    ![Affiche](./images/Affiche_Emma_Charline.jpg "Affiche_Emma et Charline"){width=20%}
+    ![Affiche](./images/Affiche_Flora_Emma_Maelline.jpg "Flora, Emma et Maelline"){width=20%}
+    ![Affiche](./images/Affiche_Valentine_Monika_Camille.jpg "Valentine et Monika"){width=20%}
+    ![Affiche](./images/Affiche_Lilou_Léa-Christine.jpg "Lilou et Léa-Christine"){width=20%}
+    ![Affiche](./images/Affiche_Youan_Justine_Lee-Lou.jpg "Youan, Justine et Lee-Lou"){width=20%}
+    ![Affiche](./images/Affiche_Noah_Damarys.jpg "Noa et Damarys"){width=20%}
+    ![Affiche](./images/Affiche_Lou.jpg "Lou"){width=20%}
+    ![Affiche](./images/Affiche_Math.jpg "Math"){width=20%}
 
 
     
