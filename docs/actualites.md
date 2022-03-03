@@ -32,7 +32,7 @@
 ## Nos élèves ont du talent...
 
 ???+ tip "**Rendez-vous du Roudour**"
-    Les élèves de 1re HLP font la promotion des ==**soirées théâtrales**== du 30 et 31 mars. Ils ont aussi créé un compte Instagram.
+    Les élèves de 1re HLP font la promotion des ==**soirées théâtrales**== qui se dérouleront à la salle du Roudour, les 30 et 31 mars. Ils ont aussi créé un compte Instagram.
     
     ???+ "**Soirée illuminée**"
         Les lumières s’allument et éclairent le bois
