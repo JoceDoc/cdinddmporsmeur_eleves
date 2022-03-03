@@ -76,7 +76,7 @@ ___
     - [**FranceInfo**](ttps://mobile.francetvinfo.fr){target=_blank}
     
 ??? "Désintox : vrai ou fake"
-    En ces périodes troublées, il est plus que jamais **nécessaire et important** de lutter contre la désinformation. 
+    En ces périodes troublées, il est plus que jamais ==**nécessaire et important**== de lutter contre la désinformation. 
     
     - [**Quelles solutions pour lutter contre la désinformation**](https://www.europe1.fr/medias-tele/quelles-solutions-pour-lutter-contre-la-desinformation-4042553){target=_blank} : Fabrice Fries, président de l'AFP et auteur de "L'Emprise du faux" répond sur Europe1.
     - [**FranceInfo**](https://www.francetvinfo.fr/vrai-ou-fake/){target=_blank}
