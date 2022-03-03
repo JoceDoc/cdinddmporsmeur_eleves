@@ -76,7 +76,8 @@ ___
     - [**FranceInfo**](ttps://mobile.francetvinfo.fr){target=_blank}
     
 ??? "Désintox : vrai ou fake"
-    En ces périodes troublées, il est plus que jamais **nécessaire et important** de lutter contre la désinformation. les sources d'informations pour ne pas relayer de fausses informations et alimenter la désinformation
+    En ces périodes troublées, il est plus que jamais **nécessaire et important** de lutter contre la désinformation. 
+    
     - [**Quelles solutions pour lutter conte la désinformation**](https://www.europe1.fr/medias-tele/quelles-solutions-pour-lutter-contre-la-desinformation-4042553){target=_blank} : Fabrice Fries, président de l'AFP et auteur de "L'Emprise du faux" répond sur Europe1.
     - [**FranceInfo**](https://www.francetvinfo.fr/vrai-ou-fake/){target=_blank}
     - [**Poutine à la "Une" du Times**](https://www.francetvinfo.fr/monde/eFabrice Fries, président de l'AFP et auteur de "L'Emprise du faux"urope/manifestations-en-ukraine/vrai-ou-fake-guerre-en-ukraine-non-cette-couverture-du-magazine-time-associant-poutine-et-hitler-n-est-pas-authentique_4987458.html){Target=_blank} : en exemple de fake.
