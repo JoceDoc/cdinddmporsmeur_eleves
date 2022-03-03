@@ -219,7 +219,7 @@ ___
     - [**Lumni**](https://www.lumni.fr/recherche?query=G%C3%A9opolitique&establishment=lycee&schoolLevel=seconde){target=_blank} : Série Géopoliticus pour décrypter la géopolitique à l’aide d’infographies animées pour comprendre le monde et les grands enjeux politiques de notre temps.
     - [**IRIS - Institut de Relations Internationales et Stratégiques**](https://www.iris-france.org/){target=_blank}
     - [**Site du gouvernement**](https://www.gouvernement.fr){target=_blank} : composition, actualité du gouvernement français.
-    - [**
+
     
 ??? "Séances pédagogiques"   
     [**Faire une revue de presse thématique**](./pdf/HGGSP_1re_revue de presse thématique.pdf){target=_blank}
