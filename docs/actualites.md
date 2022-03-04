@@ -41,7 +41,7 @@
         Alors qu’il se découvre de ses longs draps vermeils.
         
             
-	Une foule attend là, depuis sa vaste plaine  	
+	    Une foule attend là, depuis sa vaste plaine  	
         Bondée, mais pourtant calme, arrosée de douceur,  	
         Florissante et joyeuse, observant cette scène  	
         Qui la nourrit d’un grand et paisible bonheur.
