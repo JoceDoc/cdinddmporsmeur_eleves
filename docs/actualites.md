@@ -36,12 +36,12 @@
     
     ???+ "**Soirée illuminée**"
         Les lumières s’allument et éclairent le bois  
-	Verni d’un beau parquet luisant comme un soleil,  	
+	    Verni d’un beau parquet luisant comme un soleil,  	
         Et qui, majestueux, rayonne comme un roi  	
         Alors qu’il se découvre de ses longs draps vermeils.
         
         
-	Une foule attend là, depuis sa vaste plaine  	
+	    Une foule attend là, depuis sa vaste plaine  	
         Bondée, mais pourtant calme, arrosée de douceur,  	
         Florissante et joyeuse, observant cette scène  	
         Qui la nourrit d’un grand et paisible bonheur.
