@@ -34,14 +34,14 @@
 ???+ tip "**Rendez-vous du Roudour**"
     Les élèves de 1re HLP font la promotion des ==**soirées théâtrales**== qui se dérouleront à la salle du Roudour, les 30 et 31 mars. Ils ont aussi créé un compte Instagram.
     
-    ???+ "**Soirée illuminée**"
+    ??? "**Soirée illuminée : Poème**"
         Les lumières s’allument et éclairent le bois  
-	    Verni d’un beau parquet luisant comme un soleil,  	
+	Verni d’un beau parquet luisant comme un soleil,  	
         Et qui, majestueux, rayonne comme un roi  	
         Alors qu’il se découvre de ses longs draps vermeils.
         
-        
-	    Une foule attend là, depuis sa vaste plaine  	
+            
+	Une foule attend là, depuis sa vaste plaine  	
         Bondée, mais pourtant calme, arrosée de douceur,  	
         Florissante et joyeuse, observant cette scène  	
         Qui la nourrit d’un grand et paisible bonheur.
@@ -82,9 +82,11 @@
 ## Nouveautés
 
 ### Presse
-==**Cliquez sur les "UNES" pour découvrir le sommaire du numéro...**==
+==**Déroulez pour découvrir les "Unes" et cliquez pour accéder au sommaire du numéro.**==  
+
+**Rendez-vous au CDI pour lire les articles qui vous intéressent...**
    
-???+ info "**Le kiosque du mois** :newspaper:"
+??? info "**Le kiosque du mois** :newspaper:"
   
     [![Alternatives Economiques](./images/abonnements/Alternatives Economiques_mars_2022_421.jpg "Alternatives Economiques, mars 2022, n°420"){width=20%}](./images/abonnements/Alternatives Economiques_mars_2022_421_sommaire.pdf){target=_blank}
     [![Ca m'intéresse](./images/abonnements/Ca m interesse_mars 2022_493.jpg "Ca m'intéresse, mars 2022, n°493"){width=20%}](./images/abonnements/Ca m interesse_mars 2022_493_sommaire.pdf){target=_blank}
@@ -147,13 +149,13 @@
     [![Vocable Espagnol](./images/abonnements/Vocable_Espagnol_20220217_851.jpg "Vocable Espagnol, 17 février 2022, n°851"){width=20%}](./images/abonnements/Vocable_Espagnol_20220217_851_sommaire.pdf){target=_blank}
  
 
-???+ info "**Pour les enseignants**"
+??? info "**Pour les enseignants**"
     [![Cahiers pédagogiques](./images/abonnements/Cahiers_pédagogiques_février_2022_575.jpg "Cahiers pédagogiques, février 2022, n°575"){width=20%}](./images/abonnements/Cahiers_pédagogiques_février_2022_575_sommaire.pdf){target=_blank}
 
 
 
 ### **Kiosque ONISEP**
-???+ info "**Dans la presse** :newspaper:"
+??? info "**Dans la presse** :newspaper:"
     ![Le Monde Campus](./images/kiosqueonisep/Campus_20220210.jpg "Le Monde Campus, 10 février 2022"){width=20%}
     ![Le Monde Campus](./images/kiosqueonisep/Campus_20220217.jpg "Le Monde Campus, 17 février 2022"){width=20%}
     [![Guide des métiers](./images/kiosqueonisep/Guide des métiers_Phosphore_2021-2022.jpg "Guide des métiers. Phosphore. 2021-2022"){width=20%}](./images/kiosqueonisep/Guide des métiers_Phosphore_2021-2022_sommaire.pdf){target=_blank}
