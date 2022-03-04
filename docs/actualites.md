@@ -95,7 +95,7 @@
     [![Lire Magazine](./images/abonnements/Lire Magazine_mars_2022_505.jpg "Lire Magazine, mars 2022, n°505"){width=20%}](./images/abonnements/Lire Magazine_mars_2022_505_sommaire.pdf){target=_blank}
     [![Management](./images/abonnements/Management_février-mars_2022_301.jpg "Management, février-mars 2022, n°301"){width=20%}](./images/abonnements/Management_février-mars_2022_301_sommaire.pdf){target=_blank}
     [![Phosphore](./images/abonnements/Phosphore_1er_mars_2022_527.jpg "Phosphore, 1er mars 2022, 527"){width=20%}](./images/abonnements/Phosphore_1er_mars_2022_527_sommaire.pdf){target=_blank}
-    [![Phosphore](./images/abonnements/Phosphore_15_mars_2022_528.jpg "Phosphore, 15 mars 2022, 528"){width=20%}](./images/abonnements/Phosphore_15_mars_2022_528_sommaire.pdf){target=_blank}
+    [![Phosphore](./images/abonnements/Phosphore_15_mars_2022_528.JPG "Phosphore, 15 mars 2022, 528"){width=20%}](./images/abonnements/Phosphore_15_mars_2022_528_sommaire.pdf){target=_blank}
     [![Pour l'Eco](./images/abonnements/Pour l Eco_mars_2022_39.jpg "Pour l'Eco, mars 2022, n°39"){width=20%}](./images/abonnements/Pour l Eco_mars_2022_39_sommaire.pdf){target=_blank}
     [![Que choisir](./images/abonnements/Que choisir_mars_2022_611.jpg "Que choisir, mars 2022, n°611"){width=20%}](./images/abonnements/Que choisir_mars_2022_611_sommaire.pdf){target=_blank}
     [![Science et Vie](./images/abonnements/SV_mars_2022_1254.jpg "Science et Vie, mars 2022, n°1254"){width=20%}](./images/abonnements/SV_mars_2022_1254_sommaire.pdf){target=_blank}
