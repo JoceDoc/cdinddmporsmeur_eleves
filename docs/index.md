@@ -1,13 +1,13 @@
 
 
 
-![logo ECAM](./images/logo_ecam.jpg "logo"){width=20% align=right}
+![logo ECAM](./images/logo_ecam.jpg "logo"){width=30% align=left}
 # CENTRE DE DOCUMENTATION ET D'INFORMATION  
 
 **LYCEE NOTRE-DAME-DU-MUR/LE PORSMEUR - MORLAIX (29)**
 
 
-![vue du CDI](./images/CDI_accueil_01.jpg "CDI"){width=40% align=left}
+![vue du CDI](./images/CDI_accueil_01.jpg "CDI"){width=50% align=right}
 
 **Bienvenue au CDI**
 
