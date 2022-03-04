@@ -354,13 +354,29 @@ ___
 ??? "Ressources" 
 
 
-## BAC PRO ASSP
+## BAC PRO
+Présentation du baccalauréat professionnel sur le site [**Eduscol**](https://eduscol.education.fr/1916/le-baccalaureat-professionnel){target=_blank} (Dernière mise à jour février 2022) : voies de formation, contenue de la formation, conditions d'obtention du diplôme...
+
+- Programmes du lycée professionnel pour les [**enseignements généraux**](https://eduscol.education.fr/94/j-enseigne-au-lycee-professionnel){target=_blank}
+
+- [**Métiers de la santé et du social**](https://www.education.gouv.fr/metiers-de-la-sante-et-du-social-99941){target=_blank}
+
+- [**Métiers de la relation client**](https://eduscol.education.fr/document/1902/download){target=_blank}
+
+- [**Le chef d'oeuvre**](https://eduscol.education.fr/document/1916/download){target=_blank}
+
+
+### ASSP
 ??? "Programmes et référentiel"
     Sur le site [**Eduscol**](https://eduscol.education.fr/referentiels-professionnels/a127/a127c.pdf){target=_blank}
     
-## BAC PRO AEPA
- 
- 
+### AEPA
+??? "Programmes et référentiel"
+    Sur le Site [**Eduscol**](https://eduscol.education.fr/referentiels-professionnels/Bac_Pro_Animation/Annexes_Bac%20Pro%20Animation190722.pdf){target=_blank}
+
+### MCV
+??? "Programmes et référentiel"
+    Sur le site [**Eduscol**](https://eduscol.education.fr/referentiels-professionnels/BacPro_MetCoVe/Annexes_BacPro_MetCoVe.pdf){target=_blank}
     
 ___
 ## Réviser pour le BAC
