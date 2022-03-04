@@ -228,6 +228,7 @@ ___
     - [**Site du gouvernement**](https://www.gouvernement.fr){target=_blank} : composition, actualité du gouvernement français.
     
 ??? "Actualité UKRAINE"
+    - [**Histoire de l'Ukhraine**](https://www.franceculture.fr/emissions/serie/une-histoire-de-l-ukraine){target=_blank} : Série d'émissions à retrouver dans l'émission "la fabrique de l'histoire" sur France culture.
     - [**Ressources des éditions Magnard**](https://www.magnard.fr/article/toutes-les-actualites-de-lhistoire-geographie-et-de-lhggsp){target=_blank}
     
 ??? "Séances pédagogiques"   
