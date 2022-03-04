@@ -35,48 +35,33 @@
     Les élèves de 1re HLP font la promotion des ==**soirées théâtrales**== qui se dérouleront à la salle du Roudour, les 30 et 31 mars. Ils ont aussi créé un compte Instagram.
     
     ???+ "**Soirée illuminée**"
-        Les lumières s’allument et éclairent le bois
-	
-        Verni d’un beau parquet luisant comme un soleil,
-	
-        Et qui, majestueux, rayonne comme un roi
-	
+        Les lumières s’allument et éclairent le bois  
+	Verni d’un beau parquet luisant comme un soleil,  	
+        Et qui, majestueux, rayonne comme un roi  	
         Alors qu’il se découvre de ses longs draps vermeils.
         
         
-	Une foule attend là, depuis sa vaste plaine
-	
-        Bondée, mais pourtant calme, arrosée de douceur,
-	
-        Florissante et joyeuse, observant cette scène
-	
+	Une foule attend là, depuis sa vaste plaine  	
+        Bondée, mais pourtant calme, arrosée de douceur,  	
+        Florissante et joyeuse, observant cette scène  	
         Qui la nourrit d’un grand et paisible bonheur.
 	
         
-        Soudain, les voici donc, ces acteurs éloquents,
-	
-        Parfois d’un air tragique, Antigone, Athalie
-	
-        Ou parfois amusé, le Médecin volant
-	
+        Soudain, les voici donc, ces acteurs éloquents,  	
+        Parfois d’un air tragique, Antigone, Athalie  	
+        Ou parfois amusé, le Médecin volant  	
         Mais toujours honorés, par un public ravi.
 	
         
-        Leur voix de chérubins se porte à la façon
-	
-        D’un écho apaisant les sommets couronnés,
-	
-        Les falaises, les champs, les forêts de ces monts,
-	
+        Leur voix de chérubins se porte à la façon  	
+        D’un écho apaisant les sommets couronnés,  	
+        Les falaises, les champs, les forêts de ces monts,  	
         Ainsi que tous les lacs de ces lieux enneigés.
 	
     
-        Le spectacle fini, le public applaudit.
-	
-        C’est ainsi l’allégresse, ô plaine si joyeuse,
-	
-        Tu récompenses là le travail infini
-	
+        Le spectacle fini, le public applaudit.  	
+        C’est ainsi l’allégresse, ô plaine si joyeuse,  
+        Tu récompenses là le travail infini  	
         Des artistes au cœur d’une soirée heureuse.
 	
         
