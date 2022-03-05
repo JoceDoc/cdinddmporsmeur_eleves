@@ -82,11 +82,11 @@
 ## Nouveautés
 
 ### Presse
-==**Déroulez pour découvrir les "Unes" et cliquez pour accéder au sommaire du numéro.**==  
-
-**Rendez-vous au CDI pour lire les articles qui vous intéressent...**
+???+ Info "Visualiser les "Unes" "
+    ==**Déroulez**== pour découvrir les "Unes" et ==**cliquez**== pour accéder au ==**sommaire du numéro**==.   
+    Retrouvez tous ces périodiques au CDI pour lire les articles qui vous intéressent...
    
-??? info "**Kiosque du mois** :newspaper:"
+??? "**Kiosque du mois** :newspaper:"
   
     [![Alternatives Economiques](./images/abonnements/Alternatives Economiques_mars_2022_421.jpg "Alternatives Economiques, mars 2022, n°420"){width=20%}](./images/abonnements/Alternatives Economiques_mars_2022_421_sommaire.pdf){target=_blank}
     [![Ca m'intéresse](./images/abonnements/Ca m interesse_mars 2022_493.jpg "Ca m'intéresse, mars 2022, n°493"){width=20%}](./images/abonnements/Ca m interesse_mars 2022_493_sommaire.pdf){target=_blank}
@@ -154,20 +154,20 @@
 
 
 
-### **Kiosque ONISEP**
+### **Orientation**
 ??? info "**Dans la presse** :newspaper:"
     ![Le Monde Campus](./images/kiosqueonisep/Campus_20220210.jpg "Le Monde Campus, 10 février 2022"){width=20%}
     ![Le Monde Campus](./images/kiosqueonisep/Campus_20220217.jpg "Le Monde Campus, 17 février 2022"){width=20%}
     [![Guide des métiers](./images/kiosqueonisep/Guide des métiers_Phosphore_2021-2022.jpg "Guide des métiers. Phosphore. 2021-2022"){width=20%}](./images/kiosqueonisep/Guide des métiers_Phosphore_2021-2022_sommaire.pdf){target=_blank}
 
-???+ info "**Dernières publications ONISEP**"
+???+ info "**Kiosque ONISEP**"
     Notices des dernières nouveautés à retrouver sur le [**Portail PMB**](https://ecmorlaix.basecdi.fr/pmb/opac_css/index.php?lvl=cmspage&pageid=4&id_article=62){target=_blank}.
 
 
     
 ### **Coups de coeur** :heart: 
 
-Informations à venir... :construction:
+Informations à venir... **:construction:**
 
     
 	
