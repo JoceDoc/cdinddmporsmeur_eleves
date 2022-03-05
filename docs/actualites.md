@@ -83,8 +83,8 @@
 
 ### Presse
 ???+ Info "Visualiser les "Unes" "
-    ==**Déroulez**== pour découvrir les "Unes" et ==**cliquez**== pour accéder au ==**sommaire du numéro**==.   
-    Retrouvez tous ces périodiques au CDI pour lire les articles qui vous intéressent...
+    ==**Déroulez**== pour découvrir les "Unes" du kiosque du mois en cours, du mois précédent, ou des langues vivantes... puis ==**cliquez**== pour accéder au ==**sommaire du numéro**==.   
+    Retrouvez tous ces périodiques au CDI pour lire, sur place, les articles qui vous intéressent ou emprunter un magazine.
    
 ??? "**Kiosque du mois** :newspaper:"
   
