@@ -1,4 +1,4 @@
-## Mode d'emploi
+## CDI - mode d'emploi
 
 ???+ info "Points de règlement"
     Le règlement du lycée s'applique dans son intégralité au CDI. Quelques **==points spécifiques==** s'ajoutent pour ce lieu particulier.
@@ -18,7 +18,7 @@
 ???+ info "Plan du CDI"
     Pour vous repérer et identifier les différents espaces documentaires, consultez le [**plan du CDI**](./pdf/00_plan_CDI.pdf){target=_blank}
 
-## Prêt
+## Le Prêt 
 
 ???+ info "Fonctionnement"
     La plupart des documents (fictions, documentaires, périodiques, DVD) peuvent être empruntés, jusqu'à 3 documents à la fois.
