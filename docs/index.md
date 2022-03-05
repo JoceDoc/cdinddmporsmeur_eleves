@@ -1,7 +1,7 @@
 
 
 
-![logo ECAM](./images/logo_ecam.jpg "logo"){width=30% align=left}
+[![logo ECAM](./images/logo_ecam.jpg "ENT Lycée"){width=30% align=left}](https://ent.ecmorlaix.fr/){target=_blank}
 # CENTRE DE DOCUMENTATION ET D'INFORMATION  
 
 **LYCEE NOTRE-DAME-DU-MUR/LE PORSMEUR - MORLAIX (29)**
