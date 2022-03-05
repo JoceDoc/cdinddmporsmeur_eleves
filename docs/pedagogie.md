@@ -1,7 +1,7 @@
 Pour vous aider et vous accompagner dans vos apprentissages :
 
 - ==**Conseils et tutoriels**== : pour s'organiser dans son travail, améliorer sa rédaction, chercher des informations et présenter le résultat de ses recherches...
-- ==**Pour les disciplines en LGT ou LP, les enseignements de spécialité**== : programmes officiels et ressources utiles...
+- ==**Programmes officiels et ressources utiles**== : pour les disciplines d'enseignement général, les enseignements de spécialités (LGT) ou matières professionnelles (LP).
 - ==**Projets pédagogiques**== : concours scolaires, projets d'AP, éducation aux médias et à l'information...
 ___
 
@@ -16,14 +16,14 @@ ___
 
 
 ## Méthodologie pour tous
-???+ "S'organiser"
+???+ question "S'organiser"
     - [**Apprendre à travailler**](./pdf/Méthodologie_Apprendre_a_travailler.pdf){target=_blank}
     - [**Apprendre efficacement**](https://apprendre-reviser-memoriser.fr/category/revisions-bac-brevet-examens-concours/){target=_blank}
     - **D'autres exemples de cartes mentales** [**ici**](https://www.ebsi.umontreal.ca/jetrouve/projet/cartes_m/galerie.htm){target=_blank}
     
     ![carte mentale](./images/00-carte_mentale_tutoriel.jpg "Carte mentale"){center=80%}
     
-??? "Améliorer sa rédaction"   
+??? question "Améliorer sa rédaction"   
     - [**La langue française - Le Robert**](https://www.lalanguefrancaise.com/){target=_blank} : dictionnaire, conjugaison, orthographe, expressions...
     - [**Question d'orthographe**](https://www.projet-voltaire.fr/regles-orthographe/){target=_blank} : consultez le site du projet Voltaire.
     - [**Question de conjugaison**](https://www.toutelaconjugaison.com/){target=_blank}
@@ -31,7 +31,7 @@ ___
     
     Les **manuels scolaires** fourmillent de ==**conseils**== et ==**fiches méthodes**== pour améliorer sa rédaction et répondre aux exigences des différents exercices du baccalauréat ( commentaires, dissertations...) dans les différentes disciplines.
         
-??? "Chercher des informations"
+??? question "Chercher des informations"
     - [**Base documentaire PMB du lycée**](https://ecmorlaix.basecdi.fr/pmb/opac_css/index.php){target=_blank}
     - [**Chercher pour trouver**](https://www.ebsi.umontreal.ca/jetrouve/){target=_blank}
     - [**Vérifier une information sur Internet**](https://fr.wikihow.com/v%C3%A9rifier-l%E2%80%99information-sur-internet){target=_blank}
@@ -39,7 +39,7 @@ ___
     - [**Elaborer une problématique**]
     
 
-??? "Présenter le résultat de ses recherches, fiches outils et conseils..."
+??? question "Présenter le résultat de ses recherches, fiches outils et conseils..."
     - [**Faire un exposé**](./pdf/Méthodologie_Faire un exposé.pdf){target=_blank}
     - [**Faire une revue de presse**](./pdf/Méthodologie_Faire une revue de presse.pdf){target=_blank}
     - [**Réaliser une affiche**](./pdf/Méthodologie_Réaliser une affiche.pdf){target=_blank} 
@@ -54,7 +54,7 @@ ___
 
 ___
 ## Education aux Médias et à l'Information
-??? Pourquoi "Pourquoi et comment s'informer ?" 
+??? question "Pourquoi et comment s'informer ?" 
     
     * S'informer pour comprendre le monde
     
@@ -75,7 +75,7 @@ ___
     - [**France24**](https://www.france24.com/fr/){target=_blank}
     - [**FranceInfo**](ttps://mobile.francetvinfo.fr){target=_blank}
     
-??? "Désintox : vrai ou fake"
+??? question "Désintox : vrai ou fake ?"
     En ces périodes troublées, il est plus que jamais ==**nécessaire et important**== de lutter contre la désinformation. 
     
     - [**Quelles solutions pour lutter contre la désinformation**](https://www.europe1.fr/medias-tele/quelles-solutions-pour-lutter-contre-la-desinformation-4042553){target=_blank} : Fabrice Fries, président de l'AFP et auteur de "L'Emprise du faux" répond sur Europe1.
