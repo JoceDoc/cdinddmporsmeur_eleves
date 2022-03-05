@@ -21,9 +21,9 @@ nav:
     - Page d'accueil : index.md
     - Informations pratiques : informations.md
     - Actualités : actualites.md
-    - Orientation : orientation.md
     - Pédagogie : pedagogie.md
     - Culture : culture.md
+    - Parcours avenir : orientation.md
     - Parcours citoyen : citoyen.md
     - Parcours santé : sante.md
 
