@@ -2,7 +2,7 @@
 
 ==**Expositions du moment à découvrir au CDI...**==
 
-??? info "**Frida KAHLO**"
+??? "**Frida KAHLO**"
      
     ![Frida Kahlo](./images/expo_FridaKahlo.jpg "Frida Kahlo"){width=30% align=left}
 	Exposition sur **Frida Kahlo** réalisée par les élèves du cours d'Espagnol.
@@ -10,7 +10,7 @@
     Pour aller plus loin : [**Frida Kahlo - France Culture**]( https://www.franceculture.fr/personne-frida-kahlo.html)
 
     
-??? info "**Projets franco-allemands**"
+??? "**Projets franco-allemands**"
     
     ![expo00](./images/Expo_Projet_franco_allemand_00.jpg "Projet franco-allemand"){width=50% align=left}
     ![expo01](./images/Expo_Projet_franco_allemand_01.jpg "Projet franco-allemand"){width=50% align=left}
@@ -110,7 +110,7 @@
     [![Virgule](./images/abonnements/Virgule_mars_2022_204.jpg "Virgule, mars 2022, n°204"){width=20%}](./images/abonnements/Virgule_mars_2022_204_sommaire.pdf){target=_blank}
 
 
-??? info "**Kiosque du mois dernier** :newspaper:"    
+??? "**Kiosque du mois dernier** :newspaper:"    
 
     [![01.NET](./images/abonnements/01.NET_20220202_967.jpg "01.NET, 02 février 2022, n°967"){width=20%}](./images/abonnements/01.NET_20220202_967_sommaire.pdf){target=_blank}
     [![01.NET](./images/abonnements/01.NET_20220216_968.jpg "01.NET, 16 février 2022, n°967"){width=20%}](./images/abonnements/01.NET_20220216_968_sommaire.pdf){target=_blank}
@@ -136,7 +136,7 @@
     [![Virgule](./images/abonnements/Virgule_février 2022_203.jpg "Virgule, février 2022, n°203"){width=20%}](./images/abonnements/Virgule_février 2022_203_sommaire.pdf){target=_blank}
 
     
-???+ info "**Kiosque des langues vivantes** :gb: :de: :es: :it: :cn:"
+???+ "**Kiosque des langues vivantes** :gb: :de: :es: :it: :cn:"
     
     [![I love English world](./images/abonnements/IloveEnglishWorld_février_2022_346.jpg "I love english world, février 2022, n°346"){width=20%}](./images/abonnements/IloveEnglishWorld_février_2022_346_sommaire.pdf){target=_blank}
     [![I love English world](./images/abonnements/IloveEnglishWorld_mars_2022_347.jpg "I love english world, février 2022, n°346"){width=20%}](./images/abonnements/IloveEnglishWorld_mars_2022_347_sommaire.pdf){target=_blank}
@@ -149,18 +149,18 @@
     [![Vocable Espagnol](./images/abonnements/Vocable_Espagnol_20220217_851.jpg "Vocable Espagnol, 17 février 2022, n°851"){width=20%}](./images/abonnements/Vocable_Espagnol_20220217_851_sommaire.pdf){target=_blank}
  
 
-??? info "**Pour les enseignants**"
+??? "**Pour les enseignants**"
     [![Cahiers pédagogiques](./images/abonnements/Cahiers_pédagogiques_février_2022_575.jpg "Cahiers pédagogiques, février 2022, n°575"){width=20%}](./images/abonnements/Cahiers_pédagogiques_février_2022_575_sommaire.pdf){target=_blank}
 
 
 
 ### **Orientation**
-??? info "**Dans la presse** :newspaper:"
+??? "**Dans la presse** :newspaper:"
     ![Le Monde Campus](./images/kiosqueonisep/Campus_20220210.jpg "Le Monde Campus, 10 février 2022"){width=20%}
     ![Le Monde Campus](./images/kiosqueonisep/Campus_20220217.jpg "Le Monde Campus, 17 février 2022"){width=20%}
     [![Guide des métiers](./images/kiosqueonisep/Guide des métiers_Phosphore_2021-2022.jpg "Guide des métiers. Phosphore. 2021-2022"){width=20%}](./images/kiosqueonisep/Guide des métiers_Phosphore_2021-2022_sommaire.pdf){target=_blank}
 
-???+ info "**Kiosque ONISEP**"
+???+ "**Kiosque ONISEP**"
     Notices des dernières nouveautés à retrouver sur le [**Portail PMB**](https://ecmorlaix.basecdi.fr/pmb/opac_css/index.php?lvl=cmspage&pageid=4&id_article=62){target=_blank}.
 
 
