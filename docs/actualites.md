@@ -4,10 +4,11 @@
 
 ??? "**Handicaps et exclusions**"
      
-    ![Handicap](./images/expo_handicap_01.jpg "Handicap1"){width=30% align=left}
+    ![Handicap1](./images/expo_handicap_01.jpg "Handicap01"){width=30% align=left}
+    ![Handicap2](./images/expo_handicap_02.jpg "Handicap02"){width=30% align=left}
     Dans le cadre de leur formation, les élèves de 2nd BAC PRO ASSP ont réalisé des affiches de lutte contre toutes les formes d’exclusion liées au handicap (scolaires, sociales, professionnelles, citoyennes…)
     
-     ==**Visible au CDI jusqu'à fin mars**==
+     ==**Visible au CDI jusqu'aux vacances de printemps**==
 		
 
 
