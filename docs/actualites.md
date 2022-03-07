@@ -19,6 +19,7 @@
 		
     Pour aller plus loin : [**Frida Kahlo - France Culture**]( https://www.franceculture.fr/personne-frida-kahlo.html)
 
+    ==**Visible au CDI jusqu'à fin mars**==
     
 ??? "**Projets franco-allemands**"
     
@@ -35,7 +36,7 @@
 
     Cette exposition vise à faire connaître l'amitié franco-allemande et les projets et institutions qui en découlent.
     
-    Pour aller plus loin : [Sources bibliographiques](./pdf/Expo_Projet_franco_allemand_sources.pdf){target=_blank}
+    Pour aller plus loin : [**Sources bibliographiques**](./pdf/Expo_Projet_franco_allemand_sources.pdf){target=_blank}
     
     ==**Visible au CDI jusqu'à fin mars**==
 
