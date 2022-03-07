@@ -2,6 +2,15 @@
 
 ==**Expositions du moment à découvrir au CDI...**==
 
+??? "**Handicaps et exclusions**"
+     
+    ![Handicap](./images/expo_handicap_01.jpg "Handicap1"){width=30% align=left}
+    Dans le cadre de leur formation, les élèves de 2nd BAC PRO ASSP ont réalisé des affiches de lutte contre toutes les formes d’exclusion liées au handicap (scolaires, sociales, professionnelles, citoyennes…)
+    
+     ==**Visible au CDI jusqu'à fin mars**==
+		
+
+
 ??? "**Frida KAHLO**"
      
     ![Frida Kahlo](./images/expo_FridaKahlo.jpg "Frida Kahlo"){width=30% align=left}
