@@ -6,7 +6,7 @@
      
     ![Handicap1](./images/expo_handicap_01.jpg "Handicap01"){width=30% align=left}
     ![Handicap2](./images/expo_handicap_02.jpg "Handicap02"){width=30% align=left}
-    Dans le cadre de leur formation, les élèves de 2nd BAC PRO ASSP ont réalisé des affiches de lutte contre toutes les formes d’exclusion liées au handicap (scolaires, sociales, professionnelles, citoyennes…)
+    Dans le cadre de leur formation, les élèves de ==**2nd BAC PRO ASSP**== ont réalisé des affiches de lutte contre toutes les formes d’==**exclusion**== liées au ==**handicap**== : scolaires, sociales, professionnelles, citoyennes…
     
      ==**Visible au CDI jusqu'aux vacances de printemps**==
 		
@@ -15,7 +15,7 @@
 ??? "**Frida KAHLO**"
      
     ![Frida Kahlo](./images/expo_FridaKahlo.jpg "Frida Kahlo"){width=30% align=left}
-	Exposition sur **Frida Kahlo** réalisée par les élèves du cours d'Espagnol.
+	Exposition sur ==**Frida Kahlo**== réalisée par les élèves du cours d'Espagnol.
 		
     Pour aller plus loin : [**Frida Kahlo - France Culture**]( https://www.franceculture.fr/personne-frida-kahlo.html)
 
@@ -28,7 +28,7 @@
 
     A découvrir,
     
-    L'Exposition sur le thème des **relations franco-allemandes**, "ennemis bien-aimés" (en lien avec l'Axe du programme : Identité et échanges) réalisée par les deux groupes de germanistes de Terminale générale et STMG.
+    L'Exposition sur le thème des ==**relations franco-allemandes**==, "ennemis bien-aimés" (en lien avec l'Axe du programme : Identité et échanges) réalisée par les deux groupes de germanistes de Terminale générale et STMG.
 
     Rappel des grandes dates de cette relation un peu tendue qui a fini par se normaliser, grâce au couple De Gaulle - Adenauer.
     
