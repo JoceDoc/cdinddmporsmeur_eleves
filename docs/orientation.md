@@ -27,7 +27,6 @@ Les invitations aux portes ouvertes, des établissements du supérieur, sont à 
 ### Pour tous   
 === "GUIDES"
     - [**Réussir au lycée et après**](https://www.education.gouv.fr/reussir-au-lycee/2021-2022-bien-preparer-son-bac-et-son-entree-dans-le-superieur-326326){target=_blank}
-    - [**Ressources communes pour les lycéens**](https://padlet.com/cdinddmporsmeur/ORI_2020){target=_blank}
     - [**Guide "Entrer dans le SUP 2022"**](./pdf/GUIDE_ENTRER_DANS_LE_SUP_2022.pdf){target=_blank} : brochure ONISEP.
     - [**Guide "Que faire après le BAC ?"**](./pdf/IDEO_Guide_BAC_2021-2022.pdf){target=_blank} : brochure IDEO - Région Bretagne.
     - [**Brochures IDEO**](https://ideo.bretagne.bzh/publications){target=_blank} : Journées portes ouvertes du secondaire, de l'enseignement supérieur...
@@ -40,7 +39,7 @@ Les invitations aux portes ouvertes, des établissements du supérieur, sont à 
     - [**FAQ vie étudiante**](https://www.etudiant.gouv.fr/fr/rentree2021){target=_blank}
     - [**Vie étudiante : Infos, services, FAQ**](https://www.etudiant.gouv.fr/fr){target=_blank}
     - [**Jeunes.gouv.fr**](https://jeunes.gouv.fr/){target=_blank}
-    - [**CROUS**](https://trouverunlogement.lescrous.fr/){target=_blank}
+    - [**CROUS**](https://trouverunlogement.lescrous.fr/){target=_blank} et [**CROUS Bretagne**](https://www.crous-rennes.fr/){target=_blank}
     - [**Mes services étudiants**](https://www.messervices.etudiant.gouv.fr/envole/){target=_blank}
     - [**Dossier vie étudiante**](https://www.onisep.fr/Choisir-mes-etudes/Apres-le-bac/La-vie-etudiante){target=_blank} du site ONISEP.
     - [**Etudes, vie étudiante et handicap**](https://www.univ-brest.fr/deve/menu/vie_etudiante/Handiversit%C3%A9/HANDIVERSITE){target=_blank}: **Handiversité** dispositif d’accompagnement spécifique de l'UBO.
