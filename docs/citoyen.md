@@ -37,7 +37,8 @@ Le harcèlement peut prendre différentes formes. Pour comprendre et agir rendez
 
 
 ### Service National Universel
-    - Présentation et principes du **SNU** sur le [**site officiel**](https://www.snu.gouv.fr/){target=_blank}
+
+Présentation et principes du **SNU** sur le [**site officiel**](https://www.snu.gouv.fr/){target=_blank}
     
 ### Vie associative
 
