@@ -50,6 +50,8 @@ Les invitations aux portes ouvertes, des établissements du supérieur, sont à 
 === "SALONS-FORUMS"
     - [**Azimut**](https://www.salon-azimut.com/){target=_blank}
     - [**Salons - Forums de l'orientation**](https://www.onisep.fr/Cap-vers-l-emploi/Recherche-d-emploi/Les-salons-de-recrutement){target=_blank}
+=== "PORTES OUVERTES - IMMERSIONS
+    - 
 === "VIE ETUDIANTE"
     - [**FAQ vie étudiante**](https://www.etudiant.gouv.fr/fr/rentree2021){target=_blank}
     - [**Vie étudiante : Infos, services, FAQ**](https://www.etudiant.gouv.fr/fr){target=_blank}
@@ -57,7 +59,10 @@ Les invitations aux portes ouvertes, des établissements du supérieur, sont à 
     - [**CROUS**](https://trouverunlogement.lescrous.fr/){target=_blank}
     - [**Mes services étudiants**](https://www.messervices.etudiant.gouv.fr/envole/){target=_blank}
     - [**Etudes, vie étudiante et handicap**](https://www.univ-brest.fr/deve/menu/vie_etudiante/Handiversit%C3%A9/HANDIVERSITE){target=_blank}: **Handiversité** dispositif d’accompagnement spécifique de l'UBO.
-        
+=== "MOBILITE"
+    - [**ERASMUS+**](https://info.erasmusplus.fr/https://info.erasmusplus.fr){target_blank}
+    - [**Etudions à l'étranger**](https://www.etudionsaletranger.fr/){target=_blank}
+    - [**Easylangues**](https://www.centre-easylangues.com/){target=_blank} : trouver un job ou un stage à l'étranger...
     
     
   
