@@ -28,14 +28,15 @@
 
 La prévention et la lutte contre le harcèlement est une des priorités du Ministère de l'Education Nationale [**Site du ministère**](https://www.education.gouv.fr/lutte-contre-le-harcelement-l-ecole-289530){target=_blank}
 
-Le harcèlement peut prendre différentes formes. Pour comprendre et agir rendez-vous sur le site [**Eduscol**](https://eduscol.education.fr/974/le-harcelement-entre-eleves){target=_blank}.
 ![Conseils](./images/affiche_10_conseils.jpg "10 conseils"){width=50% align=right}
+Le harcèlement peut prendre différentes formes. Pour comprendre et agir rendez-vous sur le site [**Eduscol**](https://eduscol.education.fr/974/le-harcelement-entre-eleves){target=_blank}.
 
 
-### "SNU"
-    - Présentation et principes du Service National Universel sur le [**site officiel**](https://www.snu.gouv.fr/){target=_blank}
+
+### Service National Universel
+    - Présentation et principes du **SNU** sur le [**site officiel**](https://www.snu.gouv.fr/){target=_blank}
     
-### "Vie associative"
+### Vie associative
 
 
 
