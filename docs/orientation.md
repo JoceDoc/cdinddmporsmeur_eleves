@@ -19,11 +19,13 @@ Les invitations aux portes ouvertes, des établissements du supérieur, sont à 
   
 ???+ info "Orientation et Parcours avenir"  
     L'actualité de l'orientation, les sites incontournables, des ressources par niveau, les salons et forums, la vie étudiante...
+    
+    
     N'oubliez pas de conserver vos recherches  et vos réflexions concernant l'orientation, le ==**parcours avenir**== et les autres parcours (santé, citoyen, artistique et culturel) dans votre dossier [**FOLIOS**](https://folios.onisep.fr/){target=_blank}.
     
 ## Ressources  
     
-=== "Généralités"
+=== "POUR TOUS !"
     - [**Réussir au lycée et après**](https://www.education.gouv.fr/reussir-au-lycee/2021-2022-bien-preparer-son-bac-et-son-entree-dans-le-superieur-326326){target=_blank}
     - [**Ressources communes pour les lycéens**](https://padlet.com/cdinddmporsmeur/ORI_2020){target=_blank}
     - [**Guide "Entrer dans le SUP 2022"**](./pdf/GUIDE_ENTRER_DANS_LE_SUP_2022.pdf){target=_blank} : brochure ONISEP.
