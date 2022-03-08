@@ -22,6 +22,6 @@
 
 ### Lutte contre le harcèlement
 
+La prévention et la lutte contre le harcèlement est une des priorités du ministère de l'éducation Nationale [**Site du ministère**](https://www.education.gouv.fr/lutte-contre-le-harcelement-l-ecole-289530){target=_blank}
 
-
-
+Le harcèlement peut prendre différentes formes : comprendre et agir [**
