@@ -44,7 +44,7 @@ Les invitations aux portes ouvertes, des établissements du supérieur, sont à 
     - [**Mes services étudiants**](https://www.messervices.etudiant.gouv.fr/envole/){target=_blank}
     - [**Etudes, vie étudiante et handicap**](https://www.univ-brest.fr/deve/menu/vie_etudiante/Handiversit%C3%A9/HANDIVERSITE){target=_blank}: **Handiversité** dispositif d’accompagnement spécifique de l'UBO.
 === "MOBILITE"
-    - [**ERASMUS+**](https://info.erasmusplus.fr/https://info.erasmusplus.fr){target_blank}
+    - [**ERASMUS+**](https://info.erasmusplus.fr){target_blank}
     - [**Etudions à l'étranger**](https://www.etudionsaletranger.fr/){target=_blank}
     - [**Easylangues**](https://www.centre-easylangues.com/){target=_blank} : trouver un job ou un stage à l'étranger...
 === "ARMEES DEFENSE"
