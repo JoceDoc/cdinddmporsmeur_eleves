@@ -42,6 +42,7 @@ Les invitations aux portes ouvertes, des établissements du supérieur, sont à 
     - [**Jeunes.gouv.fr**](https://jeunes.gouv.fr/){target=_blank}
     - [**CROUS**](https://trouverunlogement.lescrous.fr/){target=_blank}
     - [**Mes services étudiants**](https://www.messervices.etudiant.gouv.fr/envole/){target=_blank}
+    - [**Dossier vie étudiante**](https://www.onisep.fr/Choisir-mes-etudes/Apres-le-bac/La-vie-etudiante){target=_blank} du site ONISEP.
     - [**Etudes, vie étudiante et handicap**](https://www.univ-brest.fr/deve/menu/vie_etudiante/Handiversit%C3%A9/HANDIVERSITE){target=_blank}: **Handiversité** dispositif d’accompagnement spécifique de l'UBO.
 === "MOBILITE"
     - [**ERASMUS+**](https://info.erasmusplus.fr){target_blank}
