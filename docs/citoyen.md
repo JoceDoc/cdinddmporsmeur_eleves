@@ -1,9 +1,16 @@
 ## Actualités
-???+ tip "Guerre en Ukhraine" 
-   - [**S'informer**](https://www.franceinter.fr/monde/carte-quels-pays-aident-l-ukraine-dans-la-guerre-contre-la-russie-et-comment){tagert=_blank}
-   - [**Aider et soutenir l'Ukhraine**](https://www.service-public.fr/particuliers/actualites/A15542){target=_blank}
+???+ tip "Guerre en Ukhraine"
+
+       === "S'informer"
+           - [**FranceInter**](https://www.franceinter.fr/monde/carte-quels-pays-aident-l-ukraine-dans-la-guerre-contre-la-russie-et-comment){target=_blank}
+           - [**FranceInfo**](https://www.francetvinfo.fr/monde/europe/manifestations-en-ukraine/){target=_blank}
+           - [**Le dessous des cartes**](https://www.arte.tv/fr/videos/RC-014036/le-dessous-des-cartes/){target=_blank}
+       === "Soutenir"
+           - [**Aider et soutenir l'Ukhraine**](https://www.service-public.fr/particuliers/actualites/A15542){target=_blank} : don en argent aux associations, accueil des réfugiés...
+         
 
 ## Ressources
+
 ??? "Incontournables"
     - [**Service public**](https://www.service-public.fr/){target=_blank} le site officiel de l'administration française.
     - [**Fiches citoyenneté**](https://www.vie-publique.fr/fiches/citoyennete){target=_blank} du site Vie Publique.
