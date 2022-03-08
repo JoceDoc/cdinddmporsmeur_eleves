@@ -34,6 +34,7 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
     - [**Guide "Entrer dans le SUP 2022"**](./pdf/GUIDE_ENTRER_DANS_LE_SUP_2022.pdf){target=_blank} : brochure ONISEP.
     - [**Guide "Que faire après le BAC ?"**](./pdf/IDEO_Guide_BAC_2021-2022.pdf){target=_blank} : brochure IDEO - Région Bretagne.
     - [**Brochures IDEO**](https://ideo.bretagne.bzh/publications){target=_blank} : Journées portes ouvertes du secondaire, de l'enseignement supérieur...
+    - [**Orientation pour tous**](https://www.orientation-pour-tous.fr/){target=_blank}
 === "SALONS-FORUMS"
     - [**Azimut**](https://www.salon-azimut.com/){target=_blank}
     - [**Salons - Forums de l'orientation**](https://www.onisep.fr/Cap-vers-l-emploi/Recherche-d-emploi/Les-salons-de-recrutement){target=_blank}
