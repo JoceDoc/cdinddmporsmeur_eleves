@@ -71,7 +71,8 @@ Les invitations aux portes ouvertes, des établissements du supérieur, sont à 
     - [**Vers le PADLET voie pro**](https://padlet.com/cdinddmporsmeur/LP_2020){target=_blank}
     - [**PARCOURSUP - Site officiel**](https://www.parcoursup.fr/index.php?desc=){target=_blank}
     - [**Vidéo PARCOURSUP - Comment choisir une formation ?**](https://youtu.be/WJzf3wRqcWo){target=_blank}
-
+    - [**Recherche de stage, mode d'emploi**](./pdf/IDEO_Recherche_de_stage_mode_d_emploi.pdf){target=_blank}
+    
     
   
 
