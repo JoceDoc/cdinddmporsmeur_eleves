@@ -37,6 +37,7 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
 === "SALONS-FORUMS"
     - [**Azimut**](https://www.salon-azimut.com/){target=_blank}
     - [**Salons - Forums de l'orientation**](https://www.onisep.fr/Cap-vers-l-emploi/Recherche-d-emploi/Les-salons-de-recrutement){target=_blank}
+    - [**Studyrama**](https://www.studyrama.com/){target=_blank}
 === "PO - IMMERSIONS"
     - 
 === "VIE ETUDIANTE"
