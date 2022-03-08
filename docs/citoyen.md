@@ -25,6 +25,6 @@
 La prévention et la lutte contre le harcèlement est une des priorités du ministère de l'éducation Nationale [**Site du ministère**](https://www.education.gouv.fr/lutte-contre-le-harcelement-l-ecole-289530){target=_blank}
 
 Le harcèlement peut prendre différentes formes. Pour comprendre et agir rendez-vous sur le site [**Eduscol**](https://eduscol.education.fr/974/le-harcelement-entre-eleves){target=_blank}.
-![
+![Affiche_men](./images/harcelement.jpg "Stop harcèlement"){width=30% align=left}
 
 
