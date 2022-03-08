@@ -52,7 +52,7 @@ Les invitations aux portes ouvertes, des établissements du supérieur, sont à 
 === "SALONS-FORUMS"
     - [**Azimut**](https://www.salon-azimut.com/){target=_blank}
     - [**Salons - Forums de l'orientation**](https://www.onisep.fr/Cap-vers-l-emploi/Recherche-d-emploi/Les-salons-de-recrutement){target=_blank}
-=== "PORTES OUVERTES - IMMERSIONS"
+=== "PO - IMMERSIONS"
     - 
 === "VIE ETUDIANTE"
     - [**FAQ vie étudiante**](https://www.etudiant.gouv.fr/fr/rentree2021){target=_blank}
