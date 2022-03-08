@@ -6,7 +6,7 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
 ## Actualités
 
 ???+ info "Un espace au service de l'emploi"
-    - [**L'espace métiers**](https://www.brest.fr/travailler-entreprendre/emploi-insertion/des-evenements-et-un-espace-au-service-de-lemploi-a-brest-1768.html){target=_blank} : un lieu pour s'informer...
+    - [**L'Espace métiers**](https://www.brest.fr/travailler-entreprendre/emploi-insertion/des-evenements-et-un-espace-au-service-de-lemploi-a-brest-1768.html){target=_blank} : un lieu pour s'informer à Brest métropole...
 
 
 ??? info "Message de M. QUINIO à l'intention des élèves de terminale (24/02/2022)"
