@@ -9,7 +9,7 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
     - [**L'espace métiers**](https://www.brest.fr/travailler-entreprendre/emploi-insertion/des-evenements-et-un-espace-au-service-de-lemploi-a-brest-1768.html){target=_blank} : un lieu pour s'informer...
 
 
-??? info "Message de M. QUINIO à l'intention des élèves de terminale(24/02/2021)"
+??? info "Message de M. QUINIO à l'intention des élèves de terminale (24/02/2022)"
     ![Accompagnement_PARCOURSUP](./images/Accompagnement_PARCOURSUP.png "Accompagnement PARCOURSUP"){align=left width=30%}
     La période des ==**portes ouvertes**== des établissements supérieurs bat son plein et nous recevons chaque jour des invitations à vous transmettre. Il est important de vous rendre aux portes ouvertes des formations qui vous intéressent le plus dans la mesure de vos disponibilités.
 
