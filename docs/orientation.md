@@ -19,24 +19,28 @@ Les invitations aux portes ouvertes, des établissements du supérieur, sont à 
   
 ???+ info "Orientation et Parcours avenir"  
     L'actualité de l'orientation, les sites incontournables, des ressources par niveau, les salons et forums, la vie étudiante...
+    N'oubliez pas de conserver vos recherches  et vos réflexions concernant l'orientation, le ==**parcours avenir**== et les autres parcours (santé, citoyen, artistique et culturel) dans votre dossier [**FOLIOS**](https://folios.onisep.fr/){target=_blank}.
     
 ## Ressources  
     
-=== "Parcours AVENIR"
+=== "Généralités"
     - [**Réussir au lycée et après**](https://www.education.gouv.fr/reussir-au-lycee/2021-2022-bien-preparer-son-bac-et-son-entree-dans-le-superieur-326326){target=_blank}
     - [**Ressources communes pour les lycéens**](https://padlet.com/cdinddmporsmeur/ORI_2020){target=_blank}
     - [**Guide "Entrer dans le SUP 2022"**](./pdf/GUIDE_ENTRER_DANS_LE_SUP_2022.pdf){target=_blank} : brochure ONISEP.
     - [**Guide "Que faire après le BAC ?"**](./pdf/IDEO_Guide_BAC_2021-2022.pdf){target=_blank} : brochure IDEO - Région Bretagne.
+    - [**Brochures IDEO**](https://ideo.bretagne.bzh/publications){target=_blank} : Journées portes ouvertes du secondaire, de l'enseignement supérieur...
 === "SECONDE"
-    [**Vers le PADLET second**e](https://padlet.com/cdinddmporsmeur/orientation_seconde_2020){target=_blank}
+    [**Vers le PADLET seconde**](https://padlet.com/cdinddmporsmeur/orientation_seconde_2020){target=_blank}
 === "PREMIERE"
     [**Vers le PADLET première**](https://padlet.com/cdinddmporsmeur/orientation_premiere_2020){target=_blank}
 === "TERMINALE"
+    - [**Terminales 2021-2022**](https://www.terminales2021-2022.fr/){target=_blank}
     - [**PARCOURSUP - Site officiel**](https://www.parcoursup.fr/index.php?desc=){target=_blank} 
     - [**Vidéo PARCOURSUP - Comment choisir une formation ?**](https://youtu.be/WJzf3wRqcWo){target=_blank}
     - [**Ensemble des ressources de la DGESIP**](https://services.dgesip.fr/T454/S743/ressources){target=_blank}
     - [**Vers le PADLET terminale**](https://padlet.com/cdinddmporsmeur/orientation_terminale_2020){target=_blank}
     - [**Site pour les terminales**](https://ericecmorlaix.github.io/TG_VDC_AP/){target=_blank}
+    - [**Quelle école après le BAC ?**](https://www.ipesup.fr/) : IPESUP, préparations aux examens et concours de l’enseignement supérieur.
     - [**Que faire après un BAC STMG ?**](https://padlet.com/cdinddmporsmeur/post_bac_STMG){target=_blank}
     <figure><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Xg6QcfmgYXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure>
 === "VOIE PRO"
