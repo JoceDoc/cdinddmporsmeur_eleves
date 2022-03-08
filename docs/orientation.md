@@ -20,17 +20,39 @@ Les invitations aux portes ouvertes, des établissements du supérieur, sont à 
 ???+ info "Orientation et Parcours avenir"  
     L'actualité de l'orientation, les sites incontournables, des ressources par niveau, les salons et forums, la vie étudiante...
     
-    
     N'oubliez pas de conserver vos recherches  et vos réflexions concernant l'orientation, le ==**parcours avenir**== et les autres parcours (santé, citoyen, artistique et culturel) dans votre dossier [**FOLIOS**](https://folios.onisep.fr/){target=_blank}.
     
 ## Ressources  
-    
-=== "POUR TOUS !"
+
+### Pour tous   
+=== "GUIDES"
     - [**Réussir au lycée et après**](https://www.education.gouv.fr/reussir-au-lycee/2021-2022-bien-preparer-son-bac-et-son-entree-dans-le-superieur-326326){target=_blank}
     - [**Ressources communes pour les lycéens**](https://padlet.com/cdinddmporsmeur/ORI_2020){target=_blank}
     - [**Guide "Entrer dans le SUP 2022"**](./pdf/GUIDE_ENTRER_DANS_LE_SUP_2022.pdf){target=_blank} : brochure ONISEP.
     - [**Guide "Que faire après le BAC ?"**](./pdf/IDEO_Guide_BAC_2021-2022.pdf){target=_blank} : brochure IDEO - Région Bretagne.
     - [**Brochures IDEO**](https://ideo.bretagne.bzh/publications){target=_blank} : Journées portes ouvertes du secondaire, de l'enseignement supérieur...
+=== "SALONS-FORUMS"
+    - [**Azimut**](https://www.salon-azimut.com/){target=_blank}
+    - [**Salons - Forums de l'orientation**](https://www.onisep.fr/Cap-vers-l-emploi/Recherche-d-emploi/Les-salons-de-recrutement){target=_blank}
+=== "PO - IMMERSIONS"
+    - 
+=== "VIE ETUDIANTE"
+    - [**FAQ vie étudiante**](https://www.etudiant.gouv.fr/fr/rentree2021){target=_blank}
+    - [**Vie étudiante : Infos, services, FAQ**](https://www.etudiant.gouv.fr/fr){target=_blank}
+    - [**Jeunes.gouv.fr**](https://jeunes.gouv.fr/){target=_blank}
+    - [**CROUS**](https://trouverunlogement.lescrous.fr/){target=_blank}
+    - [**Mes services étudiants**](https://www.messervices.etudiant.gouv.fr/envole/){target=_blank}
+    - [**Etudes, vie étudiante et handicap**](https://www.univ-brest.fr/deve/menu/vie_etudiante/Handiversit%C3%A9/HANDIVERSITE){target=_blank}: **Handiversité** dispositif d’accompagnement spécifique de l'UBO.
+=== "MOBILITE"
+    - [**ERASMUS+**](https://info.erasmusplus.fr/https://info.erasmusplus.fr){target_blank}
+    - [**Etudions à l'étranger**](https://www.etudionsaletranger.fr/){target=_blank}
+    - [**Easylangues**](https://www.centre-easylangues.com/){target=_blank} : trouver un job ou un stage à l'étranger...
+=== "ARMEES DEFENSE"
+    - 
+
+
+### Par niveau
+
 === "SECONDE"
     [**Vers le PADLET seconde**](https://padlet.com/cdinddmporsmeur/orientation_seconde_2020){target=_blank}
 === "PREMIERE"
@@ -49,23 +71,7 @@ Les invitations aux portes ouvertes, des établissements du supérieur, sont à 
     - [**Vers le PADLET voie pro**](https://padlet.com/cdinddmporsmeur/LP_2020){target=_blank}
     - [**PARCOURSUP - Site officiel**](https://www.parcoursup.fr/index.php?desc=){target=_blank}
     - [**Vidéo PARCOURSUP - Comment choisir une formation ?**](https://youtu.be/WJzf3wRqcWo){target=_blank}
-=== "SALONS-FORUMS"
-    - [**Azimut**](https://www.salon-azimut.com/){target=_blank}
-    - [**Salons - Forums de l'orientation**](https://www.onisep.fr/Cap-vers-l-emploi/Recherche-d-emploi/Les-salons-de-recrutement){target=_blank}
-=== "PO - IMMERSIONS"
-    - 
-=== "VIE ETUDIANTE"
-    - [**FAQ vie étudiante**](https://www.etudiant.gouv.fr/fr/rentree2021){target=_blank}
-    - [**Vie étudiante : Infos, services, FAQ**](https://www.etudiant.gouv.fr/fr){target=_blank}
-    - [**Jeunes.gouv.fr**](https://jeunes.gouv.fr/){target=_blank}
-    - [**CROUS**](https://trouverunlogement.lescrous.fr/){target=_blank}
-    - [**Mes services étudiants**](https://www.messervices.etudiant.gouv.fr/envole/){target=_blank}
-    - [**Etudes, vie étudiante et handicap**](https://www.univ-brest.fr/deve/menu/vie_etudiante/Handiversit%C3%A9/HANDIVERSITE){target=_blank}: **Handiversité** dispositif d’accompagnement spécifique de l'UBO.
-=== "MOBILITE"
-    - [**ERASMUS+**](https://info.erasmusplus.fr/https://info.erasmusplus.fr){target_blank}
-    - [**Etudions à l'étranger**](https://www.etudionsaletranger.fr/){target=_blank}
-    - [**Easylangues**](https://www.centre-easylangues.com/){target=_blank} : trouver un job ou un stage à l'étranger...
-    
+
     
   
 
