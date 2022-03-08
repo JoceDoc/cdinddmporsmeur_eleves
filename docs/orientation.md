@@ -36,12 +36,12 @@ Les invitations aux portes ouvertes, des établissements du supérieur, sont à 
 === "PO - IMMERSIONS"
     - 
 === "VIE ETUDIANTE"
-    - [**FAQ vie étudiante**](https://www.etudiant.gouv.fr/fr/rentree2021){target=_blank}
     - [**Vie étudiante : Infos, services, FAQ**](https://www.etudiant.gouv.fr/fr){target=_blank}
+    - [**FAQ vie étudiante**](https://www.etudiant.gouv.fr/fr/faq){target=_blank}
     - [**Jeunes.gouv.fr**](https://jeunes.gouv.fr/){target=_blank}
     - [**CROUS**](https://trouverunlogement.lescrous.fr/){target=_blank} et [**CROUS Bretagne**](https://www.crous-rennes.fr/){target=_blank}
     - [**Mes services étudiants**](https://www.messervices.etudiant.gouv.fr/envole/){target=_blank}
-    - [**Dossier vie étudiante**](https://www.onisep.fr/Choisir-mes-etudes/Apres-le-bac/La-vie-etudiante){target=_blank} du site ONISEP.
+    - [**Dossier "vie étudiante"**](https://www.onisep.fr/Choisir-mes-etudes/Apres-le-bac/La-vie-etudiante){target=_blank} du site de l'ONISEP.
     - [**Etudes, vie étudiante et handicap**](https://www.univ-brest.fr/deve/menu/vie_etudiante/Handiversit%C3%A9/HANDIVERSITE){target=_blank}: **Handiversité** dispositif d’accompagnement spécifique de l'UBO.
 === "MOBILITE"
     - [**ERASMUS+**](https://info.erasmusplus.fr){target_blank}
