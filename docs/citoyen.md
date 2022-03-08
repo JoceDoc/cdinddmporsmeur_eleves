@@ -30,6 +30,9 @@ La prévention et la lutte contre le harcèlement est une des priorités du [**M
 
 ![Conseils](./images/affiche_10_conseils.jpg "10 conseils"){width=50% align=right}
 
+
+
+
 Le harcèlement peut prendre différentes formes. Pour comprendre et agir rendez-vous sur le site [**Eduscol**](https://eduscol.education.fr/974/le-harcelement-entre-eleves){target=_blank}.
 
 
