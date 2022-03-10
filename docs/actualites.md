@@ -99,10 +99,12 @@
    
 ??? "**Kiosque du mois** :newspaper:"
   
-    [![01.NET](./images/abonnements/01.NET_10_mars_2022_969.jpg "01.NET, 10 mars 2022, n°969"){width=20%}](./images/abonnements/01.NET_10_mars_2022_969_sommaire.pdf){target=_blank}
+    [![01.NET](./images/abonnements/01.NET_09_mars_2022_969.jpg "01.NET, 09 mars 2022, n°969"){width=20%}](./images/abonnements/01.NET_09_mars_2022_969_sommaire.pdf){target=_blank}
+    [![L'aide-soignante](./images/abonnements/Aide-soignante_mars_2022_235.jpg "L'aide-soignante, mars 2022, n°235"){width=20%}](./images/abonnements/Aide-soignante_mars_2022_235_sommaire.pdf){target=_blank}
     [![Alternatives Economiques](./images/abonnements/Alternatives Economiques_mars_2022_421.jpg "Alternatives Economiques, mars 2022, n°420"){width=20%}](./images/abonnements/Alternatives Economiques_mars_2022_421_sommaire.pdf){target=_blank}
     [![Ca m'intéresse](./images/abonnements/Ca m interesse_mars 2022_493.jpg "Ca m'intéresse, mars 2022, n°493"){width=20%}](./images/abonnements/Ca m interesse_mars 2022_493_sommaire.pdf){target=_blank}
     [![Courrier international](./images/abonnements/Courrier international_20220303_1635.jpg "Courrier international, 03 mars 2022, n°1635"){width=20%}](./images/abonnements/Courrier international_20220303_1635_sommaire.pdf){target=_blank}
+    [![Courrier international](./images/abonnements/Courrier international_20220310_1636.jpg "Courrier international, 10 mars 2022, n°1636"){width=20%}](./images/abonnements/Courrier international_20220310_1636_sommaire.pdf){target=_blank}
     [![La Croix Campus](./images/abonnements/La Croix Campus_mars_2022_243.JPG "La Croix Campus, mars 2022, n°243"){width=20%}](./images/abonnements/La Croix Campus_mars_2022_243_sommaire.pdf){target=_blank}
     [![Journal de l'animation](./images/abonnements/Journal animation_mars_2022_227.jpg "Journal de l'animation, mars 2022, n°227"){width=20%}](./images/abonnements/Journal animation_mars_2022_227_sommaire.pdf){target=_blank}
     [![Journal de l'animation](./images/abonnements/Journal animation_hors-série_mars_2022_31.jpg "Journal de l'animation, mars 2022, n°31HS"){width=20%}](./images/abonnements/Journal animation_hors-série_mars_2022_31_sommaire.pdf){target=_blank}
@@ -119,6 +121,7 @@
     [![Sciences et avenir](./images/abonnements/Sciences et avenir_mars_2022_901.jpg "Sciences et avenir, mars 2022, n°901"){width=20%}](./images/abonnements/Sciences et avenir_mars_2022_901_sommaire.pdf){target=_blank}
     [![Sciences humaines](./images/abonnements/Sciences humaines_mars_2022_345.jpg "Sciences humaines, mars 2022, n°345"){width=20%}](./images/abonnements/Sciences humaines_mars_2022_345_sommaire.pdf){target=_blank}
     [![Sciences Ouest](./images/abonnements/Sciences ouest_mars_2022_397.jpg "Sciences Ouest, mars 2022, n°397"){width=20%}](./images/abonnements/Sciences ouest_mars_2022_397_sommaire.pdf){target=_blank}
+    [![Sport&Vie](./images/abonnements/Sport et vie_mars_2022_191.jpg "Sport&Vie, mars 2022, n°191"){width=20%}](./images/abonnements/Sport et vie_mars_2022_191_sommaire.pdf){target=_blank}
     [![Virgule](./images/abonnements/Virgule_mars_2022_204.jpg "Virgule, mars 2022, n°204"){width=20%}](./images/abonnements/Virgule_mars_2022_204_sommaire.pdf){target=_blank}
 
 
