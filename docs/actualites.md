@@ -99,6 +99,7 @@
    
 ??? "**Kiosque du mois** :newspaper:"
   
+    [![01.NET](./images/abonnements/01.NET_10_mars_2022_969.jpg "01.NET, 10 mars 2022, n°969"){width=20%}](./images/abonnements/01.NET_10_mars_2022_969_sommaire.pdf){target=_blank}
     [![Alternatives Economiques](./images/abonnements/Alternatives Economiques_mars_2022_421.jpg "Alternatives Economiques, mars 2022, n°420"){width=20%}](./images/abonnements/Alternatives Economiques_mars_2022_421_sommaire.pdf){target=_blank}
     [![Ca m'intéresse](./images/abonnements/Ca m interesse_mars 2022_493.jpg "Ca m'intéresse, mars 2022, n°493"){width=20%}](./images/abonnements/Ca m interesse_mars 2022_493_sommaire.pdf){target=_blank}
     [![Courrier international](./images/abonnements/Courrier international_20220303_1635.jpg "Courrier international, 03 mars 2022, n°1635"){width=20%}](./images/abonnements/Courrier international_20220303_1635_sommaire.pdf){target=_blank}
