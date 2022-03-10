@@ -109,7 +109,7 @@
     [![Journal de l'animation](./images/abonnements/Journal animation_mars_2022_227.jpg "Journal de l'animation, mars 2022, n°227"){width=20%}](./images/abonnements/Journal animation_mars_2022_227_sommaire.pdf){target=_blank}
     [![Journal de l'animation](./images/abonnements/Journal animation_hors-série_mars_2022_31.jpg "Journal de l'animation, mars 2022, n°31HS"){width=20%}](./images/abonnements/Journal animation_hors-série_mars_2022_31_sommaire.pdf){target=_blank}
     [![Lire Magazine](./images/abonnements/Lire Magazine_mars_2022_505.jpg "Lire Magazine, mars 2022, n°505"){width=20%}](./images/abonnements/Lire Magazine_mars_2022_505_sommaire.pdf){target=_blank}
-    [![LSA](./images/abonnements/LSA_10_mars_2022_2690 "LSA, 10 mars 2022, n°2690"){width=20%}(./images/abonnements/LSA_10_mars_2022_2690_sommaire.pdf){target=_blank}
+    [![LSA](./images/abonnements/LSA_10_mars_2022_2690.jpg "LSA, 10 mars 2022, n°2690"){width=20%}(./images/abonnements/LSA_10_mars_2022_2690_sommaire.pdf){target=_blank}
     [![Management](./images/abonnements/Management_février-mars_2022_301.jpg "Management, février-mars 2022, n°301"){width=20%}](./images/abonnements/Management_février-mars_2022_301_sommaire.pdf){target=_blank}
     [![Phosphore](./images/abonnements/Phosphore_1er_mars_2022_527.jpg "Phosphore, 1er mars 2022, 527"){width=20%}](./images/abonnements/Phosphore_1er_mars_2022_527_sommaire.pdf){target=_blank}
     [![Phosphore](./images/abonnements/Phosphore_15_mars_2022_528.JPG "Phosphore, 15 mars 2022, 528"){width=20%}](./images/abonnements/Phosphore_15_mars_2022_528_sommaire.pdf){target=_blank}
