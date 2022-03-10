@@ -139,6 +139,7 @@
     [![Courrier international](./images/abonnements/Courrier international_20220224_1634.jpg "Courrier international, 24 février 2022, n°1634"){width=20%}](./images/abonnements/Courrier international_20220224_1634_sommaire.pdf){target=_blank}
     [![La Croix Campus](./images/abonnements/La Croix Campus_février 2022_242.jpg "La Croix Campus, février 2022, n°242"){width=20%}](./images/abonnements/La Croix Campus_février 2022_242_sommaire.pdf){target=_blank}
     [![Journal de l'animation](./images/abonnements/Journal animation_février 2022_226.jpg "Journal de l'animation, février 2022, n°226"){width=20%}](./images/abonnements/Journal animation_février 2022_226_sommaire.pdf){target=_blank}
+    [![Lire Magazine](./images/abonnements/Lire Magazine_février_2022_504.jpg "Lire Magazine, février 2022, n°504"){width=20%}](./images/abonnements/Lire Magazine_Février_2022_504_sommaire.pdf){target=_blank}
     [![Management](./images/abonnements/Management_février-mars_2022_301.jpg "Management, février-mars 2022, n°301"){width=20%}](./images/abonnements/Management_février-mars_2022_301_sommaire.pdf){target=_blank}
     [![Phosphore](./images/abonnements/Phosphore_1erfévrier_2022_525.jpg "Phosphore, 1er février 2022, 525"){width=20%}](./images/abonnements/Phosphore_1erfévrier_2022_525_sommaire.pdf){target=_blank}
     [![Phosphore](./images/abonnements/Phosphore_15_février_2022_526.jpg "Phosphore, 15 février 2022, 526"){width=20%}](./images/abonnements/Phosphore_15_février_2022_526_sommaire.pdf){target=_blank}
