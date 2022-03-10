@@ -10,7 +10,7 @@
 
 ## Ressources
 
-??? "Incontournables"
+??? "**Incontournables**"
     - [**Service public**](https://www.service-public.fr/){target=_blank} le site officiel de l'administration française.
     - [**Fiches citoyenneté**](https://www.vie-publique.fr/fiches/citoyennete){target=_blank} du site Vie Publique.
     - [**Journée Défense et Citoyenneté**](https://presaje.sga.defense.gouv.fr/){target=_blank}
@@ -26,14 +26,16 @@
 
 ![Affiche_men](./images/affiche_harcèlement.jpg "Affiche_harcèlement"){width=30% align=left}
 
-La prévention et la lutte contre le harcèlement est une des priorités du [**Ministère de l'Education Nationale**](https://www.education.gouv.fr/lutte-contre-le-harcelement-l-ecole-289530){target=_blank}
+La lutte contre le harcèlement est une des priorités du [**Ministère de l'Education Nationale**](https://www.education.gouv.fr/lutte-contre-le-harcelement-l-ecole-289530){target=_blank}
 
 ![Conseils](./images/affiche_10_conseils.jpg "10 conseils"){width=50% align=right}
 
-
-
-
 Le harcèlement peut prendre différentes formes. Pour comprendre et agir rendez-vous sur le site [**Eduscol**](https://eduscol.education.fr/974/le-harcelement-entre-eleves){target=_blank}.
+
+
+
+
+
 
 
 
