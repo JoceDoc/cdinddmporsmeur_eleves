@@ -25,7 +25,7 @@
 ### Contre le harcèlement
 
 ???+ info ""
-    ![Affiche_men](./images/affiche_harcèlement.jpg "Affiche_harcèlement"){width=30% align=left}
+    ![Affiche_men](./images/affiche_harcèlement.jpg "Affiche_harcèlement"){width=20% align=left}
 
     La lutte contre le harcèlement est une des priorités du [**Ministère de l'Education Nationale**](https://www.education.gouv.fr/lutte-contre-le-harcelement-l-ecole-289530){target=_blank}
 
@@ -39,7 +39,8 @@
 
 ### Service National Universel
 
-???+ info "" Présentation et principes du **SNU** sur le [**site officiel**](https://www.snu.gouv.fr/){target=_blank}
+???+ info ""
+    Présentation et principes du **SNU** sur le [**site officiel**](https://www.snu.gouv.fr/){target=_blank}
     
 ### Vie associative
 
