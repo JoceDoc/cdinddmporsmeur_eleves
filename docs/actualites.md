@@ -99,7 +99,7 @@
    
 ??? "**Kiosque du mois** :newspaper:"
   
-    [![01.NET](./images/abonnements/01.NET_09_mars_2022_969.jpg "01.NET, 09 mars 2022, n°969"){width=20%}](./images/abonnements/01.NET_09_mars_2022_969_sommaire.pdf){target=_blank}
+    [![01.NET](./images/abonnements/01.NET_20220309_969.jpg "01.NET, 09 mars 2022, n°969"){width=20%}](./images/abonnements/01.NET_20220309_969_sommaire.pdf){target=_blank}
     [![L'aide-soignante](./images/abonnements/Aide-soignante_mars_2022_235.jpg "L'aide-soignante, mars 2022, n°235"){width=20%}](./images/abonnements/Aide-soignante_mars_2022_235_sommaire.pdf){target=_blank}
     [![Alternatives Economiques](./images/abonnements/Alternatives Economiques_mars_2022_421.jpg "Alternatives Economiques, mars 2022, n°420"){width=20%}](./images/abonnements/Alternatives Economiques_mars_2022_421_sommaire.pdf){target=_blank}
     [![Ca m'intéresse](./images/abonnements/Ca m interesse_mars 2022_493.jpg "Ca m'intéresse, mars 2022, n°493"){width=20%}](./images/abonnements/Ca m interesse_mars 2022_493_sommaire.pdf){target=_blank}
