@@ -24,18 +24,14 @@
 
 ### Contre le harcèlement
 
-![Affiche_men](./images/affiche_harcèlement.jpg "Affiche_harcèlement"){width=30% align=left}
+???+ info ""
+    ![Affiche_men](./images/affiche_harcèlement.jpg "Affiche_harcèlement"){width=30% align=left}
 
-La lutte contre le harcèlement est une des priorités du [**Ministère de l'Education Nationale**](https://www.education.gouv.fr/lutte-contre-le-harcelement-l-ecole-289530){target=_blank}
+    La lutte contre le harcèlement est une des priorités du [**Ministère de l'Education Nationale**](https://www.education.gouv.fr/lutte-contre-le-harcelement-l-ecole-289530){target=_blank}
 
-![Conseils](./images/affiche_10_conseils.jpg "10 conseils"){width=50% align=right}
+    ![Conseils](./images/affiche_10_conseils.jpg "10 conseils"){width=50% align=right}
 
-Le harcèlement peut prendre différentes formes. Pour comprendre et agir rendez-vous sur le site [**Eduscol**](https://eduscol.education.fr/974/le-harcelement-entre-eleves){target=_blank}.
-
-
-
-
-
+    Le harcèlement peut prendre différentes formes. Pour comprendre et agir rendez-vous sur le site [**Eduscol**](https://eduscol.education.fr/974/le-harcelement-entre-eleves){target=_blank}.
 
 
 
@@ -43,9 +39,10 @@ Le harcèlement peut prendre différentes formes. Pour comprendre et agir rendez
 
 ### Service National Universel
 
-Présentation et principes du **SNU** sur le [**site officiel**](https://www.snu.gouv.fr/){target=_blank}
+???+ info "" Présentation et principes du **SNU** sur le [**site officiel**](https://www.snu.gouv.fr/){target=_blank}
     
 ### Vie associative
+
 
 
 
