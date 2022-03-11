@@ -88,7 +88,12 @@ ___
 ??? "Ressources pour l'EMI"
     [**Padlet de ressources**](https://padlet.com/cdinddmporsmeur/emi){target=_blank}
 
-
+??? "Données personnelles"
+    - [**Cybermalveillance**](https://www.cybermalveillance.gouv.fr/){target=_blank} : site officiel pour assister les particuliers, les entreprises, les associations, les collectivités et les administrations victimes de cybermalveillance, les informer sur les menaces numériques et les moyens de s'en protéger.
+    - [**10 conseils pour assurer votre cybersécurité**](https://www.cybermalveillance.gouv.fr/tous-nos-contenus/bonnes-pratiques/10-mesures-essentielles-assurer-securite-numerique){target=_blank}
+    - [**Conseils pour la gestion des "Mots de passe"**](https://www.cybermalveillance.gouv.fr/tous-nos-contenus/bonnes-pratiques/mots-de-passe){target=_blank}
+    
+    
 ___
 ## Concours scolaires
 
