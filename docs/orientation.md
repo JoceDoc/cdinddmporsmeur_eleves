@@ -5,6 +5,9 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
 
 ## Actualités
 
+???+ info "Pour ne rien manquer..."
+    - [**Printemps de l'orientation**](https://www.education.gouv.fr/reussir-au-lycee/le-printemps-de-l-orientation-327179){target=_blank} : site incontournable pour les rendez-vous importants à venir, informations par académie...
+
 ???+ info "Un espace au service de l'emploi"
     - [**L'Espace métiers**](https://www.brest.fr/travailler-entreprendre/emploi-insertion/des-evenements-et-un-espace-au-service-de-lemploi-a-brest-1768.html){target=_blank} : un lieu pour s'informer à Brest métropole...
 
@@ -40,7 +43,7 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
     - [**Salons - Forums de l'orientation**](https://www.onisep.fr/Cap-vers-l-emploi/Recherche-d-emploi/Les-salons-de-recrutement){target=_blank}
     - [**Studyrama**](https://www.studyrama.com/){target=_blank}
 === "PO - IMMERSIONS"
-    - 
+    - [**Printemps de l'orientation**](https://www.education.gouv.fr/reussir-au-lycee/le-printemps-de-l-orientation-327179){target=_blank}
 === "VIE ETUDIANTE"
     - [**Vie étudiante : Infos, services, FAQ**](https://www.etudiant.gouv.fr/fr){target=_blank}
     - [**FAQ vie étudiante**](https://www.etudiant.gouv.fr/fr/faq){target=_blank}
