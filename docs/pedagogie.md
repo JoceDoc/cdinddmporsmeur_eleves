@@ -74,7 +74,10 @@ ___
     - [**Reporters sans frontières**](https://rsf.org/){target=_blank}
     - [**France24**](https://www.france24.com/fr/){target=_blank}
     - [**FranceInfo**](ttps://mobile.francetvinfo.fr){target=_blank}
-    
+
+??? question "Enquêtes"
+    - [**Comment les frrançais s'informent sur Internet ?**](https://www.fondationdescartes.org/2021/03/comment-les-francais-sinforment-ils-sur-internet/){target=_bank}
+
 ??? question "Désintox : vrai ou fake ?"
     En ces périodes troublées, il est plus que jamais ==**nécessaire et important**== de lutter contre la désinformation. 
     
