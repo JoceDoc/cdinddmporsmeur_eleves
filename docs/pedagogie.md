@@ -75,7 +75,7 @@ ___
     - [**France24**](https://www.france24.com/fr/){target=_blank}
     - [**FranceInfo**](ttps://mobile.francetvinfo.fr){target=_blank}
 
-??? question "Enquêtes"
+??? question "Enquêtes sur les médias"
     - [**Comment les frrançais s'informent sur Internet ?**](https://www.fondationdescartes.org/2021/03/comment-les-francais-sinforment-ils-sur-internet/){target=_bank}
 
 ??? question "Désintox : vrai ou fake ?"
