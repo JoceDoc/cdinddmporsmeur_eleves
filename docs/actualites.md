@@ -169,7 +169,7 @@
     [![Vocable Espagnol](./images/abonnements/Vocable_Espagnol_20220120_849.jpg "Vocable Espagnol, 20 janvier 2022, n°849"){width=20%}](./images/abonnements/Vocable_Espagnol_20220120_859_sommaire.pdf){target=_blank}
     [![Vocable Espagnol](./images/abonnements/Vocable_Espagnol_20220203_850.jpg "Vocable Espagnol, 03 février 2022, n°850"){width=20%}](./images/abonnements/Vocable_Espagnol_20220203_850_sommaire.pdf){target=_blank}
     [![Vocable Espagnol](./images/abonnements/Vocable_Espagnol_20220217_851.jpg "Vocable Espagnol, 17 février 2022, n°851"){width=20%}](./images/abonnements/Vocable_Espagnol_20220217_851_sommaire.pdf){target=_blank}
-    [![Vocable Espagnol](./images/abonnements/Vocable_Espagnol_20220303_852.jpg "Vocable Espagnol, 03 mars 2022, n°852"){width=20%}](./images/abonnements/Vocable_Espagnol_202200303_852_sommaire.pdf){target=_blank}
+    [![Vocable Espagnol](./images/abonnements/Vocable_Espagnol_20220303_852.jpg "Vocable Espagnol, 03 mars 2022, n°852"){width=20%}](./images/abonnements/Vocable_Espagnol_20220303_852_sommaire.pdf){target=_blank}
 
 ??? "**Pour les enseignants**"
     [![Cahiers pédagogiques](./images/abonnements/Cahiers_pédagogiques_février_2022_575.jpg "Cahiers pédagogiques, février 2022, n°575"){width=20%}](./images/abonnements/Cahiers_pédagogiques_février_2022_575_sommaire.pdf){target=_blank}
