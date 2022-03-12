@@ -57,8 +57,9 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
     - [**Etudions à l'étranger**](https://www.etudionsaletranger.fr/){target=_blank}
     - [**Easylangues**](https://www.centre-easylangues.com/){target=_blank} : trouver un job ou un stage à l'étranger...
 === "ARMEES DEFENSE"
-    - 
-
+    - [**Armée de l'air**](https://devenir-aviateur.fr/){target=_blank}
+    - [**Devenir policier**](https://www.devenirpolicier.fr/){target=_blank}
+    
 
 ### Par niveau
 
