@@ -49,13 +49,13 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
     - [**Studyrama**](https://www.studyrama.com/){target=_blank}
 === "PO - IMMERSIONS"
     - [**Printemps de l'orientation**](https://www.education.gouv.fr/reussir-au-lycee/le-printemps-de-l-orientation-327179){target=_blank}
-    ???+ "DATES DE PORTES OUVERTES"
+    ???+ example "DATES DE PORTES OUVERTES"
         | Aligné à gauche | Aligné à droite | Texte centré | Défaut |
         |:----------------|----------------:|:------------:|--------|
         | abcdef          |            1234 |      xyz     | etc    |
         | ghi jkl mno pqr |          567890 |   ........   | etc    |
     
-    ???+ IMMERSIONS
+    ???+ example "IMMERSIONS"
         | Aligné à gauche | Aligné à droite | Texte centré | Défaut |
         |:----------------|----------------:|:------------:|--------|
         | abcdef          |            1234 |      xyz     | etc    |
