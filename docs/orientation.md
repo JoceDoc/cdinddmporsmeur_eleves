@@ -44,7 +44,7 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
     - [**Brochures IDEO**](https://ideo.bretagne.bzh/publications){target=_blank} : Journées portes ouvertes du secondaire, de l'enseignement supérieur...
     - [**Orientation pour tous**](https://www.orientation-pour-tous.fr/){target=_blank}
 === "SALONS-FORUMS"
-    - [**Azimut**](https://www.salon-azimut.com/){target=_blank}
+    - [**Azimut**](https://www.salon-azimut.com/){target=_blank} : ==**03-05 mars 2022**==
     - [**Salons - Forums de l'orientation**](https://www.onisep.fr/Cap-vers-l-emploi/Recherche-d-emploi/Les-salons-de-recrutement){target=_blank}
     - [**Studyrama**](https://www.studyrama.com/){target=_blank}
 === "PO - IMMERSIONS"
