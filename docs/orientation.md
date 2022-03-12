@@ -49,6 +49,18 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
     - [**Studyrama**](https://www.studyrama.com/){target=_blank}
 === "PO - IMMERSIONS"
     - [**Printemps de l'orientation**](https://www.education.gouv.fr/reussir-au-lycee/le-printemps-de-l-orientation-327179){target=_blank}
+    PORTES OUVERTES
+    | Aligné à gauche | Aligné à droite | Texte centré | Défaut |
+    |:----------------|----------------:|:------------:|--------|
+    | abcdef          |            1234 |      xyz     | etc    |
+    | ghi jkl mno pqr |          567890 |   ........   | etc    |
+    
+    IMMERSIONS
+    | Aligné à gauche | Aligné à droite | Texte centré | Défaut |
+    |:----------------|----------------:|:------------:|--------|
+    | abcdef          |            1234 |      xyz     | etc    |
+    | ghi jkl mno pqr |          567890 |   ........   | etc    |
+    
 === "VIE ETUDIANTE"
     - [**Vie étudiante : Infos, services, FAQ**](https://www.etudiant.gouv.fr/fr){target=_blank}
     - [**FAQ vie étudiante**](https://www.etudiant.gouv.fr/fr/faq){target=_blank}
