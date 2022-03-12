@@ -52,7 +52,9 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
     - [**Printemps de l'orientation**](https://www.education.gouv.fr/reussir-au-lycee/le-printemps-de-l-orientation-327179){target=_blank}
    
     ???+ example "DATES DE PORTES OUVERTES"
-        | Aligné à gauche | Aligné à droite | Texte centré | Défaut |
+        - [**2022_JPO_immersions_supérieur**](./excel/2022_JPO_immersions_supérieur.xlsx){target=_blank}
+	
+	| Aligné à gauche | Aligné à droite | Texte centré | Défaut |
         |:----------------|----------------:|:------------:|--------|
         | abcdef          |            1234 |      xyz     | etc    |
         | ghi jkl mno pqr |          567890 |   ........   | etc    |
