@@ -64,7 +64,7 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
 === "ARMEES DEFENSE"
     - [**Armée de l'air**](https://devenir-aviateur.fr/){target=_blank} : devenir aviateur.
     - [**Forum des métiers de l'aéronautique**](https://www.eventbrite.fr/e/billets-forum-des-metiers-de-laeronautique-navale-179481121867){target=_blank} : le **25 mars 2022** à la base aéronavale de Landivisiau.
-    - [**Armée de terre**](https://www.sengager.fr/){target=_blank}
+    - [**Armée de terre**](https://www.sengager.fr/){target=_blank} : 117 spécialités dans 16 domaines d'activité
     - [**CIRFA**](https://www.sengager.fr/ou-nous-rencontrer?xtor=SEC-229-GOO-[24018634367]-[353506367]-g-[cirfa]&ds_rl=1210417&gclid=EAIaIQobChMI6PzavM2g7QIV_P3VCh1GLQ1eEAAYASAAEgK7z_D_BwE){target=_blank} : L'armee de terre recrute et forme 16000 postes. Vous trouverez ici les centres de recrutement.
     - [**Marine Nationale**](https://www.lamarinerecrute.fr/){target=_blank} : En 2022, la marine recrute 4000 jeunes femmes et hommes, rejoignez l’équipage...
     - [**Devenir gendarme**](https://www.devenir-gendarme.fr/){target=_blank}
