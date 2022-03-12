@@ -48,7 +48,9 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
     - [**Salons - Forums de l'orientation**](https://www.onisep.fr/Cap-vers-l-emploi/Recherche-d-emploi/Les-salons-de-recrutement){target=_blank}
     - [**Studyrama**](https://www.studyrama.com/){target=_blank}
 === "PO - IMMERSIONS"
+    - [**Portes ouvertes du supérieur**](https://padlet-uploads.storage.googleapis.com/119789356/ad6591b8995ae4ba9caad9481091f5fa/JPO_superieur_2022_2e_Edition_Ac_Rennes_Onisep_Bretagne_24_01_2022.pdf){target=_blank} dans l'acédémie de RENNES.
     - [**Printemps de l'orientation**](https://www.education.gouv.fr/reussir-au-lycee/le-printemps-de-l-orientation-327179){target=_blank}
+   
     ???+ example "DATES DE PORTES OUVERTES"
         | Aligné à gauche | Aligné à droite | Texte centré | Défaut |
         |:----------------|----------------:|:------------:|--------|
