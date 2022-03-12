@@ -5,8 +5,13 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
 
 ## Actualités
 
+???+ info "Forum des métiers de l'aéronautique"
+    - [**Forum des métiers de l'aéronautique**](https://www.eventbrite.fr/e/billets-forum-des-metiers-de-laeronautique-navale-179481121867){target=_blank} : le **25 mars 2022** à la base aéronavale de Landivisiau.
+
+
 ???+ info "Pour ne rien manquer..."
     - [**Printemps de l'orientation**](https://www.education.gouv.fr/reussir-au-lycee/le-printemps-de-l-orientation-327179){target=_blank} : site incontournable pour les rendez-vous importants à venir, informations par académie...
+
 
 ???+ info "Un espace au service de l'emploi"
     - [**L'Espace métiers**](https://www.brest.fr/travailler-entreprendre/emploi-insertion/des-evenements-et-un-espace-au-service-de-lemploi-a-brest-1768.html){target=_blank} : un lieu pour s'informer à Brest métropole...
