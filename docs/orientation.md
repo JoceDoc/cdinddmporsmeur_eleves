@@ -58,6 +58,8 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
     - [**Easylangues**](https://www.centre-easylangues.com/){target=_blank} : trouver un job ou un stage à l'étranger...
 === "ARMEES DEFENSE"
     - [**Armée de l'air**](https://devenir-aviateur.fr/){target=_blank}
+    - [**Forum des métiers de l'aéronautique**](https://www.eventbrite.fr/e/billets-forum-des-metiers-de-laeronautique-navale-179481121867){target=_blank} : le **25 mars 2022** à la base aéronavale de Landivisiau.
+    - [**Devenir gendarme**](https://www.devenir-gendarme.fr/){target=_blank}
     - [**Devenir policier**](https://www.devenirpolicier.fr/){target=_blank}
     
 
