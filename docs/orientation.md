@@ -86,7 +86,7 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
     - [**Ensemble des ressources de la DGESIP**](https://services.dgesip.fr/T454/S743/ressources){target=_blank}
     - [**Vers le PADLET terminale**](https://padlet.com/cdinddmporsmeur/orientation_terminale_2020){target=_blank}
     - [**Site pour les terminales**](https://ericecmorlaix.github.io/TG_VDC_AP/){target=_blank}
-    - [**Quelle école après le BAC ?**](https://www.ipesup.fr/) : IPESUP, préparations aux examens et concours de l’enseignement supérieur.
+    - [**Quelle école après le BAC ?**](https://www.ipesup.fr/){target=_blank} : IPESUP, préparations aux examens et concours de l’enseignement supérieur.
     - [**Que faire après un BAC STMG ?**](https://padlet.com/cdinddmporsmeur/post_bac_STMG){target=_blank}
 === "VOIE PRO"
     - [**Vers le PADLET voie pro**](https://padlet.com/cdinddmporsmeur/LP_2020){target=_blank}
