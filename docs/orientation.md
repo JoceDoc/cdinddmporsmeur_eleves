@@ -54,10 +54,10 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
     ???+ example "DATES DE PORTES OUVERTES"
         - [**2022_JPO_immersions_supérieur**](./excel/2022_JPO_immersions_supérieur.xlsx){target=_blank}
 	
-	| Aligné à gauche | Aligné à droite | Texte centré | Défaut |
-        |:----------------|----------------:|:------------:|--------|
-        | abcdef          |            1234 |      xyz     | etc    |
-        | ghi jkl mno pqr |          567890 |   ........   | etc    |
+	|**ETABLISSEMENT**    |**VILLE**        |**DATE**        |**HORAIRE**   |**FORMATION**     |
+        |:--------------------|:---------------:|:--------------:|:------------:|:-----------------|
+        | Chateaubriand       |RENNES           |05/03/2022      | 9h00-13h30   |CPEG              | [**Annonce**](https://www.lycee-chateaubriand.fr/les-cpge/journee-portes-ouvertes-classe-prepa/) et [Site de l'établissement](https://www.lycee-chateaubriand.fr/)
+        | IUT	              |LANNION          |26/02/2022      |              |BUT - licence pro | [**Annonce**](https://iut-lannion.univ-rennes1.fr/jpo-2022-samedi-26-fevrier) et [Site de l'établissement](https://iut-lannion.univ-rennes1.fr/)
     
     ???+ example "IMMERSIONS"
         | Aligné à gauche | Aligné à droite | Texte centré | Défaut |
