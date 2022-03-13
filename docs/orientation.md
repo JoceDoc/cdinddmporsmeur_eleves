@@ -55,7 +55,7 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
         - [**2022_JPO_immersions_supérieur**](./excel/2022_JPO_immersions_supérieur.xlsx){target=_blank}
 	|**ETABLISSEMENT**       |**VILLE**        |**DATE**        |**HORAIRE**   |**FORMATION**     |
         |:-----------------------|:---------------:|:--------------:|:------------:|:-----------------|
-        | Chateaubriand[^critic]:|RENNES           |05/03/2022      | 9h00-13h30   |CPEG              | 
+        | Chateaubriand         :|RENNES           |05/03/2022      | 9h00-13h30   |CPEG              | 
         | IUT	                 |LANNION          |26/02/2022      |              |BUT - licence pro | 
     
     ???+ example "IMMERSIONS"
