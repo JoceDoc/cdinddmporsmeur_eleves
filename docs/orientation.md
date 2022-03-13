@@ -88,7 +88,6 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
     - [**Site pour les terminales**](https://ericecmorlaix.github.io/TG_VDC_AP/){target=_blank}
     - [**Quelle école après le BAC ?**](https://www.ipesup.fr/) : IPESUP, préparations aux examens et concours de l’enseignement supérieur.
     - [**Que faire après un BAC STMG ?**](https://padlet.com/cdinddmporsmeur/post_bac_STMG){target=_blank}
-    <figure><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Xg6QcfmgYXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure>
 === "VOIE PRO"
     - [**Vers le PADLET voie pro**](https://padlet.com/cdinddmporsmeur/LP_2020){target=_blank}
     - [**PARCOURSUP - Site officiel**](https://www.parcoursup.fr/index.php?desc=){target=_blank}
