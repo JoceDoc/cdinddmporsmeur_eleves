@@ -43,7 +43,16 @@ Jocelyne Coz - Claire Léost
 
 
 ??? info "**Horaires d'ouverture**"
-        
+    |**JOUR**      |**heure**      | 
+    |:-------------|:-------------:|
+    |Lundi         |:-------------:|
+    |Mardi         |:-------------:|
+    |Mercredi      |:-------------:|
+    |:-------------|:-------------:|
+    |:-------------|:-------------:|
+
+    | abcdef          |            1234 |      xyz     | etc    |
+    | ghi jkl mno pqr |          567890 |   ........   | etc    |   
     | Lundi    |   9h - 18h30 |
     
     | Mardi    | 8h30 - 18h30 |
