@@ -76,7 +76,7 @@ ___
     - [**FranceInfo**](ttps://mobile.francetvinfo.fr){target=_blank}
 
 ??? question "Enquêtes sur les médias"
-    - [**Comment les français s'informent-ils sur Internet ?**](https://www.fondationdescartes.org/2021/03/comment-les-francais-sinforment-ils-sur-internet/){target=_blank}
+    - [**Comment les français s'informent-ils sur Internet ?**](https://www.fondationdescartes.org/wp-content/uploads/2021/03/Etude_Information_Internet_FondationDescartes_2021.pdf){target=_blank}
 
 ??? question "Désintox : vrai ou fake ?"
     En ces périodes troublées, il est plus que jamais ==**nécessaire et important**== de lutter contre la désinformation. 
