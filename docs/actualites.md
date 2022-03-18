@@ -1,44 +1,57 @@
 ## Expositions
 
-==**Expositions du moment à découvrir au CDI...**==
+==**Expositions du moment au CDI...**==
 
-??? "**Handicaps et exclusions**"
+???+ **A DECOUVRIR**
+
+    ??? "**"Le petit Prince" - Antoine de Saint-Exupéry**
+        ![Petit Prince1](./images/expo_petit_prince_01.jpg "Petit Prince"){width=30% align=left}
+        ![Petit Prince2](./images/expo_petit_prince_02.jpg "Petit Prince"){width=30% align=left}
+	![Petit Prince3](./images/expo_petit_prince_03.jpg "Petit Prince"){width=30% align=left}
+	![Petit Prince4](./images/expo_petit_prince_04.jpg "Petit Prince"){width=30% align=left}
+	
+    ??? **Semaine de la presse - 21 au 25 mars 2022**
+
+
+??? info "**Expositions antérieures**"
+    ??? "**Handicaps et exclusions**"
      
-    ![Handicap1](./images/expo_handicap_01.jpg "Handicap01"){width=30% align=left}
-    ![Handicap2](./images/expo_handicap_02.jpg "Handicap02"){width=30% align=left}
-    Dans le cadre de leur formation, les élèves de ==**2nd BAC PRO ASSP**== ont réalisé des affiches de lutte contre toutes les formes d’==**exclusion**== liées au ==**handicap**== : scolaires, sociales, professionnelles, citoyennes…
+        ![Handicap1](./images/expo_handicap_01.jpg "Handicap01"){width=30% align=left}
+        ![Handicap2](./images/expo_handicap_02.jpg "Handicap02"){width=30% align=left}
+        Dans le cadre de leur formation, les élèves de ==**2nd BAC PRO ASSP**== ont réalisé des affiches de lutte contre toutes les formes d’==**exclusion**== liées au ==**handicap**== : scolaires, sociales, professionnelles, citoyennes…
     
-     ==**Visible au CDI jusqu'aux vacances de printemps**==
+         ==**Visible au CDI jusqu'aux vacances de printemps**==
 		
 
 
-??? "**Frida KAHLO**"
+    ??? "**Frida KAHLO**"
      
-    ![Frida Kahlo](./images/expo_FridaKahlo.jpg "Frida Kahlo"){width=30% align=left}
+        ![Frida Kahlo](./images/expo_FridaKahlo.jpg "Frida Kahlo"){width=30% align=left}
 	Exposition sur ==**Frida Kahlo**== réalisée par les élèves du cours d'Espagnol.
 		
-    Pour aller plus loin : [**Frida Kahlo - France Culture**]( https://www.franceculture.fr/personne-frida-kahlo.html)
+        Pour aller plus loin : [**Frida Kahlo - France Culture**]( https://www.franceculture.fr/personne-frida-kahlo.html)
 
-    ==**Visible au CDI jusqu'à fin mars**==
+        ==**Visible au CDI jusqu'à mi-mars**==
     
-??? "**Projets franco-allemands**"
+    ??? "**Projets franco-allemands**"
     
-    ![expo00](./images/Expo_Projet_franco_allemand_00.jpg "Projet franco-allemand"){width=50% align=left}
-    ![expo01](./images/Expo_Projet_franco_allemand_01.jpg "Projet franco-allemand"){width=50% align=left}
+        ![expo00](./images/Expo_Projet_franco_allemand_00.jpg "Projet franco-allemand"){width=50% align=left}
+        ![expo01](./images/Expo_Projet_franco_allemand_01.jpg "Projet franco-allemand"){width=50% align=left}
 
-    A découvrir,
+        A découvrir,
     
-    L'Exposition sur le thème des ==**relations franco-allemandes**==, "ennemis bien-aimés" (en lien avec l'Axe du programme : Identité et échanges) réalisée par les deux groupes de germanistes de Terminale générale et STMG.
+        L'Exposition sur le thème des ==**relations franco-allemandes**==, "ennemis bien-aimés" (en lien avec l'Axe du programme : Identité et échanges) réalisée par les deux groupes de germanistes de Terminale générale et STMG.
 
-    Rappel des grandes dates de cette relation un peu tendue qui a fini par se normaliser, grâce au couple De Gaulle - Adenauer.
+        Rappel des grandes dates de cette relation un peu tendue qui a fini par se normaliser, grâce au couple De Gaulle - Adenauer.
     
-    A l’occasion de ce travail, les élèves ont lu un extrait du roman célèbre de Erich Maria Remarque "A l'Ouest, rien de nouveau" (1929), ainsi que le récit d'un amour franco-allemand (article extrait de "der Spiegel").
+        A l’occasion de ce travail, les élèves ont lu un extrait du roman célèbre de Erich Maria Remarque "A l'Ouest, rien de nouveau" (1929), ainsi que le récit d'un amour franco-allemand (article extrait de "der Spiegel").
 
-    Cette exposition vise à faire connaître l'amitié franco-allemande et les projets et institutions qui en découlent.
+        Cette exposition vise à faire connaître l'amitié franco-allemande et les projets et institutions qui en découlent.
     
-    Pour aller plus loin : [**Sources bibliographiques**](./pdf/Expo_Projet_franco_allemand_sources.pdf){target=_blank}
+        Pour aller plus loin : [**Sources bibliographiques**](./pdf/Expo_Projet_franco_allemand_sources.pdf){target=_blank}
     
-    ==**Visible au CDI jusqu'à fin mars**==
+        ==**Visible au CDI jusqu'à mi-mars**==
+
 
 ## Nos élèves ont du talent...
 
