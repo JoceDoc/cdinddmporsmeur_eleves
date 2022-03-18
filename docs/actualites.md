@@ -8,7 +8,6 @@
         ![Petit Prince1](./images/expo_petit_prince_01.jpg "Petit Prince"){width=30% align=left}
         ![Petit Prince2](./images/expo_petit_prince_02.jpg "Petit Prince"){width=30% align=left}
 	![Petit Prince3](./images/expo_petit_prince_03.jpg "Petit Prince"){width=30% align=left}
-	![Petit Prince4](./images/expo_petit_prince_04.jpg "Petit Prince"){width=30% align=left}
 	
     ??? **Semaine de la presse - 21 au 25 mars 2022**
 
