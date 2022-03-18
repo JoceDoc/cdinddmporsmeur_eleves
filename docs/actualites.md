@@ -13,6 +13,9 @@
         Dans le cadre d’une lecture intégrale d’une oeuvre en français, les élèves de ==**2AEPE**== ont réalisé des affiches retraçant le schéma narratif de l’oeuvre d'Antoine de Saint Exupéry, le **^^Petit Prince^^**. Les affiches ont été très appréciées lors des portes ouvertes et elles continuent à être regardées au CDI. "On sent le talent de futurs animateurs s’exprimer à travers ces affiches !" (Mme MAURICE-ANDREETTI, enseignante de Lettres).
 
     ??? "**Semaine de la presse - 21 au 25 mars 2022**"  
+        A l'occasion de la semaine de la presse, un kiosque de journaux et magazines est à votre disposition au CDI pour un ==**bain de presse**==. 
+        
+        Les deux classes première ==**HGGSP**== participeront au ==**concours de Unes**== organisé par le CLEMI. Cette participation s’inscrit dans l'étude du thème 4 du  programme de la spécialité HGGSP, portant sur l’information et à la communication. Les séances se dérouleront au CDI jusqu’à la restitution du travail.
 
 
 
