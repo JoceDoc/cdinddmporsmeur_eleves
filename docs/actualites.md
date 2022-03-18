@@ -2,15 +2,17 @@
 
 ==**Expositions du moment au CDI...**==
 
-???+ **A DECOUVRIR**
-    ??? "**"Le petit Prince" - Antoine de Saint-Exupéry**
-        ![Petit Prince1](./images/expo_petit_prince_01.jpg "Petit Prince"){width=30% align=left}
-        ![Petit Prince2](./images/expo_petit_prince_02.jpg "Petit Prince"){width=30% align=left}
-	![Petit Prince3](./images/expo_petit_prince_03.jpg "Petit Prince"){width=30% align=left}
+???info "**A découvrir**"
+    
+    ??? "**Le petit Prince - Antoine de Saint-Exupéry**"
+        ![Petit Prince1](./images/expo_petit_prince_01.jpg "Petit Prince1"){width=30% align=left}
+        ![Petit Prince2](./images/expo_petit_prince_02.jpg "Petit Prince2"){width=30% align=left}
+	    ![Petit Prince3](./images/expo_petit_prince_03.jpg "Petit Prince3"){width=20% align=left}
 	
-	Dans le cadre d’une lecture intégrale d’une oeuvre en français, les élèves de 2AEPE ont réalisé des affiches retraçant le schéma narratif de l’oeuvre d'Antoine de Saint Exupéry, le Petit Prince. Les affiches ont été très appréciées lors des portes ouvertes et elles continuent à être regardées au CDI. "On sent le talent de futurs animateurs s’exprimer à travers ces affiches !" (Mme MAURICE-ANDREETTI, enseignante de Lettres).
-	
-    ??? **Semaine de la presse - 21 au 25 mars 2022**
+	    
+        Dans le cadre d’une lecture intégrale d’une oeuvre en français, les élèves de ==**2AEPE**== ont réalisé des affiches retraçant le schéma narratif de l’oeuvre d'Antoine de Saint Exupéry, le **^^Petit Prince^^**. Les affiches ont été très appréciées lors des portes ouvertes et elles continuent à être regardées au CDI. "On sent le talent de futurs animateurs s’exprimer à travers ces affiches !" (Mme MAURICE-ANDREETTI, enseignante de Lettres).
+
+    ??? "**Semaine de la presse - 21 au 25 mars 2022**"  
 
 
 
@@ -28,11 +30,11 @@
     ??? "**Frida KAHLO**"
      
         ![Frida Kahlo](./images/expo_FridaKahlo.jpg "Frida Kahlo"){width=30% align=left}
-	Exposition sur ==**Frida Kahlo**== réalisée par les élèves du cours d'Espagnol.
+	    Exposition sur ==**Frida Kahlo**== réalisée par les élèves du cours d'Espagnol.
 	
-	Pour aller plus loin : [**Frida Kahlo - France Culture**]( https://www.franceculture.fr/personne-frida-kahlo.html)
+	    Pour aller plus loin : [**Frida Kahlo - France Culture**]( https://www.franceculture.fr/personne-frida-kahlo.html)
 	
-	==**Visible au CDI jusqu'à mi-mars**==
+	    ==**Visible au CDI jusqu'à mi-mars**==
     
     ??? "**Projets franco-allemands**"
     
@@ -180,7 +182,7 @@
     [![Vocable Allemand](./images/abonnements/Vocable_Allemand_20220303_859.jpg "Vocable Allemand, 03 mars 2022, n°859"){width=20%}](./images/abonnements/Vocable_Allemand_20220303_859_sommaire.pdf){target=_blank}
     
     ??? Example ":es: **Espagnol** :es:"
-    [![Vocable Espagnol](./images/abonnements/Vocable_Espagnol_20220120_849.jpg "Vocable Espagnol, 20 janvier 2022, n°849"){width=20%}](./images/abonnements/Vocable_Espagnol_20220120_859_sommaire.pdf){target=_blank}
+    [![Vocable Espagnol](./images/abonnements/Vocable_Espagnol_20220120_849.jpg "Vocable Espagnol, 20 janvier 2022, n°849"){width=20%}](./images/abonnements/Vocable_Espagnol_20220120_849_sommaire.pdf){target=_blank}
     [![Vocable Espagnol](./images/abonnements/Vocable_Espagnol_20220203_850.jpg "Vocable Espagnol, 03 février 2022, n°850"){width=20%}](./images/abonnements/Vocable_Espagnol_20220203_850_sommaire.pdf){target=_blank}
     [![Vocable Espagnol](./images/abonnements/Vocable_Espagnol_20220217_851.jpg "Vocable Espagnol, 17 février 2022, n°851"){width=20%}](./images/abonnements/Vocable_Espagnol_20220217_851_sommaire.pdf){target=_blank}
     [![Vocable Espagnol](./images/abonnements/Vocable_Espagnol_20220303_852.jpg "Vocable Espagnol, 03 mars 2022, n°852"){width=20%}](./images/abonnements/Vocable_Espagnol_20220303_852_sommaire.pdf){target=_blank}
