@@ -1,9 +1,7 @@
 ## Expositions
 
 ==**Expositions du moment au CDI...**==
-
 ???+ **A DECOUVRIR**
-
     ??? "**"Le petit Prince" - Antoine de Saint-Exupéry**
         ![Petit Prince1](./images/expo_petit_prince_01.jpg "Petit Prince"){width=30% align=left}
         ![Petit Prince2](./images/expo_petit_prince_02.jpg "Petit Prince"){width=30% align=left}
@@ -27,10 +25,10 @@
      
         ![Frida Kahlo](./images/expo_FridaKahlo.jpg "Frida Kahlo"){width=30% align=left}
 	Exposition sur ==**Frida Kahlo**== réalisée par les élèves du cours d'Espagnol.
-		
-        Pour aller plus loin : [**Frida Kahlo - France Culture**]( https://www.franceculture.fr/personne-frida-kahlo.html)
-
-        ==**Visible au CDI jusqu'à mi-mars**==
+	
+	Pour aller plus loin : [**Frida Kahlo - France Culture**]( https://www.franceculture.fr/personne-frida-kahlo.html)
+	
+	==**Visible au CDI jusqu'à mi-mars**==
     
     ??? "**Projets franco-allemands**"
     
