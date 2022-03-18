@@ -1,11 +1,14 @@
 ## Expositions
 
 ==**Expositions du moment au CDI...**==
+
 ???+ **A DECOUVRIR**
     ??? "**"Le petit Prince" - Antoine de Saint-Exupéry**
         ![Petit Prince1](./images/expo_petit_prince_01.jpg "Petit Prince"){width=30% align=left}
         ![Petit Prince2](./images/expo_petit_prince_02.jpg "Petit Prince"){width=30% align=left}
 	![Petit Prince3](./images/expo_petit_prince_03.jpg "Petit Prince"){width=30% align=left}
+	
+	Dans le cadre d’une lecture intégrale d’une oeuvre en français, les élèves de 2AEPE ont réalisé des affiches retraçant le schéma narratif de l’oeuvre d'Antoine de Saint Exupéry, le Petit Prince. Les affiches ont été très appréciées lors des portes ouvertes et elles continuent à être regardées au CDI. "On sent le talent de futurs animateurs s’exprimer à travers ces affiches !" (Mme MAURICE-ANDREETTI, enseignante de Lettres).
 	
     ??? **Semaine de la presse - 21 au 25 mars 2022**
 
