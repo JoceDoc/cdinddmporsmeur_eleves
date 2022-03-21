@@ -46,7 +46,10 @@ ___
     - [**Réaliser un diaporama**](./pdf/Méthodologie_Réaliser un diaporama.pdf){target=_blank}
     - [**Citer ses sources**](./pdf/Méthodologie_Citer ses sources bibliographiques.pdf){target=_blank}
   
-    
+
+??? info "Ressources"
+    - [**Nouveaux cours**](https://www.fun-mooc.fr/fr/cours/?limit=21&new=new&offset=0) : Sur FunMOOC, des cours en ligne pour découvrir, apprendre, progresser... dans les différentes disciplines.
+
 ???+ "Applications utiles"
     - [**PIX**](https://pix.fr/){target=_blank} : S'entraîner pour développer ses compétences numériques en vue de la certification de terminale.
     - [**Tutoriel pour une présentation avec PREZI**](https://prezi.com/r9ju2zs5ki65/guide-prezi-en-francais/){target=_blank}
