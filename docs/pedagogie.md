@@ -48,7 +48,7 @@ ___
   
 
 ??? info "Ressources"
-    - [**Nouveaux cours**](https://www.fun-mooc.fr/fr/cours/?limit=21&new=new&offset=0) : Sur FunMOOC, des cours en ligne pour découvrir, apprendre, progresser... dans les différentes disciplines.
+    - [**Nouveaux cours**](https://www.fun-mooc.fr/fr/cours/?limit=21&new=new&offset=0) : en ligne sur FunMOOC pour découvrir, apprendre, progresser... dans les différentes disciplines.
 
 ???+ "Applications utiles"
     - [**PIX**](https://pix.fr/){target=_blank} : S'entraîner pour développer ses compétences numériques en vue de la certification de terminale.
