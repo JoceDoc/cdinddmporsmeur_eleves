@@ -24,11 +24,11 @@ Jocelyne Coz - Claire Léost
 -------
 ## Introduction 
 
-Le site du CDI vous propose des :
+Le site du CDI vous propose :
 
-- ==**Ressources**== pour les disciplines du lycée
-- ==**Informations**== et ==**ressources**== pour l'orientation et le ==**parcours avenir**==.
-- ==**Conseils méthodologiques**== et des ==**tutoriels**== divers pour vous aider dans votre travail.
+- Des ==**Ressources**== pour les disciplines du lycée
+- Des ==**Informations**== et ==**ressources**== pour l'orientation et le ==**parcours avenir**==.
+- Des ==**Conseils méthodologiques**== et des ==**tutoriels**== divers pour vous aider dans votre travail.
     
 Les dernières nouveautés du CDI pour la presse sont accessibles dans le [**Kiosque du mois**](https://jocedoc.github.io/cdinddmporsmeur_eleves/actualites/#presse){target=blank}, onglet ==**Actualités**==.
 
@@ -57,9 +57,9 @@ Pour découvrir les ==**autres nouveautés**== du CDI (documentaires, fictions, 
 
 ### Plannings
 
-Les plannings hebdomadaires des séances pédagogiques réservées sont affichés le vendredi soir, pour la semaine à venir, sur les portes d'entrée du **CDI**, ainsi que des salles **INFO 1** et **INFO 2**.
+Les plannings hebdomadaires des séances pédagogiques sont affichés le vendredi soir, pour la semaine à venir, sur les portes d'entrée du ==**CDI**==, ainsi que des salles ==**INFO 1**== et ==**INFO 2**==.
 
-Ci-dessous les heures d'ouverture du CDI, correspondant à la présence des documentalistes.
+Ci-dessous les heures d'ouverture du CDI.
 
 ??? info "**Horaire hebdomadaire**"
     |**JOUR**      |**HORAIRES**                        | 
@@ -74,7 +74,7 @@ Ci-dessous les heures d'ouverture du CDI, correspondant à la présence des docu
 
 Le règlement du lycée s'applique dans son intégralité au CDI. Quelques **==points spécifiques==** s'ajoutent pour ce lieu particulier.
 
-??? info "**Points spécifiques*"
+??? info "**Points spécifiques**"
     
     Les **==séances pédagogiques==** sont **==prioritaires==** pour l'occupation de la salle.
     Pendant les séances pédagogiques l'**==accès aux individuels==** reste possible en fonction de la place disponible.
@@ -88,7 +88,7 @@ Le règlement du lycée s'applique dans son intégralité au CDI. Quelques **==p
 
 ### Espaces de travail
 
-Pour vous repérer et identifier les différents espaces documentaires, consultez le [**plan du CDI**](./pdf/00_plan_CDI.pdf){target=_blank}
+Pour vous repérer et identifier les différents ==**espaces documentaires**==, consultez le [**plan du CDI**](./pdf/00_plan_CDI.pdf){target=_blank}
 
 ### Le Prêt 
 
