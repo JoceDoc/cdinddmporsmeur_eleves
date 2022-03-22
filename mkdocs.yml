@@ -19,7 +19,6 @@ docs_dir: docs
 # Menu de navigation
 nav: 
     - Page d'accueil : index.md
-    - Informations pratiques : informations.md
     - Actualités : actualites.md
     - Pédagogie : pedagogie.md
     - Culture : culture.md
