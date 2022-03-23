@@ -43,6 +43,7 @@ ___
     - [**Faire un exposé**](./pdf/Méthodologie_Faire un exposé.pdf){target=_blank}
     - [**Faire une revue de presse**](./pdf/Méthodologie_Faire une revue de presse.pdf){target=_blank}
     - [**Réaliser une affiche**](./pdf/Méthodologie_Réaliser une affiche.pdf){target=_blank} 
+    - [**Réaliser un panneau**](./pdf/Méthodologie_Réaliser un panneau.pdf){target=_blank}
     - [**Réaliser un diaporama**](./pdf/Méthodologie_Réaliser un diaporama.pdf){target=_blank}
     - [**Citer ses sources**](./pdf/Méthodologie_Citer ses sources bibliographiques.pdf){target=_blank}
   
