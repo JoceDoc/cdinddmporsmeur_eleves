@@ -66,6 +66,7 @@ ___
     
     * Maîtriser son temps d'écrans.
     
+    ![Esprit critique](./images/esprit_critique.png "Esprit critique"){width=50% align=right}
     
 ??? "Sites pour s'informer"
     - [**AFP**](https://www.afp.com/fr){target=_blank}
