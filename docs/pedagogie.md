@@ -7,12 +7,6 @@ ___
 
 ## Actualité des disciplines
 
-???+ tip "Semaine des mathématiques"
-    ==**Du 7 au 14 mars 2022, c'est la semaine des mathématiques**==. L'occasion de renforcer l'attractivité des mathématiques.
-    
-    - [**Guide officiel**](https://eduscol.education.fr/document/38933/download?attachment){target=_blank} de l´édition 2022 sur le thème ==**"Les Maths en forme(s)"**==.
-    - [**Les défis possibles**](https://www.mathsenvie.fr/?p=10530){target=_blank} par niveau, les modalités du concours...
-    - [**Ressources**](https://maths.discip.ac-caen.fr/spip.php?article554){target=_blank}
 
 
 ## Méthodologie pour tous
@@ -298,6 +292,13 @@ ___
     - [**Mathsenvie**](https://www.mathsenvie.fr/?p=10530){target=_blank} : Une façon originale d’aborder les mathématiques : motivante, concrète et en lien avec le quotidien des élèves. Activités de la maternelle au lycée...
     - [**Podcast - France Culture**](https://www.franceculture.fr/theme/mathematiques){target=_blank}
     - [**Annales**](https://www.annales2maths.com/){target=_blank}
+    
+    ??? tip "Ressources proposées pour la "Semaine des mathématiques""
+    ==**Du 7 au 14 mars 2022, s'est déroulé la semaine des mathématiques**== : l'occasion de renforcer l'attractivité des mathématiques.
+    
+    - [**Guide officiel**](https://eduscol.education.fr/document/38933/download?attachment){target=_blank} de l´édition 2022 sur le thème ==**"Les Maths en forme(s)"**==.
+    - [**Les défis possibles**](https://www.mathsenvie.fr/?p=10530){target=_blank} par niveau, les modalités du concours...
+    - [**Ressources**](https://maths.discip.ac-caen.fr/spip.php?article554){target=_blank}
 
 ___
 ### NSI
