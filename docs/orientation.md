@@ -76,7 +76,8 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
 ### Par niveau
 
 === "SECONDE"
-    [**Vers le PADLET seconde**](https://padlet.com/cdinddmporsmeur/orientation_seconde_2020){target=_blank}
+    - [**Vers le PADLET seconde**](https://padlet.com/cdinddmporsmeur/orientation_seconde_2020){target=_blank}
+    - [**Guide d'accompagnement à l'orientation 2de**](./pdf/Guide_accompagnement_orientation_2nde_GT_20220316.pdf){target=_blank}
 === "PREMIERE"
     [**Vers le PADLET première**](https://padlet.com/cdinddmporsmeur/orientation_premiere_2020){target=_blank}
 === "TERMINALE"
