@@ -15,6 +15,7 @@ ___
     - [**Apprendre efficacement**](https://apprendre-reviser-memoriser.fr/category/revisions-bac-brevet-examens-concours/){target=_blank}
     - **D'autres exemples de cartes mentales** [**ici**](https://www.ebsi.umontreal.ca/jetrouve/projet/cartes_m/galerie.htm){target=_blank}
     
+    ![carte mentale](./images/00-carte_mentale_tutoriel.jpg "Carte mentale"){center=80%}
         
 ??? question "Améliorer sa rédaction"   
     - [**La langue française - Le Robert**](https://www.lalanguefrancaise.com/){target=_blank} : dictionnaire, conjugaison, orthographe, expressions...
