@@ -96,7 +96,7 @@ Pour vous repérer et identifier les différents ==**espaces documentaires**==, 
     La plupart des documents (fictions, documentaires, périodiques, DVD) peuvent être empruntés, jusqu'à 3 documents à la fois.
     Par respect des autres utilisateurs, il est **==INDISPENSABLE==** d'en prendre le plus grand soin et de les rapporter dans les délais impartis.
     
-    La **==durée de prêt==** varie en fonction du type de document :
+    La **==durée de prêt==** varie en fonction du type de document : 
 
     * Fictions : 3 semaines
     * Documentaires : 1 semaine
