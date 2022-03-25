@@ -15,8 +15,7 @@ ___
     - [**Apprendre efficacement**](https://apprendre-reviser-memoriser.fr/category/revisions-bac-brevet-examens-concours/){target=_blank}
     - **D'autres exemples de cartes mentales** [**ici**](https://www.ebsi.umontreal.ca/jetrouve/projet/cartes_m/galerie.htm){target=_blank}
     
-    ![carte mentale](./images/00-carte_mentale_tutoriel.jpg "Carte mentale"){center=80%}
-    
+        
 ??? question "Améliorer sa rédaction"   
     - [**La langue française - Le Robert**](https://www.lalanguefrancaise.com/){target=_blank} : dictionnaire, conjugaison, orthographe, expressions...
     - [**Question d'orthographe**](https://www.projet-voltaire.fr/regles-orthographe/){target=_blank} : consultez le site du projet Voltaire.
@@ -44,6 +43,7 @@ ___
 
 ??? info "Ressources"
     - [**Nouveaux cours**](https://www.fun-mooc.fr/fr/cours/?limit=21&new=new&offset=0) : en ligne sur FunMOOC pour découvrir, apprendre, progresser... dans les différentes disciplines.
+    - [**DYS**](https://www.ffdys.com/troubles-dys){target=_blank} : comprendre les troubles cognitifs spécifiques.
 
 ???+ "Applications utiles"
     - [**PIX**](https://pix.fr/){target=_blank} : S'entraîner pour développer ses compétences numériques en vue de la certification de terminale.
@@ -66,8 +66,9 @@ ___
     
     * Maîtriser son temps d'écrans.
     
-    ![Esprit critique](./images/esprit_critique.png "Esprit critique"){width=50% align=right}
-    
+    ???+ attention "Comment développer son esprit critique ?"
+        ![Esprit critique](./images/esprit_critique.png "Esprit critique"){width=70% align=left}
+        
 ??? "Sites pour s'informer"
     - [**AFP**](https://www.afp.com/fr){target=_blank}
     - [**Reporters sans frontières**](https://rsf.org/){target=_blank}
@@ -231,8 +232,9 @@ ___
     - [**France Culture**](https://www.franceculture.fr/geopolitique){target=_blank} : Analyses et décryptages : comprendre les relations internationales et la géopolitique du monde actuel grâce aux émissions et podcasts de France Culture.
     - [**Lumni**](https://www.lumni.fr/recherche?query=G%C3%A9opolitique&establishment=lycee&schoolLevel=seconde){target=_blank} : Série Géopoliticus pour décrypter la géopolitique à l’aide d’infographies animées pour comprendre le monde et les grands enjeux politiques de notre temps.
     - [**IRIS - Institut de Relations Internationales et Stratégiques**](https://www.iris-france.org/){target=_blank}
-    - [**Revue Conflits**](https://www.revueconflits.com/){target=_blank}
+    - [**Revue Conflits**](https://www.revueconflits.com/){target=_blank} : Revue de géopolitique.
     - [**Site du gouvernement**](https://www.gouvernement.fr){target=_blank} : composition, actualité du gouvernement français.
+    - [**Concours national de la résistance**](https://www.reseau-canope.fr/cnrd/){target=_blank} : ressources pour participer.
     
 ??? "Actualité UKRAINE"
     - [**Histoire de l'Ukhraine**](https://www.franceculture.fr/emissions/serie/une-histoire-de-l-ukraine){target=_blank} : Série d'émissions à retrouver dans l'émission "la fabrique de l'histoire" sur France culture.
@@ -359,6 +361,7 @@ ___
 ??? "Ressources" 
     - [**Vive les SVT**](https://www.vivelessvt.com/){target=_blank}
     - [**Planète énergie**](https://www.planete-energies.com/fr){target=_blank}
+    - [**A la découverte du corps humain**](https://www.reseau-canope.fr/corpus/#){target=_blank}
 
 ___
 ### Série STMG  

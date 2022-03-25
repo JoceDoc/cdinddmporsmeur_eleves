@@ -55,7 +55,7 @@ Pour découvrir les ==**autres nouveautés**== du CDI (documentaires, fictions, 
 
 ## Informations pratiques
 
-### Plannings
+### Planning
 
 Les plannings hebdomadaires des séances pédagogiques sont affichés le vendredi soir, pour la semaine à venir, sur les portes d'entrée du ==**CDI**==, ainsi que des salles ==**INFO 1**== et ==**INFO 2**==.
 
@@ -66,7 +66,7 @@ Ci-dessous les heures d'ouverture du CDI.
     |:-------------|:----------------------------------:|
     |**Lundi**     | **9h00 - 18h30**                   |
     |**Mardi**     | **8h30 - 18h30**                   |
-    |**Mercredi**  | **8h30 - 12h00 et 13h00 - 18h30** |
+    |**Mercredi**  | **8h30 - 12h00 et 13h00 - 18h30**  |
     |**Jeudi**     | **8h30 - 18h30**                   |
     |**Vendredi**  | **8h30 - 16h30**                   |
 
