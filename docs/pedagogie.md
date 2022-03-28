@@ -68,7 +68,7 @@ ___
     * Maîtriser son temps d'écrans.
     
     ???+ attention "Comment développer son esprit critique ?"
-        ![Esprit critique](./images/esprit_critique.png "Esprit critique"){width=70% align=left}
+        ![Esprit critique](./images/esprit_critique.jpg "Esprit critique"){width=70% align=left}
         
 ??? "Sites pour s'informer"
     - [**AFP**](https://www.afp.com/fr){target=_blank}
