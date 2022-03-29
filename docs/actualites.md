@@ -128,7 +128,7 @@
     [![Science et Vie](./images/abonnements/SV_mars_2022_1254.jpg "Science et Vie, mars 2022, n°1254"){width=20%}](./images/abonnements/SV_mars_2022_1254_sommaire.pdf){target=_blank}
     [![Science et Vie Junior](./images/abonnements/avril/SVJ_avril_2022_391.jpg "Science et Vie Junior, avril 2022, n°391"){width=20%}](./images/abonnements/avril/SVJ_avril_2022_391_sommaire.pdf){target=_blank}
     [![Sciences et avenir](./images/abonnements/avril/Sciences_et_avenir_avril_2022_902.JPG "Sciences et avenir, avril 2022, n°902"){width=20%}](./images/abonnements/avril/Sciences_et_avenir_avril_2022_902_sommaire.pdf){target=_blank}
-    [![Sciences Ouest](./images/abonnements/avril/Sciences_ouest_avril_2022_398.JPG "Sciences Ouest, avril 2022, n°398"){width=20%}](./images/abonnements/Sciences_ouest_avril_2022_398_sommaire.pdf){target=_blank}
+    [![Sciences Ouest](./images/abonnements/avril/Sciences_ouest_avril_2022_398.JPG "Sciences Ouest, avril 2022, n°398"){width=20%}](./images/abonnements/avril/Sciences_ouest_avril_2022_398_sommaire.pdf){target=_blank}
     
 
 
