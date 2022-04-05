@@ -2,8 +2,8 @@ Pour vous aider et vous accompagner dans vos apprentissages :
 
 ???+ example inline end "Liens utiles :"
     - [**PIX**](https://pix.fr/){target=_blank} : S'entraîner pour développer ses compétences numériques en vue de la certification de terminale.
-    - [**Tutoriel pour une présentation avec PREZI**](https://prezi.com/r9ju2zs5ki65/guide-prezi-en-francais/){target=_blank}
-    - [**Excel Pratique**](https://www.excel-pratique.com/){target=_blank}
+    - [**PREZI - tutoriel**](https://prezi.com/r9ju2zs5ki65/guide-prezi-en-francais/){target=_blank}
+    - [**EXCEL - cours**](https://www.excel-pratique.com/){target=_blank}
 
 - ==**Conseils et tutoriels**== : pour s'organiser dans son travail, améliorer sa rédaction, chercher des informations et présenter le résultat de ses recherches...
 - ==**Programmes officiels et ressources utiles**== : pour les disciplines d'enseignement général, les enseignements de spécialités (LGT) ou matières professionnelles (LP).
