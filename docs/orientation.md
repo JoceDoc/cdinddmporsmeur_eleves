@@ -6,7 +6,7 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
 ## Actualités
 
 ???+ attention "Voeux PARCOURSUP"
-    ==**RAPPEL pour les élèves de terminale**== : vos dossiers Parcoursup doivent être complétés et vos vœux confirmés **==avant ce jeudi 07/4 - 23h59.**==
+    ==**RAPPEL pour les élèves de terminale**== : vos dossiers Parcoursup doivent être complétés et vos vœux confirmés ==**avant ce jeudi 07/4 - 23h59.**==
     Il vaudrait mieux éviter d'attendre jeudi pour procéder à ces actions en raison d'un probable grand nombre de connexions qui peut rendre difficile l'accès au site. M. QUINIO
 
 ???+ info "Forum des métiers de l'aéronautique"
