@@ -1,13 +1,14 @@
 Pour vous aider et vous accompagner dans vos apprentissages :
 
-- ==**Conseils et tutoriels**== : pour s'organiser dans son travail, améliorer sa rédaction, chercher des informations et présenter le résultat de ses recherches...
-- ==**Programmes officiels et ressources utiles**== : pour les disciplines d'enseignement général, les enseignements de spécialités (LGT) ou matières professionnelles (LP).
-- ==**Projets pédagogiques**== : concours scolaires, projets d'AP, éducation aux médias et à l'information...
-
 ???+ example inline end "Liens utiles :"
     - [**PIX**](https://pix.fr/){target=_blank} : S'entraîner pour développer ses compétences numériques en vue de la certification de terminale.
     - [**Tutoriel pour une présentation avec PREZI**](https://prezi.com/r9ju2zs5ki65/guide-prezi-en-francais/){target=_blank}
     - [**Excel Pratique**](https://www.excel-pratique.com/){target=_blank}
+
+- ==**Conseils et tutoriels**== : pour s'organiser dans son travail, améliorer sa rédaction, chercher des informations et présenter le résultat de ses recherches...
+- ==**Programmes officiels et ressources utiles**== : pour les disciplines d'enseignement général, les enseignements de spécialités (LGT) ou matières professionnelles (LP).
+- ==**Projets pédagogiques**== : concours scolaires, projets d'AP, éducation aux médias et à l'information...
+
 
 ___
 
