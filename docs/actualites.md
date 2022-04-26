@@ -118,7 +118,9 @@
    
 ??? "**Kiosque du mois** :newspaper:"
   
-    [![01.NET](./images/abonnements/avril/01Net_23_mars_2022_970.JPG "01.NET, 23 mars 2022, n°970"){width=20%}](./images/abonnements/avril/01Net_23_mars_2022_970_sommaire.pdf){target=_blank} 
+    [![01.NET](./images/abonnements/avril/01Net_23_mars_2022_970.JPG "01.NET, 23 mars 2022, n°970"){width=20%}](./images/abonnements/avril/01Net_23_mars_2022_970_sommaire.pdf){target=_blank}
+    [![01.NET](./images/abonnements/avril/01Net_6_avril_2022_971.JPG "01.NET, 06 avril 2022, n°971"){width=20%}](./images/abonnements/avril/01Net_01Net_6_avril_2022_971.pdf){target=_blank}
+    [![01.NET](./images/abonnements/avril/01Net_20_avril_2022_972.JPG "01.NET, 20 avril 2022, n°972"){width=20%}](./images/abonnements/avril/01Net_20_avril_2022_972.pdf){target=_blank}  
     [![Alternatives Economiques](./images/abonnements/avril/Alternatives_economiques_avril_2022_422.jpg "Alternatives Economiques, avril 2022, n°422"){width=20%}](./images/abonnements/avril/Alternatives_economiques_avril_2022_422_sommaire.pdf){target=_blank}
     [![Ca m'intéresse](./images/abonnements/avril/Ca_m_interesse_avril_2022_494.JPG "Ca m'intéresse, avril 2022, n°493"){width=20%}](./images/abonnements/avril/Ca_m_interesse_avril_2022_494_sommaire.pdf){target=_blank}
     [![Courrier international](./images/abonnements/avril/Courrier_international_24_mars_2022_1638.JPG "Courrier international, 24 mars 2022, n°1638"){width=20%}](./images/abonnements/avril/Courrier_international_24_mars_2022_1638_sommaire.pdf){target=_blank}
