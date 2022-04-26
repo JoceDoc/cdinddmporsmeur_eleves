@@ -1,8 +1,15 @@
 Pour vous aider et vous accompagner dans vos apprentissages :
 
+???+ example inline end "Liens utiles :"
+    - [**PIX**](https://pix.fr/){target=_blank} : S'entraîner pour développer ses compétences numériques en vue de la certification de terminale.
+    - [**PREZI - tutoriel**](https://prezi.com/r9ju2zs5ki65/guide-prezi-en-francais/){target=_blank}
+    - [**EXCEL - cours**](https://www.excel-pratique.com/){target=_blank}
+
 - ==**Conseils et tutoriels**== : pour s'organiser dans son travail, améliorer sa rédaction, chercher des informations et présenter le résultat de ses recherches...
 - ==**Programmes officiels et ressources utiles**== : pour les disciplines d'enseignement général, les enseignements de spécialités (LGT) ou matières professionnelles (LP).
 - ==**Projets pédagogiques**== : concours scolaires, projets d'AP, éducation aux médias et à l'information...
+
+
 ___
 
 ## Actualité des disciplines
@@ -238,7 +245,7 @@ ___
     - [**Concours national de la résistance**](https://www.reseau-canope.fr/cnrd/){target=_blank} : ressources pour participer.
     
 ??? "Actualité UKRAINE"
-    - [**Histoire de l'Ukhraine**](https://www.franceculture.fr/emissions/serie/une-histoire-de-l-ukraine){target=_blank} : Série d'émissions à retrouver dans l'émission "la fabrique de l'histoire" sur France culture.
+    - [**Histoire de l'Ukraine**](https://www.franceculture.fr/emissions/serie/une-histoire-de-l-ukraine){target=_blank} : Série d'émissions à retrouver dans l'émission "la fabrique de l'histoire" sur France culture.
     - [**Ressources des éditions Magnard**](https://www.magnard.fr/article/toutes-les-actualites-de-lhistoire-geographie-et-de-lhggsp){target=_blank}
     
 ??? "Séances pédagogiques"   
