@@ -47,11 +47,15 @@ Ci-dessous vous pouvez accéder directement aux sites officiels de ces lieux cul
 
 [**Ministère de la culture**](https://www.culture.gouv.fr/){target=_blank}
 
+[**Culture et patrimoine**](https://www.cultureetpatrimoine.com/){target=_blank}
+
 [**Institut National d'Histoire de l'Art**](https://www.inha.fr/fr/ressources/eac/sitographie.html)
+
+[**Histoire des arts**](https://histoiredesarts.culture.gouv.fr/){target=_blank}
 
 [**Panorama des arts**](https://panoramadelart.com/){target=_blank}
 
-[**Culture et patrimoine**](https://www.cultureetpatrimoine.com/){target=_blank}
+
 
 ## Musées célèbres
 
