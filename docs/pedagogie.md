@@ -206,7 +206,7 @@ ___
 
 ??? "Ressources" 
     - [**Arts plastiques - Ministère de la culture**](https://www.culture.gouv.fr/Thematiques/Arts-plastiques){target=_blank}
-    - [**Histoire des arts**](https://histoiredesarts.culture.gouv.fr/){target=blank}
+    - [**Histoire des arts**](https://histoiredesarts.culture.gouv.fr/){target=_blank}
 ___ 
 ### EPS
     
