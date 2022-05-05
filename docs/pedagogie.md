@@ -205,8 +205,8 @@ ___
     Sur le site [**Eduscol**](https://eduscol.education.fr/1713/programmes-et-ressources-en-arts-plastiques-voie-gt){target=_blank}.
 
 ??? "Ressources" 
-    - [**Arts plastique - Ministère de la culture**](https://www.culture.gouv.fr/Thematiques/Arts-plastiques){target=_blank}
-    
+    - [**Arts plastiques - Ministère de la culture**](https://www.culture.gouv.fr/Thematiques/Arts-plastiques){target=_blank}
+    - [**Histoire des arts**](https://histoiredesarts.culture.gouv.fr/){target=_blank}
 ___ 
 ### EPS
     
