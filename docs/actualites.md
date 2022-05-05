@@ -194,7 +194,6 @@
 
 ??? "**Pour les enseignants**"
     [![Cahiers pédagogiques](./images/abonnements/enseignants/Cahiers_pédagogiques_février_2022_575.jpg "Cahiers pédagogiques, février 2022, n°575"){width=20%}](./images/abonnements/enseignants/Cahiers_pédagogiques_février_2022_575_sommaire.pdf){target=_blank}
-    [![Cahiers pédagogiques](./images/abonnements/enseignants/Cahiers_pédagogiques_mars_2022_576.JPG "Cahiers pédagogiques, mars 2022, n°576"){width=20%}](./images/abonnements/enseignants/Cahiers_pédagogiques_mars_2022_576.pdf){target=_blank}
 
 
 
