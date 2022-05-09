@@ -9,12 +9,9 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
     ==**RAPPEL pour les élèves de terminale**== : vos dossiers Parcoursup doivent être complétés et vos vœux confirmés ==**avant ce jeudi 07/4 - 23h59.**==
     Il vaudrait mieux éviter d'attendre jeudi pour procéder à ces actions en raison d'un probable grand nombre de connexions qui peut rendre difficile l'accès au site. M. QUINIO
 
-???+ info "Forum des métiers du numérique"
+???+ info "Forum horizon emploi"
     ![Forum Métiers du numérique](./images/orientation/pdmx_forum_emploi_2022.jpg "Forum Métiers du numérique"){align=left width=70%
     
-???+ info "Forum des métiers de l'aéronautique"
-    - [**Forum des métiers de l'aéronautique**](https://www.eventbrite.fr/e/billets-forum-des-metiers-de-laeronautique-navale-179481121867){target=_blank} : le **25 mars 2022** à la base aéronavale de Landivisiau.
-
 
 ???+ info "Pour ne rien manquer..."
     - [**Printemps de l'orientation**](https://www.education.gouv.fr/reussir-au-lycee/le-printemps-de-l-orientation-327179){target=_blank} : site incontournable pour les rendez-vous importants à venir, informations par académie...
