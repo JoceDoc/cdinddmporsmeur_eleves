@@ -405,11 +405,16 @@ Présentation du baccalauréat professionnel sur le site [**Eduscol**](https://e
     Sur le site [**Eduscol**](https://eduscol.education.fr/referentiels-professionnels/BacPro_MetCoVe/Annexes_BacPro_MetCoVe.pdf){target=_blank}
 
 ## CAP
+??? "Programmes et référentiel"
+    Sur le Site [**Eduscol**](https://eduscol.education.fr/1923/le-certificat-d-aptitude-professionnelle-cap){target=_blank}
 
 ### AEPE
+??? "Programmes et référentiel"
+    Sur le Site [**Eduscol**](https://eduscol.education.fr/referentiels-professionnels/CAP_AEPE.html){target=_blank}
 
 ### EPC
-
+??? "Programmes et référentiel"
+    Sur le Site [**Eduscol**](https://eduscol.education.fr/referentiels-professionnels/cap_EPC.html){target=_blank}
 
 ___
 ## Réviser pour le BAC
