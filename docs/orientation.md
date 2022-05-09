@@ -7,7 +7,7 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
 
 ???+ attention "**PARCOURSUP**"
     ==**Phase d'admission**== :  ==**du 2 juin au 15 juillet**==
-   
+    [**Parcoursup**](https://www.parcoursup.fr/){target=_blank} 
 
 ???+ info "Forum horizon emploi"
     ![**Forum horizon emploi*](./images/orientation/pdmx_forum_emploi_2022.jpg "Forum Métiers du numérique"){align=left width=70%}
