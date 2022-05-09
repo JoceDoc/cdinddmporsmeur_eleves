@@ -389,7 +389,7 @@ Présentation du baccalauréat professionnel sur le site [**Eduscol**](https://e
 
 - [**Métiers de la relation client**](https://eduscol.education.fr/document/1902/download){target=_blank}
 
-- [**Le chef d'oeuvre**](https://eduscol.education.fr/document/1916/download){target=_blank} - [**Vademecum**](https://eduscol.education.fr/document/1916/download?attachment){target=_blank} : définition, modalités, collaboration entre disciplines, enjeux et mise en oeuvre.
+- [**Le chef d'oeuvre**](https://eduscol.education.fr/3001/la-realisation-du-chef-d-oeuvre){target=_blank} - [**Vademecum**](https://eduscol.education.fr/document/1916/download?attachment){target=_blank} : définition, modalités, collaboration entre disciplines, enjeux et mise en oeuvre.
 
 
 ### ASSP
