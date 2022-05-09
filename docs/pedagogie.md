@@ -284,6 +284,7 @@ ___
     - [**Memrise**](https://app.memrise.com/bienvenue#1){target=_blank}
     - [**British Council**](http://learnenglishteens.britishcouncil.org/){target=_blank}
     - [**BBC**](https://www.bbc.com/news/uk){target=_blank}
+    - [**Le Monde - version anglaise**](https://www.lemonde.fr/en/?M_BT=43662779019995){target=blank}
  
 ??? "Allemand"
     - [**L'Allemand un plus**](https://www.goethe.de/resources/files/pdf216/unplus_broschuere_2022_web.pdf){target=_blank} : Pourquoi choisir l'Allemand ? Brochure éditée par le Goethe Institut, le ministère de l'Education de la jeunesse et des sports et L'Institut Français.
