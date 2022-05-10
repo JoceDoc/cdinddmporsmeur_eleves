@@ -227,6 +227,7 @@ ___
     - [**Grammaire du Français**](https://cache.media.eduscol.education.fr/file/Programmes/52/6/Livre_Terminologie_grammaticale_web_1308526.pdf){target=_blank}
     - [**En Français dans le texte**](https://www.franceculture.fr/emissions/ecoutez-revisez){target=_blank} : Emission de France Culture proposant la lecture, par une comédienne ou un comédien, d'un texte (de littérature française le plus souvent, d'histoire ou de philosophie) au programme des classes de première ou de terminale. Chaque lecture est suivie d'une analyse par des professeurs et d'une dictée proposée à l'antenne et sur les réseaux sociaux.
     - [**Outils numériques pour les lettres et LCA**](http://www.pearltrees.com/t/lettres-lca-academie-de-rennes/numeriques-lettres-academie/id30360664){target=_blank}
+    - [**S'entraîner pour l'oral**](https://wordwall.net/fr/resource/2213377/eaf-oral-2-partie){target=_blank}
     
 ___       
 ### HGGSP / Histoire-géographie EMC
