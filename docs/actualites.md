@@ -123,6 +123,7 @@
     [![Alternatives Economiques](./images/abonnements/mai/Alternatives_economiques_mai_2022_423.JPG "Alternatives Economiques, mai 2022, n°423"){width=20%}](./images/abonnements/mai/Alternatives_economiques_mai_2022_423.pdf){target=_blank}
     [![Ca m'intéresse](./images/abonnements/mai/Ca_m_interesse_mai_2022_495.JPG "Ca m'intéresse, mai 2022, n°495"){width=20%}](./images/abonnements/mai/Ca_m_interesse_mai_2022_495.pdf){target=_blank}
     [![Courrier international](./images/abonnements/mai/Courrier_international_05_mai_2022_1644.JPG "Courrier international, 05 mai 2022, n°1644"){width=20%}](./images/abonnements/mai/Courrier_international_05_mai_2022_1644.pdf){target=_blank}
+    [![Courrier international](./images/abonnements/mai/Courrier_international_12_mai_2022_1645.JPG "Courrier international, 12 mai 2022, n°1645"){width=20%}](./images/abonnements/mai/Courrier_international_12_mai_2022_1645.pdf){target=_blank}
     [![La Croix Campus](./images/abonnements/mai/La_croix_campus_mai_2022_245.JPG "La Croix Campus, mai 2022, n°245"){width=20%}](./images/abonnements/mai/La_croix_campus_mai_2022_245.pdf){target=_blank}
     [![LDocumentation photographique](./images/abonnements/mai/Documentation_photographique_mai_2022_8147.jpg "Documentation photographique, mai 2022, n°8147"){width=20%}](./images/abonnements/mai/Documentation_photographique_mai_2022_8147.pdf){target=_blank}
     [![Journal de l'animation](./images/abonnements/mai/Journal_animation_mai_2022_229.JPG "Journal de l'animation, mai 2022, n°229"){width=20%}](./images/abonnements/mai/Journal_animation_mai_2022_229.pdf){target=_blank}
@@ -135,7 +136,8 @@
     [![Que choisir](./images/abonnements/mai/Que_choisir_mai_2022_613.JPG "Que choisir santé, mai 2022, 613"){width=20%}](./images/abonnements/mai/Que_choisir_mai_2022_613.pdf){target=_blank}
     [![Que choisir santé](./images/abonnements/mai/Que_choisir_sante_mai_2022_171.jpg "Que choisir santé, mai 2022, 171"){width=20%}](./images/abonnements/mai/Que_choisir_sante_mai_2022_171.pdf){target=_blank}
     [![Science et Vie](./images/abonnements/mai/Science_et_vie_mai_2022_1256.JPG "Science et Vie, mai 2022, n°1256"){width=20%}](./images/abonnements/mai/Science_et_vie_mai_2022_1256.pdf){target=_blank}
-    [![Science et Vie Junior](./images/abonnements/avril/SVJ_avril_2022_391.jpg "Science et Vie Junior, avril 2022, n°391"){width=20%}](./images/abonnements/avril/SVJ_avril_2022_391_sommaire.pdf){target=_blank}
+    [![Science et Vie Junior](./images/abonnements/mai/Science_et_vie_junior_mai_2022_392.jpg "Science et Vie Junior, mai 2022, n°392"){width=20%}](./images/abonnements/mai/Science_et_vie_junior_mai_2022_392.pdf){target=_blank}
+    [![Science et Vie Junior - Hors-série](./images/abonnements/mai/Science_et_vie_junior_mai_2022_153HS.jpg "Science et Vie Junior, mai 2022, n°153HS"){width=20%}](./images/abonnements/mai/Science_et_vie_junior_mai_2022_153HS.pdf){target=_blank}
     [![Sciences et avenir](./images/abonnements/mai/Sciences_et_avenir_mai_2022_903.JPG "Sciences et avenir, mai 2022, n°903"){width=20%}](./images/abonnements/mai/Sciences_et_avenir_mai_2022_903.pdf){target=_blank}
     [![Sciences humaines](./images/abonnements/mai/Sciences_humaines_mai_2022_347.JPG "Sciences humaines, mai 2022, n°347"){width=20%}](./images/abonnements/mai/Sciences_humaines_mai_2022_347.pdf){target=_blank}
     [![Sciences Ouest](./images/abonnements/mai/Sciences_ouest_mai_2022_399.JPG "Sciences Ouest, mai 2022, n°399"){width=20%}](./images/abonnements/mai/Sciences_ouest_mai_2022_399.pdf){target=_blank}
@@ -176,8 +178,12 @@
 ??? "**Kiosque des langues vivantes** :gb: :de: :es: :it: :cn:"
     
     ??? Example ":gb: **Anglais** :gb:"
-    [![I love English world](./images/abonnements/langues/IloveEnglishWorld_février_2022_346.jpg "I love english world, février 2022, n°346"){width=20%}](./images/abonnements/langues/IloveEnglishWorld_février_2022_346_sommaire.pdf){target=_blank}
-    [![I love English world](./images/abonnements/langues/IloveEnglishWorld_mars_2022_347.jpg "I love english world, mars 2022, n°346"){width=20%}](./images/abonnements/langues/IloveEnglishWorld_mars_2022_347_sommaire.pdf){target=_blank}
+    [![I love English world](./images/abonnements/langues/IloveEnglishWorld_février_2022_346.jpg "I love english world, février 2022, n°346"){width=20%}](./images/abonnements/langues/IloveEnglishWorld_février_2022_346.pdf){target=_blank}
+    [![I love English world](./images/abonnements/langues/IloveEnglishWorld_mars_2022_347.jpg "I love english world, mars 2022, n°347"){width=20%}](./images/abonnements/langues/IloveEnglishWorld_mars_2022_347.pdf){target=_blank}
+    [![I love English world](./images/abonnements/langues/IloveEnglishWorld_avril_2022_348.jpg "I love english world, avril 2022, n°348"){width=20%}](./images/abonnements/langues/IloveEnglishWorld_avril_2022_348.pdf){target=_blank}
+    [![I love English world](./images/abonnements/langues/IloveEnglishWorld_mai_2022_349.jpg "I love english world, mai 2022, n°349"){width=20%}](./images/abonnements/langues/IloveEnglishWorld_mai_2022_349.pdf){target=_blank}
+    [![I love English world](./images/abonnements/langues/IloveEnglishWorld_juin_2022_350.jpg "I love english world, juin 2022, n°350"){width=20%}](./images/abonnements/langues/IloveEnglishWorld_juin_2022_350.pdf){target=_blank}
+
     
     ??? Example ":de: **Allemand** :de:"
     [![Vocable Allemand](./images/abonnements/langues/Vocable_Allemand_20220120_856.jpg "Vocable Allemand, 20 janvier 2022, n°856"){width=20%}](./images/abonnements/langues/Vocable_Allemand_20220120_856_sommaire.pdf){target=_blank}

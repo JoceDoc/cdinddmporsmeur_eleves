@@ -37,7 +37,7 @@ ___
     - [**Chercher pour trouver**](https://www.ebsi.umontreal.ca/jetrouve/){target=_blank}
     - [**Vérifier une information sur Internet**](https://fr.wikihow.com/v%C3%A9rifier-l%E2%80%99information-sur-internet){target=_blank}
     - [**Prendre des notes**](./pdf/Méthodologie_Prendre des notes.pdf){target=_blank}
-    - [**Elaborer une problématique**]
+    - [**Elaborer une problématique**](./pdf/Fiche_intercdi_problematique.pdf){target=_blank}
     
 
 ??? question "Présenter le résultat de ses recherches, fiches outils et conseils..."
