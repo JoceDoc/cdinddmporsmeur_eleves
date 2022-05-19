@@ -58,53 +58,54 @@
     
         ==**Visible au CDI jusqu'à mi-mars**==
 
-
-## Nos élèves ont du talent...
-
-???+ tip "**Rendez-vous du Roudour**"
-    Les élèves de 1re HLP font la promotion des ==**soirées théâtrales**== qui se dérouleront à la salle du Roudour, les 30 et 31 mars. Ils ont aussi créé un compte Instagram.
+    ??? tip "**Rendez-vous du Roudour**"
+        Les élèves de 1re HLP font la promotion des ==**soirées théâtrales**== qui se dérouleront à la salle du Roudour, les 30 et 31 mars. Ils ont aussi créé un compte Instagram.
     
-    ??? "**Soirée illuminée : Poème**"
-        Les lumières s’allument et éclairent le bois  
-	    Verni d’un beau parquet luisant comme un soleil,  	
-        Et qui, majestueux, rayonne comme un roi  	
-        Alors qu’il se découvre de ses longs draps vermeils.
+        ??? "**Soirée illuminée : Poème**"
+            Les lumières s’allument et éclairent le bois  
+            Verni d’un beau parquet luisant comme un soleil,  	
+            Et qui, majestueux, rayonne comme un roi  	
+            Alors qu’il se découvre de ses longs draps vermeils.
+            
+                
+            Une foule attend là, depuis sa vaste plaine  	
+            Bondée, mais pourtant calme, arrosée de douceur,  	
+            Florissante et joyeuse, observant cette scène  	
+            Qui la nourrit d’un grand et paisible bonheur.
         
             
-	    Une foule attend là, depuis sa vaste plaine  	
-        Bondée, mais pourtant calme, arrosée de douceur,  	
-        Florissante et joyeuse, observant cette scène  	
-        Qui la nourrit d’un grand et paisible bonheur.
-	
+            Soudain, les voici donc, ces acteurs éloquents,  	
+            Parfois d’un air tragique, Antigone, Athalie  	
+            Ou parfois amusé, le Médecin volant  	
+            Mais toujours honorés, par un public ravi.
         
-        Soudain, les voici donc, ces acteurs éloquents,  	
-        Parfois d’un air tragique, Antigone, Athalie  	
-        Ou parfois amusé, le Médecin volant  	
-        Mais toujours honorés, par un public ravi.
-	
+            
+            Leur voix de chérubins se porte à la façon  	
+            D’un écho apaisant les sommets couronnés,  	
+            Les falaises, les champs, les forêts de ces monts,  	
+            Ainsi que tous les lacs de ces lieux enneigés.
         
-        Leur voix de chérubins se porte à la façon  	
-        D’un écho apaisant les sommets couronnés,  	
-        Les falaises, les champs, les forêts de ces monts,  	
-        Ainsi que tous les lacs de ces lieux enneigés.
-	
-    
-        Le spectacle fini, le public applaudit.  	
-        C’est ainsi l’allégresse, ô plaine si joyeuse,  
-        Tu récompenses là le travail infini  	
-        Des artistes au cœur d’une soirée heureuse.
-	
         
-        *Tristan Abily - 1G1*
+            Le spectacle fini, le public applaudit.  	
+            C’est ainsi l’allégresse, ô plaine si joyeuse,  
+            Tu récompenses là le travail infini  	
+            Des artistes au cœur d’une soirée heureuse.
+        
+            
+            *Tristan Abily - 1G1*
 
-    ![Affiche](./images/Affiche_Emma_Charline.jpg "Affiche_Emma et Charline"){width=20%}
-    ![Affiche](./images/Affiche_Flora_Emma_Maelline.jpeg "Flora, Emma et Maelline"){width=20%}
-    ![Affiche](./images/Affiche_Valentine_Monika_Camille.jpg "Valentine et Monika"){width=20%}
-    ![Affiche](./images/Affiche_Lilou_Léa-Christine.jpg "Lilou et Léa-Christine"){width=20%}
-    ![Affiche](./images/Affiche_Youan_Justine_Lee-Lou.jpg "Youan, Justine et Lee-Lou"){width=20%}
-    ![Affiche](./images/Affiche_Noah_Damarys.jpg "Noa et Damarys"){width=20%}
-    ![Affiche](./images/Affiche_Math.jpg "Math"){width=30%}
-    ![Affiche](./images/Affiche_Lou.jpg "Lou"){width=40%}
+        ![Affiche](./images/Affiche_Emma_Charline.jpg "Affiche_Emma et Charline"){width=20%}
+        ![Affiche](./images/Affiche_Flora_Emma_Maelline.jpeg "Flora, Emma et Maelline"){width=20%}
+        ![Affiche](./images/Affiche_Valentine_Monika_Camille.jpg "Valentine et Monika"){width=20%}
+        ![Affiche](./images/Affiche_Lilou_Léa-Christine.jpg "Lilou et Léa-Christine"){width=20%}
+        ![Affiche](./images/Affiche_Youan_Justine_Lee-Lou.jpg "Youan, Justine et Lee-Lou"){width=20%}
+        ![Affiche](./images/Affiche_Noah_Damarys.jpg "Noa et Damarys"){width=20%}
+        ![Affiche](./images/Affiche_Math.jpg "Math"){width=30%}
+        ![Affiche](./images/Affiche_Lou.jpg "Lou"){width=40%}
+
+
+
+## Nos élèves ont du talent...
 
 
     
@@ -123,7 +124,8 @@
     [![Alternatives Economiques](./images/abonnements/mai/Alternatives_economiques_mai_2022_423.JPG "Alternatives Economiques, mai 2022, n°423"){width=20%}](./images/abonnements/mai/Alternatives_economiques_mai_2022_423.pdf){target=_blank}
     [![Ca m'intéresse](./images/abonnements/mai/Ca_m_interesse_mai_2022_495.JPG "Ca m'intéresse, mai 2022, n°495"){width=20%}](./images/abonnements/mai/Ca_m_interesse_mai_2022_495.pdf){target=_blank}
     [![Courrier international](./images/abonnements/mai/Courrier_international_05_mai_2022_1644.JPG "Courrier international, 05 mai 2022, n°1644"){width=20%}](./images/abonnements/mai/Courrier_international_05_mai_2022_1644.pdf){target=_blank}
-    [![Courrier international](./images/abonnements/mai/Courrier_international_12_mai_2022_1645.JPG "Courrier international, 12 mai 2022, n°1645"){width=20%}](./images/abonnements/mai/Courrier_international_12_mai_2022_1645.pdf){target=_blank}
+    [![Courrier international](./images/abonnements/mai/Courrier_international_12_mai_2022_1645.jpg "Courrier international, 12 mai 2022, n°1645"){width=20%}](./images/abonnements/mai/Courrier_international_12_mai_2022_1645.pdf){target=_blank}
+    [![Courrier international](./images/abonnements/mai/Courrier_international_19_mai_2022_1646.jpg "Courrier international, 19 mai 2022, n°1646"){width=20%}](./images/abonnements/mai/Courrier_international_19_mai_2022_1646.pdf){target=_blank}
     [![La Croix Campus](./images/abonnements/mai/La_croix_campus_mai_2022_245.JPG "La Croix Campus, mai 2022, n°245"){width=20%}](./images/abonnements/mai/La_croix_campus_mai_2022_245.pdf){target=_blank}
     [![LDocumentation photographique](./images/abonnements/mai/Documentation_photographique_mai_2022_8147.jpg "Documentation photographique, mai 2022, n°8147"){width=20%}](./images/abonnements/mai/Documentation_photographique_mai_2022_8147.pdf){target=_blank}
     [![Journal de l'animation](./images/abonnements/mai/Journal_animation_mai_2022_229.JPG "Journal de l'animation, mai 2022, n°229"){width=20%}](./images/abonnements/mai/Journal_animation_mai_2022_229.pdf){target=_blank}
@@ -141,7 +143,7 @@
     [![Sciences et avenir](./images/abonnements/mai/Sciences_et_avenir_mai_2022_903.JPG "Sciences et avenir, mai 2022, n°903"){width=20%}](./images/abonnements/mai/Sciences_et_avenir_mai_2022_903.pdf){target=_blank}
     [![Sciences humaines](./images/abonnements/mai/Sciences_humaines_mai_2022_347.JPG "Sciences humaines, mai 2022, n°347"){width=20%}](./images/abonnements/mai/Sciences_humaines_mai_2022_347.pdf){target=_blank}
     [![Sciences Ouest](./images/abonnements/mai/Sciences_ouest_mai_2022_399.JPG "Sciences Ouest, mai 2022, n°399"){width=20%}](./images/abonnements/mai/Sciences_ouest_mai_2022_399.pdf){target=_blank}
-    [![Sport et vie](./images/abonnements/mai/Sport_et_vie_mars-avril_2022_191.jpg "Sport et Vie, mars-avril 2022, n°191"){width=20%}](./images/abonnements/mai/Sport_et_vie_mars-avril_2022_191.pdf){target=_blank}
+    [![Sport et vie](./images/abonnements/mai/Sport_et_vie_mai-juin_2022_192.jpg "Sport et Vie, mai-juin 2022, n°192"){width=20%}](./images/abonnements/mai/Sport_et_vie_mai-juin_2022_192.pdf){target=_blank}
     [![Virgule](./images/abonnements/mai/Virgule_mai_2022_206.JPG "Virgule, mai 2022, n°206"){width=20%}](./images/abonnements/mai/Virgule_mai_2022_206.pdf){target=_blank}
     
 
@@ -150,6 +152,7 @@
 
     [![01.NET](./images/abonnements/avril/01Net_6_avril_2022_971.JPG "01.NET, 06 avril 2022, n°971"){width=20%}](./images/abonnements/avril/01Net_6_avril_2022_971.pdf){target=_blank}
     [![01.NET](./images/abonnements/avril/01Net_20_avril_2022_972.JPG "01.NET, 20 avril 2022, n°972"){width=20%}](./images/abonnements/avril/01Net_20_avril_2022_972.pdf){target=_blank}
+    [![Aide-soignante](./images/abonnements/avril/L_aide-soignante_avril_2022_236.jpg "L'aide-soignante, mai 2022, n°236"){width=20%}](./images/abonnements/avril/L_aide-soignante_avril_2022_236.pdf){target=_blank}
     [![Alternatives Economiques](./images/abonnements/avril/Alternatives_economiques_avril_2022_422.jpg "Alternatives Economiques, avril 2022, n°422"){width=20%}](./images/abonnements/avril/Alternatives_economiques_avril_2022_422_sommaire.pdf){target=_blank}
     [![Alternatives Economiques - hors-série](./images/abonnements/avril/Alternatives_economiques_avril_2022_125HS.JPG "Alternatives Economiques - hors-série, avril 2022, n°125HS"){width=20%}](./images/abonnements/avril/Alternatives_economiques_avril_2022_125HS.pdf){target=_blank}
     [![Ca m'intéresse](./images/abonnements/avril/Ca_m_interesse_avril_2022_494.JPG "Ca m'intéresse, avril 2022, n°493"){width=20%}](./images/abonnements/avril/Ca_m_interesse_avril_2022_494_sommaire.pdf){target=_blank}
