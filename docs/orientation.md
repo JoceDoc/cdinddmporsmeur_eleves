@@ -78,7 +78,7 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
     - [**Vers le PADLET terminale**](https://padlet.com/cdinddmporsmeur/orientation_terminale_2020){target=_blank}
     - [**Site pour les terminales**](https://ericecmorlaix.github.io/TG_VDC_AP/){target=_blank}
     - [**Quelle école après le BAC ?**](https://www.ipesup.fr/){target=_blank} : IPESUP, préparations aux examens et concours de l’enseignement supérieur.
-    - [**Que faire après un BAC STMG ?**](https://padlet.com/cdinddmporsmeur/post_bac_STMG){target=_blank}
+    - [**Que faire après un BAC STMG ?**](https://www.onisep.fr/Choisir-mes-etudes/Apres-le-bac/Que-faire-apres-le-bac/Apres-un-bac-techno/Que-faire-apres-le-bac-STMG){target=_blank}
 === "VOIE PRO"
     - [**Vers le PADLET voie pro**](https://padlet.com/cdinddmporsmeur/LP_2020){target=_blank}
     - [**PARCOURSUP - Site officiel**](https://www.parcoursup.fr/index.php?desc=){target=_blank}
