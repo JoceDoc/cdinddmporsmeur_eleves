@@ -1,13 +1,9 @@
 ## Actualités
-???+ tip "Guerre en Ukraine"
-    === "S'informer"
-        - [**France Culture**](https://www.franceculture.fr/theme/conflit-ukrainien){target=_blank} : dossier Ukraine.
-        - [**France Inter**](https://www.franceinter.fr/monde/carte-quels-pays-aident-l-ukraine-dans-la-guerre-contre-la-russie-et-comment){target=_blank}
-        - [**France Info**](https://www.francetvinfo.fr/monde/europe/manifestations-en-ukraine/){target=_blank}
-        - [**Le dessous des cartes**](https://www.arte.tv/fr/videos/RC-014036/le-dessous-des-cartes/){target=_blank} 
-    === "Soutenir"
-        - [**Aider et soutenir l'Ukraine**](https://www.service-public.fr/particuliers/actualites/A15542){target=_blank} : don en argent aux associations, accueil des réfugiés...
-         
+
+
+## Citoyenneté et enseignement
+- Présentation du ==**parcours citoyen**== sur le site [**Eduscol**](https://www.education.gouv.fr/le-parcours-citoyen-5993){target=_blank}
+- Rappel des [**valeurs de la République**](https://www.reseau-canope.fr/valeurs-de-la-republique.html){target=_blank} portées par l'enseignement.         
 
 ## Ressources
 
@@ -16,9 +12,7 @@
     - [**Fiches citoyenneté**](https://www.vie-publique.fr/fiches/citoyennete){target=_blank} du site Vie Publique.
     - [**Journée Défense et Citoyenneté**](https://presaje.sga.defense.gouv.fr/){target=_blank}
 
-## Citoyenneté et enseignement
-- Présentation du ==**parcours citoyen**== sur le site [**Eduscol**](https://www.education.gouv.fr/le-parcours-citoyen-5993){target=_blank}
-- Rappel des [**valeurs de la République**](https://www.reseau-canope.fr/valeurs-de-la-republique.html){target=_blank} portées par l'enseignement.
+
 
 
 ## S'engager
@@ -36,15 +30,20 @@
 
 
 
-
-
 ### Service National Universel
 
 ???+ info ""
     Présentation et principes du **SNU** sur le [**site officiel**](https://www.snu.gouv.fr/){target=_blank}
     
 ### Vie associative
-
+???+ tip "Guerre en Ukraine"
+    === "S'informer"
+        - [**France Culture**](https://www.franceculture.fr/theme/conflit-ukrainien){target=_blank} : dossier Ukraine.
+        - [**France Inter**](https://www.franceinter.fr/monde/carte-quels-pays-aident-l-ukraine-dans-la-guerre-contre-la-russie-et-comment){target=_blank}
+        - [**France Info**](https://www.francetvinfo.fr/monde/europe/manifestations-en-ukraine/){target=_blank}
+        - [**Le dessous des cartes**](https://www.arte.tv/fr/videos/RC-014036/le-dessous-des-cartes/){target=_blank} 
+    === "Soutenir"
+        - [**Aider et soutenir l'Ukraine**](https://www.service-public.fr/particuliers/actualites/A15542){target=_blank} : don en argent aux associations, accueil des réfugiés...
 
 
 
