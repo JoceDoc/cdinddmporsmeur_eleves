@@ -352,6 +352,7 @@ ___
     - [**INC**](https://www.inc-conso.fr/){target=_blank} :  Insitut national de la consommation.
     - [**60 millions de consommateurs**](https://www.60millions-mag.com/){target=_blank}
     - [**Pour l'éco**](https://www.pourleco.com/){target=_blank} : le site de la revue.
+    - [**Service public**](https://www.service-public.fr/){target=_blank} : site officiel de l'administration française.
     - [**Autres ressources en SES**](http://ses.ens-lyon.fr/){target=_blank}
     
 ___
