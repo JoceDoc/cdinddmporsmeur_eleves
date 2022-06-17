@@ -5,6 +5,35 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
 
 ## Actualités
 
+???+ attention "**Préparez vote rentrée à l'UBO**"
+    ==**Soirée d'information**== :  ==**le 28 juin de 18h à 20h**== pour les futur·e·s étudiant·e·s.
+    Lieu : Faculté des Lettres et sciences humaines Victor Ségalen (20 rue Duquesne).
+
+    Des stands de toutes les composantes (UFR, Facultés, Instituts, Écoles) ainsi que des services de l’université vous accueilleront pour venir poser vos questions :
+        - IUT Brest Morlaix / Quimper
+	- UFR Droit économie gestion et AES
+	- UFR Sport et Education
+	- UFR Lettres et Sciences humaines
+	- UFR Médecine et sciences de la santé
+	- UFR Sciences et techniques
+	- CLOUS : logement, restauration
+	- DEVE (Handiversité et Pôle Mobilité)
+	- PEPSE : Pépinière des solidarités étudiants - animation du campus
+	- Pôle langues
+	- Bibliothèques Universitaires
+	- SEA EU: Alliance européenne d'universités
+	- Service culturel
+	- SUAPS: Service des sports
+
+    Deux mini conférences vous seront également proposées :
+	- 18h30 - L'entrée à l'université: quelques conseils - Catherine André
+	- 19h - L'orientation à l'UBO - Valérie Dormokraj
+
+
+L’évènement est gratuit, ouvert à toutes et tous les lycéen.ne.s et leur famille.
+    ==**Phase d'admission**== :  ==**du 2 juin au 15 juillet**==
+    [**Parcoursup**](https://www.parcoursup.fr/){target=_blank} 
+
 ???+ attention "**PARCOURSUP**"
     ==**Phase d'admission**== :  ==**du 2 juin au 15 juillet**==
     [**Parcoursup**](https://www.parcoursup.fr/){target=_blank} 
