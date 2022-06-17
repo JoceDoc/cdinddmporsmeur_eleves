@@ -5,7 +5,7 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
 
 ## Actualités
 
-???+ attention "**Préparez vote rentrée à l'UBO**"
+???+ attention "**Préparez votre rentrée à l'UBO**"
     ==**Soirée d'information**== :  ==**le 28 juin de 18h à 20h**== pour les futur·e·s étudiant·e·s.
     Lieu : Faculté des Lettres et sciences humaines Victor Ségalen (20 rue Duquesne).
 
