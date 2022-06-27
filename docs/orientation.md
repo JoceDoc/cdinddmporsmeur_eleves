@@ -5,7 +5,7 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
 
 ## Actualités
 ???+ info "**Formations post-bac : CPEG scientifique**"
-    ![Annonce](./images/CPGE_annonce_lycee_brizeux.jpg "CPEG"){width=80%}
+    ![Annonce](./images/orientation/CPGE_annonce_lycee_brizeux.jpg "CPEG"){width=80%}
     
 ???+ attention "**Préparez votre rentrée à l'UBO : ==mardi 28 juin de 18h à 20h==** "
     ==**Soirée d'information à la Faculté des Lettres et sciences humaines Victor Ségalen (20 rue Duquesne)**== pour les futur·e·s étudiant·e·s.
