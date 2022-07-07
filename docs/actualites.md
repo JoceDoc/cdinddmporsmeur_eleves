@@ -120,6 +120,38 @@
    
 ??? "**Kiosque du mois** :newspaper:"
   
+    [![01.NET](./images/abonnements/juin/01.net_15_juin_2022_975.jpg "01.NET, 15 juin 2022, n°975"){width=20%}](./images/abonnements/juin/01.net_15_juin_2022_975.pdf){target=_blank}
+    [![01.NET](./images/abonnements/juin/01.net_29_juin_2022_976.jpg "01.NET, 29 juin 2022, n°976"){width=20%}](./images/abonnements/juin/01.net_29_juin_2022_976.pdf){target=_blank}[![Alternatives Economiques](./images/abonnements/juin/Alternatives_economiques_juin_2022_424.JPG "Alternatives Economiques, juin 2022, n°424"){width=20%}](./images/abonnements/juin/Alternatives_economiques_juin_2022_424.pdf){target=_blank}
+    [![Ca m'intéresse](./images/abonnements/juin/Ca_m_intéresse_juin_2022_496.JPG "Ca m'intéresse, juin 2022, n°496"){width=20%}](./images/abonnements/juin/Ca_m_intéresse_juin_2022_496.pdf){target=_blank}
+    [![Courrier international](./images/abonnements/juin/Courrier_international_02_juin_2022_1648.JPG "Courrier international, 02 juin 2022, n°1648"){width=20%}](./images/abonnements/juin/Courrier_international_02_juin_2022_1648.pdf){target=_blank}
+    [![Courrier international](./images/abonnements/juin/Courrier_international_09_juin_2022_1649.jpg "Courrier international, 09 juin 2022, n°1649"){width=20%}](./images/abonnements/juin/Courrier_international_09_juin_2022_1649.pdf){target=_blank}
+    [![Courrier international](./images/abonnements/juin/Courrier_international_16_juin_2022_1650.jpg "Courrier international, 16 juin 2022, n°1650"){width=20%}](./images/abonnements/juin/Courrier_international_16_juin_2022_1650.pdf){target=_blank}
+    [![Courrier international](./images/abonnements/juin/Courrier_international_23_juin_2022_1651.jpg "Courrier international, 23 juin 2022, n°1651"){width=20%}](./images/abonnements/juin/Courrier_international_23_juin_2022_1651.pdf){target=_blank}
+    [![Courrier international](./images/abonnements/juin/Courrier_international_30_juin_2022_1652.jpg "Courrier international, 30 juin 2022, n°1652"){width=20%}](./images/abonnements/juin/Courrier_international_30_juin_2022_1652.pdf){target=_blank}
+    [![La Croix Campus](./images/abonnements/juin/La_croix_campus_juin_2022_246.JPG "La Croix Campus, juin 2022, n°246"){width=20%}](./images/abonnements/juin/La_croix_campus_juin_2022_246.pdf){target=_blank}
+    [![LDocumentation photographique](./images/abonnements/mai/Documentation_photographique_mai_2022_8147.jpg "Documentation photographique, mai 2022, n°8147"){width=20%}](./images/abonnements/mai/Documentation_photographique_mai_2022_8147.pdf){target=_blank}
+    [![Eaux et Rivière de Bretagne](./images/abonnements/mai/Eaux_et_rivieres_de_Bretagne_mai_2022_195.jpg "Eaux et Rivière de Bretagne, mai 2022, 195"){width=20%}](./images/abonnements/mai/Eaux_et_rivieres_de_Bretagne_mai_2022_195.pdf){target=_blank}
+    [![Journal de l'animation](./images/abonnements/juin/Journal_animation_juin-juillet_2022_230.JPG "Journal de l'animation, juin-juillet 2022, n°230"){width=20%}](./images/abonnements/juin/Journal_animation_juin-juillet_2022_230.pdf){target=_blank}
+    [![Lire Magazine](./images/abonnements/juin/Lire_magazine_littéraire_juin_2022_508.JPG "Lire Magazine Littéraire, juin 2022, n°508"){width=20%}](./images/abonnements/juin/Lire_magazine_littéraire_juin_2022_508.pdf){target=_blank}
+    [![LSA](./images/abonnements/juin/LSA_02_juin_2022_2702.JPG "LSA, 02 juin 2022, n°2702"){width=20%}](./images/abonnements/juin/LSA_02_juin_2022_2702.pdf){target=_blank}
+    [![Management](./images/abonnements/juin/Management_juin_2022_303.jpg "Management, juin 2022, n°303"){width=20%}](./images/abonnements/juin/Management_juin_2022_303.pdf){target=_blank}
+    [![Philosophie magazine](./images/abonnements/juin/Philosophie_magazine_juin_2022_160.JPG "Philosophie magazine, juin 2022, 160"){width=20%}](./images/abonnements/juin/Philosophie_magazine_juin_2022_160.pdf){target=_blank}
+    [![Phosphore](./images/abonnements/juin/Phosphore_1er_juin_2022_533.jpg "Phosphore, 1er juin 2022, 533"){width=20%}](./images/abonnements/juin/Phosphore_1er_juin_2022_533.pdf){target=_blank}
+    [![Phosphore](./images/abonnements/juin/Phosphore_15_juin_2022_534.JPG "Phosphore, 15 juin 2022, 534"){width=20%}](./images/abonnements/juin/Phosphore_15_juin_2022_534.pdf){target=_blank}
+    [![Pour l'éco](./images/abonnements/juin/Pour_l_eco_juin_2022_42.JPG "Pour l'éco, juin 2022, 42"){width=20%}](./images/abonnements/juin/Pour_l_eco_juin_2022_42.pdf){target=_blank}
+    [![Que choisir](./images/abonnements/mai/Que_choisir_mai_2022_613.JPG "Que choisir santé, mai 2022, 613"){width=20%}](./images/abonnements/mai/Que_choisir_mai_2022_613.pdf){target=_blank}
+    [![Que choisir santé](./images/abonnements/juin/Que_choisir_sante_juin_2022_172.JPG "Que choisir santé, juin 2022, 172"){width=20%}](./images/abonnements/juin/Que_choisir_sante_juin_2022_172.pdf){target=_blank}
+    [![Science et Vie](./images/abonnements/juin/Science_et_vie_juin_2022_1257.JPG "Science et Vie, juin 2022, n°1257"){width=20%}](./images/abonnements/juin/Science_et_vie_juin_2022_1257.pdf){target=_blank}
+    [![Science et Vie Junior](./images/abonnements/juin/Science_et_vie_junior_juin_2022_393.jpg "Science et Vie Junior, juin 2022, n°393"){width=20%}](./images/abonnements/juin/Science_et_vie_junior_juin_2022_393.pdf){target=_blank}
+    [![Sciences et avenir](./images/abonnements/juin/Sciences_et_avenir_juin_2022_904.JPG "Sciences et avenir, juin 2022, n°904"){width=20%}](./images/abonnements/juin/Sciences_et_avenir_juin_2022_904.pdf){target=_blank}
+    [![Sciences humaines](./images/abonnements/mai/Sciences_humaines_mai_2022_347.JPG "Sciences humaines, mai 2022, n°347"){width=20%}](./images/abonnements/mai/Sciences_humaines_mai_2022_347.pdf){target=_blank}
+    [![Sciences Ouest](./images/abonnements/juin/Sciences_ouest_juin_2022_400.JPG "Sciences Ouest, juin 2022, n°400"){width=20%}](./images/abonnements/juin/Sciences_ouest_juin_2022_400.pdf){target=_blank}
+    [![Sport et vie](./images/abonnements/mai/Sport_et_vie_mai-juin_2022_192.jpg "Sport et Vie, mai-juin 2022, n°192"){width=20%}](./images/abonnements/mai/Sport_et_vie_mai-juin_2022_192.pdf){target=_blank}
+    [![Sport et vie. Hors-série](./images/abonnements/juin/Sport_et_vie_juin_2022_56HS.jpg "Sport et Vie, juin 2022, n°56HS"){width=20%}](./images/abonnements/juin/Sport_et_vie_juin_2022_56HS.pdf){target=_blank}
+    [![Virgule](./images/abonnements/juin/Virgule_juin_2022_207.jpg "Virgule, juin 2022, n°207"){width=20%}](./images/abonnements/mai/Virgule_juin_2022_207.pdf){target=_blank}
+    
+
+??? "**Kiosque du mois dernier** :newspaper:"    
 
     [![01.NET](./images/abonnements/mai/01Net_11_mai_2022_973.jpg "01.NET, 11 mai 2022, n°973"){width=20%}](./images/abonnements/mai/01Net_11_mai_2022_973.pdf){target=_blank}
     [![01.NET](./images/abonnements/mai/01Net_25_mai_2022_974.JPG "01.NET, 11 mai 2022, n°974"){width=20%}](./images/abonnements/mai/01Net_25_mai_2022_974.pdf){target=_blank}
@@ -131,6 +163,7 @@
     [![Courrier international](./images/abonnements/mai/Courrier_international_25_mai_2022_1647.JPG "Courrier international, 25 mai 2022, n°1647"){width=20%}](./images/abonnements/mai/Courrier_international_25_mai_2022_1647.pdf){target=_blank}
     [![La Croix Campus](./images/abonnements/mai/La_croix_campus_mai_2022_245.JPG "La Croix Campus, mai 2022, n°245"){width=20%}](./images/abonnements/mai/La_croix_campus_mai_2022_245.pdf){target=_blank}
     [![LDocumentation photographique](./images/abonnements/mai/Documentation_photographique_mai_2022_8147.jpg "Documentation photographique, mai 2022, n°8147"){width=20%}](./images/abonnements/mai/Documentation_photographique_mai_2022_8147.pdf){target=_blank}
+    [![Eaux et Rivière de Bretagne](./images/abonnements/mai/Eaux_et_rivieres_de_Bretagne_mai_2022_195.jpg "Eaux et Rivière de Bretagne, mai 2022, 195"){width=20%}](./images/abonnements/mai/Eaux_et_rivieres_de_Bretagne_mai_2022_195.pdf){target=_blank}
     [![Journal de l'animation](./images/abonnements/mai/Journal_animation_mai_2022_229.JPG "Journal de l'animation, mai 2022, n°229"){width=20%}](./images/abonnements/mai/Journal_animation_mai_2022_229.pdf){target=_blank}
     [![Lire Magazine](./images/abonnements/mai/Lire_magazine_mai_2022_507.JPG "Lire Magazine, mai 2022, n°507"){width=20%}](./images/abonnements/mai/Lire_magazine_mai_2022_507.pdf){target=_blank}
     [![LSA](./images/abonnements/mai/LSA_19_mai_2022_2700.JPG "LSA, 19 mai 2022, n°2700"){width=20%}](./images/abonnements/mai/LSA_19_mai_2022_2700.pdf){target=_blank}
@@ -150,38 +183,6 @@
     [![Sport et vie](./images/abonnements/mai/Sport_et_vie_mai-juin_2022_192.jpg "Sport et Vie, mai-juin 2022, n°192"){width=20%}](./images/abonnements/mai/Sport_et_vie_mai-juin_2022_192.pdf){target=_blank}
     [![Virgule](./images/abonnements/mai/Virgule_mai_2022_206.JPG "Virgule, mai 2022, n°206"){width=20%}](./images/abonnements/mai/Virgule_mai_2022_206.pdf){target=_blank}
     
-
-??? "**Kiosque du mois dernier** :newspaper:"    
-
-
-    [![01.NET](./images/abonnements/avril/01Net_6_avril_2022_971.JPG "01.NET, 06 avril 2022, n°971"){width=20%}](./images/abonnements/avril/01Net_6_avril_2022_971.pdf){target=_blank}
-    [![01.NET](./images/abonnements/avril/01Net_20_avril_2022_972.JPG "01.NET, 20 avril 2022, n°972"){width=20%}](./images/abonnements/avril/01Net_20_avril_2022_972.pdf){target=_blank}
-    [![Aide-soignante](./images/abonnements/avril/L_aide-soignante_avril_2022_236.jpg "L'aide-soignante, mai 2022, n°236"){width=20%}](./images/abonnements/avril/L_aide-soignante_avril_2022_236.pdf){target=_blank}
-    [![Alternatives Economiques](./images/abonnements/avril/Alternatives_economiques_avril_2022_422.jpg "Alternatives Economiques, avril 2022, n°422"){width=20%}](./images/abonnements/avril/Alternatives_economiques_avril_2022_422_sommaire.pdf){target=_blank}
-    [![Alternatives Economiques - hors-série](./images/abonnements/avril/Alternatives_economiques_avril_2022_125HS.JPG "Alternatives Economiques - hors-série, avril 2022, n°125HS"){width=20%}](./images/abonnements/avril/Alternatives_economiques_avril_2022_125HS.pdf){target=_blank}
-    [![Ca m'intéresse](./images/abonnements/avril/Ca_m_interesse_avril_2022_494.JPG "Ca m'intéresse, avril 2022, n°493"){width=20%}](./images/abonnements/avril/Ca_m_interesse_avril_2022_494_sommaire.pdf){target=_blank}
-    [![Courrier international](./images/abonnements/avril/Courrier_international_14_avril_2022_1641.JPG "Courrier international, 14 avril 2022, n°1641"){width=20%}](./images/abonnements/avril/Courrier_international_14_avril_2022_1641.pdf){target=_blank}
-    [![Courrier international](./images/abonnements/avril/Courrier_international_21_avril_2022_1642.JPG "Courrier international, 21 avril 2022, n°1642"){width=20%}](./images/abonnements/avril/Courrier_international_21_avril_2022_1642.pdf){target=_blank}
-    [![Courrier international](./images/abonnements/avril/Courrier_international_28_avril_2022_1643.JPG "Courrier international, 28 avril 2022, n°1643"){width=20%}](./images/abonnements/avril/Courrier_international_28_avril_2022_1643.pdf){target=_blank}
-    [![La Croix Campus](./images/abonnements/avril/La_croix_campus_avril_2022_244.JPG "La Croix Campus, avril 2022, n°244"){width=20%}](./images/abonnements/avril/La_croix_campus_avril_2022_244.pdf){target=_blank}
-    [![LDocumentation photographique](./images/abonnements/avril/Documentation_photographique_mars-avril_2022_8146.jpg "Documentation photographique, mars 2022, n°8146"){width=20%}](./images/abonnements/avril/Documentation_photographique_mars-avril_2022_8146.pdf){target=_blank}
-    [![Journal de l'animation](./images/abonnements/avril/Journal_animation_avril_2022_228.JPG "Journal de l'animation, avril 2022, n°228"){width=20%}](./images/abonnements/avril/Journal_animation_avril_2022_228_sommaire.pdf){target=_blank}
-    [![Lire Magazine](./images/abonnements/avril/Lire_magazine_avril_2022_506.JPG "Lire Magazine, avril 2022, n°506"){width=20%}](./images/abonnements/avril/Lire_magazine_avril_2022_506_sommaire.pdf){target=_blank}
-    [![Management](./images/abonnements/avril/Management_avril-mai_2022_302.JPG "Management, avril-mai 2022, n°302"){width=20%}](./images/abonnements/avril/Management_avril-mai_2022_302.pdf){target=_blank}
-    [![Philosophie magazine](./images/abonnements/avril/Philosophie_magazine_avril_2022_158.jpg "Philosophie magazine, avril 2022, 158"){width=20%}](./images/abonnements/avril/Philosophie_magazine_avril_2022_158.pdf){target=_blank}
-    [![Phosphore](./images/abonnements/avril/Phosphore_1er_avril_2022_529.jpg "Phosphore, 1er avril 2022, 529"){width=20%}](./images/abonnements/avril/Phosphore_1er_avril_2022_529_sommaire.pdf){target=_blank}
-    [![Pour l'éco](./images/abonnements/avril/Pour_l_eco_avril_2022_40.JPG "Pour l'éco, avril 2022, 40"){width=20%}](./images/abonnements/avril/Pour_l_eco_avril_2022_40.pdf){target=_blank}
-    [![Que choisir santé](./images/abonnements/avril/Que_choisir_sante_avril_2022_170.jpg "Que choisir santé, avril 2022, 170"){width=20%}](./images/abonnements/avril/Que_choisir_sante_avril_2022_170.pdf){target=_blank}
-    [![Science et Vie](./images/abonnements/avril/SV_avril_2022_1255.jpg "Science et Vie, avril 2022, n°1255"){width=20%}](./images/abonnements/avril/SV_avril_2022_1255_sommaire.pdf){target=_blank}
-    [![Science et Vie Junior](./images/abonnements/avril/SVJ_avril_2022_391.jpg "Science et Vie Junior, avril 2022, n°391"){width=20%}](./images/abonnements/avril/SVJ_avril_2022_391_sommaire.pdf){target=_blank}
-    [![Sciences et avenir](./images/abonnements/avril/Sciences_et_avenir_avril_2022_902.JPG "Sciences et avenir, avril 2022, n°902"){width=20%}](./images/abonnements/avril/Sciences_et_avenir_avril_2022_902_sommaire.pdf){target=_blank}
-    [![Sciences et avenir.HS](./images/abonnements/avril/Sciences_et_avenir_avril_2022_209HS.JPG "Sciences et avenir, avril 2022, n°209HS"){width=20%}](./images/abonnements/avril/Sciences_et_avenir_avril_2022_209HS.pdf){target=_blank}
-    [![Sciences humaines](./images/abonnements/avril/Sciences_humaines_avril_2022_346.jpg "Sciences humaines, avril 2022, n°346"){width=20%}](./images/abonnements/avril/Sciences_humaines_avril_2022_346.pdf){target=_blank}
-    [![Sciences Ouest](./images/abonnements/avril/Sciences_ouest_avril_2022_398.JPG "Sciences Ouest, avril 2022, n°398"){width=20%}](./images/abonnements/avril/Sciences_ouest_avril_2022_398_sommaire.pdf){target=_blank}
-    [![Sport et Vie](./images/abonnements/avril/Sport_et_vie_mars-avril_2022_191.jpg "Sport et Vie, mars-avril 2022, n°191"){width=20%}](./images/abonnements/avril/Sport_et_vie_mars-avril_2022_191.pdf){target=_blank}
-    [![Virgule](./images/abonnements/avril/Virgule_avril_2022_205.jpg "Virgule, avril 2022, n°205"){width=20%}](./images/abonnements/avril/Virgule_avril_2022_205.pdf){target=_blank}
-    
-    
 ??? "**Kiosque des langues vivantes** :gb: :de: :es: :it: :cn:"
     
     ??? Example ":gb: **Anglais** :gb:"
@@ -199,6 +200,7 @@
     [![Vocable Allemand](./images/abonnements/langues/Vocable_Allemand_20220303_859.jpg "Vocable Allemand, 03 mars 2022, n°859"){width=20%}](./images/abonnements/langues/Vocable_Allemand_20220303_859_sommaire.pdf){target=_blank}
     [![Vocable Allemand](./images/abonnements/langues/Vocable_Allemand_20220317_860.jpg "Vocable Allemand, 17 mars 2022, n°860"){width=20%}](./images/abonnements/langues/Vocable_Allemand_20220317_860_sommaire.pdf){target=_blank}
     [![Vocable Allemand](./images/abonnements/langues/Vocable_Allemand_20220331_861.JPG "Vocable Allemand, 31 mars 2022, n°861"){width=20%}](./images/abonnements/langues/Vocable_Allemand_20220331_861_sommaire.pdf){target=_blank}
+    [![Vocable Allemand](./images/abonnements/langues/Vocable_allemand_20220623_867.jpg "Vocable Allemand, 23 juin 2022, n°867"){width=20%}](./images/abonnements/langues/Vocable_allemand_20220623_867.pdf){target=_blank}
     
     ??? Example ":es: **Espagnol** :es:"
     [![Vocable Espagnol](./images/abonnements/langues/Vocable_Espagnol_20220120_849.jpg "Vocable Espagnol, 20 janvier 2022, n°849"){width=20%}](./images/abonnements/langues/Vocable_Espagnol_20220120_849_sommaire.pdf){target=_blank}
@@ -207,11 +209,13 @@
     [![Vocable Espagnol](./images/abonnements/langues/Vocable_Espagnol_20220303_852.jpg "Vocable Espagnol, 03 mars 2022, n°852"){width=20%}](./images/abonnements/langues/Vocable_Espagnol_20220303_852_sommaire.pdf){target=_blank}
     [![Vocable Espagnol](./images/abonnements/langues/Vocable_Espagnol_20220317_853.jpg "Vocable Espagnol, 17 mars 2022, n°853"){width=20%}](./images/abonnements/langues/Vocable_Espagnol_20220317_853_sommaire.pdf){target=_blank}
     [![Vocable Espagnol](./images/abonnements/langues/Vocable_Espagnol_20220331_854.JPG "Vocable Espagnol, 31 mars 2022, n°854"){width=20%}](./images/abonnements/langues/Vocable_Espagnol_20220331_854_sommaire.pdf){target=_blank}
+    [![Vocable Espagnol](./images/abonnements/langues/Vocable_espagnol_20220623_860.jpg "Vocable Espagnol, 23 juin 2022, n°860"){width=20%}](./images/abonnements/langues/Vocable_espagnol_20220623_860.pdf){target=_blank}
 
 ??? "**Pour les enseignants**"
     [![Cahiers pédagogiques](./images/abonnements/enseignants/Cahiers_pedagogiques_février_2022_575.jpg "Cahiers pédagogiques, février 2022, n°575"){width=20%}](./images/abonnements/enseignants/Cahiers_pedagogiques_février_2022_575.pdf){target=_blank}
     [![Cahiers pédagogiques](./images/abonnements/enseignants/Cahiers_pedagogiques_mars-avril_2022_576.jpg "Cahiers pédagogiques, mars-avril 2022, n°576"){width=20%}](./images/abonnements/enseignants/Cahiers_pedagogiques_mars-avril_2022_576.pdf){target=_blank}
     [![Cahiers pédagogiques](./images/abonnements/enseignants/Cahiers_pedagogiques_mai_2022_577.jpg "Cahiers pédagogiques, mai 2022, n°577"){width=20%}](./images/abonnements/enseignants/Cahiers_pedagogiques_mai_2022_577.pdf){target=_blank}
+    [![Cahiers pédagogiques](./images/abonnements/enseignants/Cahiers_pedagogiques_juin_2022_578.jpg "Cahiers pédagogiques, juin 2022, n°578"){width=20%}](./images/abonnements/enseignants/Cahiers_pedagogiques_juin_2022_578.pdf){target=_blank}
 
 
 
