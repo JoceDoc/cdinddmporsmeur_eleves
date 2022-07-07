@@ -1,0 +1,1363 @@
+<!-- Ajout pour le bouton de téléchargement et le style des jupyter notebook   https://github.com/danielfrg/mkdocs-jupyter -->
+
+
+<!doctype html>
+<html lang="fr" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="Exemple de site de base pour MkDocs avec le thème Material à personaliser">
+      
+      
+        <meta name="author" content="Jocelyne COZ">
+      
+      
+      <link rel="icon" href="../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.3.0, mkdocs-material-8.1.2">
+    
+    
+      
+        <title>Pédagogie - Base MkDocs Material</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.f7951f6f.min.css">
+      
+        
+        <link rel="stylesheet" href="../assets/stylesheets/palette.e6a45f82.min.css">
+        
+      
+    
+    
+    
+      
+    
+    
+      <link rel="stylesheet" href="../stylesheets/extra.css">
+    
+    <script>__md_scope=new URL("..",location),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="purple" data-md-color-accent="lime">
+  
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&"object"==typeof palette.color)for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)</script>
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#actualite-des-disciplines" class="md-skip">
+          Aller au contenu
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="En-tête">
+    <a href=".." title="Base MkDocs Material" class="md-header__button md-logo" aria-label="Base MkDocs Material" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><path d="m278.9 511.5-61-17.7c-6.4-1.8-10-8.5-8.2-14.9L346.2 8.7c1.8-6.4 8.5-10 14.9-8.2l61 17.7c6.4 1.8 10 8.5 8.2 14.9L293.8 503.3c-1.9 6.4-8.5 10.1-14.9 8.2zm-114-112.2 43.5-46.4c4.6-4.9 4.3-12.7-.8-17.2L117 256l90.6-79.7c5.1-4.5 5.5-12.3.8-17.2l-43.5-46.4c-4.5-4.8-12.1-5.1-17-.5L3.8 247.2c-5.1 4.7-5.1 12.8 0 17.5l144.1 135.1c4.9 4.6 12.5 4.4 17-.5zm327.2.6 144.1-135.1c5.1-4.7 5.1-12.8 0-17.5L492.1 112.1c-4.8-4.5-12.4-4.3-17 .5L431.6 159c-4.6 4.9-4.3 12.7.8 17.2L523 256l-90.6 79.7c-5.1 4.5-5.5 12.3-.8 17.2l43.5 46.4c4.5 4.9 12.1 5.1 17 .6z"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Base MkDocs Material
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Pédagogie
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      <form class="md-header__option" data-md-component="palette">
+        
+          
+          
+          <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="purple" data-md-color-accent="lime"  aria-label="Basculer en mode sombre"  type="radio" name="__palette" id="__palette_1">
+          
+            <label class="md-header__button md-icon" title="Basculer en mode sombre" for="__palette_2" hidden>
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 7a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5m0 2a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3m0-7 2.39 3.42C13.65 5.15 12.84 5 12 5c-.84 0-1.65.15-2.39.42L12 2M3.34 7l4.16-.35A7.2 7.2 0 0 0 5.94 8.5c-.44.74-.69 1.5-.83 2.29L3.34 7m.02 10 1.76-3.77a7.131 7.131 0 0 0 2.38 4.14L3.36 17M20.65 7l-1.77 3.79a7.023 7.023 0 0 0-2.38-4.15l4.15.36m-.01 10-4.14.36c.59-.51 1.12-1.14 1.54-1.86.42-.73.69-1.5.83-2.29L20.64 17M12 22l-2.41-3.44c.74.27 1.55.44 2.41.44.82 0 1.63-.17 2.37-.44L12 22z"/></svg>
+            </label>
+          
+        
+          
+          
+          <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="purple" data-md-color-accent="lime"  aria-label="Basculer en mode clair"  type="radio" name="__palette" id="__palette_2">
+          
+            <label class="md-header__button md-icon" title="Basculer en mode clair" for="__palette_1" hidden>
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m17.75 4.09-2.53 1.94.91 3.06-2.63-1.81-2.63 1.81.91-3.06-2.53-1.94L12.44 4l1.06-3 1.06 3 3.19.09m3.5 6.91-1.64 1.25.59 1.98-1.7-1.17-1.7 1.17.59-1.98L15.75 11l2.06-.05L18.5 9l.69 1.95 2.06.05m-2.28 4.95c.83-.08 1.72 1.1 1.19 1.85-.32.45-.66.87-1.08 1.27C15.17 23 8.84 23 4.94 19.07c-3.91-3.9-3.91-10.24 0-14.14.4-.4.82-.76 1.27-1.08.75-.53 1.93.36 1.85 1.19-.27 2.86.69 5.83 2.89 8.02a9.96 9.96 0 0 0 8.02 2.89m-1.64 2.02a12.08 12.08 0 0 1-7.8-3.47c-2.17-2.19-3.33-5-3.49-7.82-2.81 3.14-2.7 7.96.31 10.98 3.02 3.01 7.84 3.12 10.98.31z"/></svg>
+            </label>
+          
+        
+      </form>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Rechercher" placeholder="Rechercher" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" aria-label="Effacer" tabindex="-1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initialisation de la recherche
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="Onglets" data-md-component="tabs">
+  <div class="md-tabs__inner md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+
+
+  <li class="md-tabs__item">
+    <a href=".." class="md-tabs__link">
+      Page d'accueil
+    </a>
+  </li>
+
+      
+        
+  
+  
+
+
+  <li class="md-tabs__item">
+    <a href="../actualites/" class="md-tabs__link">
+      Actualités
+    </a>
+  </li>
+
+      
+        
+  
+  
+    
+  
+
+
+  <li class="md-tabs__item">
+    <a href="./" class="md-tabs__link md-tabs__link--active">
+      Pédagogie
+    </a>
+  </li>
+
+      
+        
+  
+  
+
+
+  <li class="md-tabs__item">
+    <a href="../culture/" class="md-tabs__link">
+      Culture
+    </a>
+  </li>
+
+      
+        
+  
+  
+
+
+  <li class="md-tabs__item">
+    <a href="../orientation/" class="md-tabs__link">
+      Parcours avenir
+    </a>
+  </li>
+
+      
+        
+  
+  
+
+
+  <li class="md-tabs__item">
+    <a href="../citoyen/" class="md-tabs__link">
+      Parcours citoyen
+    </a>
+  </li>
+
+      
+        
+  
+  
+
+
+  <li class="md-tabs__item">
+    <a href="../sante/" class="md-tabs__link">
+      Parcours santé
+    </a>
+  </li>
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+  
+
+
+  
+
+<nav class="md-nav md-nav--primary md-nav--lifted md-nav--integrated" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="Base MkDocs Material" class="md-nav__button md-logo" aria-label="Base MkDocs Material" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><path d="m278.9 511.5-61-17.7c-6.4-1.8-10-8.5-8.2-14.9L346.2 8.7c1.8-6.4 8.5-10 14.9-8.2l61 17.7c6.4 1.8 10 8.5 8.2 14.9L293.8 503.3c-1.9 6.4-8.5 10.1-14.9 8.2zm-114-112.2 43.5-46.4c4.6-4.9 4.3-12.7-.8-17.2L117 256l90.6-79.7c5.1-4.5 5.5-12.3.8-17.2l-43.5-46.4c-4.5-4.8-12.1-5.1-17-.5L3.8 247.2c-5.1 4.7-5.1 12.8 0 17.5l144.1 135.1c4.9 4.6 12.5 4.4 17-.5zm327.2.6 144.1-135.1c5.1-4.7 5.1-12.8 0-17.5L492.1 112.1c-4.8-4.5-12.4-4.3-17 .5L431.6 159c-4.6 4.9-4.3 12.7.8 17.2L523 256l-90.6 79.7c-5.1 4.5-5.5 12.3-.8 17.2l43.5 46.4c4.5 4.9 12.1 5.1 17 .6z"/></svg>
+
+    </a>
+    Base MkDocs Material
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href=".." class="md-nav__link">
+        Page d'accueil
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../actualites/" class="md-nav__link">
+        Actualités
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+      
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          Pédagogie
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        Pédagogie
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table des matières">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table des matières
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#actualite-des-disciplines" class="md-nav__link">
+    Actualité des disciplines
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#methodologie-pour-tous" class="md-nav__link">
+    Méthodologie pour tous
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#education-aux-medias-et-a-linformation" class="md-nav__link">
+    Education aux Médias et à l'Information
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#concours-scolaires" class="md-nav__link">
+    Concours scolaires
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#seconde-generale" class="md-nav__link">
+    Seconde générale
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#disciplines-et-enseignements-de-specialite" class="md-nav__link">
+    Disciplines et enseignements de spécialité
+  </a>
+  
+    <nav class="md-nav" aria-label="Disciplines et enseignements de spécialité">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#arts-plastiques" class="md-nav__link">
+    Arts plastiques
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#eps" class="md-nav__link">
+    EPS
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#francais-eaf" class="md-nav__link">
+    Français / EAF
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hggsp-histoire-geographie-emc" class="md-nav__link">
+    HGGSP / Histoire-géographie EMC
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hlp-philosophie" class="md-nav__link">
+    HLP / Philosophie
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#llce-langues-vivantes" class="md-nav__link">
+    LLCE / Langues vivantes
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#mathematiques-snt" class="md-nav__link">
+    Mathématiques / SNT
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#nsi" class="md-nav__link">
+    NSI
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#physique-chimie" class="md-nav__link">
+    Physique Chimie
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ses" class="md-nav__link">
+    SES
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#si" class="md-nav__link">
+    SI
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#svt" class="md-nav__link">
+    SVT
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#serie-stmg" class="md-nav__link">
+    Série STMG
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#bac-pro" class="md-nav__link">
+    BAC PRO
+  </a>
+  
+    <nav class="md-nav" aria-label="BAC PRO">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#assp" class="md-nav__link">
+    ASSP
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#aepa" class="md-nav__link">
+    AEPA
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#mcv" class="md-nav__link">
+    MCV
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#cap" class="md-nav__link">
+    CAP
+  </a>
+  
+    <nav class="md-nav" aria-label="CAP">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#aepe" class="md-nav__link">
+    AEPE
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#epc" class="md-nav__link">
+    EPC
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#reviser-pour-le-bac" class="md-nav__link">
+    Réviser pour le BAC
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#grand-oral" class="md-nav__link">
+    Grand Oral
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../culture/" class="md-nav__link">
+        Culture
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../orientation/" class="md-nav__link">
+        Parcours avenir
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../citoyen/" class="md-nav__link">
+        Parcours citoyen
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../sante/" class="md-nav__link">
+        Parcours santé
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+          
+          <div class="md-content" data-md-component="content">
+            <article class="md-content__inner md-typeset">
+              
+
+
+
+
+
+                
+
+  <h1>Pédagogie</h1>
+
+<p>Pour vous aider et vous accompagner dans vos apprentissages :</p>
+<details class="example inline end" open="open">
+<summary>Liens utiles :</summary>
+<ul>
+<li><a href="https://pix.fr/" target="_blank"><strong>PIX</strong></a> : S'entraîner pour développer ses compétences numériques en vue de la certification de terminale.</li>
+<li><a href="https://prezi.com/r9ju2zs5ki65/guide-prezi-en-francais/" target="_blank"><strong>PREZI - tutoriel</strong></a></li>
+<li><a href="https://www.excel-pratique.com/" target="_blank"><strong>EXCEL - cours</strong></a></li>
+</ul>
+</details>
+<ul>
+<li><mark><strong>Conseils et tutoriels</strong></mark> : pour s'organiser dans son travail, améliorer sa rédaction, chercher des informations et présenter le résultat de ses recherches...</li>
+<li><mark><strong>Programmes officiels et ressources utiles</strong></mark> : pour les disciplines d'enseignement général, les enseignements de spécialités (LGT) ou matières professionnelles (LP).</li>
+<li><mark><strong>Projets pédagogiques</strong></mark> : concours scolaires, projets d'AP, éducation aux médias et à l'information...</li>
+</ul>
+<hr />
+<h2 id="actualite-des-disciplines">Actualité des disciplines<a class="headerlink" href="#actualite-des-disciplines" title="Permanent link">⚓︎</a></h2>
+<h2 id="methodologie-pour-tous">Méthodologie pour tous<a class="headerlink" href="#methodologie-pour-tous" title="Permanent link">⚓︎</a></h2>
+<details class="question" open="open">
+<summary>S'organiser</summary>
+<ul>
+<li><a href="../pdf/M%C3%A9thodologie_Apprendre_a_travailler.pdf" target="_blank"><strong>Apprendre à travailler</strong></a></li>
+<li><a href="https://apprendre-reviser-memoriser.fr/category/revisions-bac-brevet-examens-concours/" target="_blank"><strong>Apprendre efficacement</strong></a></li>
+<li><strong>D'autres exemples de cartes mentales</strong> <a href="https://www.ebsi.umontreal.ca/jetrouve/projet/cartes_m/galerie.htm" target="_blank"><strong>ici</strong></a></li>
+</ul>
+<p><img alt="carte mentale" center="80%" src="../images/00-carte_mentale_tutoriel.jpg" title="Carte mentale" /></p>
+</details>
+<details class="question">
+<summary>Améliorer sa rédaction</summary>
+<ul>
+<li><a href="https://www.lalanguefrancaise.com/" target="_blank"><strong>La langue française - Le Robert</strong></a> : dictionnaire, conjugaison, orthographe, expressions...</li>
+<li><a href="https://www.projet-voltaire.fr/regles-orthographe/" target="_blank"><strong>Question d'orthographe</strong></a> : consultez le site du projet Voltaire.</li>
+<li><a href="https://www.toutelaconjugaison.com/" target="_blank"><strong>Question de conjugaison</strong></a></li>
+<li><a href="https://www.assistancescolaire.com/eleve/2nde/francais/reviser-le-cours/2_f401" target="_blank"><strong>Argumenter</strong></a> : explications, conseils, et méthode...</li>
+</ul>
+<p>Les <strong>manuels scolaires</strong> fourmillent de <mark><strong>conseils</strong></mark> et <mark><strong>fiches méthodes</strong></mark> pour améliorer sa rédaction et répondre aux exigences des différents exercices du baccalauréat ( commentaires, dissertations...) dans les différentes disciplines.</p>
+</details>
+<details class="question">
+<summary>Chercher des informations</summary>
+<ul>
+<li><a href="https://ecmorlaix.basecdi.fr/pmb/opac_css/index.php" target="_blank"><strong>Base documentaire PMB du lycée</strong></a></li>
+<li><a href="https://www.ebsi.umontreal.ca/jetrouve/" target="_blank"><strong>Chercher pour trouver</strong></a></li>
+<li><a href="https://fr.wikihow.com/v%C3%A9rifier-l%E2%80%99information-sur-internet" target="_blank"><strong>Vérifier une information sur Internet</strong></a></li>
+<li><a href="../pdf/M%C3%A9thodologie_Prendre%20des%20notes.pdf" target="_blank"><strong>Prendre des notes</strong></a></li>
+<li><a href="../pdf/Fiche_intercdi_problematique.pdf" target="_blank"><strong>Elaborer une problématique</strong></a></li>
+</ul>
+</details>
+<details class="question">
+<summary>Présenter le résultat de ses recherches, fiches outils et conseils...</summary>
+<ul>
+<li><a href="../pdf/M%C3%A9thodologie_Faire%20un%20expos%C3%A9.pdf" target="_blank"><strong>Faire un exposé</strong></a></li>
+<li><a href="../pdf/M%C3%A9thodologie_Faire%20une%20revue%20de%20presse.pdf" target="_blank"><strong>Faire une revue de presse</strong></a></li>
+<li><a href="../pdf/M%C3%A9thodologie_R%C3%A9aliser%20une%20affiche.pdf" target="_blank"><strong>Réaliser une affiche</strong></a> </li>
+<li><a href="../pdf/M%C3%A9thodologie_R%C3%A9aliser%20un%20panneau.pdf" target="_blank"><strong>Réaliser un panneau</strong></a></li>
+<li><a href="../pdf/M%C3%A9thodologie_R%C3%A9aliser%20un%20diaporama.pdf" target="_blank"><strong>Réaliser un diaporama</strong></a></li>
+<li><a href="../pdf/M%C3%A9thodologie_Citer%20ses%20sources%20bibliographiques.pdf" target="_blank"><strong>Citer ses sources</strong></a></li>
+</ul>
+</details>
+<details class="info">
+<summary>Ressources</summary>
+<ul>
+<li><a href="https://www.fun-mooc.fr/fr/cours/?limit=21&amp;new=new&amp;offset=0"><strong>Nouveaux cours</strong></a> : en ligne sur FunMOOC pour découvrir, apprendre, progresser... dans les différentes disciplines.</li>
+<li><a href="https://www.ffdys.com/troubles-dys" target="_blank"><strong>DYS</strong></a> : comprendre les troubles cognitifs spécifiques.</li>
+<li><a href="https://www.reformedulycee.fr/2019/11/documents-libres-de-droits-nos-sites-preferes/" target="_blank"><strong>Documents libres de droits</strong></a> : liste non exhaustive de sites proposant des images, vidéos et musiques libres de droits. (Lelivrescolaire.fr)</li>
+</ul>
+</details>
+<details open="open">
+<summary>Applications utiles</summary>
+<ul>
+<li><a href="https://pix.fr/" target="_blank"><strong>PIX</strong></a> : S'entraîner pour développer ses compétences numériques en vue de la certification de terminale.</li>
+<li><a href="https://prezi.com/r9ju2zs5ki65/guide-prezi-en-francais/" target="_blank"><strong>Tutoriel pour une présentation avec PREZI</strong></a></li>
+<li><a href="https://www.excel-pratique.com/" target="_blank"><strong>Excel Pratique</strong></a></li>
+</ul>
+</details>
+<hr />
+<h2 id="education-aux-medias-et-a-linformation">Education aux Médias et à l'Information<a class="headerlink" href="#education-aux-medias-et-a-linformation" title="Permanent link">⚓︎</a></h2>
+<details class="question">
+<summary>Pourquoi et comment s'informer ?</summary>
+<ul>
+<li>
+<p>S'informer pour comprendre le monde</p>
+</li>
+<li>
+<p>Connaître et croiser les sources d'informations</p>
+</li>
+<li>
+<p>Développer son esprit critique.</p>
+</li>
+<li>
+<p>Lutter contre la désinformation.</p>
+</li>
+<li>
+<p>Gérer ses données personnelles.</p>
+</li>
+<li>
+<p>Maîtriser son temps d'écrans.</p>
+</li>
+</ul>
+<details class="attention" open="open">
+<summary>Comment développer son esprit critique ?</summary>
+<p><img align="left" alt="Esprit critique" src="../images/esprit_critique.jpg" title="Esprit critique" width="70%" /></p>
+</details>
+</details>
+<details>
+<summary>Sites pour s'informer</summary>
+<ul>
+<li><a href="https://www.afp.com/fr" target="_blank"><strong>AFP</strong></a></li>
+<li><a href="https://rsf.org/" target="_blank"><strong>Reporters sans frontières</strong></a></li>
+<li><a href="https://www.france24.com/fr/" target="_blank"><strong>France24</strong></a></li>
+<li><a href="ttps://mobile.francetvinfo.fr" target="_blank"><strong>FranceInfo</strong></a></li>
+</ul>
+</details>
+<details class="question">
+<summary>Enquêtes sur les médias</summary>
+<ul>
+<li><a href="https://www.fondationdescartes.org/wp-content/uploads/2021/03/Etude_Information_Internet_FondationDescartes_2021.pdf" target="_blank"><strong>Comment les français s'informent-ils sur Internet ?</strong></a></li>
+</ul>
+</details>
+<details class="question">
+<summary>Désintox : vrai ou fake ?</summary>
+<p>En ces périodes troublées, il est plus que jamais <mark><strong>nécessaire et important</strong></mark> de lutter contre la désinformation. </p>
+<ul>
+<li><a href="https://www.europe1.fr/medias-tele/quelles-solutions-pour-lutter-contre-la-desinformation-4042553" target="_blank"><strong>Quelles solutions pour lutter contre la désinformation</strong></a> : Fabrice Fries, président de l'AFP et auteur de "L'Emprise du faux" répond sur Europe1.</li>
+<li><a href="https://www.francetvinfo.fr/vrai-ou-fake/" target="_blank"><strong>FranceInfo</strong></a></li>
+<li><a Target="_blank" href="https://www.francetvinfo.fr/monde/europe/manifestations-en-ukraine/vrai-ou-fake-guerre-en-ukraine-non-cette-couverture-du-magazine-time-associant-poutine-et-hitler-n-est-pas-authentique_4987458.html"><strong>Poutine à la "Une" du Times</strong></a> : un exemple de fake.</li>
+</ul>
+</details>
+<details>
+<summary>Ressources pour l'EMI</summary>
+<p><a href="https://padlet.com/cdinddmporsmeur/emi" target="_blank"><strong>Padlet de ressources</strong></a></p>
+</details>
+<details>
+<summary>Données personnelles</summary>
+<ul>
+<li><a href="https://www.cybermalveillance.gouv.fr/" target="_blank"><strong>Cybermalveillance</strong></a> : site officiel pour assister les particuliers, les entreprises, les associations, les collectivités et les administrations victimes de cybermalveillance, les informer sur les menaces numériques et les moyens de s'en protéger.</li>
+<li><a href="https://www.cybermalveillance.gouv.fr/tous-nos-contenus/bonnes-pratiques/10-mesures-essentielles-assurer-securite-numerique" target="_blank"><strong>10 conseils pour assurer votre cybersécurité</strong></a></li>
+<li><a href="https://www.cybermalveillance.gouv.fr/tous-nos-contenus/bonnes-pratiques/mots-de-passe" target="_blank"><strong>Conseils pour la gestion des "Mots de passe"</strong></a></li>
+</ul>
+</details>
+<hr />
+<h2 id="concours-scolaires">Concours scolaires<a class="headerlink" href="#concours-scolaires" title="Permanent link">⚓︎</a></h2>
+<details>
+<summary>Concours de critique</summary>
+<p>En octobre et novembre, les élèves de 1G1 et 1G3, ont participé au <a href="https://www.bruitdelire.org/concours-de-critique-litteraire/" target="_blank"><strong>concours de critique littéraire</strong></a> organisé par la Région Bretagne en partenariat avec le Rectorat de Rennes et l’association <strong>"Bruit de lire"</strong>. L’objectif pour les élèves est de rédiger une critique sur l’un des romans de la sélection en lice pour le <strong>Prix Goncourt des Lycéens</strong>.</p>
+<p>En apprenant à exprimer leur pensée et à argumenter, les lycéens avancent vers l'autonomie. Au-delà du « j’aime » / « je n’aime pas », ils apprennent à formuler une appréciation personnelle sur l’œuvre choisie et à justifier leur avis. En s’exerçant à ce genre particulier, les élèves développent de véritables compétences d’argumentation.</p>
+</details>
+<hr />
+<details>
+<summary>Si on lisait à voix haute</summary>
+<p>Dans le cadre de l'AP, 19 élèves de seconde générale participent cette année au concours <a href="https://www.lumni.fr/dossier/la-grande-librairie-concours-de-lecture-a-voix-haute" target="_blank"><strong>"Si on lisait à voix haute"</strong></a> organisé par François Busnel et la Grande Librairie.</p>
+<p>Leurs motivations et leurs attentes au moment de choisir cet atelier étaient diverses : pour certains la <strong>curiosité</strong>, pour d’autres, l’<strong>envie de travailler l’oral</strong> et de <strong>gagner en aisance</strong>, pour d’autres encore, aimant déjà lire à voix haute, le <strong>désir de participer à un concours national</strong>, quelques-uns, aussi, sans motivation particulière, parce que s’étant inscrits dans cet atelier un peu par défaut.</p>
+<p>Ensembles, ils ont choisi de relever le défi proposé par le concours et se sont engagés à travailler pour progresser dans cet exercice de lecture à voix haute, à s'entraider pour exceller et donner le meilleur d'eux-mêmes.</p>
+<p>Découvrez cet atelier pédagogique sur le <a href="https://padlet.com/cdinddmporsmeur/concours_lagrandelibrairie" target="_blank"><strong>Padlet du groupe d'AP</strong></a>.
+<img align="right" alt="Concours" src="../images/Si%20on%20lisait%20%C3%A0%20voix%20haute01.jpg" title="logo du concours" width="35%" />
+<figure>
+<video width="560" height="315" controls>
+<source src="./videos/Finaliste_2022_compressee.mp4" type="video/mp4"><br />
+</video>
+</figure></p>
+</details>
+<hr />
+<details>
+<summary>Prix folio des lycéens</summary>
+<p>Petit parcours vers la <strong>littérature contemporaine</strong> : à travers des activités variées, découvrir 6 titres récents aux thèmes diversifiés ; partager ses impressions de lecture par oral et par écrit ; affiner ses goûts, développer son esprit critique en attribuant « coups de cœur » et « coups de griffe » et en votant pour son roman préféré.</p>
+<p>Une manière décontractée de se préparer aux épreuves anticipées de Français (écrites et orales) et au Grand Oral du bac !</p>
+<p>Informations et actualités du <a href="https://www.prixdeslyceensfolio.fr/" target="_blank"><strong>Prix folio</strong></a> sur le site.</p>
+</details>
+<hr />
+<h2 id="seconde-generale">Seconde générale<a class="headerlink" href="#seconde-generale" title="Permanent link">⚓︎</a></h2>
+<details class="info">
+<summary>AP 2nde générale</summary>
+<p>Dans le cadre de l'<strong>accompagnement personnalisé</strong> de la classe de seconde, les élèves participent à un <strong>projet long</strong> et trois <strong>projets courts</strong>.</p>
+<p>L’objectif est de les guider dans leurs choix d'orientation, en leur proposant soit des modules de découverte variés où ils pourront exprimer leurs talents, soit des activités liées à une discipline spécifique, ou encore des outils pour les aider à surmonter des difficultés identifiées.</p>
+<p><mark><strong>PROJETS LONGS</strong></mark> (<em>27 semaines</em>)</p>
+<ul>
+<li>
+<p>Faire des sciences dans le cadre d’une enquête policière</p>
+</li>
+<li>
+<p>J’aime lire et je participe au « Prix Folio des lycéens »</p>
+</li>
+<li>
+<p>Ecrire à la façon d’un journaliste pour « Le journal du lycée »</p>
+</li>
+<li>
+<p>Science-Fiction, Fantasy, Fantastique : si j’écrivais des nouvelles de SFFF</p>
+</li>
+<li>
+<p>Les maths, j’adore, je veux approfondir</p>
+</li>
+<li>
+<p>Création et innovation technologique : des idées plein la tête pour des projets concrets</p>
+</li>
+<li>
+<p>« Et si on lisait à voix haute » un concours pour travailler mon oral</p>
+</li>
+<li>
+<p>Webradio-capsules vidéos : créer des mini-reportages à diffuser sur l’ENT</p>
+</li>
+<li>
+<p>Une Entreprise dans votre lycée</p>
+</li>
+</ul>
+<p><mark><strong>PROJETS COURTS</strong></mark> (<em>9 semaines</em>)</p>
+<ul>
+<li>
+<p>Soutien matière : maths (3 groupes)</p>
+</li>
+<li>
+<p>Soutien matière français</p>
+</li>
+<li>
+<p>Prix de l’écoute (Podcast)</p>
+</li>
+<li>
+<p>Travailler les compétences de l’oral</p>
+</li>
+<li>
+<p>S’initier à la philosophie</p>
+</li>
+<li>
+<p>S’initier aux Sciences de l’ingénieur</p>
+</li>
+<li>
+<p>S’initier au mangement</p>
+</li>
+<li>
+<p>Maths approfondies</p>
+</li>
+</ul>
+</details>
+<hr />
+<h2 id="disciplines-et-enseignements-de-specialite">Disciplines et enseignements de spécialité<a class="headerlink" href="#disciplines-et-enseignements-de-specialite" title="Permanent link">⚓︎</a></h2>
+<details class="attention" open="open">
+<summary>Avertissement</summary>
+<p>Ci-dessous les <mark><strong>programmes scolaires</strong></mark> et des <mark><strong>ressources</strong></mark> pour les enseignements du lycée général et technologique.</p>
+<p>Par souci de clarté sont regroupés sous la même rubrique les <mark><strong>disciplines du tronc commun</strong></mark> et les <mark><strong>enseignements de spécialité</strong></mark> proposés au lycée.</p>
+</details>
+<details class="info" open="open">
+<summary>Choix des spécialités</summary>
+<p>Pour le bac général et technologique, pendant l’année de 2de, les élèves choisissent 3 spécialités qu'ils étudieront pendant la classe de 1re, en fonction de leurs goûts et de leurs motivations. Pour la terminale ils choisiront de conserver 2 des spécialités étudiées en 1re.</p>
+<p>Pour bien choisir vos spécialités, découvrir les attendus et les programmes de première et de terminale, pour chacune d'entre elles, rendez-vous sur le site du <a href="https://www.education.gouv.fr/reussir-au-lycee/choisir-ses-specialites-au-lycee-pour-preparer-ses-etudes-superieures-325475" target="_blank"><strong>Ministère de l'Education Nationale</strong></a> ou sur le site de <a href="https://www.studyrama.com/formations/diplomes/bac/les-programmes-et-attendus-des-12-specialites/" target="_blank"><strong>l'Etudiant</strong></a>.</p>
+<p>D'autres sites d'informations sur les spécialités sont à découvrir sous l'onglet <a href="https://jocedoc.github.io/mon_premier_site/orientation/" target="_blank"><strong>orientation</strong></a> du présent site, vers le padlet SECONDE.</p>
+</details>
+<hr />
+<h3 id="arts-plastiques">Arts plastiques<a class="headerlink" href="#arts-plastiques" title="Permanent link">⚓︎</a></h3>
+<details>
+<summary>Programmes</summary>
+<p>Sur le site <a href="https://eduscol.education.fr/1713/programmes-et-ressources-en-arts-plastiques-voie-gt" target="_blank"><strong>Eduscol</strong></a>.</p>
+</details>
+<details>
+<summary>Ressources</summary>
+<ul>
+<li><a href="https://www.culture.gouv.fr/Thematiques/Arts-plastiques" target="_blank"><strong>Arts plastiques - Ministère de la culture</strong></a></li>
+<li><a href="https://histoiredesarts.culture.gouv.fr/" target="_blank"><strong>Histoire des arts</strong></a></li>
+</ul>
+</details>
+<hr />
+<h3 id="eps">EPS<a class="headerlink" href="#eps" title="Permanent link">⚓︎</a></h3>
+<details>
+<summary>Programmes</summary>
+<p>Sur le site <a href="https://eduscol.education.fr/1748/programmes-et-ressources-en-eps-voie-gt" target="_blank"><strong>Eduscol</strong></a></p>
+</details>
+<details>
+<summary>Ressources</summary>
+<ul>
+<li><a href="https://www.sports.gouv.fr/" target="_blank"><strong>Ministère des sports</strong></a></li>
+<li><a href="https://portail.sportsregions.fr/" target="_blank"><strong>Portail des associations sportives par région</strong></a></li>
+</ul>
+</details>
+<hr />
+<h3 id="francais-eaf">Français / EAF<a class="headerlink" href="#francais-eaf" title="Permanent link">⚓︎</a></h3>
+<details>
+<summary>Programmes</summary>
+<p>Sur le site <a href="https://eduscol.education.fr/1712/programmes-et-ressources-en-francais-voie-gt" target="_blank"><strong>Eduscol</strong></a>.</p>
+</details>
+<details>
+<summary>Ressources</summary>
+<ul>
+<li><a href="https://cache.media.eduscol.education.fr/file/Programmes/52/6/Livre_Terminologie_grammaticale_web_1308526.pdf" target="_blank"><strong>Grammaire du Français</strong></a></li>
+<li><a href="https://www.franceculture.fr/emissions/ecoutez-revisez" target="_blank"><strong>En Français dans le texte</strong></a> : Emission de France Culture proposant la lecture, par une comédienne ou un comédien, d'un texte (de littérature française le plus souvent, d'histoire ou de philosophie) au programme des classes de première ou de terminale. Chaque lecture est suivie d'une analyse par des professeurs et d'une dictée proposée à l'antenne et sur les réseaux sociaux.</li>
+<li><a href="https://www.etudes-litteraires.com/" target="_blank"><strong>Etudes littéraires</strong></a> : littérature, fiches méthodes, BAC français, langue française.</li>
+<li><a href="https://www.site-magister.com/" target="_blank"><strong>Travaux dirigés de français</strong></a> : notions, textes, conseils méthodologiques, ressources pour l'EAF.</li>
+<li><a href="https://wordwall.net/fr/resource/2213377/eaf-oral-2-partie" target="_blank"><strong>S'entraîner pour l'oral</strong></a></li>
+<li><a href="http://www.pearltrees.com/t/lettres-lca-academie-de-rennes/numeriques-lettres-academie/id30360664" target="_blank"><strong>Outils numériques pour les lettres et LCA</strong></a></li>
+</ul>
+</details>
+<hr />
+<h3 id="hggsp-histoire-geographie-emc">HGGSP / Histoire-géographie EMC<a class="headerlink" href="#hggsp-histoire-geographie-emc" title="Permanent link">⚓︎</a></h3>
+<details>
+<summary>Programmes</summary>
+<p>Sur le site <a href="https://eduscol.education.fr/1676/programmes-et-ressources-en-histoire-geographie-geopolitique-et-sciences-politiques-voie-g" target="_blank"><strong>Eduscol</strong></a> : programmes d´histoire, géographie, géopolitique et sciences politique...
+<a href="https://eduscol.education.fr/1681/programmes-et-ressources-en-enseignement-moral-et-civique-voie-gt" target="_blank"><strong>Programme d´EMC</strong></a></p>
+</details>
+<details>
+<summary>Ressources</summary>
+<ul>
+<li><a href="https://www.arte.tv/fr/videos/RC-014036/le-dessous-des-cartes/" target="_blank"><strong>Le dessous des cartes</strong></a> : le magazine géopolitique d'Arte, créé par Jean-Christophe Victor et présenté par Émilie Aubry pour comprendre les enjeux de notre monde contemporain au moyen de cartes géographiques. Diffusée à l'antenne tous les samedis à 19h30, l'émission est disponible en replay et en VOD et DVD.</li>
+<li><a href="https://www.franceculture.fr/geopolitique" target="_blank"><strong>France Culture</strong></a> : Analyses et décryptages : comprendre les relations internationales et la géopolitique du monde actuel grâce aux émissions et podcasts de France Culture.</li>
+<li><a href="https://www.lumni.fr/recherche?query=G%C3%A9opolitique&amp;establishment=lycee&amp;schoolLevel=seconde" target="_blank"><strong>Lumni</strong></a> : Série Géopoliticus pour décrypter la géopolitique à l’aide d’infographies animées pour comprendre le monde et les grands enjeux politiques de notre temps.</li>
+<li><a href="https://www.iris-france.org/" target="_blank"><strong>IRIS - Institut de Relations Internationales et Stratégiques</strong></a></li>
+<li><a href="https://www.revueconflits.com/" target="_blank"><strong>Revue Conflits</strong></a> : Revue de géopolitique.</li>
+<li><a href="https://www.gouvernement.fr" target="_blank"><strong>Site du gouvernement</strong></a> : composition, actualité du gouvernement français.</li>
+<li><a href="https://www.reseau-canope.fr/cnrd/" target="_blank"><strong>Concours national de la résistance</strong></a> : ressources pour participer.</li>
+</ul>
+</details>
+<details>
+<summary>Actualité UKRAINE</summary>
+<ul>
+<li><a href="https://www.franceculture.fr/emissions/serie/une-histoire-de-l-ukraine" target="_blank"><strong>Histoire de l'Ukraine</strong></a> : Série d'émissions à retrouver dans l'émission "la fabrique de l'histoire" sur France culture.</li>
+<li><a href="https://www.magnard.fr/article/toutes-les-actualites-de-lhistoire-geographie-et-de-lhggsp" target="_blank"><strong>Ressources des éditions Magnard</strong></a></li>
+</ul>
+</details>
+<details>
+<summary>Séances pédagogiques</summary>
+<p><a href="../pdf/HGGSP_1re_revue%20de%20presse%20th%C3%A9matique.pdf" target="_blank"><strong>Faire une revue de presse thématique</strong></a></p>
+</details>
+<details>
+<summary>Etudes et géopolitique</summary>
+<p>Si la géopolitique vous intéresse, pourquoi ne pas continuer vos études dans cette voix à l'<a href="https://www.geopolitique.net/fr/" target="_blank"><strong>Institut Français de géopolitique</strong></a></p>
+</details>
+<hr />
+<h3 id="hlp-philosophie">HLP / Philosophie<a class="headerlink" href="#hlp-philosophie" title="Permanent link">⚓︎</a></h3>
+<details>
+<summary>Programmes</summary>
+<p>Sur le site <a href="https://eduscol.education.fr/1711/programmes-et-ressources-en-humanites-litterature-et-philosophie-voie-g" target="_blank"><strong>Eduscol</strong></a></p>
+</details>
+<details>
+<summary>Ressources</summary>
+<ul>
+<li><a href="https://encyclo-philo.fr/" target="_blank"><strong>Encyclopédie philosophie</strong></a></li>
+<li><a href="https://la-philosophie.com/" target="_blank"><strong>La philosophie</strong></a> : Les grands philosophes, les courants... préparation du BAC PHILO (Conseils méthodologiques - Résumés - Citations...)</li>
+<li><a href="http://www.histophilo.com/index.php" target="_blank"><strong>Histoire de la philosophie</strong></a></li>
+<li><a href="https://lesphilosophesdanslemetro.com/plan/" target="_blank"><strong>Les philosophes dans le métro</strong></a></li>
+<li><a href="https://www.franceculture.fr/emissions/les-chemins-de-la-philosophie/le-pouvoir-de-la-parole-14-parler-est-ce-agir" target="_blank"><strong>Le pouvoir de la parole</strong></a> : Série de quatre émissions sur le pouvoir de la parole, diffusées sur France Culture en novembre 2019. (<ins>Episode 1</ins> : Parler est-ce agir ? - <ins>Épisode 2</ins> : Quand la parole ne suffit pas : les stoïciens au secours de l’écologie - <ins>Épisode 3</ins> : Quand dire, c’est guérir - <ins>Épisode 4</ins> : Devient-on quelqu’un d’autre quand on ment ?).</li>
+</ul>
+</details>
+<hr />
+<h3 id="llce-langues-vivantes">LLCE / Langues vivantes<a class="headerlink" href="#llce-langues-vivantes" title="Permanent link">⚓︎</a></h3>
+<details>
+<summary>Programmes</summary>
+<p>Sur le site <a href="https://eduscol.education.fr/1684/programmes-et-ressources-en-langues-litteratures-et-cultures-etrangeres-et-regionales-voie-g" target="_blank"><strong>Eduscol</strong></a></p>
+</details>
+<details>
+<summary>Ressources communes</summary>
+<ul>
+<li><a href="https://www.lingolia.com/fr/" target="_blank"><strong>Lingolia</strong></a></li>
+<li><a href="https://fichesvocabulaire.com/" target="_blank"><strong>Fiches de vocabulaire</strong></a></li>
+<li><a href="https://la-conjugaison.nouvelobs.com/" target="_blank"><strong>Question de conjugaison</strong></a> : Français, Anglais, Espagnol, Allemand, Italien...</li>
+<li><a href="https://verbesirreguliersanglais.com/" target="_blank"><strong>Verbes irréguliers anglais</strong></a></li>
+<li><a href="https://fr.duolingo.com/" target="_blank"><strong>Duolingo</strong></a></li>
+<li><a href="https://app.memrise.com/bienvenue#1" target="_blank"><strong>Memrise</strong></a></li>
+<li><a href="http://learnenglishteens.britishcouncil.org/" target="_blank"><strong>British Council</strong></a></li>
+<li><a href="https://www.bbc.com/news/uk" target="_blank"><strong>BBC</strong></a></li>
+<li><a href="https://www.lemonde.fr/en/?M_BT=43662779019995" target="blank"><strong>Le Monde - version anglaise</strong></a></li>
+</ul>
+</details>
+<details>
+<summary>Allemand</summary>
+<ul>
+<li><a href="https://www.goethe.de/resources/files/pdf216/unplus_broschuere_2022_web.pdf" target="_blank"><strong>L'Allemand un plus</strong></a> : Pourquoi choisir l'Allemand ? Brochure éditée par le Goethe Institut, le ministère de l'Education de la jeunesse et des sports et L'Institut Français.</li>
+</ul>
+</details>
+<hr />
+<h3 id="mathematiques-snt">Mathématiques / SNT<a class="headerlink" href="#mathematiques-snt" title="Permanent link">⚓︎</a></h3>
+<details>
+<summary>Programmes</summary>
+<p>Sur le site <a href="https://eduscol.education.fr/1723/programmes-et-ressources-en-mathematiques-voie-gt" target="_blank"><strong>Eduscol</strong></a></p>
+</details>
+<details>
+<summary>Ressources</summary>
+<ul>
+<li><a href="http://specialite-maths.fr/" target="_blank"><strong>Spécialité maths</strong></a></li>
+<li><a href="https://www.maths-et-tiques.fr/index.php/cours-maths" target="_blank"><strong>M@th et tiques</strong></a></li>
+<li><a href="https://www.methodemaths.fr/" target="_blank"><strong>Méthode Math</strong></a></li>
+<li><a href="https://fr.khanacademy.org/" target="_blank"><strong>Kahn Academy</strong></a> : Cours en mathématiques...</li>
+<li><a href="https://www.mathsenvie.fr/?p=10530" target="_blank"><strong>Mathsenvie</strong></a> : Une façon originale d’aborder les mathématiques : motivante, concrète et en lien avec le quotidien des élèves. Activités de la maternelle au lycée...</li>
+<li><a href="https://www.franceculture.fr/theme/mathematiques" target="_blank"><strong>Podcast - France Culture</strong></a></li>
+<li><a href="https://www.annales2maths.com/" target="_blank"><strong>Annales</strong></a></li>
+</ul>
+<details class="tip">
+<summary>Ressources proposées pour la "Semaine des mathématiques"</summary>
+</details>
+<p><mark><strong>Du 7 au 14 mars 2022, s'est déroulé la semaine des mathématiques</strong></mark> : l'occasion de renforcer l'attractivité des mathématiques.</p>
+<ul>
+<li><a href="https://eduscol.education.fr/document/38933/download?attachment" target="_blank"><strong>Guide officiel</strong></a> de l´édition 2022 sur le thème <mark><strong>"Les Maths en forme(s)"</strong></mark>.</li>
+<li><a href="https://www.mathsenvie.fr/?p=10530" target="_blank"><strong>Les défis possibles</strong></a> par niveau, les modalités du concours...</li>
+<li><a href="https://maths.discip.ac-caen.fr/spip.php?article554" target="_blank"><strong>Ressources</strong></a></li>
+</ul>
+</details>
+<hr />
+<h3 id="nsi">NSI<a class="headerlink" href="#nsi" title="Permanent link">⚓︎</a></h3>
+<details>
+<summary>Programmes</summary>
+<p>Sur le site <a href="https://eduscol.education.fr/2068/programmes-et-ressources-en-numerique-et-sciences-informatiques-voie-g" target="_blank"><strong>Eduscol</strong></a></p>
+</details>
+<details>
+<summary>Ressources</summary>
+<ul>
+<li><a href="https://delmas-rigoutsos.nom.fr/documents/YDelmas-histoire_informatique/index.html" target="_blank"><strong>Histoire de l'informatique, d'Internet et du Web</strong></a></li>
+<li><a href="https://courspython.com/" target="_blank"><strong>Cours sur Python</strong></a></li>
+<li><a href="https://www.numerique-sciences-informatiques.fr/" target="_blank"><strong>Cours de sciences numériques et informatiques</strong></a> : python, mini-projets, HTML et CSS, PHP, robots, objects orientés, android, sujets bacs. Les métiers du numérique.</li>
+<li><a href="https://fr.khanacademy.org/" target="_blank"><strong>Kahn Academy</strong></a> : Cours en mathématiques, sciences, informatique, économie et finance, arts.</li>
+<li><a href="https://pixees.fr/" target="_blank"><strong>PIXEES</strong></a> : ressources pour les sciences du numérique.</li>
+</ul>
+</details>
+<hr />
+<h3 id="physique-chimie">Physique Chimie<a class="headerlink" href="#physique-chimie" title="Permanent link">⚓︎</a></h3>
+<details>
+<summary>Programmes</summary>
+<p>Sur le site <a href="https://eduscol.education.fr/1648/programmes-et-ressources-en-physique-chimie-voie-gt" target="_blank"><strong>Eduscol</strong></a></p>
+</details>
+<details>
+<summary>Ressources</summary>
+<ul>
+<li><a href="https://www.methodephysique.fr/" target="_blank"><strong>Méthode physique</strong></a> : cours, exercices, viédos, conseils méthodologiques.</li>
+<li><a href="https://culturesciences.chimie.ens.fr/" target="_blank"><strong>CultureSciences - Chimie</strong></a></li>
+<li><a href="https://fr.khanacademy.org/science/chemistry" target="_blank"><strong>Chimie générale</strong></a> : sur le site Kahn Academy.</li>
+<li><a href="https://webphysique.fr/" target="_blank"><strong>WebPhysique</strong></a> : Cours, exercices pour apprendre et découvrir les sciences physiques au lycée. </li>
+</ul>
+</details>
+<hr />
+<h3 id="ses">SES<a class="headerlink" href="#ses" title="Permanent link">⚓︎</a></h3>
+<details>
+<summary>Programmes</summary>
+<p>Sur le site <a href="https://eduscol.education.fr/1658/programmes-et-ressources-en-sciences-economiques-et-sociales-voie-gt" target="_blank"><strong>Eduscol</strong></a></p>
+</details>
+<details>
+<summary>Ressources</summary>
+<ul>
+<li><a href="https://www.citeco.fr/" target="_blank"><strong>Cité de l'économie</strong></a> : Leçons d'économie : vidéos de 2mn pour faire le tour des questions essentielles de la discipline  (marchés, échanges, régulation, TVA, CAC 40...) - Histoire de la pensée économique (fresque) - Les clés de l'éco : explication des Mécanismes économiques, monétaires, financiers - WEBséries : vidéos et quiz.</li>
+<li><a href="https://www.bretagne.cci.fr/" target="_blank"><strong>CCI Bretagne</strong></a> : Le site de la <strong>Chambre de Commerce et d'Industrie</strong> de Bretagne.</li>
+<li><a href="https://www.economie.gouv.fr/dgccrf" target="_blank"><strong>DGCCRF</strong></a> / Direction générale de la concurrence, de la consommation et de la répression des fraudes, du site du Ministère de l'économie, des finances et de la relance.</li>
+<li><a href="https://www.insee.fr/fr/accueil" target="_blank"><strong>INSEE</strong></a> :  Institut national de la statistique et des études économiques.</li>
+<li><a href="https://www.inc-conso.fr/" target="_blank"><strong>INC</strong></a> :  Institut national de la consommation.</li>
+<li><a href="https://www.60millions-mag.com/" target="_blank"><strong>60 millions de consommateurs</strong></a></li>
+<li><a href="https://www.pourleco.com/" target="_blank"><strong>Pour l'éco</strong></a> : le site de la revue.</li>
+<li><a href="https://www.service-public.fr/" target="_blank"><strong>Service public</strong></a> : site officiel de l'administration française.</li>
+<li><a href="http://ses.ens-lyon.fr/" target="_blank"><strong>Autres ressources en SES</strong></a></li>
+</ul>
+</details>
+<hr />
+<h3 id="si">SI<a class="headerlink" href="#si" title="Permanent link">⚓︎</a></h3>
+<details>
+<summary>Programmes</summary>
+<p>Sur le site <a href="https://eduscol.education.fr/1646/programmes-et-ressources-en-sciences-de-l-ingenieur-voie-gt" target="_blank"><strong>Eduscol</strong></a></p>
+</details>
+<details>
+<summary>Ressources</summary>
+<ul>
+<li><a href="https://www.techniques-ingenieur.fr/" target="_blank"><strong>Techniques de l'ingénieur</strong></a></li>
+</ul>
+</details>
+<hr />
+<h3 id="svt">SVT<a class="headerlink" href="#svt" title="Permanent link">⚓︎</a></h3>
+<details>
+<summary>Programmes</summary>
+<p>Sur le site <a href="https://eduscol.education.fr/1664/programmes-et-ressources-en-sciences-de-la-vie-et-de-la-terre-voie-gt" target="_blank"><strong>Eduscol</strong></a></p>
+</details>
+<details>
+<summary>Ressources</summary>
+<ul>
+<li><a href="https://www.vivelessvt.com/" target="_blank"><strong>Vive les SVT</strong></a></li>
+<li><a href="https://www.planete-energies.com/fr" target="_blank"><strong>Planète énergie</strong></a></li>
+<li><a href="https://www.reseau-canope.fr/corpus/#" target="_blank"><strong>A la découverte du corps humain</strong></a></li>
+</ul>
+</details>
+<hr />
+<h3 id="serie-stmg">Série STMG<a class="headerlink" href="#serie-stmg" title="Permanent link">⚓︎</a></h3>
+<details>
+<summary>Programmes</summary>
+<p>Sur le site <a href="https://eduscol.education.fr/1742/programmes-et-ressources-en-serie-stmg" target="_blank"><strong>Eduscol</strong></a></p>
+</details>
+<details>
+<summary>Ressources</summary>
+</details>
+<h2 id="bac-pro">BAC PRO<a class="headerlink" href="#bac-pro" title="Permanent link">⚓︎</a></h2>
+<p>Présentation du baccalauréat professionnel sur le site <a href="https://eduscol.education.fr/1916/le-baccalaureat-professionnel" target="_blank"><strong>Eduscol</strong></a> (Dernière mise à jour février 2022) : voies de formation, contenu de la formation, conditions d'obtention du diplôme...</p>
+<ul>
+<li>
+<p>Programmes des <a href="https://eduscol.education.fr/94/j-enseigne-au-lycee-professionnel" target="_blank"><strong>enseignements généraux</strong></a></p>
+</li>
+<li>
+<p><a href="https://www.education.gouv.fr/metiers-de-la-sante-et-du-social-99941" target="_blank"><strong>Métiers de la santé et du social</strong></a></p>
+</li>
+<li>
+<p><a href="https://eduscol.education.fr/document/1902/download" target="_blank"><strong>Métiers de la relation client</strong></a></p>
+</li>
+<li>
+<p><a href="https://eduscol.education.fr/3001/la-realisation-du-chef-d-oeuvre" target="_blank"><strong>Le chef d'oeuvre</strong></a> - <a href="https://eduscol.education.fr/document/1916/download?attachment" target="_blank"><strong>Vademecum</strong></a> : définition, modalités, collaboration entre disciplines, enjeux et mise en oeuvre.</p>
+</li>
+</ul>
+<h3 id="assp">ASSP<a class="headerlink" href="#assp" title="Permanent link">⚓︎</a></h3>
+<details>
+<summary>Programmes et référentiel</summary>
+<p>Sur le site <a href="https://eduscol.education.fr/referentiels-professionnels/a127/a127c.pdf" target="_blank"><strong>Eduscol</strong></a></p>
+</details>
+<h3 id="aepa">AEPA<a class="headerlink" href="#aepa" title="Permanent link">⚓︎</a></h3>
+<details>
+<summary>Programmes et référentiel</summary>
+<p>Sur le Site <a href="https://eduscol.education.fr/referentiels-professionnels/Bac_Pro_Animation/Annexes_Bac%20Pro%20Animation190722.pdf" target="_blank"><strong>Eduscol</strong></a></p>
+</details>
+<h3 id="mcv">MCV<a class="headerlink" href="#mcv" title="Permanent link">⚓︎</a></h3>
+<details>
+<summary>Programmes et référentiel</summary>
+<p>Sur le site <a href="https://eduscol.education.fr/referentiels-professionnels/BacPro_MetCoVe/Annexes_BacPro_MetCoVe.pdf" target="_blank"><strong>Eduscol</strong></a></p>
+</details>
+<h2 id="cap">CAP<a class="headerlink" href="#cap" title="Permanent link">⚓︎</a></h2>
+<details>
+<summary>Programmes et référentiel</summary>
+<p>Sur le Site <a href="https://eduscol.education.fr/1923/le-certificat-d-aptitude-professionnelle-cap" target="_blank"><strong>Eduscol</strong></a></p>
+</details>
+<h3 id="aepe">AEPE<a class="headerlink" href="#aepe" title="Permanent link">⚓︎</a></h3>
+<details>
+<summary>Programmes et référentiel</summary>
+<p>Sur le Site <a href="https://eduscol.education.fr/referentiels-professionnels/CAP_AEPE.html" target="_blank"><strong>Eduscol</strong></a></p>
+</details>
+<h3 id="epc">EPC<a class="headerlink" href="#epc" title="Permanent link">⚓︎</a></h3>
+<details>
+<summary>Programmes et référentiel</summary>
+<p>Sur le Site <a href="https://eduscol.education.fr/referentiels-professionnels/cap_EPC.html" target="_blank"><strong>Eduscol</strong></a></p>
+</details>
+<hr />
+<h2 id="reviser-pour-le-bac">Réviser pour le BAC<a class="headerlink" href="#reviser-pour-le-bac" title="Permanent link">⚓︎</a></h2>
+<details>
+<summary>S'organiser, planifier son travail</summary>
+<ul>
+<li><a href="https://www.lumni.fr/dossier/revisions-bac-methodologie" target="_blank"><strong>Un peu de méthode</strong></a> : vidéos "<strong>lumni</strong>" pour réviser...</li>
+</ul>
+</details>
+<details>
+<summary>Des sites pour réviser et s'entraîner</summary>
+<ul>
+<li><a href="https://www.phosphore.com/tout-pour-le-bac/"><strong>Tout pour le BAC</strong></a> : Le site Phosphore propose des outils réviser le BAC 2022.</li>
+<li><a href="https://eduscol.education.fr/prep-exam/" target="_blank"><strong>Banque de sujets</strong></a> : banque de données des sujets d'examens du baccalauréat général, technologique et professionnel.</li>
+<li><a href="https://www.studyrama.com/revision-examen/bac" target="_blank"><strong>Studyrama</strong></a></li>
+</ul>
+</details>
+<hr />
+<h2 id="grand-oral">Grand Oral<a class="headerlink" href="#grand-oral" title="Permanent link">⚓︎</a></h2>
+<details>
+<summary>Se préparer pour l'oral</summary>
+<p><a href="https://padlet.com/cdinddmporsmeur/grandoral2021" target="_blank"><strong>Padlet de ressources pour le GO</strong></a></p>
+</details>
+
+              
+
+<style>
+    .jp-RenderedHTMLCommon p {
+        font-size: 0.8rem;
+        line-height: 1.6;
+    }
+
+    .jp-RenderedHTMLCommon li {
+        font-size: .8rem;
+        line-height: 1.6;
+    }
+
+    .jp-RenderedHTMLCommon h1 {
+        margin: 0 0 1.25em;
+        color: var(--md-default-fg-color--light);
+        font-weight: 300;
+        font-size: 2em;
+        line-height: 1.3;
+        letter-spacing: -0.01em;
+    }
+
+    .jp-RenderedHTMLCommon h2 {
+        margin: 1.6em 0 .64em;
+        font-weight: 300;
+        font-size: 1.965em;
+        line-height: 1.4;
+        letter-spacing: -0.01em;
+    }
+
+    .jp-RenderedHTMLCommon h3 {
+        margin: 1.6em 0 .8em;
+        font-weight: 400;
+        font-size: 1.57em;
+        line-height: 1.5;
+        letter-spacing: -0.01em;
+    }
+
+    .jp-RenderedHTMLCommon hr {
+        border: none;
+    }
+</style>
+
+
+
+            </article>
+          </div>
+        </div>
+        
+          <a href="#" class="md-top md-icon" data-md-component="top" data-md-state="hidden">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12z"/></svg>
+            Retour en haut de la page
+          </a>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    <nav class="md-footer__inner md-grid" aria-label="Pied de page">
+      
+        
+        <a href="../actualites/" class="md-footer__link md-footer__link--prev" aria-label="Précédent: Actualités" rel="prev">
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+          </div>
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Précédent
+              </span>
+              Actualités
+            </div>
+          </div>
+        </a>
+      
+      
+        
+        <a href="../culture/" class="md-footer__link md-footer__link--next" aria-label="Suivant: Culture" rel="next">
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Suivant
+              </span>
+              Culture
+            </div>
+          </div>
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4z"/></svg>
+          </div>
+        </a>
+      
+    </nav>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      Document partagé par <a href="https://github.com/JoceDoc" target="_blank">Jocelyne COZ</a> &copy; 2021 sous licence <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr" target="_blank">CC BY-NC-SA 4.0</a> <br> Illustrations par <a href="https://undraw.co/" target="_blank">UnDraw</a>
+    </div>
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+        <div class="md-social">
+  
+    
+    
+    <a href="mailto:jocelyne.coz@ecmorlaix.fr" target="_blank" rel="noopener" title="Pour toute question, suggestion ou commentaire, écrire à l&#39;auteur" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M476 3.2 12.5 270.6c-18.1 10.4-15.8 35.6 2.2 43.2L121 358.4l287.3-253.2c5.5-4.9 13.3 2.6 8.6 8.3L176 407v80.5c0 23.6 28.5 32.9 42.5 15.8L282 426l124.6 52.2c14.2 6 30.4-2.9 33-18.2l72-432C515 7.8 493.3-6.8 476 3.2z"/></svg>
+    </a>
+  
+    
+    
+    <a href="https://github.com/JoceDoc/cdinddmporsmeur_eleves" target="_blank" rel="noopener" title="dépôt github" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/></svg>
+    </a>
+  
+    
+    
+    <a href="https://www.ecmorlaix.fr/nos-etablissements/lycee-notre-dame-du-mur/" target="_blank" rel="noopener" title="Lycée Notre Dame du Mur" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><path d="M0 224v272c0 8.84 7.16 16 16 16h80V192H32c-17.67 0-32 14.33-32 32zm360-48h-24v-40c0-4.42-3.58-8-8-8h-16c-4.42 0-8 3.58-8 8v64c0 4.42 3.58 8 8 8h48c4.42 0 8-3.58 8-8v-16c0-4.42-3.58-8-8-8zm137.75-63.96-160-106.67a32.02 32.02 0 0 0-35.5 0l-160 106.67A32.002 32.002 0 0 0 128 138.66V512h128V368c0-8.84 7.16-16 16-16h96c8.84 0 16 7.16 16 16v144h128V138.67c0-10.7-5.35-20.7-14.25-26.63zM320 256c-44.18 0-80-35.82-80-80s35.82-80 80-80 80 35.82 80 80-35.82 80-80 80zm288-64h-64v320h80c8.84 0 16-7.16 16-16V224c0-17.67-14.33-32-32-32z"/></svg>
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    <script id="__config" type="application/json">{"base": "..", "features": ["navigation.instant", "navigation.tabs", "navigation.expand", "navigation.top", "toc.integrate", "header.autohide"], "search": "../assets/javascripts/workers/search.0bbba5b5.min.js", "translations": {"clipboard.copied": "Copi\u00e9 dans le presse-papier", "clipboard.copy": "Copier dans le presse-papier", "search.config.lang": "fr", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Rechercher", "search.result.more.one": "1 de plus sur cette page", "search.result.more.other": "# de plus sur cette page", "search.result.none": "Aucun document trouv\u00e9", "search.result.one": "1 document trouv\u00e9", "search.result.other": "# documents trouv\u00e9s", "search.result.placeholder": "Taper pour d\u00e9marrer la recherche", "search.result.term.missing": "Non trouv\u00e9", "select.version.title": "S\u00e9lectionner la version"}}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.649a939e.min.js"></script>
+      
+        <script src="../javascripts/config.js"></script>
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+      
+    
+  </body>
+</html>
