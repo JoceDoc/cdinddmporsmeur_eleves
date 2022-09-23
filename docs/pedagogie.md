@@ -54,10 +54,6 @@ ___
     - [**DYS**](https://www.ffdys.com/troubles-dys){target=_blank} : comprendre les troubles cognitifs spécifiques.
     - [**Documents libres de droits**](https://www.reformedulycee.fr/2019/11/documents-libres-de-droits-nos-sites-preferes/){target=_blank} : liste non exhaustive de sites proposant des images, vidéos et musiques libres de droits. (Lelivrescolaire.fr)
 
-???+ "Applications utiles"
-    - [**PIX**](https://pix.fr/){target=_blank} : S'entraîner pour développer ses compétences numériques en vue de la certification de terminale.
-    - [**Tutoriel pour une présentation avec PREZI**](https://prezi.com/r9ju2zs5ki65/guide-prezi-en-francais/){target=_blank}
-    - [**Excel Pratique**](https://www.excel-pratique.com/){target=_blank}
 
 ___
 ## Education aux Médias et à l'Information

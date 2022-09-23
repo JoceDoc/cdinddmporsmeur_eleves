@@ -12,6 +12,25 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
     
 
 ## Actualités
+??? info "**23/09/2023 : Mail de M. QUINIO (coordinateur pour l'orientation) aux élèves de terminale**"
+    Bonjour à tous,
+
+    En tant que coordinateur pour l'orientation au lycée, je serai amené à vous transmettre quelques informations au cours de l'année scolaire. J'essaierai au maximum de concentrer et trier les informations avant de vous les transmettre. L'objectif étant d'une communication par mois. 
+
+    Pour ce mois de septembre, des informations concernant des possibilités d'==**immersions à l'UBO et l'UCO**== vous ont été envoyées. Vous pouvez les retrouver sur cette page dans les ==**ressources**== (onglet PO-IMMERSIONS).
+
+    A partir du 03 octobre, vous aurez accès au ==**forum en ligne**==. Ce dispositif qui entame sa troisième année vous permettra de découvrir chaque lundi (jusqu'en février) en visio sur ==**TEAMS**== une formation du supérieur présentée par un étudiant ou un enseignant. La visio commence à 18h30 et a une durée d'environ 30 minutes. 
+    
+    Vos professeurs principaux auront l'occasion de vous présenter les modalités de ce dispositif dans les prochains jours.
+
+    Je vous invite à saisir les opportunités qui vous sont proposées pour construire ou parfaire votre projet dans l'enseignement supérieur.
+
+    Bon week-end,
+
+    F. Quinio
+    
+    Enseignant de physique-chimie - Coordinateur pour l'orientation
+
 ???+ info "Au fil de la presse..."
     - [**Le Télégramme - 14/09/2022**](https://www.letelegramme.fr/finistere/morlaix/gwenael-morel-l-atout-drone-des-pompiers-finisteriens-14-09-2022-13178211.php){target=_blank} : Gwenaël Morel, l'atout drone des pompiers finistériens"
     - [**Ouest-france - 24/05/2022**](https://www.ouest-france.fr/bretagne/morlaix-29600/dans-le-pays-de-morlaix-comme-ailleurs-tous-les-metiers-sont-en-tension-6a181b20-db6e-11ec-84fd-0d1f31a3fa84){target=_blank} : Dans le pays de Morlaix comme ailleurs , "tous les métiers sont en tension"...
@@ -29,12 +48,12 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
     - [**Brochures IDEO**](https://ideo.bretagne.bzh/publications){target=_blank} : Journées portes ouvertes du secondaire, de l'enseignement supérieur...
     - [**Orientation pour tous**](https://www.orientation-pour-tous.fr/){target=_blank}
 === "SALONS-FORUMS"
-    - [**Azimut**](https://www.salon-azimut.com/){target=_blank} : ==**03-05 mars 2022**==
+    - [**Azimut**](https://www.salon-azimut.com/){target=_blank} : ==**19-21 janvier 2023**==
     - [**Salons - Forums de l'orientation**](https://www.onisep.fr/Cap-vers-l-emploi/Recherche-d-emploi/Les-salons-de-recrutement){target=_blank}
     - [**Studyrama**](https://www.studyrama.com/){target=_blank}
 === "PO - IMMERSIONS"
-    Les dates des ==**portes ouvertes**== et ==**journées d'immersion**== des établissements du supérieur sont accessibles depuis le [**PADLET terminale**](https://padlet.com/cdinddmporsmeur/orientation_terminale_2020){target=_blank}, ainsi que les liens vers leurs sites internet et les formulaires d'inscription pour ces événements.
-    
+    - ==**UBO**== : toutes les informations pour vous inscrire aux [**immersions**](https://www.univ-brest.fr/cap-avenir/menu/Bloc-Lyceen/Inscriptions-individuelles-Continuum){target=_blank} de la Toussaint et conférences [**Insta'fac**](https://www.univ-brest.fr/cap-avenir/menu/Bloc-Lyceen/Insta_-Fac){target=_blank}.
+    - ==**UCO Guingamp**== : pour tester l'université, découvrez le [**programme**](https://guingamp.uco.fr/fr/event/testez-l-universite-grace-aux-journees-decouvertes-d-octobre){target=_blank} des journées d'octobre  
     - [**Portes ouvertes du supérieur**](https://padlet-uploads.storage.googleapis.com/119789356/ad6591b8995ae4ba9caad9481091f5fa/JPO_superieur_2022_2e_Edition_Ac_Rennes_Onisep_Bretagne_24_01_2022.pdf){target=_blank} dans l'acédémie de RENNES.
     - [**Printemps de l'orientation**](https://www.education.gouv.fr/reussir-au-lycee/le-printemps-de-l-orientation-327179){target=_blank}
 === "VIE ETUDIANTE"
