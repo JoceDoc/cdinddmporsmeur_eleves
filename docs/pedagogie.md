@@ -140,43 +140,44 @@ ___
      
     ==**PROJETS LONGS**== (*27 semaines*)
     
-    * Faire des sciences dans le cadre d’une enquête policière
+    * Sciences et laboratoire : Faire des sciences dans le cadre d’une enquête policière
     
-    * J’aime lire et je participe au « Prix Folio des lycéens »
+    * Journal du lycée : Ecrire à la façon d’un journaliste
     
-    * Ecrire à la façon d’un journaliste pour « Le journal du lycée »
+    * Projet Symbiose : Science-Fiction, Fantasy, Fantastique, si j’écrivais des nouvelles de SFFF
     
-    * Science-Fiction, Fantasy, Fantastique : si j’écrivais des nouvelles de SFFF
-    
-    * Les maths, j’adore, je veux approfondir
+    * Maths expertes : Les maths, j’adore, je veux devenir un expert
     
     * Création et innovation technologique : des idées plein la tête pour des projets concrets
     
-    * « Et si on lisait à voix haute » un concours pour travailler mon oral
+    * Lecture à voix haute 
     
-    * Webradio-capsules vidéos : créer des mini-reportages à diffuser sur l’ENT
+    * Atelier d'écriture : pour les écrivains en herbes
     
-    * Une Entreprise dans votre lycée
+    * Management et Gestion : Créer ma propre entreprise
     
+    * Histoire : Savoir être et savoir vivre à la Renaissance
+
     ==**PROJETS COURTS**== (*9 semaines*)
     
-    * Soutien matière : maths (3 groupes)
+    * Soutien mathématiques : pour reprendre les bases en début d'année
     
-    * Soutien matière français
+    * Soutien français : pour reprendre les bases en début d'année
     
-    * Prix de l’écoute (Podcast)
+    * Initiation aux sciences de l'ingénieur
     
-    * Travailler les compétences de l’oral
+    * Initiation au management et à la gestion
     
-    * S’initier à la philosophie
-    
-    * S’initier aux Sciences de l’ingénieur
-    
-    * S’initier au mangement
-    
-    * Maths approfondies
+    * Prix des lycéens Folios : être jury dans un concours littéraire
 
+    * Etre à l'aise à l'oral
     
+    * Sciences et laboratoire : répondre à des questions scientifiques par l'expérience
+    
+    * Les Imaginaires du futur : créer une exposition interactive
+
+    * Prononciation anglaise : doubler des séries en anglais
+   
 ___
 ## Disciplines et enseignements de spécialité
 
