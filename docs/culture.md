@@ -11,7 +11,9 @@ La [**ville de Morlaix**](https://www.ville.morlaix.fr/VIVRE-A-MORLAIX/Culture-L
 
 Ci-dessous vous pouvez accéder directement aux sites officiels de ces lieux culturels.
 
-
+??? info "Actualités"
+    * [**28/09/2022 : La manufacture des tabacs... après Les tabacs **](https://www.espace-sciences.org/conferences/les-manufactures-des-tabacs-apres-les-tabacs){target=_blank} : conférence dans le cadre des mercredis de l'espace des sciences - IUT de Morlaix, manufacture des tabacs.
+    * [**Théâtre du Pays de Morlaix**](https://www.theatre-du-pays-de-morlaix.fr/){target=_blank}
 
 ???+ info "Accès direct aux sites"
 
