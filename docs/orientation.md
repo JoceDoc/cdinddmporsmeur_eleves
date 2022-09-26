@@ -12,7 +12,7 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
     
 
 ## Actualités
-??? info "**23/09/2023 : Mail de M. QUINIO (coordinateur pour l'orientation) aux élèves de terminale**"
+??? info "**23/09/2022 : Mail de M. QUINIO (coordinateur pour l'orientation) aux élèves de terminale**"
     Bonjour à tous,
 
     En tant que coordinateur pour l'orientation au lycée, je serai amené à vous transmettre quelques informations au cours de l'année scolaire. J'essaierai au maximum de concentrer et trier les informations avant de vous les transmettre. L'objectif étant d'une communication par mois. 
