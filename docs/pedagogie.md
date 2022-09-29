@@ -34,7 +34,9 @@ ___
         
 ??? question "Chercher des informations"
     - [**Base documentaire PMB du lycée**](https://ecmorlaix.basecdi.fr/pmb/opac_css/index.php){target=_blank}
-    - [**Chercher pour trouver**](https://www.ebsi.umontreal.ca/jetrouve/){target=_blank}
+    - [**Les types de documents**](http://www1.univ-ag.fr/buag/cours/LS1-web/co/ls1_2_1.html){target=_blank}
+    - [**Se repérer dans le classement**](http://www1.univ-ag.fr/buag/cours/LS1-web/co/ls1_2_2.html){target=_blank}
+    - [**Chercher pour trouver**](https://www.ebsi.umontreal.ca/jetrouve/biblio/index.htm){target=_blank}
     - [**Vérifier une information sur Internet**](https://fr.wikihow.com/v%C3%A9rifier-l%E2%80%99information-sur-internet){target=_blank}
     - [**Prendre des notes**](./pdf/Méthodologie_Prendre des notes.pdf){target=_blank}
     - [**Elaborer une problématique**](./pdf/Fiche_intercdi_problematique.pdf){target=_blank}
@@ -46,7 +48,7 @@ ___
     - [**Réaliser une affiche**](./pdf/Méthodologie_Réaliser une affiche.pdf){target=_blank} 
     - [**Réaliser un panneau**](./pdf/Méthodologie_Réaliser un panneau.pdf){target=_blank}
     - [**Réaliser un diaporama**](./pdf/Méthodologie_Réaliser un diaporama.pdf){target=_blank}
-    - [**Citer ses sources**](./pdf/Méthodologie_Citer ses sources bibliographiques.pdf){target=_blank}
+    - [**Citer ses sources**](http://www1.univ-ag.fr/buag/cours/LS1-web/co/Module_LICENCE1_6.html){target=_blank} : fiche synthèse [**ici**](./pdf/Méthodologie_Citer ses sources bibliographiques.pdf){target=_blank}
   
 
 ??? info "Ressources"
@@ -345,16 +347,22 @@ ___
     Sur le site [**Eduscol**](https://eduscol.education.fr/1658/programmes-et-ressources-en-sciences-economiques-et-sociales-voie-gt){target=_blank}
 
 ??? "Ressources" 
-    - [**Cité de l'économie**](https://www.citeco.fr/){target=_blank} : Leçons d'économie : vidéos de 2mn pour faire le tour des questions essentielles de la discipline  (marchés, échanges, régulation, TVA, CAC 40...) - Histoire de la pensée économique (fresque) - Les clés de l'éco : explication des Mécanismes économiques, monétaires, financiers - WEBséries : vidéos et quiz.
-    - [**CCI Bretagne**](https://www.bretagne.cci.fr/){target=_blank} : Le site de la **Chambre de Commerce et d'Industrie** de Bretagne.
-    - [**DGCCRF**](https://www.economie.gouv.fr/dgccrf){target=_blank} / Direction générale de la concurrence, de la consommation et de la répression des fraudes, du site du Ministère de l'économie, des finances et de la relance.
-    - [**INSEE**](https://www.insee.fr/fr/accueil){target=_blank} :  Institut national de la statistique et des études économiques.
-    - [**INC**](https://www.inc-conso.fr/){target=_blank} :  Institut national de la consommation.
-    - [**60 millions de consommateurs**](https://www.60millions-mag.com/){target=_blank}
-    - [**Pour l'éco**](https://www.pourleco.com/){target=_blank} : le site de la revue.
-    - [**Service public**](https://www.service-public.fr/){target=_blank} : site officiel de l'administration française.
-    - [**Autres ressources en SES**](http://ses.ens-lyon.fr/){target=_blank}
-    
+    === "SITES INSTITUTIONNELS"
+        - [**Cité de l'économie**](https://www.citeco.fr/){target=_blank} : Leçons d'économie : vidéos de 2mn pour faire le tour des questions essentielles de la discipline  (marchés, échanges, régulation, TVA, CAC 40...) - Histoire de la pensée économique (fresque) - Les clés de l'éco : explication des Mécanismes économiques, monétaires, financiers - WEBséries : vidéos et quiz.
+        - [**CCI Bretagne**](https://www.bretagne.cci.fr/){target=_blank} : Le site de la **Chambre de Commerce et d'Industrie** de Bretagne.
+        - [**DGCCRF**](https://www.economie.gouv.fr/dgccrf){target=_blank} / Direction générale de la concurrence, de la consommation et de la répression des fraudes, du site du Ministère de l'économie, des finances et de la relance.
+        - [**INSEE**](https://www.insee.fr/fr/accueil){target=_blank} :  Institut national de la statistique et des études économiques.
+        - [**INC**](https://www.inc-conso.fr/){target=_blank} :  Institut national de la consommation.
+        - [**60 millions de consommateurs**](https://www.60millions-mag.com/){target=_blank}
+        - [**Service public**](https://www.service-public.fr/){target=_blank} : site officiel de l'administration française.
+        - [**Banque de France**](https://www.banque-france.fr/){target=_blank} : site officiel de la banque de France. 
+    === "SITES PEDAGOGIQUES"
+        - [**Melchior**](https://www.melchior.fr/){target=_blank} : site de ressources en SES proposées par des enseignants de SES en partenariat avec l'éducation nationale.
+        - [**Pour les SES**](http://www.ses.ac-versailles.fr/){target=_blank} : site de l'académie de Versailles.
+        - [**Sujets de BAC**](http://www.ses.ac-versailles.fr/prgs_2019/bac/sujets_term/sujets_term.html){target=_blank} : sujets du BAC de la spécialité SES.
+        - [**Autres ressources**](http://ses.ens-lyon.fr/){target=_blank} en Sciences Economiques et Sociales.
+        - [**Pour l'Eco**](https://www.pourleco.com/){target=_blank} : le site de la revue.
+
 ___
 ### SI
 
