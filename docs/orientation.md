@@ -99,7 +99,7 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
 === "PREMIERE"
     [**Vers le PADLET première**](https://padlet.com/cdinddmporsmeur/orientation_premiere_2020){target=_blank}
 === "TERMINALE"
-    - [**FORUM EN LIGNE**](https://padlet.com/cdinddmporsmeur/forum_en_ligne_2022){target=_blank} A partir du ==**lundi 03/10**==, vous avez la possibilité de vous inscrire au ==**forum en ligne**== pour découvrir une formation post-bac en visio via TEAMS. (inscription avant le dimanche 17h - présentation le lundi de 18h30 à 19h) 
+    - [**FORUM EN LIGNE**](https://padlet.com/cdinddmporsmeur/forum_en_ligne_2022){target=_blank} Prochain rendez-vous ==**lundi 10/10 (18h30-19h)**== : présentation de la **licence de droit**. Rappel : inscription à la visio avant dimanche 17h).
     - [**PADLET terminale**](https://padlet.com/cdinddmporsmeur/orientation_terminale_2020){target=_blank}
     - [**Terminales 2021-2022**](https://www.terminales2021-2022.fr/){target=_blank}
     - [**PARCOURSUP - Site officiel**](https://www.parcoursup.fr/index.php?desc=){target=_blank} 
