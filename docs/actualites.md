@@ -216,6 +216,8 @@
     [![Cahiers pédagogiques](./images/abonnements/enseignants/Cahiers_pedagogiques_mars-avril_2022_576.jpg "Cahiers pédagogiques, mars-avril 2022, n°576"){width=20%}](./images/abonnements/enseignants/Cahiers_pedagogiques_mars-avril_2022_576.pdf){target=_blank}
     [![Cahiers pédagogiques](./images/abonnements/enseignants/Cahiers_pedagogiques_mai_2022_577.jpg "Cahiers pédagogiques, mai 2022, n°577"){width=20%}](./images/abonnements/enseignants/Cahiers_pedagogiques_mai_2022_577.pdf){target=_blank}
     [![Cahiers pédagogiques](./images/abonnements/enseignants/Cahiers_pedagogiques_juin_2022_578.jpg "Cahiers pédagogiques, juin 2022, n°578"){width=20%}](./images/abonnements/enseignants/Cahiers_pedagogiques_juin_2022_578.pdf){target=_blank}
+    [![Cahiers pédagogiques](./images/abonnements/enseignants/Cahiers_pedagogiques_septembre-octobre_2022_579.jpg "Cahiers pédagogiques, septembre-octobre 2022, n°579"){width=20%}](./images/abonnements/enseignants/Cahiers_pedagogiques_septembre-octobre_2022_579.pdf){target=_blank}
+    [![InterCDI](./images/abonnements/enseignants/Intercdi_septembre-octobre_2022_298.jpg "InterCDI, septembre-octobre 2022, n°298"){width=20%}](./images/abonnements/enseignants/Intercdi_septembre-octobre_2022_298.pdf){target=_blank}
      [![NRP Lycée](./images/abonnements/enseignants/NRP_lycee_septembre_2022_100.jpg "NRP Lycée, septembre 2022, n°100"){width=20%}](./images/abonnements/enseignants/NRP_lycee_septembre_2022_100.pdf){target=_blank}
 
 
