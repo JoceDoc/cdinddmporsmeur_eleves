@@ -51,6 +51,7 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
     - [**Orientation pour tous**](https://www.orientation-pour-tous.fr/){target=_blank} : pour ne rien manquer de l'actualité de l'orientation, découvrir des informations sur les métiers, les études par région...
     - [**1001 orientation**](https://1001orientations.fr/){target=_blank} : 1001 conseils, 1001 parcours pour choisir sa voie...
     - [**L'Etudiant**](https://www.letudiant.fr/orientation.html) : les outils pour réussir son orientation, des tests en ligne pour affiner sa réflexion sur l'orientation, le service de coaching du site de l'Etudiant...
+    - [**Quelles spécialités pour quelles études ?**](https://www.letudiant.fr/lycee/specialites-bac-general/article/reforme-lycee-quelles-specialites-pour-quelles-etudes.html){target=_blank} : les spécialités recommandées par type de formation ou par domaine d'études...
     - [**MOOC**](https://www.mooc-orientation.fr/) : suivez les MOOC de l'orientation pour choisir votre avenir...
 
 
@@ -94,8 +95,9 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
 ### Par niveau
 
 === "SECONDE"
-    - [**Vers le PADLET seconde**](https://padlet.com/cdinddmporsmeur/orientation_seconde_2020){target=_blank}
     - [**Guide d'accompagnement à l'orientation 2de**](./pdf/Guide_accompagnement_orientation_2nde_GT_20220316.pdf){target=_blank}
+    - [**Vers le PADLET seconde**](https://padlet.com/cdinddmporsmeur/orientation_seconde_2020){target=_blank}
+    - [**Quelles spécialités choisir pour le BAC?**](https://www.letudiant.fr/lycee/simulateur-de-specialites.html){target=_blank}
 === "PREMIERE"
     [**Vers le PADLET première**](https://padlet.com/cdinddmporsmeur/orientation_premiere_2020){target=_blank}
 === "TERMINALE"

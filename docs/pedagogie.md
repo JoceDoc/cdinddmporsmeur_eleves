@@ -105,7 +105,7 @@ ___
 ## Concours scolaires
 
 ??? "Concours de critique"
-    En octobre et novembre, les élèves de 1G1 et 1G3, ont participé au [**concours de critique littéraire**](https://www.bruitdelire.org/concours-de-critique-litteraire/){target=_blank} organisé par la Région Bretagne en partenariat avec le Rectorat de Rennes et l’association **"Bruit de lire"**. L’objectif pour les élèves est de rédiger une critique sur l’un des romans de la sélection en lice pour le **Prix Goncourt des Lycéens**.
+    En octobre et novembre, les élèves de 1G3 et 1G4, participent au [**concours de critique littéraire**](https://www.bruitdelire.org/concours-de-critique-litteraire/){target=_blank} organisé par la Région Bretagne en partenariat avec le Rectorat de Rennes et l’association **"Bruit de lire"**. L’objectif pour les élèves est de rédiger une critique sur l’un des romans de la sélection en lice pour le **Prix Goncourt des Lycéens**.
     
     En apprenant à exprimer leur pensée et à argumenter, les lycéens avancent vers l'autonomie. Au-delà du « j’aime » / « je n’aime pas », ils apprennent à formuler une appréciation personnelle sur l’œuvre choisie et à justifier leur avis. En s’exerçant à ce genre particulier, les élèves développent de véritables compétences d’argumentation.
 ___
@@ -229,6 +229,10 @@ ___
     - [**Travaux dirigés de français**](https://www.site-magister.com/){target=_blank} : notions, textes, conseils méthodologiques, ressources pour l'EAF.
     - [**S'entraîner pour l'oral**](https://wordwall.net/fr/resource/2213377/eaf-oral-2-partie){target=_blank}
     - [**Outils numériques pour les lettres et LCA**](http://www.pearltrees.com/t/lettres-lca-academie-de-rennes/numeriques-lettres-academie/id30360664){target=_blank}
+
+    [![**Le printemps des poètes**](./images/Printemps_des_poetes.jpg "Affiche_2023"){width=40%}](https://www.printempsdespoetes.com/Edition-2023-1270){target=_blank}
+
+ 
  
     
 ___       

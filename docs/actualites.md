@@ -120,6 +120,30 @@
    
 ??? "**Kiosque du mois** :newspaper:"
   
+    [![01.NET](./images/abonnements/10_octobre/01.net_05_octobre_2022_983.jpg "01.NET, 05 octobre 2022, n°983"){width=20%}](./images/abonnements/10_octobre/01.net_05_octobre_2022_983.pdf){target=_blank}
+    [![Alternatives Economiques](./images/abonnements/10_octobre/Alternatives_economiques_octobre_2022_427.jpg "Alternatives Economiques, octobre 2022, n°427"){width=20%}](./images/abonnements/10_octobre/Alternatives_economiques_octobre_2022_427.pdf){target=_blank}
+    [![Ca m'intéresse](./images/abonnements/10_octobre/Ca_m_interesse_octobre_2022_500.jpg "Ca m'intéresse, octobre 2022, n°500"){width=20%}](./images/abonnements/10_octobre/Ca_m_interesse_octobre_2022_500.pdf){target=_blank}
+    [![Courrier international](./images/abonnements/10_octobre/Courrier_international_29_septembre_2022_1665.jpg "Courrier international, 29 septembre 2022, n°1665"){width=20%}](./images/abonnements/10_octobre/Courrier_international_29_septembre_2022_1665.pdf){target=_blank}
+    [![Journal de l'animation](./images/abonnements/10_octobre/Journal_animation_octobre_2022_232.jpg "Journal de l'animation, octobre 2022, n°232"){width=20%}](./images/abonnements/10_octobre/Journal_animation_octobre_2022_232.pdf){target=_blank}
+    [![Philosophie magazine](./images/abonnements/10_octobre/Philosophie_magazine_octobre_2022_163.jpg "Philosophie magazine, octobre 2022, 163"){width=20%}](./images/abonnements/10_octobre/Philosophie_magazine_octobre_2022_163.pdf){target=_blank}
+    [![Phosphore](./images/abonnements/10_octobre/Phosphore_1er_octobre_2022_539.jpg "Phosphore, 1er octobre 2022, 537"){width=20%}](./images/abonnements/10_octobre/Phosphore_1er_octobre_2022_539.pdf){target=_blank}
+    [![Phosphore](./images/abonnements/10_octobre/Phosphore_15_octobre_2022_540.jpg "Phosphore, 15 octobre 2022, 540"){width=20%}](./images/abonnements/10_octobre/Phosphore_15_octobre_2022_540.pdf){target=_blank}
+    [![Pour l'éco](./images/abonnements/09_septembre/Pour_l_eco_septembre_2022_44.jpg "Pour l'éco, septembre 2022, 44"){width=20%}](./images/abonnements/09_septembre/Pour_l_eco_septembre_2022_44.pdf){target=_blank}
+    [![Que choisir](./images/abonnements/10_octobre/Que_choisir_octobre_2022_617.jpg "Que choisir, octobre 2022, 617"){width=20%}](./images/abonnements/10_octobre/Que_choisir_octobre_2022_617.pdf){target=_blank}
+    [![Que choisir](./images/abonnements/10_octobre/Que_choisir_octobre_2022_168HS.jpg "Que choisir, octobre 2022, 168HS"){width=20%}](./images/abonnements/10_octobre/Que_choisir_octobre_2022_168HS.pdf){target=_blank}
+    [![Que choisir santé](./images/abonnements/10_octobre/Que_choisir_sante_octobre_2022_175.jpg "Que choisir santé, octobre 2022, 174"){width=20%}](./images/abonnements/10_octobre/Que_choisir_sante_octobre_2022_175.pdf){target=_blank}
+    [![Science et Vie](./images/abonnements/10_octobre/Science_et_vie_octobre_2022_1261.jpg "Science et Vie, octobre 2022, n°1261"){width=20%}](./images/abonnements/10_octobre/Science_et_vie_octobre_2022_1261.pdf){target=_blank}
+    [![Science et Vie Junior](./images/abonnements/10_octobre/SVJ_octobre_2022_397.jpg "Science et Vie Junior, septembre 2022, n°396"){width=20%}](./images/abonnements/10_octobre/SVJ_octobre_2022_397.pdf){target=_blank}
+    [![Sciences et avenir](./images/abonnements/10_octobre/Sciences_et_avenir_octobre_2022_908.jpg "Sciences et avenir, septembre 2022, n°907"){width=20%}](./images/abonnements/10_octobre/Sciences_et_avenir_octobre_2022_908.pdf){target=_blank}
+    [![Sciences et avenir](./images/abonnements/10_octobre/Sciences_et_avenir_octobre-decembre_2022_211HS.jpg "Sciences et avenir, octobre-décembre 2022, n°211HS"){width=20%}](./images/abonnements/10_octobre/Sciences_et_avenir_octobre-decembre_2022_211HS.pdf){target=_blank}
+    [![Sciences humaines](./images/abonnements/10_octobre/Sciences_humaines_octobre_2022_351.jpg "Sciences humaines, octobre 2022, n°351"){width=20%}](./images/abonnements/10_octobre/Sciences_humaines_octobre_2022_351.pdf){target=_blank}
+    [![Sciences ouest](./images/abonnements/10_octobre/Sciences_ouest_octobre_2022_402.jpg "Sciences ouest, octobre 2022, n°402"){width=20%}](./images/abonnements/10_octobre/Sciences_ouest_octobre_2022_402.pdf){target=_blank}
+    [![Sport et vie](./images/abonnements/09_septembre/Sport_et_vie_septembre-octobre_2022_194.jpg "Sport et Vie, septembre-octobre 2022, n°194"){width=20%}](./images/abonnements/09_septembre/Sport_et_vie_septembre-octobre_2022_194.pdf){target=_blank}
+    [![Virgule](./images/abonnements/10_octobre/Virgule_octobre_2022_210.jpg "Virgule, octobre 2022, n°210"){width=20%}](./images/abonnements/10_octobre/Virgule_octobre_2022_210.pdf){target=_blank}
+    
+
+??? "**Kiosque du mois dernier** :newspaper:"    
+    
     [![01.NET](./images/abonnements/09_septembre/01.net_07_septembre_2022_981.jpg "01.NET, 07 septembre 2022, n°981"){width=20%}](./images/abonnements/09_septembre/01.net_07_septembre_2022_981.pdf){target=_blank}
     [![01.NET](./images/abonnements/07-08_juillet_août/01.net_aout-septembre_2022_979.jpg "01.NET, août-septembre 2022, n°979"){width=20%}](./images/abonnements/07-08_juillet_août/01.net_aout-septembre_2022_979.pdf){target=_blank}
     [![01.NET](./images/abonnements/09_septembre/01.Net_21_septembre_2022_982.jpg "01.NET, 21 septembre 2022, n°982"){width=20%}](./images/abonnements/09_septembre/01.Net_21_septembre_2022_982.pdf){target=_blank}
@@ -134,46 +158,16 @@
     [![Phosphore](./images/abonnements/09_septembre/Phosphore_15_septembre_2022_538.jpg "Phosphore, 15 septembre 2022, 538"){width=20%}](./images/abonnements/09_septembre/Phosphore_15_septembre_2022_538.pdf){target=_blank}
     [![Pour l'éco](./images/abonnements/09_septembre/Pour_l_eco_septembre_2022_44.jpg "Pour l'éco, septembre 2022, 44"){width=20%}](./images/abonnements/09_septembre/Pour_l_eco_septembre_2022_44.pdf){target=_blank}
     [![Que choisir](./images/abonnements/09_septembre/Que_choisir_septembre_2022_616.jpg "Que choisir, septembre 2022, 616"){width=20%}](./images/abonnements/09_septembre/Que_choisir_septembre_2022_616.pdf){target=_blank}
-    [![Que choisir santé](./images/abonnements/09_septembre/Que_choisir_sante_septembre_2022_174.jpg "Que choisir santé, septembre_2022, 174"){width=20%}](./images/abonnements/09_septembre/Que_choisir_sante_septembre_2022_174.pdf){target=_blank}
+    [![Que choisir santé](./images/abonnements/09_septembre/Que_choisir_sante_septembre_2022_174.jpg "Que choisir santé, septembre 2022, 174"){width=20%}](./images/abonnements/09_septembre/Que_choisir_sante_septembre_2022_174.pdf){target=_blank}
     [![Science et Vie](./images/abonnements/09_septembre/Science_et_vie_septembre_2022_1260.jpg "Science et Vie, septembre 2022, n°1260"){width=20%}](./images/abonnements/09_septembre/Science_et_vie_septembre_2022_1260.pdf){target=_blank}
     [![Science et Vie](./images/abonnements/09_septembre/Science_et_vie_septembre_2022_303HS.jpg "Science et Vie, septembre 2022, n°303HS"){width=20%}](./images/abonnements/09_septembre/Science_et_vie_septembre_2022_303HS.pdf){target=_blank}
     [![Science et Vie Junior](./images/abonnements/09_septembre/Science_et_vie_junior_septembre_2022_396.jpg "Science et Vie Junior, septembre 2022, n°396"){width=20%}](./images/abonnements/09_septembre/Science_et_vie_junior_septembre_2022_396.pdf){target=_blank}
     [![Science et Vie Junior](./images/abonnements/09_septembre/Science_et_vie_junior_septembre_2022_155HS.jpg "Science et Vie Junior, septembre 2022, n°155HS"){width=20%}](./images/abonnements/09_septembre/Science_et_vie_junior_septembre_2022_155HS.pdf){target=_blank}
     [![Sciences et avenir](./images/abonnements/09_septembre/Sciences_et_avenir_septembre_2022_907.jpg "Sciences et avenir, septembre 2022, n°907"){width=20%}](./images/abonnements/09_septembre/Sciences_et_avenir_septembre_2022_907.pdf){target=_blank}
     [![Sciences humaines](./images/abonnements/09_septembre/Sciences_humaines_aout-septembre_2022_350.jpg "Sciences humaines, août-septembre 2022, n°350"){width=20%}](./images/abonnements/09_septembre/Sciences_humaines_aout-septembre_2022_350.pdf){target=_blank}
-    [![Sciences ouest](./images/abonnements/09_septembre/Sciences_ouest_septembre_2022_401.jpg "Sciences humaines, septembre 2022, n°401"){width=20%}](./images/abonnements/09_septembre/Sciences_ouest_septembre_2022_401.pdf){target=_blank}
+    [![Sciences ouest](./images/abonnements/09_septembre/Sciences_ouest_septembre_2022_401.jpg "Sciences ouest, septembre 2022, n°401"){width=20%}](./images/abonnements/09_septembre/Sciences_ouest_septembre_2022_401.pdf){target=_blank}
     [![Sport et vie](./images/abonnements/09_septembre/Sport_et_vie_septembre-octobre_2022_194.jpg "Sport et Vie, septembre-octobre 2022, n°194"){width=20%}](./images/abonnements/09_septembre/Sport_et_vie_septembre-octobre_2022_194.pdf){target=_blank}
     [![Virgule](./images/abonnements/09_septembre/Virgule_septembre_2022_209.jpg "Virgule, septembre 2022, n°209"){width=20%}](./images/abonnements/09_septembre/Virgule_septembre_2022_209.pdf){target=_blank}
-    
-
-??? "**Kiosque du mois dernier** :newspaper:"    
-    
-    [![01.NET](./images/abonnements/07-08_juillet_août/01.net_13_juillet_2022_977.jpg "01.NET, 13 juillet 2022, n°977"){width=20%}](./images/abonnements/07-08_juillet_août/01.net_13_juillet_2022_977.pdf){target=_blank}
-    [![01.NET](./images/abonnements/07-08_juillet_août/01.net_juillet-aout_2022_978.jpg "01.NET, juillet-août 2022, n°978"){width=20%}](./images/abonnements/07-08_juillet_août/01.net_juillet-aout_2022_978.pdf){target=_blank}
-    [![01.NET](./images/abonnements/07-08_juillet_août/01.net_aout-septembre_2022_979.jpg "01.NET, août-septembre 2022, n°979"){width=20%}](./images/abonnements/07-08_juillet_août/01.net_aout-septembre_2022_979.pdf){target=_blank}
-    [![01.NET](./images/abonnements/07-08_juillet_août/01.net_24_aout_2022_980.jpg "01.NET, 24 août 2022, n°980"){width=20%}](./images/abonnements/07-08_juillet_août/01.net_24_aout_2022_980.pdf){target=_blank}
-    [![L'Aide-soignante](./images/abonnements/07-08_juillet_août/Aide-soignante_juin-juillet_2022_238.jpg "L'Aide-soignante, juin-juillet 2022, n°238"){width=20%}](./images/abonnements/07-08_juillet_août/Aide-soignante_juin-juillet_2022_238.pdf){target=_blank}
-    [![Alternatives Economiques](./images/abonnements/07-08_juillet_août/Alternatives_economiques_juillet-aout_2022_425.jpg "Alternatives Economiques, juillet-août 2022, n°425"){width=20%}](./images/abonnements/07-08_juillet_août/Alternatives_economiques_juillet-aout_2022_425.pdf){target=_blank}
-    [![Ca m'intéresse](./images/abonnements/07-08_juillet_août/Ca_m_intéresse_juillet_2022_497.jpg "Ca m'intéresse, juillet 2022, n°497"){width=20%}](./images/abonnements/07-08_juillet_août/Ca_m_intéresse_juillet_2022_497.pdf){target=_blank}
-    [![Ca m'intéresse](./images/abonnements/07-08_juillet_août/Ca_m_intéresse_aout_2022_498.jpg "Ca m'intéresse, août 2022, n°498"){width=20%}](./images/abonnements/07-08_juillet_août/Ca_m_intéresse_aout_2022_498.pdf){target=_blank}
-    [![Cnes mag](./images/abonnements/07-08_juillet_août/Cnes_mag_juillet_2022_93.jpg "Cnes mag, juillet 2022, n°93"){width=20%}](./images/abonnements/07-08_juillet_août/Cnes_mag_juillet_2022_93.pdf){target=_blank}
-    [![Management](./images/abonnements/07-08_juillet_août/Management_aout-septembre_2022_304.jpg "Management, août-septembre 2022, n°304"){width=20%}](./images/abonnements/07-08_juillet_août/Management_aout-septembre_2022_304.pdf){target=_blank}
-    [![Philosophie magazine](./images/abonnements/07-08_juillet_août/Philosophie_magazine_juillet-aout_2022_161.jpg "Philosophie magazine, juin 2022, 160"){width=20%}](./images/abonnements/07-08_juillet_août/Philosophie_magazine_juillet-aout_2022_161.pdf){target=_blank}
-    [![Phosphore](./images/abonnements/07-08_juillet_août/Phosphore_aout_2022_536.jpg "Phosphore, août 2022, 536"){width=20%}](./images/abonnements/07-08_juillet_août/Phosphore_aout_2022_536.pdf){target=_blank}
-    [![Pour l'éco](./images/abonnements/07-08_juillet_août/Pour_l_eco_juillet-aout_2022_43.jpg "Pour l'éco, juillet-août 2022, 43"){width=20%}](./images/abonnements/07-08_juillet_août/Pour_l_eco_juillet-aout_2022_43.pdf){target=_blank}
-    [![Que choisir](./images/abonnements/07-08_juillet_août/Que_choisir_juillet-aout_2022_615.jpg "Que choisir, juillet-août 2022, 615"){width=20%}](./images/abonnements/07-08_juillet_août/Que_choisir_juillet-aout_2022_615.pdf){target=_blank}
-    [![Que choisir](./images/abonnements/07-08_juillet_août/Que_choisir_juillet_2022_167HS.jpg "Que choisir, juillet-août 2022, 167HS"){width=20%}](./images/abonnements/07-08_juillet_août/Que_choisir_juillet_2022_167HS.pdf){target=_blank}
-    [![Que choisir santé](./images/abonnements/07-08_juillet_août/Que_choisir_sante_juillet-aout_2022_173.jpg "Que choisir santé, juillet-août_2022, 173"){width=20%}](./images/abonnements/07-08_juillet_août/Que_choisir_sante_juillet-aout_2022_173.pdf){target=_blank}
-    [![Science et Vie](./images/abonnements/07-08_juillet_août/Science_et_vie_juillet_2022_1258.jpg "Science et Vie, juillet 2022, n°1258"){width=20%}](./images/abonnements/07-08_juillet_août/Science_et_vie_juillet_2022_1258.pdf){target=_blank}
-    [![Science et Vie](./images/abonnements/07-08_juillet_août/Science_et_vie_aout_2022_1259.jpg "Science et Vie, août 2022, n°1259"){width=20%}](./images/abonnements/07-08_juillet_août/Science_et_vie_aout_2022_1259.pdf){target=_blank}
-    [![Science et Vie](./images/abonnements/07-08_juillet_août/Science_et_vie_juillet_2022_302HS.jpg "Science et Vie, juillet 2022, n°302HS"){width=20%}](./images/abonnements/07-08_juillet_août/Science_et_vie_juillet_2022_302HS.pdf){target=_blank}
-    [![Science et Vie Junior](./images/abonnements/07-08_juillet_août/Science_et_vie_junior_juillet_2022_394.jpg "Science et Vie Junior, juillet 2022, n°394"){width=20%}](./images/abonnements/07-08_juillet_août/Science_et_vie_junior_juillet_2022_394.pdf){target=_blank}
-    [![Science et Vie Junior](./images/abonnements/07-08_juillet_août/Science_et_vie_junior_aout_2022_395.jpg "Science et Vie Junior, août 2022, n°395"){width=20%}](./images/abonnements/07-08_juillet_août/Science_et_vie_junior_aout_2022_395.pdf){target=_blank}
-    [![Science et Vie Junior](./images/abonnements/07-08_juillet_août/Science_et_vie_junior_juillet_2022_154HS.jpg "Science et Vie Junior, juillet 2022, n°154HS"){width=20%}](./images/abonnements/07-08_juillet_août/Science_et_vie_junior_juillet_2022_154HS.pdf){target=_blank}
-    [![Sciences et avenir](./images/abonnements/07-08_juillet_août/Sciences_et_avenir_juillet-aout_2022_905-906.jpg "Sciences et avenir, juillet-août 2022, n°905"){width=20%}](./images/abonnements/07-08_juillet_août/Sciences_et_avenir_juillet-aout_2022_905-906.pdf){target=_blank}
-    [![Sciences et avenir](./images/abonnements/07-08_juillet_août/Sciences_et_avenir_juillet_2022_210HS.jpg "Sciences et avenir, juillet 2022, n°210HS"){width=20%}](./images/abonnements/07-08_juillet_août/Sciences_et_avenir_juillet_2022_210HS.pdf){target=_blank}
-    [![Sport et vie](./images/abonnements/07-08_juillet_août/Sport_et_vie_juillet-aout_2022_193.jpg "Sport et Vie, juillet-août 2022, n°193"){width=20%}](./images/abonnements/07-08_juillet_août/Sport_et_vie_juillet-aout_2022_193.pdf){target=_blank}
-    [![Virgule](./images/abonnements/07-08_juillet_août/Virgule_juillet-aout_2022_208.jpg "Virgule, juillet-août 2022, n°208"){width=20%}](./images/abonnements/07-08_juillet_août/Virgule_juillet-aout_2022_208.pdf){target=_blank}
     
 ??? "**Kiosque des langues vivantes** :gb: :de: :es: :it: :cn:"
     
