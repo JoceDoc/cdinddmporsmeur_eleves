@@ -361,6 +361,7 @@ ___
         - [**Service public**](https://www.service-public.fr/){target=_blank} : site officiel de l'administration française.
         - [**Banque de France**](https://www.banque-france.fr/){target=_blank} : site officiel de la banque de France. 
     === "SITES PEDAGOGIQUES"
+        - [**Econofides**](https://econofides.ac-versailles.fr/){target=_blank} : l'économie pour le lycée, ressources pour la spécialité SES, et la 1ère STMG.
         - [**Melchior**](https://www.melchior.fr/){target=_blank} : site de ressources en SES proposées par des enseignants de SES en partenariat avec l'éducation nationale.
         - [**Pour les SES**](http://www.ses.ac-versailles.fr/){target=_blank} : site de l'académie de Versailles.
         - [**Sujets de BAC**](http://www.ses.ac-versailles.fr/prgs_2019/bac/sujets_term/sujets_term.html){target=_blank} : sujets du BAC de la spécialité SES.
@@ -393,7 +394,8 @@ ___
     Sur le site [**Eduscol**](https://eduscol.education.fr/1742/programmes-et-ressources-en-serie-stmg){target=_blank}
 
 ??? "Ressources" 
-
+    - [**L'économie en 1ère STMG**](https://econofides.ac-versailles.fr/premiere-stmg/text/0-3-contents.html){target=_blank}
+    - [**Vidéos LUMNI**](https://www.lumni.fr/lycee/premiere/voie-technologique/stmg-sciences-et-technologies-du-management-et-de-la-gestion-1){target=_blank} : en lien avec les programmes de droit et d'économie
 
 ## BAC PRO
 Présentation du baccalauréat professionnel sur le site [**Eduscol**](https://eduscol.education.fr/1916/le-baccalaureat-professionnel){target=_blank} (Dernière mise à jour février 2022) : voies de formation, contenu de la formation, conditions d'obtention du diplôme...

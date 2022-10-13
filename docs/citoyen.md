@@ -2,7 +2,9 @@
     * [**Vie publique**](https://www.vie-publique.fr/){target=_blank}
     * [**Villes voisines**](https://demarchesadministratives.fr/cio-information-orientation/morlaix-29600){target=_blank}
     * [**Démarches administratives**](https://demarchesadministratives.fr/demarches/categorie/formation-recherche-demploi/etudier-en-france){target=_blank}
-    * [**Vie associative**](https://www.ville.morlaix.fr/VIVRE-A-MORLAIX/Vie-associative){target=_blank}## Actualités
+    * [**Vie associative**](https://www.ville.morlaix.fr/VIVRE-A-MORLAIX/Vie-associative){target=_blank}
+    
+## Actualités
 
 
 ## Citoyenneté et enseignement
