@@ -192,7 +192,7 @@
     [![Vocable Allemand](./images/abonnements/langues/Vocable_allemand_20220707_868.jpg "Vocable Allemand, 07 juillet 2022, n°868"){width=20%}](./images/abonnements/langues/Vocable_allemand_20220707_868.pdf){target=_blank}
     [![Vocable Allemand](./images/abonnements/langues/Vocable_allemand_20220901_869.jpg "Vocable Allemand, 01 septembre 2022, n°869"){width=20%}](./images/abonnements/langues/Vocable_allemand_20220901_869.pdf){target=_blank}
     [![Vocable Allemand](./images/abonnements/langues/Vocable_allemand_20220915_870.jpg "Vocable Allemand, 15 septembre 2022, n°870"){width=20%}](./images/abonnements/langues/Vocable_allemand_20220915_870.pdf){target=_blank}
-    [![Vocable Allemand](./images/abonnements/langues/Vocable_allemand_octobre_2022_871.jpg "Vocable Allemand, octobre 2022, n°871"){width=20%}](./images/abonnements/langues/Vocable_allemand_octobr_2022_871.pdf){target=_blank}
+    [![Vocable Allemand](./images/abonnements/langues/Vocable_allemand_octobre_2022_871.jpg "Vocable Allemand, octobre 2022, n°871"){width=20%}](./images/abonnements/langues/Vocable_allemand_octobre_2022_871.pdf){target=_blank}
     
     
     ??? Example ":es: **Espagnol** :es:"
