@@ -16,6 +16,28 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
     
 
 ## Actualités
+??? info "**14/10/2022 : Mail de M. QUINIO (coordinateur pour l'orientation) aux élèves de terminale**"
+    Bonjour,
+
+    Voici résumé les informations importantes que j'ai pu compiler en ce mois d'octobre et qui pourront vous aider dans la construction de votre projet d'orientation :
+
+    Rappel : Des ==**immersions à l'UBO et l'UCO**== sont possibles pendant les vacances d'automne (voir sur cette page dans les ressources (==**onglet PO-IMMERSIONS**==).
+
+    ==**InstaFac**== - A partir du mois de novembre, l'UBO propose chaque mercredi entre 14h et 16h une présentation de formations du supérieur par des enseignants et des étudiants. Vous pouvez dès à présent vous inscrire à certaines présentations sur le site de l'[==**UBO**==](https://www.univ-brest.fr/cap-avenir/menu/Bloc-Lyceen/Insta_-Fac){target=_blank}
+    Ces présentations vous demanderont de vous déplacer sur Brest. Une justification d'inscription vous sera demandée à la vie scolaire pour excuser votre absence en cours.
+
+    La fondation ==**CGénial**== propose un parcours de plusieurs visioconférences présentant des métiers dans le domaine des sciences et techniques. Les visios seront l'occasion d'avoir des témoignages de professionnels. La première d'entre elle a lieu le 19/10 et s'intitule "Qu'est-ce que le métier d'ingénieur ?" Consultez l'ensemble du parcours [==**ici**==](https://www.cgenial.org/82-nos-actions/225-mercredis-geniaux){target=_blank}.
+
+    Le Forum en ligne se poursuivra après les vacances. Vous trouverez en pièce jointe le programme pour les mois de novembre et décembre.
+
+    ==**Réservez la date !**== Du 08 au 10/12 se tiendra à St Brieuc le salon de l'orientation [==**SupArmor**==](https://www.suparmor.fr/){target=_blank} : équivalent du salon Azimut pour le département 22. C'est l'occasion de rencontrer des étudiants et des enseignants qui représentent des dizaines de formations du supérieur ! 
+
+
+    Bonne fin de journée,
+
+    F. Quinio
+    Coordinateur pour l'orientation
+
 ??? info "**23/09/2022 : Mail de M. QUINIO (coordinateur pour l'orientation) aux élèves de terminale**"
     Bonjour à tous,
 
@@ -63,8 +85,10 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
     
     
 === "SALONS-FORUMS"
-    - [**Azimut**](https://www.salon-azimut.com/){target=_blank} : ==**19-21 janvier 2023**==
     - [**Salons - Forums de l'orientation**](https://www.onisep.fr/recherche?text=SALONS%20FORUMS){target=_blank} : comment préparer sa visite à un salon ?
+    - [**Azimut**](https://www.salon-azimut.com/){target=_blank} : site officiel du salon les ==**19-21 janvier 2023**==
+    - [**Flyers soirées Azimut**](./pdf/Flyer_soirees_Azimut.pdf){target=_blank} : ==**novembre 2022**==.
+    - [**Sup'Armor**](https://www.suparmor.fr/){target=_blank} : l'équivalent d'Azimut dans le 22 du ==**08 au 10 décembre 2022**==.
     - [**Studyrama**](https://www.studyrama.com/){target=_blank} : dates des prochains salons étudiants...
 === "PO - IMMERSIONS"
     - ==**UBO**== : toutes les informations pour vous inscrire aux [**immersions**](https://www.univ-brest.fr/cap-avenir/menu/Bloc-Lyceen/Inscriptions-individuelles-Continuum){target=_blank} de la Toussaint et conférences [**Insta'fac**](https://www.univ-brest.fr/cap-avenir/menu/Bloc-Lyceen/Insta_-Fac){target=_blank}.
