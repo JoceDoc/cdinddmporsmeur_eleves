@@ -2,7 +2,8 @@
 ???+ example inline end "Liens utiles :"
     [![**FOLIOS"**](./images/orientation/folios.jpg "Page d'accueil FOLIOS"){width=90%}](https://folios.onisep.fr/){target=_blank}
     [![**ONISEP"**](./images/orientation/onisep_01.png "Page d'accueil ONISEP"){width=90%}](https://www.onisep.fr/){target=_blank}
-
+    [![**PARCOURSUP"**](./images/orientation/parcoursup.png "Page d'accueil PARCOURSUP"){width=90%}](https://www.parcoursup.fr/index.php?desc=){target=_blank}
+    
     * [**CIO Morlaix**](https://www.ac-rennes.fr/cio-morlaix){target=_blank}
     * [**Villes voisines**](https://demarchesadministratives.fr/cio-information-orientation/morlaix-29600){target=_blank}
     * [**Démarches administratives**](https://demarchesadministratives.fr/demarches/categorie/formation-recherche-demploi/etudier-en-france){target=_blank}
@@ -125,10 +126,11 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
 === "PREMIERE"
     [**Vers le PADLET première**](https://padlet.com/cdinddmporsmeur/orientation_premiere_2020){target=_blank}
 === "TERMINALE"
+    [![**PARCOURSUP"**](./images/orientation/parcoursup.png "Page d'accueil PARCOURSUP"){width=20%}](https://www.parcoursup.fr/index.php?desc=){target=_blank}
+
     - [**FORUM EN LIGNE**](https://padlet.com/cdinddmporsmeur/forum_en_ligne_2022){target=_blank} Prochain rendez-vous ==**lundi 17/10 (18h30-19h)**== : présentation de la ==**CPGE Lettres**==. Rappel : inscription à la visio avant dimanche 17h).
     - [**PADLET terminale**](https://padlet.com/cdinddmporsmeur/orientation_terminale_2020){target=_blank}
     - [**Terminales 2021-2022**](https://www.terminales2021-2022.fr/){target=_blank}
-    - [**PARCOURSUP - Site officiel**](https://www.parcoursup.fr/index.php?desc=){target=_blank} 
     - [**Vidéo PARCOURSUP - Comment choisir une formation ?**](https://youtu.be/WJzf3wRqcWo){target=_blank}
     - [**Ensemble des ressources de la DGESIP**](https://services.dgesip.fr/T454/S743/ressources){target=_blank} : Direction Générale de l'Enseignement Supérieur et de l'Insertion 
     - [**Site pour les terminales**](https://ericecmorlaix.github.io/TG_VDC_AP/){target=_blank}

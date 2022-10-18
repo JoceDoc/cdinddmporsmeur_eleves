@@ -1,7 +1,13 @@
 
 ???+ example inline end "Liens utiles"
-    - [**Ministère de la santé**](https://solidarites-sante.gouv.fr/){target=_blank}
-    - [**mangerbouger.fr**](https://www.mangerbouger.fr/){target=_blank}
+    [![**Ministère Santé**](./images/ministere_sante.png" Page d'accueil Ministère Santé"){width=90%}](https://solidarites-sante.gouv.fr/){target=_blank}
+     
+    [![**Santé publique**](./images/sante-publique-France-logo.png" Page d'accueil Santé Publique"){width=90%}](https://www.santepubliquefrance.fr/){target=_blank}
+
+    [![**Manger bouger"**](./images/mangerbouger.png "Page d'accueil Mangerbouger"){width=90%}](https://www.mangerbouger.fr/){target=_blank}
+
+    [![**Géorisques"**](./images/logo_georisques.png "Page d'accueil Géorisques"){width=90%}](https://www.georisques.gouv.fr/){target=_blank}
+  
 
 ==**Des ressources pour vous informer et vous accompagner dans le domaine de la santé.**==
 

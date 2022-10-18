@@ -1,9 +1,12 @@
 Pour vous aider et vous accompagner dans vos apprentissages :
 
 ???+ example inline end "Liens utiles :"
-    - [**PIX**](https://pix.fr/){target=_blank} : S'entraîner pour développer ses compétences numériques en vue de la certification de terminale.
-    - [**PREZI - tutoriel**](https://prezi.com/r9ju2zs5ki65/guide-prezi-en-francais/){target=_blank}
-    - [**EXCEL - cours**](https://www.excel-pratique.com/){target=_blank}
+    [![**LUMNI"**](./images/lumni.jpg "Page d'accueil Lumni"){width=60%}](https://www.lumni.fr/){target=_blank}
+
+    [![**PIX"**](./images/pix.jpg "Page d'accueil PIX"){width=70%}](https://pix.fr/){target=_blank}
+
+    [![**Les Fondamentaux"**](./images/fondamentaux.jpg "Page d'accueil Les Fondamentaux"){width=80%}](https://lesfondamentaux.reseau-canope.fr/){target=_blank}
+    
 
 - ==**Conseils et tutoriels**== : pour s'organiser dans son travail, améliorer sa rédaction, chercher des informations et présenter le résultat de ses recherches...
 - ==**Programmes officiels et ressources utiles**== : pour les disciplines d'enseignement général, les enseignements de spécialités (LGT) ou matières professionnelles (LP).
@@ -48,14 +51,18 @@ ___
     - [**Réaliser une affiche**](./pdf/Méthodologie_Réaliser une affiche.pdf){target=_blank} 
     - [**Réaliser un panneau**](./pdf/Méthodologie_Réaliser un panneau.pdf){target=_blank}
     - [**Réaliser un diaporama**](./pdf/Méthodologie_Réaliser un diaporama.pdf){target=_blank}
+    - [**PREZI - tutoriel**](https://prezi.com/r9ju2zs5ki65/guide-prezi-en-francais/){target=_blank}
     - [**Citer ses sources**](http://www1.univ-ag.fr/buag/cours/LS1-web/co/Module_LICENCE1_6.html){target=_blank} : fiche synthèse [**ici**](./pdf/Méthodologie_Citer ses sources bibliographiques.pdf){target=_blank}
   
 
 ??? info "Ressources"
-    - [**Nouveaux cours**](https://www.fun-mooc.fr/fr/cours/?limit=21&new=new&offset=0) : en ligne sur FunMOOC pour découvrir, apprendre, progresser... dans les différentes disciplines.
+    - [**France Culture Education**](https://www.radiofrance.fr/sujets/france-culture-education-des-podcasts-pour-apprendre-et-reviser){target=_blank} : des podcasts pour apprendre et réviser.
+    - [**Nouveaux cours**](https://www.fun-mooc.fr/fr/cours/?limit=21&new=new&offset=0){target=_blank} : en ligne sur FunMOOC pour découvrir, apprendre, progresser... dans les différentes disciplines.
     - [**DYS**](https://www.ffdys.com/troubles-dys){target=_blank} : comprendre les troubles cognitifs spécifiques.
     - [**Documents libres de droits**](https://www.reformedulycee.fr/2019/11/documents-libres-de-droits-nos-sites-preferes/){target=_blank} : liste non exhaustive de sites proposant des images, vidéos et musiques libres de droits. (Lelivrescolaire.fr)
 
+??? info "Logiciels and Co"
+    - [**EXCEL**](https://www.excel-pratique.com/){target=_blank} : cours en ligne.
 
 ___
 ## Education aux Médias et à l'Information
@@ -227,10 +234,11 @@ ___
     - [**En Français dans le texte**](https://www.franceculture.fr/emissions/ecoutez-revisez){target=_blank} : Emission de France Culture proposant la lecture, par une comédienne ou un comédien, d'un texte (de littérature française le plus souvent, d'histoire ou de philosophie) au programme des classes de première ou de terminale. Chaque lecture est suivie d'une analyse par des professeurs et d'une dictée proposée à l'antenne et sur les réseaux sociaux.
     - [**Etudes littéraires**](https://www.etudes-litteraires.com/){target=_blank} : littérature, fiches méthodes, BAC français, langue française.
     - [**Travaux dirigés de français**](https://www.site-magister.com/){target=_blank} : notions, textes, conseils méthodologiques, ressources pour l'EAF.
+    - [**Méthodologie pour réviser le BAC Français**](https://www.lumni.fr/dossier/revisions-bac-methodologie){target=_blank} : sur LUMNI.
     - [**S'entraîner pour l'oral**](https://wordwall.net/fr/resource/2213377/eaf-oral-2-partie){target=_blank}
     - [**Outils numériques pour les lettres et LCA**](http://www.pearltrees.com/t/lettres-lca-academie-de-rennes/numeriques-lettres-academie/id30360664){target=_blank}
 
-    [![**Le printemps des poètes**](./images/Printemps_des_poetes.jpg "Affiche_2023"){width=40%}](https://www.printempsdespoetes.com/Edition-2023-1270){target=_blank}
+    [![**Le printemps des poètes**](./images/Printemps_des_poetes.jpg "Affiche_2023"){width=40%}](https://www.printempsdespoetes.com/Le-Printemps-des-Poetes){target=_blank}
 
  
  
@@ -331,6 +339,8 @@ ___
     - [**Cours de sciences numériques et informatiques**](https://www.numerique-sciences-informatiques.fr/){target=_blank} : python, mini-projets, HTML et CSS, PHP, robots, objects orientés, android, sujets bacs. Les métiers du numérique.
     - [**Kahn Academy**](https://fr.khanacademy.org/){target=_blank} : Cours en mathématiques, sciences, informatique, économie et finance, arts.
     - [**PIXEES**](https://pixees.fr/){target=_blank} : ressources pour les sciences du numérique.
+    - [**Banque de sujets des épreuves pratiques**](https://eduscol.education.fr/2661/banque-des-epreuves-pratiques-de-specialite-nsi){target=_blank}.
+
 
 ___
 ### Physique Chimie
@@ -441,8 +451,8 @@ ___
    
             
 ??? "Des sites pour réviser et s'entraîner"
-    - [**Tout pour le BAC**](https://www.phosphore.com/tout-pour-le-bac/) : Le site Phosphore propose des outils réviser le BAC 2022.
-    - [**Banque de sujets**](https://eduscol.education.fr/prep-exam/){target=_blank} : banque de données des sujets d'examens du baccalauréat général, technologique et professionnel.
+    - [**Tout pour le BAC**](https://www.phosphore.com/tout-pour-le-bac/){target=_blank} : Le site Phosphore propose des outils réviser le BAC 2022.
+    - [**Banque de sujets**](https://www.sujetdebac.fr//){target=_blank} : banque de données des sujets d'examens du baccalauréat général, technologique et professionnel.
     - [**Studyrama**](https://www.studyrama.com/revision-examen/bac){target=_blank}
     
     
