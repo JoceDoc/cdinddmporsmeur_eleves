@@ -1,8 +1,14 @@
-## Expositions
 
-==**Expositions du moment au CDI...**==
+**Pour ne rien manquer des dernières actualités du lycée et du CDI.**
 
-???info "**A découvrir**"
+[![logo ECAM](./images/logo_ecam.jpg "Actualités Lycée"){width=20% align=left}](https://www.ecmorlaix.fr/actualites/){target=_blank}
+
+
+
+
+## Au CDI
+
+???info "**Expositions en cours**"
     
    
 

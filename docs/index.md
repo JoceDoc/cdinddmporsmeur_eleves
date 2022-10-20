@@ -22,7 +22,7 @@ vous donner des conseils de lecture...**
 ***Jocelyne Coz - Claire Léost***   *Les professeurs-documentalistes*
 
 -------
-## Introduction 
+
 
 Le site du CDI vous propose :
 
@@ -32,7 +32,9 @@ Le site du CDI vous propose :
     
 Les dernières nouveautés du CDI pour la presse sont accessibles dans le [**Kiosque du mois**](https://jocedoc.github.io/cdinddmporsmeur_eleves/actualites/#presse){target=blank}, onglet ==**Actualités**==.
 
-Pour découvrir les ==**autres nouveautés**== du CDI (documentaires, fictions, DVD...) consultez le [**portail PMB**](https://ecmorlaix.basecdi.fr/pmb/opac_css/){target=_blank} de la base documentaire.
+Pour découvrir les ==**autres nouveautés**== (documentaires, fictions, DVD...) et trouver des références de documents pour vos recherches dans les différentes disciplines, consultez la base documentaire du CDI.
+
+[![**PMB"**](./images/logo_PMB.png "Portail PMB"){width=15%}](https://ecmorlaix.basecdi.fr/pmb/opac_css/index.php){target=_blank}
 
 
 ## Présentation
@@ -106,12 +108,14 @@ Pour vous repérer et identifier les différents ==**espaces documentaires**==, 
     Tout document non restitué pourra être facturé.
     En cas de non restitution l'élève se verra interdit de prêt.
 
-     
 
-## Incontournables
-   * [**Vers le portail PMB**](https://ecmorlaix.basecdi.fr/pmb/opac_css/){target=_blank} : pour interroger la ==**base documentaire**== du lycée et trouver des références de documents pour vos recherches dans les différentes disciplines.
+## MORLAIX pratique
+    
+??? info "**Transport scolaire**"
+    * [**TER SNCF**](https://www.ter.sncf.com/bretagne){target=_blank}
+    * [**Linéotim**](https://www.lineotim.com/fr/kXP-Le-plan-global-des-lignes-scolaires.html){target=_blank}
 
-   * [**Vers le padlet du CDI**](https://padlet.com/cdinddmporsmeur/CDI){target=_blank}
+
 
 
  

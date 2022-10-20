@@ -3,9 +3,11 @@ Pour vous aider et vous accompagner dans vos apprentissages :
 ???+ example inline end "Liens utiles :"
     [![**LUMNI"**](./images/lumni.jpg "Page d'accueil Lumni"){width=60%}](https://www.lumni.fr/){target=_blank}
 
-    [![**PIX"**](./images/pix.jpg "Page d'accueil PIX"){width=70%}](https://pix.fr/){target=_blank}
+    [![**PIX"**](./images/pix.jpg "Page d'accueil PIX"){width=85%}](https://pix.fr/){target=_blank}
 
-    [![**Les Fondamentaux"**](./images/fondamentaux.jpg "Page d'accueil Les Fondamentaux"){width=80%}](https://lesfondamentaux.reseau-canope.fr/){target=_blank}
+    [![**Les Fondamentaux"**](./images/fondamentaux.jpg "Page d'accueil Les Fondamentaux"){width=85%}](https://lesfondamentaux.reseau-canope.fr/){target=_blank}
+
+    [![**Lire l'actu**](./images/editeurs/lirelactu.jpg "Page d'accueil lirelactu"){width=80%}](http://lirelactu.fr/){target=_blank} 
     
 
 - ==**Conseils et tutoriels**== : pour s'organiser dans son travail, améliorer sa rédaction, chercher des informations et présenter le résultat de ses recherches...
@@ -16,7 +18,6 @@ Pour vous aider et vous accompagner dans vos apprentissages :
 ___
 
 ## Actualité des disciplines
-
 
 
 ## Méthodologie pour tous
@@ -84,10 +85,21 @@ ___
         ![Esprit critique](./images/esprit_critique.jpg "Esprit critique"){width=70% align=left}
         
 ??? "Sites pour s'informer"
-    - [**AFP**](https://www.afp.com/fr){target=_blank}
-    - [**Reporters sans frontières**](https://rsf.org/){target=_blank}
-    - [**France24**](https://www.france24.com/fr/){target=_blank}
-    - [**FranceInfo**](ttps://mobile.francetvinfo.fr){target=_blank}
+    ???+ "Des Journaux"
+        [![**Le Monde**](./images/editeurs/logo_lemonde.jpg "Page d'accueil LeMonde"){width=25%}](https://www.lemonde.fr/){target=_blank}
+        [![**Le Figaro**](./images/editeurs/lefigaro.jpg "Page d'accueil LeFigaro"){width=30%}](https://www.lefigaro.fr/){target=_blank}
+        [![**Ouest-France**](./images/editeurs/logo_ouest-france.jpg "Page d'accueil Ouest-France"){width=20%}](https://www.ouest-france.fr/){target=_blank}
+
+    ??? "Autres sites"
+        * [**AFP**](https://www.afp.com/fr){target=_blank}
+        * [**France24**](https://www.france24.com/fr/){target=_blank}
+        * [**FranceInfo**](https://mobile.francetvinfo.fr/){target=_blank}
+        * [**Reporters sans frontières**](https://rsf.org/fr){target=_blank}
+
+        [![**Lire l'actu**](./images/editeurs/lirelactu.jpg "Page d'accueil lirelactu"){width=50%}](http://lirelactu.fr/){target=_blank}
+
+        
+    
 
 ??? question "Enquêtes sur les médias"
     - [**Comment les français s'informent-ils sur Internet ?**](https://www.fondationdescartes.org/wp-content/uploads/2021/03/Etude_Information_Internet_FondationDescartes_2021.pdf){target=_blank}

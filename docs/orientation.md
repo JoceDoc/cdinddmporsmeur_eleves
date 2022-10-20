@@ -93,9 +93,12 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
     - [**Studyrama**](https://www.studyrama.com/){target=_blank} : dates des prochains salons étudiants...
 === "PO - IMMERSIONS"
     - ==**UBO**== : toutes les informations pour vous inscrire aux [**immersions**](https://www.univ-brest.fr/cap-avenir/menu/Bloc-Lyceen/Inscriptions-individuelles-Continuum){target=_blank} de la Toussaint et conférences [**Insta'fac**](https://www.univ-brest.fr/cap-avenir/menu/Bloc-Lyceen/Insta_-Fac){target=_blank}.
-    - ==**UCO Guingamp**== : pour tester l'université, découvrez le [**programme**](https://guingamp.uco.fr/fr/event/testez-l-universite-grace-aux-journees-decouvertes-d-octobre){target=_blank} des journées d'octobre  
+    - ==**UCO Guingamp**== : pour tester l'université, découvrez le [**programme**](https://guingamp.uco.fr/fr/event/testez-l-universite-grace-aux-journees-decouvertes-d-octobre){target=_blank} des journées d'octobre.
+    - ==**Matinales de l'orientation**== : à l'IUT de Saint-Nazaire mercredi 30 novembre [**Formulaire d'inscription**](https://questionnaires.univ-nantes.fr/index.php/573826?newtest=Y&lang=fr){target=_blank}.  
     - [**Portes ouvertes du supérieur**](https://padlet-uploads.storage.googleapis.com/119789356/ad6591b8995ae4ba9caad9481091f5fa/JPO_superieur_2022_2e_Edition_Ac_Rennes_Onisep_Bretagne_24_01_2022.pdf){target=_blank} dans l'acédémie de RENNES.
     - [**Printemps de l'orientation**](https://www.education.gouv.fr/reussir-au-lycee/le-printemps-de-l-orientation-327179){target=_blank}
+    - [**ITES**](./pdf/Affiche_Portes-Ouvertes-ITES-18-19-nov-2022.pdf){target=_blank} : [**calendrier**](./pdf/JPO-ITES-Programme_2022-2023.pdf){target=_blank} des portes ouvertes de l'[**Institut de formation au travail Educatif et Social**](https://www.ites-formation.com/){target=_blank}.
+
 === "VIE ETUDIANTE"
     - [**Vie étudiante : Infos, services, FAQ**](https://www.etudiant.gouv.fr/fr){target=_blank}
     - [**FAQ vie étudiante**](https://www.etudiant.gouv.fr/fr/faq){target=_blank}
@@ -128,7 +131,7 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
 === "TERMINALE"
     [![**PARCOURSUP"**](./images/orientation/parcoursup.png "Page d'accueil PARCOURSUP"){width=20%}](https://www.parcoursup.fr/index.php?desc=){target=_blank}
 
-    - [**FORUM EN LIGNE**](https://padlet.com/cdinddmporsmeur/forum_en_ligne_2022){target=_blank} Prochain rendez-vous ==**lundi 17/10 (18h30-19h)**== : présentation de la ==**CPGE Lettres**==. Rappel : inscription à la visio avant dimanche 17h).
+    - [**FORUM EN LIGNE**](https://padlet.com/cdinddmporsmeur/forum_en_ligne_2022){target=_blank} Prochain rendez-vous ==**lundi 07/11 (18h30-19h)**== : présentation du ==**PASS**== et ==**LAS**==. Rappel : inscription à la visio avant dimanche 17h).
     - [**PADLET terminale**](https://padlet.com/cdinddmporsmeur/orientation_terminale_2020){target=_blank}
     - [**Terminales 2021-2022**](https://www.terminales2021-2022.fr/){target=_blank}
     - [**Vidéo PARCOURSUP - Comment choisir une formation ?**](https://youtu.be/WJzf3wRqcWo){target=_blank}
@@ -141,6 +144,7 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
     - [**PARCOURSUP - Site officiel**](https://www.parcoursup.fr/index.php?desc=){target=_blank}
     - [**Vidéo PARCOURSUP - Comment choisir une formation ?**](https://youtu.be/WJzf3wRqcWo){target=_blank}
     - [**Recherche de stage, mode d'emploi**](./pdf/IDEO_Recherche_de_stage_mode_d_emploi.pdf){target=_blank}
+    - [**ITES**](./pdf/Affiche_Portes-Ouvertes-ITES-18-19-nov-2022.pdf){target=_blank} : [**calendrier**](./pdf/JPO-ITES-Programme_2022-2023.pdf){target=_blank} des portes ouvertes de l'[**Institut de formation au travail Educatif et Social**](https://www.ites-formation.com/){target=_blank}.
     
 ![Schéma des études supérieures](./images/Schema-des-etudes-superieures-2020-2021.png "info-bulle"){width=80%}  
   
