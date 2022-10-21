@@ -68,6 +68,7 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
 ## Ressources  
 
 ### Pour tous   
+
 === "INCONTOURNABLES"
     - [**Réussir au lycée et APRES...**](https://www.education.gouv.fr/reussir-au-lycee/2021-2022-bien-preparer-son-bac-et-son-entree-dans-le-superieur-326326){target=_blank}
     - [**ONISEP**](https://www.onisep.fr/){target=_blank} : Éditeur public, l'Onisep produit et diffuse toute l'information sur les formations et les métiers.
@@ -75,30 +76,20 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
     - [**1001 orientation**](https://1001orientations.fr/){target=_blank} : 1001 conseils, 1001 parcours pour choisir sa voie...
     - [**L'Etudiant**](https://www.letudiant.fr/orientation.html) : les outils pour réussir son orientation, des tests en ligne pour affiner sa réflexion sur l'orientation, le service de coaching du site de l'Etudiant...
     - [**Quelles spécialités pour quelles études ?**](https://www.letudiant.fr/lycee/specialites-bac-general/article/reforme-lycee-quelles-specialites-pour-quelles-etudes.html){target=_blank} : les spécialités recommandées par type de formation ou par domaine d'études...
-    - [**MOOC**](https://www.mooc-orientation.fr/) : suivez les MOOC de l'orientation pour choisir votre avenir...
-
-
+    - [**Témoignages**](https://www.onisep.fr/Choisir-mes-etudes/ma-premiere-annee-en){target=_blank} : ma première année en... CAP, BAC PRO, BAC TECHNO, diplôme du sport, du paramédical, DUT/BUT, classe préparatoire, DN MADE, licence...
+    - [**MOOC**](https://www.mooc-orientation.fr/){target=_blank} : suivez les **MOOC** de l'orientation pour choisir votre avenir...
+    - [**SNU**](https://www.education.gouv.fr/le-service-national-universel-snu-jeunesse-engagee-5381){target=_blank} : présentation du **Service National Universel** et accès au [**portail**](https://www.snu.gouv.fr/){target=_blank} pour s'inscrire.
 === "GUIDES"
     -[![**Guide "Que faire après le BAC ?"**](./images/orientation/Que_faire_apres_le_bac_ideo.gif "Que faire après le BAC"){width=20%}](./pdf/IDEO_Guide_BAC_2021-2022.pdf){target=_blank}
     -[![**Guide "Entrer dans le SUP 2022**](./images/orientation/Entrer_dans_le_sup_2022.jpg "Entrer dans le SUP 2022"){width=20%}](./pdf/GUIDE_ENTRER_DANS_LE_SUP_2022.pdf){target=_blank}
 
-    Tous les guides **IDEO** pour l'aide à l'orientation sont [**ici**](https://ideo.bretagne.bzh/publications){target=_blank}.
-    
-    
-=== "SALONS-FORUMS"
-    - [**Salons - Forums de l'orientation**](https://www.onisep.fr/recherche?text=SALONS%20FORUMS){target=_blank} : comment préparer sa visite à un salon ?
-    - [**Azimut**](https://www.salon-azimut.com/){target=_blank} : site officiel du salon les ==**19-21 janvier 2023**==
-    - [**Flyers soirées Azimut**](./pdf/Flyer_soirees_Azimut.pdf){target=_blank} : ==**novembre 2022**==.
-    - [**Sup'Armor**](https://www.suparmor.fr/){target=_blank} : l'équivalent d'Azimut dans le 22 du ==**08 au 10 décembre 2022**==.
-    - [**Studyrama**](https://www.studyrama.com/){target=_blank} : dates des prochains salons étudiants...
-=== "PO - IMMERSIONS"
-    - ==**UBO**== : toutes les informations pour vous inscrire aux [**immersions**](https://www.univ-brest.fr/cap-avenir/menu/Bloc-Lyceen/Inscriptions-individuelles-Continuum){target=_blank} de la Toussaint et conférences [**Insta'fac**](https://www.univ-brest.fr/cap-avenir/menu/Bloc-Lyceen/Insta_-Fac){target=_blank}.
-    - ==**UCO Guingamp**== : pour tester l'université, découvrez le [**programme**](https://guingamp.uco.fr/fr/event/testez-l-universite-grace-aux-journees-decouvertes-d-octobre){target=_blank} des journées d'octobre.
-    - ==**Matinales de l'orientation**== : à l'IUT de Saint-Nazaire mercredi 30 novembre [**Formulaire d'inscription**](https://questionnaires.univ-nantes.fr/index.php/573826?newtest=Y&lang=fr){target=_blank}.  
-    - [**Portes ouvertes du supérieur**](https://padlet-uploads.storage.googleapis.com/119789356/ad6591b8995ae4ba9caad9481091f5fa/JPO_superieur_2022_2e_Edition_Ac_Rennes_Onisep_Bretagne_24_01_2022.pdf){target=_blank} dans l'acédémie de RENNES.
-    - [**Printemps de l'orientation**](https://www.education.gouv.fr/reussir-au-lycee/le-printemps-de-l-orientation-327179){target=_blank}
-    - [**ITES**](./pdf/Affiche_Portes-Ouvertes-ITES-18-19-nov-2022.pdf){target=_blank} : [**calendrier**](./pdf/JPO-ITES-Programme_2022-2023.pdf){target=_blank} des portes ouvertes de l'[**Institut de formation au travail Educatif et Social**](https://www.ites-formation.com/){target=_blank}.
-
+    Tous les guides **IDEO** pour l'aide à l'orientation sont [**ici**](https://ideo.bretagne.bzh/publications){target=_blank}. 
+=== "ALTERNANCE"
+    - [**Portail de l'Alternance**](https://www.alternance.emploi.gouv.fr/decouvrir-lalternance){target=_blank}
+    - [**Pôle emploi**](https://www.pole-emploi.fr/accueil/){target=_blank}
+    - [**L'Etudiant**](https://www.letudiant.fr/etudes/alternance.html){target=_blank} : dossier sur l'alternance (Ecoles, formations, entreprises, offres...)
+    - [**AREP29**](https://www.letudiant.fr/etudes/alternance.html){target=_blank} : dossier sur l'alternance (Ecoles, formations, entreprises, offres...)
+    - [**ISFFEL**](https://www.isffel.fr/){target=_blank} : cherher sa formation en alternance sur le site de l'Institut Supérieur de Formation. 
 === "VIE ETUDIANTE"
     - [**Vie étudiante : Infos, services, FAQ**](https://www.etudiant.gouv.fr/fr){target=_blank}
     - [**FAQ vie étudiante**](https://www.etudiant.gouv.fr/fr/faq){target=_blank}
@@ -120,30 +111,55 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
     - [**Devenir gendarme**](https://www.devenir-gendarme.fr/){target=_blank}
     - [**Devenir policier**](https://www.devenirpolicier.fr/){target=_blank}
 
-### Par niveau
+### Niveau 2nde
 
 === "SECONDE"
     - [**Guide d'accompagnement à l'orientation 2de**](./pdf/Guide_accompagnement_orientation_2nde_GT_20220316.pdf){target=_blank}
     - [**Vers le PADLET seconde**](https://padlet.com/cdinddmporsmeur/orientation_seconde_2020){target=_blank}
     - [**Quelles spécialités choisir pour le BAC?**](https://www.letudiant.fr/lycee/simulateur-de-specialites.html){target=_blank}
+
+### Niveau 1re
+
 === "PREMIERE"
     [**Vers le PADLET première**](https://padlet.com/cdinddmporsmeur/orientation_premiere_2020){target=_blank}
-=== "TERMINALE"
-    [![**PARCOURSUP"**](./images/orientation/parcoursup.png "Page d'accueil PARCOURSUP"){width=20%}](https://www.parcoursup.fr/index.php?desc=){target=_blank}
 
-    - [**FORUM EN LIGNE**](https://padlet.com/cdinddmporsmeur/forum_en_ligne_2022){target=_blank} Prochain rendez-vous ==**lundi 07/11 (18h30-19h)**== : présentation du ==**PASS**== et ==**LAS**==. Rappel : inscription à la visio avant dimanche 17h).
+### Niveau Tle
+=== "RESSOURCES"
     - [**PADLET terminale**](https://padlet.com/cdinddmporsmeur/orientation_terminale_2020){target=_blank}
     - [**Terminales 2021-2022**](https://www.terminales2021-2022.fr/){target=_blank}
-    - [**Vidéo PARCOURSUP - Comment choisir une formation ?**](https://youtu.be/WJzf3wRqcWo){target=_blank}
-    - [**Ensemble des ressources de la DGESIP**](https://services.dgesip.fr/T454/S743/ressources){target=_blank} : Direction Générale de l'Enseignement Supérieur et de l'Insertion 
-    - [**Site pour les terminales**](https://ericecmorlaix.github.io/TG_VDC_AP/){target=_blank}
     - [**Quelle école après le BAC ?**](https://www.ipesup.fr/){target=_blank} : IPESUP, préparations aux examens et concours de l’enseignement supérieur.
+    - [**Ensemble des ressources de la DGESIP**](https://services.dgesip.fr/T454/S743/ressources){target=_blank} : Direction Générale de l'Enseignement Supérieur et de l'Insertion 
+=== "FORUM EN LIGNE"
+    - [**FORUM EN LIGNE**](https://padlet.com/cdinddmporsmeur/forum_en_ligne_2022){target=_blank} Prochain rendez-vous ==**lundi 07/11 (18h30-19h)**== : présentation du ==**PASS**== et ==**LAS**==. Rappel : inscription à la visio avant dimanche 17h).
+=== "PARCOURSUP"
+    [![**PARCOURSUP"**](./images/orientation/parcoursup.png "Page d'accueil PARCOURSUP"){width=20%}](https://www.parcoursup.fr/index.php?desc=){target=_blank}
+    
+    - [**Vidéo PARCOURSUP - Comment choisir une formation ?**](https://youtu.be/WJzf3wRqcWo){target=_blank}
+=== "PO - IMMERSIONS"
+    - ==**UBO**== : toutes les informations pour vous inscrire aux [**immersions**](https://www.univ-brest.fr/cap-avenir/menu/Bloc-Lyceen/Inscriptions-individuelles-Continuum){target=_blank} de la Toussaint et conférences [**Insta'fac**](https://www.univ-brest.fr/cap-avenir/menu/Bloc-Lyceen/Insta_-Fac){target=_blank}.
+    - ==**UCO Guingamp**== : pour tester l'université, découvrez le [**programme**](https://guingamp.uco.fr/fr/event/testez-l-universite-grace-aux-journees-decouvertes-d-octobre){target=_blank} des journées d'octobre.
+    - ==**Matinales de l'orientation**== : à l'IUT de Saint-Nazaire mercredi 30 novembre [**Formulaire d'inscription**](https://questionnaires.univ-nantes.fr/index.php/573826?newtest=Y&lang=fr){target=_blank}.  
+    - [**Portes ouvertes du supérieur**](https://padlet-uploads.storage.googleapis.com/119789356/ad6591b8995ae4ba9caad9481091f5fa/JPO_superieur_2022_2e_Edition_Ac_Rennes_Onisep_Bretagne_24_01_2022.pdf){target=_blank} dans l'acédémie de RENNES.
+    - [**Printemps de l'orientation**](https://www.education.gouv.fr/reussir-au-lycee/le-printemps-de-l-orientation-327179){target=_blank}
+    - [**ITES**](./pdf/Affiche_Portes-Ouvertes-ITES-18-19-nov-2022.pdf){target=_blank} : [**calendrier**](./pdf/JPO-ITES-Programme_2022-2023.pdf){target=_blank} des portes ouvertes de l'[**Institut de formation au travail Educatif et Social**](https://www.ites-formation.com/){target=_blank}.
+=== "SALONS-FORUMS"
+    - [**Salons - Forums de l'orientation**](https://www.onisep.fr/recherche?text=SALONS%20FORUMS){target=_blank} : comment préparer sa visite à un salon ?
+    - [**Azimut**](https://www.salon-azimut.com/){target=_blank} : site officiel du salon les ==**19-21 janvier 2023**==
+    - [**Flyers soirées Azimut**](./pdf/Flyer_soirees_Azimut.pdf){target=_blank} : ==**novembre 2022**==.
+    - [**Sup'Armor**](https://www.suparmor.fr/){target=_blank} : l'équivalent d'Azimut dans le 22 du ==**08 au 10 décembre 2022**==.
+    - [**Studyrama**](https://www.studyrama.com/){target=_blank} : dates des prochains salons étudiants...
+=== "STMG"  
     - [**Que faire après un BAC STMG ?**](https://www.onisep.fr/Choisir-mes-etudes/Apres-le-bac/Que-faire-apres-le-bac/Apres-un-bac-techno/Que-faire-apres-le-bac-STMG){target=_blank}
-=== "VOIE PRO"
+
+
+### Voie professionnelle
+=== "RESSOURCES"
     - [**Vers le PADLET voie pro**](https://padlet.com/cdinddmporsmeur/LP_2020){target=_blank}
+    - [**Recherche de stage, mode d'emploi**](./pdf/IDEO_Recherche_de_stage_mode_d_emploi.pdf){target=_blank}
+=== "PARCOURSUP"    
     - [**PARCOURSUP - Site officiel**](https://www.parcoursup.fr/index.php?desc=){target=_blank}
     - [**Vidéo PARCOURSUP - Comment choisir une formation ?**](https://youtu.be/WJzf3wRqcWo){target=_blank}
-    - [**Recherche de stage, mode d'emploi**](./pdf/IDEO_Recherche_de_stage_mode_d_emploi.pdf){target=_blank}
+=== "PO - IMMERSIONS"
     - [**ITES**](./pdf/Affiche_Portes-Ouvertes-ITES-18-19-nov-2022.pdf){target=_blank} : [**calendrier**](./pdf/JPO-ITES-Programme_2022-2023.pdf){target=_blank} des portes ouvertes de l'[**Institut de formation au travail Educatif et Social**](https://www.ites-formation.com/){target=_blank}.
     
 ![Schéma des études supérieures](./images/Schema-des-etudes-superieures-2020-2021.png "info-bulle"){width=80%}  

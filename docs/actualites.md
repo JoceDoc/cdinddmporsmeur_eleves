@@ -239,7 +239,7 @@
     
 ### **Coups de coeur** :heart: 
 
-Informations à venir... **:construction:**
+- [**Litterature positive**](https://ecmorlaix.basecdi.fr/pmb/opac_css/index.php?lvl=cmspage&pageid=4&id_article=60){target=_blank} : sélection de romans pour tous. ==**A LIRE SANS MODERATION !**==
 
     
 	
