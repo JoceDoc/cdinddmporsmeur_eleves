@@ -130,7 +130,7 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
     - [**Quelle école après le BAC ?**](https://www.ipesup.fr/){target=_blank} : IPESUP, préparations aux examens et concours de l’enseignement supérieur.
     - [**Ensemble des ressources de la DGESIP**](https://services.dgesip.fr/T454/S743/ressources){target=_blank} : Direction Générale de l'Enseignement Supérieur et de l'Insertion 
 === "FORUM EN LIGNE"
-    - [**FORUM EN LIGNE**](https://padlet.com/cdinddmporsmeur/forum_en_ligne_2022){target=_blank} Prochain rendez-vous ==**lundi 14/11 (18h30-19h)**== : présentation du ==**CPES**== (Cycle Pluridisciplinaire  d'Etudes Supérieures). Rappel : inscription à la visio avant dimanche 17h).
+    - [**FORUM EN LIGNE**](https://padlet.com/cdinddmporsmeur/forum_en_ligne_2022){target=_blank} Prochain rendez-vous ==**lundi 14/11 (18h30-19h)**== : présentation du ==**CPES**== (Cycle Pluridisciplinaire  d'Etudes Supérieures). Rappel : inscription à la visio avant dimanche 17h.
 === "PARCOURSUP"
     [![**PARCOURSUP"**](./images/orientation/parcoursup.png "Page d'accueil PARCOURSUP"){width=20%}](https://www.parcoursup.fr/index.php?desc=){target=_blank}
     
