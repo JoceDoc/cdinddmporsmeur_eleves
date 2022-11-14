@@ -126,7 +126,7 @@
    
 ??? "**Kiosque du mois** :newspaper:"
   
-    [![01.NET](./images/abonnements/11_novembre/01.net_02_novembre_2022_985.jpg "01.NET, 02 novembre 2022, n°985"){width=20%}](./images/abonnements/11_novembre/01.net_02_novembre_2022_985.pdf){target=_blank}
+    [![01.NET](./images/abonnements/11_novembre/01.NET_02_novembre_2022_985.jpg "01.NET, 02 novembre 2022, n°985"){width=20%}](./images/abonnements/11_novembre/01.NET_02_novembre_2022_985.pdf){target=_blank}
     [![Alternatives Economiques](./images/abonnements/11_novembre/Alternatives_economiques_novembre_2022_428.jpg "Alternatives Economiques, novembre 2022, n°428"){width=20%}](./images/abonnements/11_novembre/Alternatives_economiques_novembre_2022_428.pdf){target=_blank}
     [![Ca m'intéresse](./images/abonnements/11_novembre/Ca_m_interesse_novembre_2022_501.jpg "Ca m'intéresse, novembre 2022, n°501"){width=20%}](./images/abonnements/11_novembre/Ca_m_interesse_novembre_2022_501.pdf){target=_blank}
     [![Courrier international](./images/abonnements/11_novembre/Courrier_international_03_novembre_2022_1670.jpg "Courrier international, 03 novembre 2022, n°1670"){width=20%}](./images/abonnements/11_novembre/Courrier_international_03_novembre_2022_1670.pdf){target=_blank}
