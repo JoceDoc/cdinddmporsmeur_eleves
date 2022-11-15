@@ -17,6 +17,8 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
     
 
 ## Actualités
+![Forum_écoles_d'ingénieurs](./images/orientation/Forum_ecoles_ingenieurs_2022.jpg "Affiche"){width=45%}
+
 ??? info "**14/10/2022 : Mail de M. QUINIO (coordinateur pour l'orientation) aux élèves de terminale**"
     Bonjour,
 
