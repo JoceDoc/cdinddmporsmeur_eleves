@@ -315,6 +315,7 @@ ___
  
 ??? "Allemand"
     - [**L'Allemand un plus**](https://www.goethe.de/resources/files/pdf216/unplus_broschuere_2022_web.pdf){target=_blank} : Pourquoi choisir l'Allemand ? Brochure éditée par le Goethe Institut, le ministère de l'Education de la jeunesse et des sports et L'Institut Français.
+    - [**Genially du cours d'Allemand**](https://view.genial.ly/631c848b649e570019de15e9){target=_blank} de Madame Michel.
     
 ___    
 ### Mathématiques / SNT
