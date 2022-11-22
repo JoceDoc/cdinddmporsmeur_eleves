@@ -17,7 +17,7 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
     
 
 ## Actualités
-![Forum_écoles_d'ingénieurs](./images/orientation/Forum_ecoles_ingenieurs_2022.jpg "Affiche"){width=35%}
+![IFPS_Vannes](./images/orientation/IFPS_VANNES_PO-2023.jpg "Affiche"){width=35%}
 ![CPGES_LaSalle](./images/orientation/Campus_LaSalle_CPGES_2022.jpg "Affiche"){width=35%}
 
 ??? info "**14/10/2022 : Mail de M. QUINIO (coordinateur pour l'orientation) aux élèves de terminale**"
@@ -83,10 +83,12 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
     - [**MOOC**](https://www.mooc-orientation.fr/){target=_blank} : suivez les **MOOC** de l'orientation pour choisir votre avenir...
     - [**SNU**](https://www.education.gouv.fr/le-service-national-universel-snu-jeunesse-engagee-5381){target=_blank} : présentation du **Service National Universel** et accès au [**portail**](https://www.snu.gouv.fr/){target=_blank} pour s'inscrire.
 === "GUIDES"
+    Tous les [**guides IDEO**](https://ideo.bretagne.bzh/publications){target=_blank} pour l'aide à l'orientation.
+    
     -[![**Guide "Que faire après le BAC ?"**](./images/orientation/Que_faire_apres_le_bac_ideo.gif "Que faire après le BAC"){width=20%}](./pdf/IDEO_Guide_BAC_2021-2022.pdf){target=_blank}
     -[![**Guide "Entrer dans le SUP 2022**](./images/orientation/Entrer_dans_le_sup_2022.jpg "Entrer dans le SUP 2022"){width=20%}](./pdf/GUIDE_ENTRER_DANS_LE_SUP_2022.pdf){target=_blank}
 
-    Tous les guides **IDEO** pour l'aide à l'orientation sont [**ici**](https://ideo.bretagne.bzh/publications){target=_blank}. 
+    
 === "ALTERNANCE"
     - [**Portail de l'Alternance**](https://www.alternance.emploi.gouv.fr/decouvrir-lalternance){target=_blank}
     - [**Pôle emploi**](https://www.pole-emploi.fr/accueil/){target=_blank}
@@ -160,6 +162,9 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
     - [**Flyers soirées Azimut**](./pdf/Flyer_soirees_Azimut.pdf){target=_blank} : ==**novembre 2022**==.
     - [**Sup'Armor**](https://www.suparmor.fr/){target=_blank} : l'équivalent d'Azimut dans le 22 du ==**08 au 10 décembre 2022**==.
     - [**Studyrama**](https://www.studyrama.com/){target=_blank} : dates des prochains salons étudiants...
+=== "CONCOURS"
+    - [**EMSLB**](https://service-sante-des-armees.uniformesdefrance.com/secours-militaire-ssa-dates-concours-emsbl-esa-eppa-medecin-infirmier.php){target=_blank} : dates des concours pour l'entrée en Ecoles Militaires de Santé de Lyon-Bron. [**Voir fiche**](./pdf/Fiche_conditions_acce%CC%80s_concours_ESA_2023.pdf) conditions d'accès au concours de médecin ou pharmacien militaire. 
+    - [**EMSLB - infirmier**](https://www.emslb.defense.gouv.fr/nous-rejoindre-concours/concours-eppa){target=_blank} : devenir infirmier militaire  en intégrant les écoles militaires de santé Lyon-Bron. [**Voir la plaquette**](./pdf/EMSLB_Plaquette_infirmier_militaire.pdf){target=_blank}
 === "STMG"  
     - [**Que faire après un BAC STMG ?**](https://www.onisep.fr/Choisir-mes-etudes/Apres-le-bac/Que-faire-apres-le-bac/Apres-un-bac-techno/Que-faire-apres-le-bac-STMG){target=_blank}
 
@@ -173,7 +178,15 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
     - [**Vidéo PARCOURSUP - Comment choisir une formation ?**](https://youtu.be/WJzf3wRqcWo){target=_blank}
 === "PO - IMMERSIONS"
     - [**ITES**](./pdf/Affiche_Portes-Ouvertes-ITES-18-19-nov-2022.pdf){target=_blank} : [**calendrier**](./pdf/JPO-ITES-Programme_2022-2023.pdf){target=_blank} des portes ouvertes de l'[**Institut de formation au travail Educatif et Social**](https://www.ites-formation.com/){target=_blank}.
-    
+
+### Arts-Théâtre-Cinéma
+=== "RESSOURCES"
+
+=== "FORMATIONS"
+    - [**Option études théâtrales**](https://lycee-de-cornouaille-quimper.ac-rennes.fr/spip.php?article1306){target=_blank} au Lycée de Cornouailles à Quimper.
+    - [**Métiers de l'audiovisuel**](https://esra.edu/){target=_blank} le groupe ESRA forme aux métiers du cinéma, de l’audiovisuel, du son et du film d’animation.
+
+
 ![Schéma des études supérieures](./images/Schema-des-etudes-superieures-2020-2021.png "info-bulle"){width=80%}  
   
 
