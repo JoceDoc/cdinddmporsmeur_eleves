@@ -137,7 +137,7 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
 === "FORUM EN LIGNE"
     - [**FORUM EN LIGNE**](https://padlet.com/cdinddmporsmeur/forum_en_ligne_2022){target=_blank} 
     
-        Prochain rendez-vous ==**lundi 21/11 (18h30-19h)**== : présentation des ==**CPGE**== (Classes Préparatoires aux Grandes Ecoles) dans le domaine scientifique. 
+        Prochain rendez-vous ==**lundi 28/11 (18h30-19h)**== : présentation de la ==**licence Eco-Gestion**==. 
     
         [**Inscription à la visio**](https://docs.google.com/forms/d/e/1FAIpQLSfVKyDIJaA2I0R05okvmnbV5vELdgsNEc-JQODJle34cUL0tg/viewform){target=_blank} ==**avant dimanche - 17h**==
 === "PARCOURSUP"
@@ -179,6 +179,8 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
 === "PO - IMMERSIONS"
     - [**ITES**](./pdf/Affiche_Portes-Ouvertes-ITES-18-19-nov-2022.pdf){target=_blank} : [**calendrier**](./pdf/JPO-ITES-Programme_2022-2023.pdf){target=_blank} des portes ouvertes de l'[**Institut de formation au travail Educatif et Social**](https://www.ites-formation.com/){target=_blank}.
 
+## Domaines
+
 ### Arts-Théâtre-Cinéma
 === "RESSOURCES"
 
@@ -186,6 +188,7 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
     - [**Option études théâtrales**](https://lycee-de-cornouaille-quimper.ac-rennes.fr/spip.php?article1306){target=_blank} au Lycée de Cornouailles à Quimper.
     - [**Métiers de l'audiovisuel**](https://esra.edu/){target=_blank} le groupe ESRA forme aux métiers du cinéma, de l’audiovisuel, du son et du film d’animation.
 
+###
 
 ![Schéma des études supérieures](./images/Schema-des-etudes-superieures-2020-2021.png "info-bulle"){width=80%}  
   
