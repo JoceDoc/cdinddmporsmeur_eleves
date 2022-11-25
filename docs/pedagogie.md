@@ -21,6 +21,7 @@ ___
 
 
 ## Méthodologie pour tous
+
 ???+ question "S'organiser"
     - [**Apprendre à travailler**](./pdf/Méthodologie_Apprendre_a_travailler.pdf){target=_blank}
     - [**Apprendre efficacement**](https://apprendre-reviser-memoriser.fr/category/revisions-bac-brevet-examens-concours/){target=_blank}
@@ -66,7 +67,7 @@ ___
     - [**EXCEL**](https://www.excel-pratique.com/){target=_blank} : cours en ligne.
 
 ___
-## Education aux Médias et à l'Information
+## EMI Médias et Information
 ??? question "Pourquoi et comment s'informer ?" 
     
     * S'informer pour comprendre le monde
@@ -86,20 +87,19 @@ ___
         
 ??? "Sites pour s'informer"
     ???+ "Des Journaux"
-        [![**Le Monde**](./images/editeurs/logo_lemonde.jpg "Page d'accueil LeMonde"){width=25%}](https://www.lemonde.fr/){target=_blank}
-        [![**Le Figaro**](./images/editeurs/lefigaro.jpg "Page d'accueil LeFigaro"){width=30%}](https://www.lefigaro.fr/){target=_blank}
-        [![**Ouest-France**](./images/editeurs/logo_ouest-france.jpg "Page d'accueil Ouest-France"){width=20%}](https://www.ouest-france.fr/){target=_blank}
+        * [**Le Monde**](https://www.lemonde.fr/){target=_blank}
+        * [**Le Figaro**](https://www.lefigaro.fr/){target=_blank}
+        * [**Ouest-France**](https://www.ouest-france.fr/){target=_blank}
 
     ??? "Autres sites"
+        [![**Lire l'actu**](./images/editeurs/lirelactu.jpg "Page d'accueil lirelactu"){width=20%}](http://lirelactu.fr/){target=_blank}
+
         * [**AFP**](https://www.afp.com/fr){target=_blank}
         * [**France24**](https://www.france24.com/fr/){target=_blank}
         * [**FranceInfo**](https://mobile.francetvinfo.fr/){target=_blank}
         * [**Reporters sans frontières**](https://rsf.org/fr){target=_blank}
-
-        [![**Lire l'actu**](./images/editeurs/lirelactu.jpg "Page d'accueil lirelactu"){width=50%}](http://lirelactu.fr/){target=_blank}
-
+     
         
-    
 
 ??? question "Enquêtes sur les médias"
     - [**Comment les français s'informent-ils sur Internet ?**](https://www.fondationdescartes.org/wp-content/uploads/2021/03/Etude_Information_Internet_FondationDescartes_2021.pdf){target=_blank}
@@ -200,7 +200,7 @@ ___
     * Prononciation anglaise : doubler des séries en anglais
    
 ___
-## Disciplines et enseignements de spécialité
+## Disciplines et Spécialités
 
 ???+ attention "Avertissement"
     Ci-dessous les ==**programmes scolaires**== et des ==**ressources**== pour les enseignements du lycée général et technologique.
@@ -254,7 +254,7 @@ ___
 
  
  
-    
+
 ___       
 ### HGGSP / Histoire-géographie EMC
 
@@ -325,24 +325,25 @@ ___
     Sur le site [**Eduscol**](https://eduscol.education.fr/1723/programmes-et-ressources-en-mathematiques-voie-gt){target=_blank}
 
 ??? "Ressources" 
-    - [**Spécialité maths**](http://specialite-maths.fr/){target=_blank}
-    - [**M@th et tiques**](https://www.maths-et-tiques.fr/index.php/cours-maths){target=_blank}
+    - [**Spécialité Maths**](http://specialite-maths.fr/){target=_blank}
+    - [**M@th_et_tiques**](https://www.maths-et-tiques.fr/index.php/cours-maths){target=_blank}
     - [**Méthode Math**](https://www.methodemaths.fr/){target=_blank}
     - [**Kahn Academy**](https://fr.khanacademy.org/){target=_blank} : Cours en mathématiques...
-    - [**Mathsenvie**](https://www.mathsenvie.fr/?p=10530){target=_blank} : Une façon originale d’aborder les mathématiques : motivante, concrète et en lien avec le quotidien des élèves. Activités de la maternelle au lycée...
+    - [**Ma@ths en-vie**](https://www.mathsenvie.fr/?p=10530){target=_blank} : Une façon originale d’aborder les mathématiques : motivante, concrète et en lien avec le quotidien des élèves. Activités de la maternelle au lycée...
     - [**Podcast - France Culture**](https://www.franceculture.fr/theme/mathematiques){target=_blank}
     - [**Annales**](https://www.annales2maths.com/){target=_blank}
 
-    ??? tip "Ressources proposées pour la "Semaine des mathématiques"
-        ==**Du 7 au 14 mars 2022, s'est déroulé la semaine des mathématiques**== : l'occasion de renforcer l'attractivité des mathématiques.
-    
-        - [**Guide officiel**](https://eduscol.education.fr/document/38933/download?attachment){target=_blank} de l´édition 2022 sur le thème ==**"Les Maths en forme(s)"**==.
-        - [**Les défis possibles**](https://www.mathsenvie.fr/?p=10530){target=_blank} par niveau, les modalités du concours...
-        - [**Ressources**](https://maths.discip.ac-caen.fr/spip.php?article554){target=_blank}
+        ??? "Sites de vos enseignants"
+            - [**Mme NUNEZ**](https://dnunez-gua.github.io/Maths_Terminales/){target=_blank} : Spécialité Mathématiques (Terminale) -  Option Maths expertes.
+            - [**M. MADEC**](https://ericecmorlaix.github.io/SNT-2GT4_2022-2023/){target=_blank} : SNT seconde générale
 
-??? "Sites de vos enseignants"
-    - [**Mme NUNEZ**](https://dnunez-gua.github.io/Maths_Terminales/){target=_blank} : Spécialité Mathématiques (Terminale) -  Option Maths expertes.
-    - [**M. MADEC**](https://ericecmorlaix.github.io/SNT-2GT4_2022-2023/){target=_blank} : SNT seconde générale
+        ??? tip "Ressources proposées pour la "Semaine des mathématiques"
+            ==**Du 7 au 14 mars 2022, s'est déroulé la semaine des mathématiques**== : l'occasion de renforcer l'attractivité des mathématiques.
+    
+            - [**Guide officiel**](https://eduscol.education.fr/document/38933/download?attachment){target=_blank} de l´édition 2022 sur le thème ==**"Les Maths en forme(s)"**==.
+            - [**Les défis possibles**](https://www.mathsenvie.fr/?p=10530){target=_blank} par niveau, les modalités du concours...
+            - [**Ressources**](https://maths.discip.ac-caen.fr/spip.php?article554){target=_blank}
+
 ___
 ### NSI
 
@@ -424,6 +425,7 @@ ___
     - [**L'économie en 1ère STMG**](https://econofides.ac-versailles.fr/premiere-stmg/text/0-3-contents.html){target=_blank}
     - [**Vidéos LUMNI**](https://www.lumni.fr/lycee/premiere/voie-technologique/stmg-sciences-et-technologies-du-management-et-de-la-gestion-1){target=_blank} : en lien avec les programmes de droit et d'économie
 
+___
 ## BAC PRO
 Présentation du baccalauréat professionnel sur le site [**Eduscol**](https://eduscol.education.fr/1916/le-baccalaureat-professionnel){target=_blank} (Dernière mise à jour février 2022) : voies de formation, contenu de la formation, conditions d'obtention du diplôme...
 
@@ -435,27 +437,32 @@ Présentation du baccalauréat professionnel sur le site [**Eduscol**](https://e
 
 - [**Le chef d'oeuvre**](https://eduscol.education.fr/3001/la-realisation-du-chef-d-oeuvre){target=_blank} - [**Vademecum**](https://eduscol.education.fr/document/1916/download?attachment){target=_blank} : définition, modalités, collaboration entre disciplines, enjeux et mise en oeuvre.
 
-
+___
 ### ASSP
 ??? "Programmes et référentiel"
     Sur le site [**Eduscol**](https://eduscol.education.fr/referentiels-professionnels/a127/a127c.pdf){target=_blank}
     
+___
 ### AEPA
 ??? "Programmes et référentiel"
     Sur le Site [**Eduscol**](https://eduscol.education.fr/referentiels-professionnels/Bac_Pro_Animation/Annexes_Bac%20Pro%20Animation190722.pdf){target=_blank}
 
+___
 ### MCV
 ??? "Programmes et référentiel"
     Sur le site [**Eduscol**](https://eduscol.education.fr/referentiels-professionnels/BacPro_MetCoVe/Annexes_BacPro_MetCoVe.pdf){target=_blank}
 
+___
 ## CAP
 ??? "Programmes et référentiel"
     Sur le Site [**Eduscol**](https://eduscol.education.fr/1923/le-certificat-d-aptitude-professionnelle-cap){target=_blank}
 
+___
 ### AEPE
 ??? "Programmes et référentiel"
     Sur le Site [**Eduscol**](https://eduscol.education.fr/referentiels-professionnels/CAP_AEPE.html){target=_blank}
 
+___
 ### EPC
 ??? "Programmes et référentiel"
     Sur le Site [**Eduscol**](https://eduscol.education.fr/referentiels-professionnels/cap_EPC.html){target=_blank}

@@ -16,6 +16,7 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
 
     
 
+
 ## Actualités
 ![IFPS_Vannes](./images/orientation/IFPS_VANNES_PO-2023.jpg "Affiche"){width=35%}
 ![CPGES_LaSalle](./images/orientation/Campus_LaSalle_CPGES_2022.jpg "Affiche"){width=35%}
@@ -68,8 +69,10 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
 ??? info "**Un espace au service de l'emploi**"
     - [**L'Espace métiers**](https://www.brest.fr/travailler-entreprendre/emploi-insertion/des-evenements-et-un-espace-au-service-de-lemploi-a-brest-1768.html){target=_blank} : un lieu pour s'informer à Brest métropole...
     
-## Ressources  
+___ 
+## RESSOURCES  
 
+___ 
 ### Pour tous
 ???+ "Pour tous"
     === "INCONTOURNABLES"
@@ -94,6 +97,8 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
         - [**L'Etudiant**](https://www.letudiant.fr/etudes/alternance.html){target=_blank} : dossier sur l'alternance (Ecoles, formations, entreprises, offres...)
         - [**AREP29**](https://www.arep29.fr/){target=_blank} : CFA et centre de formation continue à Brest (CAP, BTS et Bac+3 en alternance, formation continue des salariés d'établissements...)
         - [**ISFFEL**](https://www.isffel.fr/){target=_blank} : chercher sa formation en alternance sur le site de l'Institut Supérieur de Formation. 
+        - [**Les compagnons du devoir**](https://www.compagnons-du-devoir.com/){target=_blank} : journées portes ouvertes les ==**14-15 janvier** / **11 mars 2023**==.
+        [![**Compagnons du devoir**](./images/orientation/Flyer_jpo_compagnons.jpg "Flyers_jpo"){width=50%}](https://www.compagnons-du-devoir.com/){target=_blank}
     === "VIE ETUDIANTE"
         - [**Vie étudiante : Infos, services, FAQ**](https://www.etudiant.gouv.fr/fr){target=_blank}
         - [**FAQ vie étudiante**](https://www.etudiant.gouv.fr/fr/faq){target=_blank}
@@ -107,6 +112,7 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
         - [**Etudions à l'étranger**](https://www.etudionsaletranger.fr/){target=_blank}
         - [**Easylangues**](https://www.centre-easylangues.com/){target=_blank} : trouver un job ou un stage à l'étranger...
 
+___ 
 ### Niveau 2nde
 ??? "SECONDE"
     - [**Guide d'accompagnement à l'orientation 2de**](./pdf/Guide_accompagnement_orientation_2nde_GT_20220316.pdf){target=_blank}
@@ -114,11 +120,13 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
     - [**Secondes/Premières 2022-2023**](https://www.secondes-premieres2022-2023.fr/){target=_blank} 
     - [**Quelles spécialités choisir pour le BAC?**](https://www.letudiant.fr/lycee/simulateur-de-specialites.html){target=_blank}
 
+___ 
 ### Niveau 1re
 ??? "PREMIERE"
     - [**Vers le PADLET première**](https://padlet.com/cdinddmporsmeur/orientation_premiere_2020){target=_blank}
     - [**Secondes/Premières 2022-2023**](https://www.secondes-premieres2022-2023.fr/){target=_blank} 
 
+___ 
 ### Niveau Tle
 ??? "TERMINALE"
     === "RESSOURCES"
@@ -161,6 +169,7 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
         - [**Que faire après un BAC STMG ?**](https://www.onisep.fr/Choisir-mes-etudes/Apres-le-bac/Que-faire-apres-le-bac/Apres-un-bac-techno/Que-faire-apres-le-bac-STMG){target=_blank}
 
 
+___ 
 ### Voie professionnelle
 ??? "VOIE PRO"
     === "RESSOURCES"
@@ -172,9 +181,11 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
     === "PO - IMMERSIONS"
         - [**ITES**](./pdf/Affiche_Portes-Ouvertes-ITES-18-19-nov-2022.pdf){target=_blank} : [**calendrier**](./pdf/JPO-ITES-Programme_2022-2023.pdf){target=_blank} des portes ouvertes de l'[**Institut de formation au travail Educatif et Social**](https://www.ites-formation.com/){target=_blank}.
 
-## Domaines
+___ 
+## DOMAINES
 :warning: ==**Attention cette rubrique est en construction. Certains onglets peuvent être vides.**== :construction: 
 
+___ 
 ### Agriculture - Bois
 ??? "Liens utiles"
     === "AGRICULTURE"
@@ -182,11 +193,13 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
         - [**Métiers et formations dans l'agriculture**](https://www.onisep.fr/decouvrir-les-metiers/des-metiers-par-secteur/agriculture){target=_blank} (*Sources : Onisep*)
 
 
+___ 
 ### Architecture - Construction - Travaux publics
 ??? "Liens utiles"
     === "ARCHITECTURE"
         - [**ENSAB**](https://www.rennes.archi.fr/){target=_blank} : Ecole Nationale Supérieure d'Architecture de Bretagne.
 
+___ 
 ### Armée - Sécurité
 ??? "Liens utiles"
     === "ARMEE"
@@ -195,10 +208,14 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
         - [**Armée de terre**](https://www.sengager.fr/){target=_blank} : **117 spécialités** dans **16 domaines d'activité**.
         - [**CIRFA**](https://www.sengager.fr/ou-nous-rencontrer?xtor=SEC-229-GOO-[24018634367]-[353506367]-g-[cirfa]&ds_rl=1210417&gclid=EAIaIQobChMI6PzavM2g7QIV_P3VCh1GLQ1eEAAYASAAEgK7z_D_BwE){target=_blank} : L'armée de terre recrute et forme **16000 postes**. Vous trouverez ici les centres de recrutement.
         - [**Marine Nationale**](https://www.lamarinerecrute.fr/){target=_blank} : En 2022, la marine recrute **4000 jeunes femmes et hommes**, rejoignez l’équipage...
+        - [**ENSM**](https://www.supmaritime.fr/){target=_blank} : Ecole Nationale Supérieure Maritime - [**Dates et inscriptions**](https://www.supmaritime.fr/jpo-ensm-2023/){target=_blank} aux journées portes ouvertes par site (Le Havre - Marseille - Nantes - Saint-Malo).
+        
+        [![**AIR actualités"**](./images/orientation/Air_actualites_20221101_couverture.jpg "Couverture_air_actualités"){width=20%}](./pdf/Air_actualites_20221101.pdf){target=_blank}
     === "SECURITE"
         - [**Devenir gendarme**](https://www.devenir-gendarme.fr/){target=_blank}
         - [**Devenir policier**](https://www.devenirpolicier.fr/){target=_blank}
 
+___ 
 ### Arts - Artisanat - Culture
 ??? "Liens utiles"
     === "ARTS"
@@ -206,11 +223,25 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
     === "THEATRE"
         - [**Option études théâtrales**](https://lycee-de-cornouaille-quimper.ac-rennes.fr/spip.php?article1306){target=_blank} au Lycée de Cornouailles à Quimper.
 
+___ 
 ### Audiovisuel - Information - Communication
 ??? "Liens utiles"
     === "CINEMA"
         - [**Métiers de l'audiovisuel**](https://esra.edu/){target=_blank} le groupe ESRA forme aux métiers du cinéma, de l’audiovisuel, du son et du film d’animation.
 
+___ 
+### Commerce - Vente - Marketing
+??? "Liens utiles"
+    === "COMMERCE"
+        - [**Commerce et distribution**](https://www.onisep.fr/decouvrir-les-metiers/des-metiers-par-secteur/commerce-et-distribution){target=_blank} : métiers, emploi et formation dans le commerce et la distribution.
+    === "MARKETING"
+        - [**Marketing, publicité**](https://www.onisep.fr/decouvrir-les-metiers/des-metiers-par-secteur/marketing-publicite){target=_blank} : métiers, emploi et formations dans le marketing et la publicité.
+
+### Droit - Economie - Gestion
+??? "Liens utiles"
+    === "DROIT"
+        - [**Droit et justice**](https://www.onisep.fr/decouvrir-les-metiers/des-metiers-par-secteur/droit-et-justice){target=_blank} : métiers, emploi et formations dans le droit et la justice.   
+___ 
 ### Informatique - Internet
 ??? "Liens utiles"
     === "INFORMATIQUE & RESEAUX"
@@ -221,34 +252,70 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
         - [**CREAPOLE**](https://www.creapole.fr/cinema-danimation-et-jeu-video/){target=_blank} : formation pour devenir Game designer ou réalisateur de films d'animation.
     
 
+___ 
 ### Santé - Social - Sport
-??? "Liens utiles"
-    === "Santé"
+???+ "Liens utiles"
+    === "COMMUN"
+        - [**IRSS**](https://www.irss.fr/){target=_blank} : Organisme de formation et de préparation aux métiers du sport, de la santé, de la sécurité, du social et de la petite enfance.
+    === "SANTE"
         - [**Les études de santé**](https://www.onisep.fr/Choisir-mes-etudes/apres-le-bac/principaux-domaines-d-etudes/les-etudes-de-sante){target=_blank} : Maïeutique, médecine, odontologie, pharmacie (*Sources : Onisep*)
         - [**ICO**](https://ico.asso.fr/){target=_blank} : Institut et Campus d'Optique.
         - [**IFEC**](https://www.ifec.net/){target=_blank} : Institut Franco-Européen de Chiropraxie.
         - [**ISO**](https://www.iso.fr/){target=_blank} : Institut Supérieur d'Optique.
         - [**Etiopathie**](https://www.etiopathie.com/){target=_blank} : Institut Français d'Ethiopathie.
         - [**PASS ou L.AS**](https://pass-sante.com/){target=_blank} : que maîtriser pour réussir sa rentrée en [**PASS**](https://www.letudiant.fr/etudes/medecine-sante/ce-qu-il-faut-maitriser-pour-reussir-sa-rentree-en-pass-1.html){target=_blank}.
-    === "Social"
+    === "SOCIAL"
         - [**ITES**](https://www.ites-formation.com/){target=_blank} : Institut de Formation  au Travail Educatif et Social.
-    === "Sport"
+    === "SPORT"
         - [**Travailler dans le sport**](https://sport.onisep.fr/){target=_blank} : je construis mon projet dans le sport sur le site de l'**ONISEP**.
         - [**Fiches métiers**](https://www.letudiant.fr/metiers/secteur/sport.html){target=_blank} : site de **L'Etudiant**.
         - [**Fiches métiers**](https://www.studyrama.com/formations/fiches-metiers/sport){target=_blank} : site **Studyrama**.
+        - [**IFEPSA**](https://ifepsa.uco.fr/fr){target=_blank} : Institut de Formation en Education Physique et en Sport (*Les Ponts de Cé - 49*) 
 
 
+___ 
+## FORMATIONS
 
-
-## Formations
-??? "Liens utiles"
-
+___ 
 ### BTS
 ??? "Liens utiles"
+    === "PRESENTATION"
+        - [**Le BTS**](https://www.onisep.fr/Choisir-mes-etudes/apres-le-bac/organisation-des-etudes-superieures/Les-BTS){target=_blank} : organisation des études, poursuite d'études.
+___ 
+### BUT
+??? "Liens utiles"
+    === "PRESENTATION"
+        - [**Annuaire des IUT**](https://www.iut.fr/){target=_blank} : 108 IUT, 170 campus partout en France, 24 spécialités.
+        - [**Les IUT vers le BUT**](https://www.iut.fr/le-but-et-ses-specialites/){target=_blank}
+        - [**Les 24 spécialités de BUT**](https://www.iut.fr/bachelor-universitaire-de-technologie/){target=_blank}
+    === "OU SE FORMER ?"
+        - [**IUT de Bretagne**](http://www.bretagne.iut.fr/les-iut-de-bretagne/presentation.html){target=_blank}
+        - [**IUT Brest-Morlaix**](https://www.iut-brest.fr/){target=_blank}
+        - [**IUT Lannion-Rennes1**](https://iut-lannion.univ-rennes1.fr/){target=_blank}
+        - [**IUT St-Brieuc-Rennes1**](https://iut-stbrieuc.univ-rennes1.fr/){target=_blank}
+        - [**IUT Saint-Malo**](https://www.iut-saintmalo.plateforme360.fr/){target=_blank}
 
+___ 
+### CPEG
+??? "Liens utiles"
+    === "PRESENTATION"
+        - [**La PREPA**](https://www.onisep.fr/Choisir-mes-etudes/apres-le-bac/organisation-des-etudes-superieures/Les-classes-preparatoires-aux-grandes-ecoles-CPGE){target=_blank} : Comment ça marche ? Pourquoi faire une classe préparatoire ? Les différentes classes préparatoires. (*Sources : Onisep*)
+    === "ECONOMIQUE ET SOCIALE"
+        - [**Quelle Prépa choisir ?**](https://www.onisep.fr/Choisir-mes-etudes/apres-le-bac/organisation-des-etudes-superieures/CPGE-FILIERES/Les-prepas-economiques-et-commerciales){target=_blank} : ECG (Economique et commerciale générale) - ECT (Economique et Commerciale Technologique) - D1 (Droit, économie, management)- D2 (Economie et gestion). (*Sources : Onisep*)
+    === "LITTERAIRE"
+        - [**ENS**](https://www.ens.psl.eu/une-formation-d-exception/admission-concours/concours-voie-cpge/concours-voie-cpge-lettres){target=_blank} : Concours Lettres (concours A/L) et Sciences sociales (concours B/L).
+    === "SCIENTIFIQUE"
+        - [**ENS**](https://www.ens.psl.eu/une-formation-d-exception/admission-concours/concours-voie-cpge/concours-voie-cpge-sciences){target=_blank} : voie CPEG Sciences.
+        - [**Lycée Sainte-Anne - Brest**](https://www.sainte-anne-brest.fr/){target=_blank} : MPSI (Mathématiques Physique et Sciences de l'ingénieur) - PCSI (Physique, Chimie et Sciences de l'ingénieur) - MP (mathématiques-physique) - PC (physique-chimie) - PSI (physique et sciences de l'ingénieur) - PT (physique et technologie).
+        - [**La Croix-Rouge - Brest**](https://www.lacroixrouge-brest.fr/ecoles-formations/enseignement-superieur/){target=_blank} : PTSI (Physique, Technologie, Science de l'Ingénieur) - 
+    === "SCIENCES PO"
+        - [**SCIENCES PO**](https://www.sciencespo.fr/fr/){target=_blank}
+
+___ 
 ### Ecoles de commerce
 ??? "Liens utiles"
 
+___ 
 ### Ecoles d'ingénieurs
 ??? "Liens utiles"
     === "ECOLES"
@@ -262,22 +329,18 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
         - [**INSA**](https://www.insa-rennes.fr/){target=_blank} : Institut National des Sciences Appliquées (*Rennes - 35*).
         - [**ISAE-SUPAERO**](https://www.isae-supaero.fr/fr/){target=_blank} : Leader mondial de l’enseignement supérieur dans le domaine de l’ingénierie aérospatiale  (*Toulouse - 31*)
         - [**ISEN**](https://www.isen.fr/){target=_blank} : Formations d'ingénieurs dans le numérique.
-        
+        - [**UNGE**](https://www.unge.net/index.php){target=_blank} : Union Nationale des Géomètres-Experts.
     === "CONCOURS"
         - [**AVENIR**](https://www.concoursavenir.fr/){target=_blank} : 1 concours, 7 Grandes Ecoles d'Ingénieurs, 18 Campus.
         - [**GEIPI POLYTECH**](https://www.geipi-polytech.org/){target=_blank} : concours d'entrée commun à 35 écoles d'ingénieurs publiques. 
         - [**IPESUP**](https://www.ipesup.fr/){target=_blank} : prépa concours AVENIR - PUISSANCE ALPHA - GEPI POLYTECH.
         - [**Puissance ALPHA**](https://www.puissance-alpha.fr/){target=_blank} : les 18 grandes écoles d'ingénieurs du groupe, modalités d'admission.
     
+___ 
 ### Ecoles spécialisées
 ??? "Liens utiles"
 
-### IUT
-??? "Liens utiles"
-
-### PREPAS
-??? "Liens utiles"
-
+___ 
 ### Universités
 ??? "Liens utiles"
     === "CAMPUS"
