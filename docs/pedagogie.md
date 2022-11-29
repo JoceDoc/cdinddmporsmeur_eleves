@@ -369,7 +369,8 @@ ___
     - [**Méthode physique**](https://www.methodephysique.fr/){target=_blank} : cours, exercices, viédos, conseils méthodologiques.
     - [**CultureSciences - Chimie**](https://culturesciences.chimie.ens.fr/){target=_blank}
     - [**Chimie générale**](https://fr.khanacademy.org/science/chemistry){target=_blank} : sur le site Kahn Academy.
-    - [**WebPhysique**](https://webphysique.fr/){target=_blank} : Cours, exercices pour apprendre et découvrir les sciences physiques au lycée. 
+    - [**WebPhysique**](https://webphysique.fr/){target=_blank} : Cours, exercices pour apprendre et découvrir les sciences physiques au lycée.
+       
 
 ___
 ### SES

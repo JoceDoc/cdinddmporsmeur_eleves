@@ -83,7 +83,7 @@ ___
         - [**L'Etudiant**](https://www.letudiant.fr/orientation.html) : les outils pour réussir son orientation, des tests en ligne pour affiner sa réflexion sur l'orientation, le service de coaching du site de l'Etudiant...
         - [**Quelles spécialités pour quelles études ?**](https://www.letudiant.fr/lycee/specialites-bac-general/article/reforme-lycee-quelles-specialites-pour-quelles-etudes.html){target=_blank} : les spécialités recommandées par type de formation ou par domaine d'études...
         - [**Témoignages**](https://www.onisep.fr/Choisir-mes-etudes/ma-premiere-annee-en){target=_blank} : ma première année en... CAP, BAC PRO, BAC TECHNO, diplôme du sport, du paramédical, DUT/BUT, classe préparatoire, DN MADE, licence...
-        - [**THOTIS - Le média étudiant**](https://thotismedia.com/){target=_blank} : découvrir les formations et trouver ta voie - Affiner son projet en contactant des étudiants - Se renseigner sur Parcoursup. 
+        - [**THOTIS - Le média étudiant**](https://thotismedia.com/){target=_blank} : découvrir les formations et trouver sa voie - Affiner son projet en contactant des étudiants - Se renseigner sur Parcoursup. 
         - [**MOOC**](https://www.mooc-orientation.fr/){target=_blank} : suivre les **MOOC** de l'orientation pour choisir son avenir...
         - [**SNU**](https://www.education.gouv.fr/le-service-national-universel-snu-jeunesse-engagee-5381){target=_blank} : présentation du **Service National Universel** et accès au [**portail**](https://www.snu.gouv.fr/){target=_blank} pour s'inscrire.
     === "GUIDES"
@@ -130,7 +130,6 @@ ___
 ### Niveau Tle
 ??? "TERMINALE"
     === "RESSOURCES"
-        - [**PADLET terminale**](https://padlet.com/cdinddmporsmeur/orientation_terminale_2020){target=_blank}
         - [**Terminales 2022-2023**](https://www.terminales2022-2023.fr/){target=_blank}
         - [**Quelle école après le BAC ?**](https://www.ipesup.fr/){target=_blank} : IPESUP, préparations aux examens et concours de l’enseignement supérieur.
         - [**Ensemble des ressources de la DGESIP**](https://services.dgesip.fr/T454/S743/ressources){target=_blank} : Direction Générale de l'Enseignement Supérieur et de l'Insertion 
@@ -228,19 +227,37 @@ ___
 ??? "Liens utiles"
     === "CINEMA"
         - [**Métiers de l'audiovisuel**](https://esra.edu/){target=_blank} le groupe ESRA forme aux métiers du cinéma, de l’audiovisuel, du son et du film d’animation.
-
 ___ 
 ### Commerce - Vente - Marketing
 ??? "Liens utiles"
     === "COMMERCE"
-        - [**Commerce et distribution**](https://www.onisep.fr/decouvrir-les-metiers/des-metiers-par-secteur/commerce-et-distribution){target=_blank} : métiers, emploi et formation dans le commerce et la distribution.
+        - [**Commerce et distribution**](https://www.onisep.fr/decouvrir-les-metiers/des-metiers-par-secteur/commerce-et-distribution){target=_blank} : métiers, emploi et formation dans le commerce et la distribution. (*Sources : Onisep*)
     === "MARKETING"
-        - [**Marketing, publicité**](https://www.onisep.fr/decouvrir-les-metiers/des-metiers-par-secteur/marketing-publicite){target=_blank} : métiers, emploi et formations dans le marketing et la publicité.
+        - [**Marketing, publicité**](https://www.onisep.fr/decouvrir-les-metiers/des-metiers-par-secteur/marketing-publicite){target=_blank} : métiers, emploi et formations dans le marketing et la publicité. (*Sources : Onisep*)
+    === "CONCOURS"
+        - [**SESAME**](https://www.concours-sesame.net/){target=_blank} : concours d'entrée commun à 17 programmes postbac de 14 grandes écoles de commerce et de management international.
+    === "ECOLES"
+        - [**ESDES**](https://www.itcformation.com/){target=_blank} : grande école de commerce et de management, membre de la Conférence des Grandes Écoles (*lyon - Annecy*)
+        - [**ITC**](https://www.itcformation.com/){target=_blank} : école supérieure de management et de commerce (*Brest - Quimper - St-Brieuc*)
 
 ### Droit - Economie - Gestion
 ??? "Liens utiles"
     === "DROIT"
-        - [**Droit et justice**](https://www.onisep.fr/decouvrir-les-metiers/des-metiers-par-secteur/droit-et-justice){target=_blank} : métiers, emploi et formations dans le droit et la justice.   
+        - [**Droit et justice**](https://www.onisep.fr/decouvrir-les-metiers/des-metiers-par-secteur/droit-et-justice){target=_blank} : métiers, emploi et formations dans le droit et la justice. (*Sources : Onisep*)
+    === "ECONOMIE - GESTION"
+        - [**Comptabilité -  Gestion - Ressources humaines**](https://www.onisep.fr/decouvrir-les-metiers/des-metiers-par-secteur/comptabilite-gestion-ressources-humaines){target=_blank} : métiers et emploi dans le secteur. (*Sources : Onisep*)
+
+### Energies - Environnement
+??? "Liens utiles"
+    === "ENERGIE"
+        - [**Energie**](https://www.onisep.fr/decouvrir-les-metiers/des-metiers-par-secteur/energie){target=_blank} : métiers, emploi et formations dans le secteur de l'énergie. (*Sources : Onisep*)
+
+### Enseignement - Recherche
+??? "Liens utiles"
+    === "ENSEIGNEMENT"
+        - [**Devenir enseignant - MEN**](https://www.devenirenseignant.gouv.fr/){target=_blank} : Comment devenir enseignant, se répérer dans les concours des premier et second degrés ? Découvrir le métier et les voies qui y mènent sur le site du Ministère de l'Education Nationale et de la Jeunesse.
+        - [**Dossier Enseignement**](https://www.onisep.fr/decouvrir-les-metiers/des-metiers-par-secteur/enseignement){target=_blank} : métiers et emploi dans l'enseignement. (*Sources : Onisep*)
+
 ___ 
 ### Informatique - Internet
 ??? "Liens utiles"
@@ -251,7 +268,6 @@ ___
         - [**Métiers et emploi dans le jeu vidéo**](https://www.onisep.fr/decouvrir-les-metiers/des-metiers-par-secteur/jeu-video){target=_blank} (*Sources : Onisep*)
         - [**CREAPOLE**](https://www.creapole.fr/cinema-danimation-et-jeu-video/){target=_blank} : formation pour devenir Game designer ou réalisateur de films d'animation.
     
-
 ___ 
 ### Santé - Social - Sport
 ???+ "Liens utiles"
@@ -280,7 +296,15 @@ ___
 ### BTS
 ??? "Liens utiles"
     === "PRESENTATION"
-        - [**Le BTS**](https://www.onisep.fr/Choisir-mes-etudes/apres-le-bac/organisation-des-etudes-superieures/Les-BTS){target=_blank} : organisation des études, poursuite d'études.
+        - [**Les BTS**](https://www.onisep.fr/Choisir-mes-etudes/apres-le-bac/organisation-des-etudes-superieures/Les-BTS){target=_blank} : organisation des études, poursuite d'études.
+        - [**Liste des BTS**](https://www.letudiant.fr/etudes/bts.html){target=_blank} : tout savoir sur le BTS et accéder à la liste des BTS par domaine.(*Sources : L'étudiant*)
+    === "ECOLES"
+        - [**Les 2 Rives**](https://les-2-rives.fr/enseignement-superieur/){target=_blank} : BTS Conseiller de Clientèle - BTS Assurance - BTS CRSA (Conception et réalisation de systèmes automatiques). (*Landerneau*)
+        - [**Campus de Pouillé**](https://www.campus-pouille.com/){target=_blank} : BTS dans le domaine de la nature, du vivant et de l'environnement. (*Angers*)
+        - [**Chaptal**](https://www.lycee-chaptal.fr/nos-formations/enseignement-superieur/bts-sp3s/){target=_blank} : BTS SP3S (Services et Prestations des Secteurs Sanitaire et Social). (*Quimper*)
+        - [**Fénelon**](https://www.fenelonsup.org/formations/brevet-technicien-superieur-economie-sociale-familiale/){target=_blank} : BTS EFS (Economie Familiale et Sociales). (*Brest*)
+        - [**Jules Lesven**](https://www.lycee-jules-lesven.org/formations-593-0-0-0.html){target=_blank} : BTS CG (Comptabilité Gestion) - BTS PI (Professions Immobilières) - BTS CI (Commerce International) - BTS G PME (Gestion de la PME) - BTS MMV (Métiers de la Mode et du Vêtement). (*Brest*)
+        - [**Le Paraclet**](https://www.leparaclet.org/formations-quimper/enseignement-superieur/bts-management-en-hotellerie-restauration/){target=_blank} : BTS Management en hôtellerie restauration (*Quimper*)
 ___ 
 ### BUT
 ??? "Liens utiles"
@@ -300,49 +324,58 @@ ___
 ??? "Liens utiles"
     === "PRESENTATION"
         - [**La PREPA**](https://www.onisep.fr/Choisir-mes-etudes/apres-le-bac/organisation-des-etudes-superieures/Les-classes-preparatoires-aux-grandes-ecoles-CPGE){target=_blank} : Comment ça marche ? Pourquoi faire une classe préparatoire ? Les différentes classes préparatoires. (*Sources : Onisep*)
+        - [**Lycée La Pérouse-Kérichen**](https://lycee-la-perouse-kerichen-brest.ac-rennes.fr/spip.php?rubrique273){target=_blank} : Pourquoi faire une Prépa ?(*Brest*)
     === "ECONOMIQUE ET SOCIALE"
         - [**Quelle Prépa choisir ?**](https://www.onisep.fr/Choisir-mes-etudes/apres-le-bac/organisation-des-etudes-superieures/CPGE-FILIERES/Les-prepas-economiques-et-commerciales){target=_blank} : ECG (Economique et commerciale générale) - ECT (Economique et Commerciale Technologique) - D1 (Droit, économie, management)- D2 (Economie et gestion). (*Sources : Onisep*)
     === "LITTERAIRE"
         - [**ENS**](https://www.ens.psl.eu/une-formation-d-exception/admission-concours/concours-voie-cpge/concours-voie-cpge-lettres){target=_blank} : Concours Lettres (concours A/L) et Sciences sociales (concours B/L).
+        - [**Prépa littéraire**](https://www.prepalitteraire.fr/#){target=_blank} : le site des classes préparatoires littéraires.
+        - [**Lycée de Cornouailles**](https://lycee-de-cornouaille-quimper.ac-rennes.fr/spip.php?rubrique94){target=_blank} : CPEG Lettres A/L, comment choisir ?. (*Quimper*)
     === "SCIENTIFIQUE"
-        - [**ENS**](https://www.ens.psl.eu/une-formation-d-exception/admission-concours/concours-voie-cpge/concours-voie-cpge-sciences){target=_blank} : voie CPEG Sciences.
-        - [**Lycée Sainte-Anne - Brest**](https://www.sainte-anne-brest.fr/){target=_blank} : MPSI (Mathématiques Physique et Sciences de l'ingénieur) - PCSI (Physique, Chimie et Sciences de l'ingénieur) - MP (mathématiques-physique) - PC (physique-chimie) - PSI (physique et sciences de l'ingénieur) - PT (physique et technologie).
-        - [**La Croix-Rouge - Brest**](https://www.lacroixrouge-brest.fr/ecoles-formations/enseignement-superieur/){target=_blank} : PTSI (Physique, Technologie, Science de l'Ingénieur) - 
+        - [**Brizeux**](https://www.cpge-brizeux.fr/wordpress/){target=_blank} : PCSI (Physique Chimie Sciences de l’Ingénieur) et deux classes de deuxième année (PC : Physique Chimie et PSI : Physique Sciences de l’Ingénieur) (*Quimper*)
+        - [**ENS**](https://www.ens.psl.eu/une-formation-d-exception/admission-concours/concours-voie-cpge/concours-voie-cpge-sciences){target=_blank} : voie CPEG Sciences à l'Ecole Normale Supérieure.
+        - [**Lycée Sainte-Anne**](https://www.sainte-anne-brest.fr/){target=_blank} : MPSI (Mathématiques Physique et Sciences de l'ingénieur) - PCSI (Physique Chimie Sciences de l'Ingénieur) - MP (Mathématiques Physique) - PC (Physique Chimie) - PSI (Physique Sciences de l'Ingénieur) - PT (Physique et Technologie). (*Brest*)
+        - [**La Croix-Rouge**](https://www.lacroixrouge-brest.fr/ecoles-formations/enseignement-superieur/){target=_blank} : PTSI (Physique Technologie Sciences de l'Ingénieur) - MPSI-PSI. (*Brest*)
     === "SCIENCES PO"
         - [**SCIENCES PO**](https://www.sciencespo.fr/fr/){target=_blank}
 
 ___ 
 ### Ecoles de commerce
 ??? "Liens utiles"
-
+    === "PRESENTATION"
+        - [**Ecoles de commerce**](https://www.onisep.fr/Choisir-mes-etudes/apres-le-bac/principaux-domaines-d-etudes/Les-ecoles-de-commerce){target=_blank} : Pour quel profil ? Comment choisir son école ? (*Sources : Onisep*)
+        - [**Les Ecoles de commerce**](https://www.letudiant.fr/etudes/ecole-de-commerce.html){target=_blank} : Quelles sont les spécificités des études en écoles de commerce ? A quels métiers préparent-elles ? Quels sont les critères pour choisir ? Comment intégrer une école ? Comment préparer les concours ? (*Sources : L'Etudiant*)
 ___ 
 ### Ecoles d'ingénieurs
 ??? "Liens utiles"
-    === "ECOLES"
-        - [**CPE Lyon**](https://www.cpe.fr/){target=_blank} : Ecole d'Ingénieurs en Chimie et Sciences du Numérique (*Lyon - 69*).
-        - [**ENSC Rennes**](https://www.ensc-rennes.fr/){target=_blank} : Ecole Nationale Supérieure de Chimie (*Rennes - 35*).
-        - [**ESGT**](https://www.esgt.cnam.fr/presentation/){target=_blank} : École Supérieure d'Ingénieurs Géomètres et Topographes (*Le Man - 72*).
-        - [**ESIGELEC**](https://www.esigelec.fr/fr){target=_blank} : Ecole d'Ingénieurs généralistes (*Saint-Étienne-du-Rouvray - 76*).
-        - [**ESEO**](https://eseo.fr/){target=_blank} : Ecole d'Ingénieurs généralistes des technologies de la transformation numérique et électronique (*Angers - 49 ; Paris-Vélizy - 78 ; Dijon - 21*).
-        - [**ESTACA**](https://www.estaca.fr/){target=_blank} : Ecole d'Ingénieurs dans le domaine des transports (aéronautique - automobile - ferroviaire - spatial - naval) (*Talence - 33 ; Laval - 53 ; Saint-Quentin-en-Yvelines - 78*).
-        - [**ICAM**](https://www.icam.fr/){target=_blank} : Ecoles d'Ingénieurs généralistes.
-        - [**INSA**](https://www.insa-rennes.fr/){target=_blank} : Institut National des Sciences Appliquées (*Rennes - 35*).
-        - [**ISAE-SUPAERO**](https://www.isae-supaero.fr/fr/){target=_blank} : Leader mondial de l’enseignement supérieur dans le domaine de l’ingénierie aérospatiale  (*Toulouse - 31*)
-        - [**ISEN**](https://www.isen.fr/){target=_blank} : Formations d'ingénieurs dans le numérique.
-        - [**UNGE**](https://www.unge.net/index.php){target=_blank} : Union Nationale des Géomètres-Experts.
     === "CONCOURS"
+        - [**ADVANCE**](https://concours-advance.fr/){target=_blank} : concours commun permettant aux élèves  de Terminales générales et STL d’intégrer 4 écoles d’ingénieurs (EPITA, ESME, IPSA et Sup’Biotech) dans le domaine d el'innovation responsable. 
         - [**AVENIR**](https://www.concoursavenir.fr/){target=_blank} : 1 concours, 7 Grandes Ecoles d'Ingénieurs, 18 Campus.
         - [**GEIPI POLYTECH**](https://www.geipi-polytech.org/){target=_blank} : concours d'entrée commun à 35 écoles d'ingénieurs publiques. 
         - [**IPESUP**](https://www.ipesup.fr/){target=_blank} : prépa concours AVENIR - PUISSANCE ALPHA - GEPI POLYTECH.
         - [**Puissance ALPHA**](https://www.puissance-alpha.fr/){target=_blank} : les 18 grandes écoles d'ingénieurs du groupe, modalités d'admission.
+    === "ECOLES"
+        - [**CPE Lyon**](https://www.cpe.fr/){target=_blank} : Ecole d'Ingénieurs en Chimie et Sciences du Numérique (*Lyon - 69*).
+        - [**EPITA**](https://www.epita.fr/){target=_blank} : Ecole des ingénieurs en intelligence informatique.
+        - [**ENSC Rennes**](https://www.ensc-rennes.fr/){target=_blank} : Ecole Nationale Supérieure de Chimie (*Rennes - 35*).
+        - [**ESGT**](https://www.esgt.cnam.fr/presentation/){target=_blank} : École Supérieure d'Ingénieurs Géomètres et Topographes (*Le Man - 72*).
+        - [**ESIGELEC**](https://www.esigelec.fr/fr){target=_blank} : Ecole d'Ingénieurs généralistes (*Saint-Étienne-du-Rouvray - 76*).
+        - [**ESME**](https://www.esme.fr/){target=_blank} : les ingénieurs qui transforment le monde (numérique, robotique et IA et transition énergétique).
+        - [**ESEO**](https://eseo.fr/){target=_blank} : Ecole d'Ingénieurs généralistes des technologies de la transformation numérique et électronique (*Angers - 49 ; Paris-Vélizy - 78 ; Dijon - 21*).
+        - [**ESTACA**](https://www.estaca.fr/){target=_blank} : Ecole d'Ingénieurs dans le domaine des transports (aéronautique - automobile - ferroviaire - spatial - naval) (*Talence - 33 ; Laval - 53 ; Saint-Quentin-en-Yvelines - 78*).
+        - [**ICAM**](https://www.icam.fr/){target=_blank} : Ecoles d'Ingénieurs généralistes.
+        - [**INSA**](https://www.insa-rennes.fr/){target=_blank} : Institut National des Sciences Appliquées (*Rennes - 35*).
+        - [**IPSA**](https://www.ipsa.fr/){target=_blank} : École d'ingénieurs de l'air, de l'espace et de la mobilité durable (*Paris - Toulouse*).
+        - [**ISAE-SUPAERO**](https://www.isae-supaero.fr/fr/){target=_blank} : Leader mondial de l’enseignement supérieur dans le domaine de l’ingénierie aérospatiale  (*Toulouse - 31*)
+        - [**ISEN**](https://www.isen.fr/){target=_blank} : Formations d'ingénieurs dans le numérique.
+        - [**SUP'BIOTECH**](https://www.supbiotech.fr/){target=_blank} : l'école des ingénieur·e·s en Biotechnologies.
+        - [**UNGE**](https://www.unge.net/index.php){target=_blank} : Union Nationale des Géomètres-Experts.
     
-___ 
-### Ecoles spécialisées
-??? "Liens utiles"
-
 ___ 
 ### Universités
 ??? "Liens utiles"
+    === "PRESENTATION"
+        - [**Pourquoi choisir la Fac ?**](https://www.letudiant.fr/etudes/fac/universite-les-10-bonnes-raisons-de-choisir-la-fac.html){target=_blank} (*Sources : L'Etudiant*).
     === "CAMPUS"
         - [**ICR**](https://www.icrennes.org/){target=_blank} : Institut Catholique de Rennes.
         - [**RENNES 1**](https://www.univ-rennes1.fr/){target=_blank} : Université de Rennes1.
