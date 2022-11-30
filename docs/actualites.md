@@ -126,12 +126,17 @@
    
 ??? "**Kiosque du mois** :newspaper:"
   
-    [![01.NET](./images/abonnements/11_novembre/01.NET_02_novembre_2022_985.jpg "01.NET, 02 novembre 2022, n°985"){width=20%}](./images/abonnements/11_novembre/01.NET_02_novembre_2022_985.pdf){target=_blank}
+    [![01.NET](./images/abonnements/11_novembre/01.NET_02_novembre_2022_985.jpg "01.NET, 16 novembre 2022, n°986"){width=20%}](./images/abonnements/11_novembre/01.NET_16_novembre_2022_986.pdf){target=_blank}
+    [![01.NET](./images/abonnements/11_novembre/01.NET_16_novembre_2022_986.jpg "01.NET, 02 novembre 2022, n°985"){width=20%}](./images/abonnements/11_novembre/01.NET_02_novembre_2022_985.pdf){target=_blank}
     [![Alternatives Economiques](./images/abonnements/11_novembre/Alternatives_economiques_novembre_2022_428.jpg "Alternatives Economiques, novembre 2022, n°428"){width=20%}](./images/abonnements/11_novembre/Alternatives_economiques_novembre_2022_428.pdf){target=_blank}
     [![Ca m'intéresse](./images/abonnements/11_novembre/Ca_m_interesse_novembre_2022_501.jpg "Ca m'intéresse, novembre 2022, n°501"){width=20%}](./images/abonnements/11_novembre/Ca_m_interesse_novembre_2022_501.pdf){target=_blank}
     [![Courrier international](./images/abonnements/11_novembre/Courrier_international_03_novembre_2022_1670.jpg "Courrier international, 03 novembre 2022, n°1670"){width=20%}](./images/abonnements/11_novembre/Courrier_international_03_novembre_2022_1670.pdf){target=_blank}
     [![Courrier international](./images/abonnements/11_novembre/Courrier_international_10_novembre_2022_1671.jpg "Courrier international, 10 novembre 2022, n°1671"){width=20%}](./images/abonnements/11_novembre/Courrier_international_10_novembre_2022_1671.pdf){target=_blank}
+    [![Courrier international](./images/abonnements/11_novembre/Courrier_international_17_novembre_2022_1672.jpg "Courrier international, 17 novembre 2022, n°1672"){width=20%}](./images/abonnements/11_novembre/Courrier_international_17_novembre_2022_1672.pdf){target=_blank}
+    [![Courrier international](./images/abonnements/11_novembre/Courrier_international_24_novembre_2022_1673.jpg "Courrier international, 24 novembre 2022, n°1673"){width=20%}](./images/abonnements/11_novembre/Courrier_international_24_novembre_2022_1673.pdf){target=_blank}
     [![Documentation photographique](./images/abonnements/11_novembre/Documentation_photographique_novembre_2022_8149.jpg "Documentation photographique, novembre 2022, n°8149"){width=20%}](./images/abonnements/11_novembre/Documentation_photographique_novembre_2022_8149.pdf){target=_blank}
+    [![Journal de l'animation](./images/abonnements/11_novembre/Journal_animation_novembre_2022_233.jpg "Journal de l'animation, novembre 2022, n°233"){width=20%}](./images/abonnements/11_novembre/Journal_animation_novembre_2022_233.pdf){target=_blank}
+    [![Lire](./images/abonnements/11_novembre/Lire_novembre_2022_513.jpg "Lire, novembre 2022, n°513"){width=20%}](./images/abonnements/11_novembre/Lire_novembre_2022_513.pdf){target=_blank}
     [![Management](./images/abonnements/11_novembre/Management_octobre-novembre_2022_305.jpg "Management, octobre-novembre 2022, n°305"){width=20%}](./images/abonnements/11_novembre/Management_octobre-novembre_2022_305.pdf){target=_blank}
     [![Philosophie magazine](./images/abonnements/11_novembre/Philosophie_magazine_novembre_2022_164.jpg "Philosophie magazine, novembre 2022, 164"){width=20%}](./images/abonnements/11_novembre/Philosophie_magazine_novembre_2022_164.pdf){target=_blank}
     [![Phosphore](./images/abonnements/11_novembre/Phosphore_15_novembre_2022_542.jpg "Phosphore, 15 novembre 2022, 542"){width=20%}](./images/abonnements/11_novembre/Phosphore_15_novembre_2022_542.pdf){target=_blank}
@@ -188,6 +193,8 @@
     [![I love English world](./images/abonnements/langues/IloveEnglishWorld_juin_2022_350.jpg "I love english world, juin 2022, n°350"){width=20%}](./images/abonnements/langues/IloveEnglishWorld_juin_2022_350.pdf){target=_blank}
     [![I love English world](./images/abonnements/langues/IloveEnglishWorld_juillet-aout_2022_351.jpg "I love english world, juillet-aout 2022, n°351"){width=20%}](./images/abonnements/langues/IloveEnglishWorld_juillet-aout_2022_351.pdf){target=_blank}
     [![I love English world](./images/abonnements/langues/IloveEnglishWorld_septembre_2022_352.jpg "I love english world, septembre 2022, n°352"){width=20%}](./images/abonnements/langues/IloveEnglishWorld_septembre_2022_352.pdf){target=_blank}
+    [![I love English world](./images/abonnements/langues/IloveEnglishWorld_octobre_2022_353.jpg "I love english world, octobre 2022, n°353"){width=20%}](./images/abonnements/langues/IloveEnglishWorld_octobre_2022_353.pdf){target=_blank}
+    [![I love English world](./images/abonnements/langues/IloveEnglishWorld_novembre_2022_354.jpg "I love english world, novembre 2022, n°354"){width=20%}](./images/abonnements/langues/IloveEnglishWorld_novembre_2022_354.pdf){target=_blank}
 
     
     ??? Example ":de: **Allemand** :de:"
