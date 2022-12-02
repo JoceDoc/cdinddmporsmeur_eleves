@@ -136,7 +136,7 @@ ___
     === "FORUM EN LIGNE"
         - [**FORUM EN LIGNE**](https://padlet.com/cdinddmporsmeur/forum_en_ligne_2022){target=_blank} 
         
-            Prochain rendez-vous ==**lundi 28/11 (18h30-19h)**== : présentation de la ==**licence Eco-Gestion**==. 
+            Prochain rendez-vous ==**lundi 05/12 (18h30-19h)**== : présentation des ==**études de Kinésithérapeuthe**==. 
         
             [**Inscription à la visio**](https://docs.google.com/forms/d/e/1FAIpQLSfVKyDIJaA2I0R05okvmnbV5vELdgsNEc-JQODJle34cUL0tg/viewform){target=_blank} ==**avant dimanche - 17h**==
     === "PARCOURSUP"
@@ -183,7 +183,6 @@ ___
 
 ___ 
 ## DOMAINES
-:warning: ==**Attention cette rubrique est en construction. Certains onglets peuvent être vides.**== :construction: 
 
 ___ 
 ### Agriculture - Bois
@@ -307,6 +306,7 @@ ___
         - [**Fénelon**](https://www.fenelonsup.org/formations/brevet-technicien-superieur-economie-sociale-familiale/){target=_blank} : BTS EFS (Economie Familiale et Sociales). (*Brest*)
         - [**Jules Lesven**](https://www.lycee-jules-lesven.org/formations-593-0-0-0.html){target=_blank} : BTS CG (Comptabilité Gestion) - BTS PI (Professions Immobilières) - BTS CI (Commerce International) - BTS G PME (Gestion de la PME) - BTS MMV (Métiers de la Mode et du Vêtement). (*Brest*)
         - [**Le Paraclet**](https://www.leparaclet.org/formations-quimper/enseignement-superieur/bts-management-en-hotellerie-restauration/){target=_blank} : BTS Management en hôtellerie restauration (*Quimper*)
+        - [**Rosa Parks**](https://www.lp-rosaparks-rostrenen.ac-rennes.fr/spip.php?article273){target=_blank} : BTS MOS (Management Opérationnel de la Sécurité) [**Fiche de présentation**](./pdf/fiche_bts_mos.pdf){target=_blank}(*Rostrenen*)
 ___ 
 ### BUT
 ??? "Liens utiles"
