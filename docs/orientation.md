@@ -136,7 +136,7 @@ ___
     === "FORUM EN LIGNE"
         - [**FORUM EN LIGNE**](https://padlet.com/cdinddmporsmeur/forum_en_ligne_2022){target=_blank} 
         
-            Prochain rendez-vous ==**lundi 05/12 (18h30-19h)**== : présentation des ==**études de Kinésithérapeuthe**==. 
+            Prochain rendez-vous ==**lundi 12/12 (18h30-19h)**== : présentation des ==**études d'architecture **== au sein d'une ENSA.
         
             [**Inscription à la visio**](https://docs.google.com/forms/d/e/1FAIpQLSfVKyDIJaA2I0R05okvmnbV5vELdgsNEc-JQODJle34cUL0tg/viewform){target=_blank} ==**avant dimanche - 17h**==
     === "PARCOURSUP"
@@ -144,7 +144,7 @@ ___
         
         - [**Vidéo PARCOURSUP - Comment choisir une formation ?**](https://youtu.be/WJzf3wRqcWo){target=_blank}
     === "PO - IMMERSIONS"
-        - ==**UBO**== : toutes les informations pour vous inscrire aux [**immersions**](https://www.univ-brest.fr/cap-avenir/menu/Bloc-Lyceen/Inscriptions-individuelles-Continuum){target=_blank} de la Toussaint et conférences [**Insta'fac**](https://www.univ-brest.fr/cap-avenir/menu/Bloc-Lyceen/Insta_-Fac){target=_blank}.
+        - ==**UBO**== : toutes les informations pour vous inscrire aux [**immersions**](https://www.univ-brest.fr/cap-avenir/menu/Bloc-Lyceen/Inscriptions-individuelles-Continuum){target=_blank}. Calendrier des rencontres de l'année scolaire 2022-2023 [**Insta'fac**](https://www.univ-brest.fr/cap-avenir/menu/Bloc-Lyceen/Insta_-Fac){target=_blank}.
         - ==**UCO Guingamp**== : pour tester l'université, découvrez le [**programme**](https://guingamp.uco.fr/fr/event/testez-l-universite-grace-aux-journees-decouvertes-d-octobre){target=_blank} des journées d'==octobre==.
         - ==**IUT Brest-Morlaix**== : demi-journées d'immersion pour les lycéens de terminale en Génie Biologique (GB), Génie Mécanique et Productique (GMP) et Gestion Administrative et Commerciale (GACO). [**Inscription obligatoire sur weezent**](https://www.iut-brest.fr/evenements/journees-dimmersion-des-lyceens-a-liut/){target=_blank}. 
         - ==**Matinales de l'orientation**== : à l'IUT de Saint-Nazaire ==mercredi 30 novembre==. [**Formulaire d'inscription**](https://questionnaires.univ-nantes.fr/index.php/573826?newtest=Y&lang=fr){target=_blank}.  
@@ -155,7 +155,8 @@ ___
         - [**BTS - Lycée Chaptal - Quimper**](https://www.lycee-chaptal.fr/actualite/les-podcasts-des-bts-sp3s-1-ere-annee/){target=_blank} : ==04 février 2023 - 9h30-16h30==. 
             [**7 BTS à découvrir**](./pdf/Lycee_Chaptal_PO_post-bac.pdf){target=_blank} : [**Bioqualité**](https://www.lycee-chaptal.fr/bts-bioqualite/){target=_blank} - 
             [**Diététique**](https://www.lycee-chaptal.fr/nos-formations/enseignement-superieur/bts-dietetique/){target=_blank}  - [**ESF**](https://www.lycee-chaptal.fr/nos-formations/enseignement-superieur/bts-esf/){target=_blank} - [**Collaborateur juriste notarial**](https://www.lycee-chaptal.fr/nos-formations/enseignement-superieur/bts-notariat/){target=_blank} - [**SAM (Support à l'action managériale)**](https://www.lycee-chaptal.fr/nos-formations/enseignement-superieur/bts-sam/){target=_blank} - [**SIO (Services informatiques aux organisations)**](https://www.lycee-chaptal.fr/nos-formations/enseignement-superieur/bts-sio/){target=_blank} - [**SP3S (Services et Prestations des Secteurs Sanitaire et Social)**](https://www.lycee-chaptal.fr/nos-formations/enseignement-superieur/bts-sp3s/){target=_blank}
-        - [**Lycée Mongazon**](https://www.mongazon.org/){target=_blank} présentation des BTS du pôle santé (BTS Podo orthésiste - BTS Prothésiste orthésiste - CP Orthopédiste orthésiste) lors des portes ouvertes les ==**13 et 14 janvier 2023**== (*Angers - 49*)
+        - [**Lycée Mongazon**](https://www.mongazon.org/){target=_blank} présentation des BTS du pôle santé (BTS Podo orthésiste - BTS Prothésiste orthésiste - CP Orthopédiste orthésiste) lors des portes ouvertes les ==13 et 14 janvier 2023== (*Angers - 49*)
+        - [**BTS Audiovisuel**](http://www.btsaudiovisuelsfnd.fr/){target=_blank} : journées portes-ouvertes  ==vendredi 9 Décembre 2022 (17h00 à 20h00)== et ==samedi 10 Décembre (10h00 à 15h00)== (*Lesneven - 29*)
     === "SALONS-FORUMS"
         - [**Salons - Forums de l'orientation**](https://www.onisep.fr/recherche?text=SALONS%20FORUMS){target=_blank} : comment préparer sa visite à un salon ?
         - [**Azimut**](https://www.salon-azimut.com/){target=_blank} : site officiel du salon les ==**19-21 janvier 2023**==

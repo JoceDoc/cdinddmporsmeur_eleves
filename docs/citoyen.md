@@ -6,6 +6,24 @@
     
 ## Actualités
 
+![Sobriété_numérique](./images/guide-en-route-vers-sobriete-numerique-page-001.jpg "Affiche_sobriete"){width=20% align=left}
+
+
+* [**La sobriété numérique**](./pdf/guide-en-route-vers-sobriete-numerique.pdf){target=_blank} ou comment profiter du numérique en gardant le contrôle ? 
+
+**^^Au sommaire :^^** 
+    
+* La face cachée du numérique 
+    
+* Halte au renouvellement trop fréquent 
+    
+* Essentiel : un bon entretien
+
+* Connectés oui, surconnectés non
+
+* Limiter le poids et le parcours des données
+
+
 
 ## Citoyenneté et enseignement
 - Présentation du ==**parcours citoyen**== sur le site [**Eduscol**](https://www.education.gouv.fr/le-parcours-citoyen-5993){target=_blank}
