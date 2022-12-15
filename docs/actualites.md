@@ -9,112 +9,12 @@
 ## Au CDI
 
 ???info "**Expositions en cours**"
-    
-   
-
-
-
-??? info "**Expositions antérieures**"
-    ??? "**Handicaps et exclusions**"
+    ??? "**Annie ERNAUX**"
+    ![Exposition_Annie_Ernaux](./images/expositions/IMG_0197.jpg "Présentoir"){width=80% align=right}
      
-        ![Handicap1](./images/expo_handicap_01.jpg "Handicap01"){width=30% align=left}
-        ![Handicap2](./images/expo_handicap_02.jpg "Handicap02"){width=30% align=left}
-        Dans le cadre de leur formation, les élèves de ==**2nd BAC PRO ASSP**== ont réalisé des affiches de lutte contre toutes les formes d’==**exclusion**== liées au ==**handicap**== : scolaires, sociales, professionnelles, citoyennes…
-    
-         ==**Visible au CDI jusqu'aux vacances de printemps**==
-		
-
-
-    ??? "**Frida KAHLO**"
-     
-        ![Frida Kahlo](./images/expo_FridaKahlo.jpg "Frida Kahlo"){width=30% align=left}
-	    Exposition sur ==**Frida Kahlo**== réalisée par les élèves du cours d'Espagnol.
-	
-	    Pour aller plus loin : [**Frida Kahlo - France Culture**]( https://www.franceculture.fr/personne-frida-kahlo.html)
-	
-	    ==**Visible au CDI jusqu'à mi-mars**==
-    
-    ??? "**Projets franco-allemands**"
-    
-        ![expo00](./images/Expo_Projet_franco_allemand_00.jpg "Projet franco-allemand"){width=50% align=left}
-        ![expo01](./images/Expo_Projet_franco_allemand_01.jpg "Projet franco-allemand"){width=50% align=left}
-
-        A découvrir,
-    
-        L'Exposition sur le thème des ==**relations franco-allemandes**==, "ennemis bien-aimés" (en lien avec l'Axe du programme : Identité et échanges) réalisée par les deux groupes de germanistes de Terminale générale et STMG.
-
-        Rappel des grandes dates de cette relation un peu tendue qui a fini par se normaliser, grâce au couple De Gaulle - Adenauer.
-    
-        A l’occasion de ce travail, les élèves ont lu un extrait du roman célèbre de Erich Maria Remarque "A l'Ouest, rien de nouveau" (1929), ainsi que le récit d'un amour franco-allemand (article extrait de "der Spiegel").
-
-        Cette exposition vise à faire connaître l'amitié franco-allemande et les projets et institutions qui en découlent.
-    
-        Pour aller plus loin : [**Sources bibliographiques**](./pdf/Expo_Projet_franco_allemand_sources.pdf){target=_blank}
-    
-        ==**Visible au CDI jusqu'à mi-mars**==
-
-    ??? tip "**Rendez-vous du Roudour**"
-        Les élèves de 1re HLP font la promotion des ==**soirées théâtrales**== qui se dérouleront à la salle du Roudour, les 30 et 31 mars. Ils ont aussi créé un compte Instagram.
-    
-        ??? "**Soirée illuminée : Poème**"
-            Les lumières s’allument et éclairent le bois  
-            Verni d’un beau parquet luisant comme un soleil,  	
-            Et qui, majestueux, rayonne comme un roi  	
-            Alors qu’il se découvre de ses longs draps vermeils.
-            
-                
-            Une foule attend là, depuis sa vaste plaine  	
-            Bondée, mais pourtant calme, arrosée de douceur,  	
-            Florissante et joyeuse, observant cette scène  	
-            Qui la nourrit d’un grand et paisible bonheur.
-        
-            
-            Soudain, les voici donc, ces acteurs éloquents,  	
-            Parfois d’un air tragique, Antigone, Athalie  	
-            Ou parfois amusé, le Médecin volant  	
-            Mais toujours honorés, par un public ravi.
-        
-            
-            Leur voix de chérubins se porte à la façon  	
-            D’un écho apaisant les sommets couronnés,  	
-            Les falaises, les champs, les forêts de ces monts,  	
-            Ainsi que tous les lacs de ces lieux enneigés.
-        
-        
-            Le spectacle fini, le public applaudit.  	
-            C’est ainsi l’allégresse, ô plaine si joyeuse,  
-            Tu récompenses là le travail infini  	
-            Des artistes au cœur d’une soirée heureuse.
-        
-            
-            *Tristan Abily - 1G1*
-
-        ![Affiche](./images/Affiche_Emma_Charline.jpg "Affiche_Emma et Charline"){width=20%}
-        ![Affiche](./images/Affiche_Flora_Emma_Maelline.jpeg "Flora, Emma et Maelline"){width=20%}
-        ![Affiche](./images/Affiche_Valentine_Monika_Camille.jpg "Valentine et Monika"){width=20%}
-        ![Affiche](./images/Affiche_Lilou_Léa-Christine.jpg "Lilou et Léa-Christine"){width=20%}
-        ![Affiche](./images/Affiche_Youan_Justine_Lee-Lou.jpg "Youan, Justine et Lee-Lou"){width=20%}
-        ![Affiche](./images/Affiche_Noah_Damarys.jpg "Noa et Damarys"){width=20%}
-        ![Affiche](./images/Affiche_Math.jpg "Math"){width=30%}
-        ![Affiche](./images/Affiche_Lou.jpg "Lou"){width=40%}
-
-    ??? "**Le petit Prince - Antoine de Saint-Exupéry**"
-        ![Petit Prince1](./images/expo_petit_prince_01.jpg "Petit Prince1"){width=30% align=left}
-        ![Petit Prince2](./images/expo_petit_prince_02.jpg "Petit Prince2"){width=30% align=left}
-	    ![Petit Prince3](./images/expo_petit_prince_03.jpg "Petit Prince3"){width=20% align=left}
-	
-	    
-        Dans le cadre d’une lecture intégrale d’une oeuvre en français, les élèves de ==**2AEPE**== ont réalisé des affiches retraçant le schéma narratif de l’oeuvre d'Antoine de Saint Exupéry, le **^^Petit Prince^^**. Les affiches ont été très appréciées lors des portes ouvertes et elles continuent à être regardées au CDI. "On sent le talent de futurs animateurs s’exprimer à travers ces affiches !" (Mme MAURICE-ANDREETTI, enseignante de Lettres).
-
-    ??? "**Semaine de la presse - 21 au 25 mars 2022**"  
-        A l'occasion de la semaine de la presse, un kiosque de journaux et magazines est à votre disposition au CDI pour un ==**bain de presse**==. 
-        
-        Les deux classes première ==**HGGSP**== participeront au ==**concours de Unes**== organisé par le CLEMI. Cette participation s’inscrit dans l'étude du thème 4 du  programme de la spécialité HGGSP, portant sur l’information et à la communication. Les séances se dérouleront au CDI jusqu’à la restitution du travail.
 
 
 ## Nos élèves ont du talent...
-
-
     
 
 ## Nouveautés
@@ -132,11 +32,11 @@
     [![Courrier international](./images/abonnements/12_decembre/Courrier_international_1er_decembre_2022_1674.jpg"Courrier international, 1er décembre 2022, n°1674"){width=20%}](./images/abonnements/12_decembre/Courrier_international_1er_decembre_2022_1674.pdf){target=_blank}
     [![Journal de l'animation](./images/abonnements/12_decembre/Journal_animation_decembre_2022_234.jpg "Journal de l'animation, décembre 2022, n°234"){width=20%}](./images/abonnements/12_decembre/Journal_animation_decembre_2022_234.pdf){target=_blank}
     [![Lire](./images/abonnements/12_decembre/Lire_decembre_2022_514.jpg "Lire, décembre 2022, n°514"){width=20%}](./images/abonnements/12_decembre/Lire_decembre_2022_514.pdf){target=_blank}
-    [![Management](./images/abonnements/11_novembre/Management_octobre-novembre_2022_305.jpg "Management, octobre-novembre 2022, n°305"){width=20%}](./images/abonnements/11_novembre/Management_octobre-novembre_2022_305.pdf){target=_blank}
+    [![Management](./images/abonnements/12_decembre/Mangement_decembre_2022_306.jpg "Management, décembre 2022, n°306"){width=20%}](./images/abonnements/12_decembre/Mangement_decembre_2022_306.pdf){target=_blank}
     [![Philosophie magazine](./images/abonnements/12_decembre/Philosophie_magazine_decembre_2022_165.jpg "Philosophie magazine, décembre 2022, 165"){width=20%}](./images/abonnements/12_decembre/Philosophie_magazine_decembre_2022_165.pdf){target=_blank}
     [![Phosphore](./images/abonnements/12_decembre/Phosphore_1er_decembre_2022_543.jpg "Phosphore, 1re décembre 2022, 543"){width=20%}](./images/abonnements/12_decembre/Phosphore_1er_decembre_2022_543.pdf){target=_blank}
     [![Phosphore](./images/abonnements/12_decembre/Phosphore_15_decembre_2022_544.jpg "Phosphore, 15 décembre 2022, 544"){width=20%}](./images/abonnements/12_decembre/Phosphore_15_decembre_2022_544.pdf){target=_blank}
-    [![Pour l'éco](./images/abonnements/11_novembre/Pour_l_eco_novembre_2022_46.jpg "Pour l'éco, novembre 2022, 46"){width=20%}](./images/abonnements/11_novembre/Pour_l_eco_novembre_2022_46.pdf){target=_blank}
+    [![Pour l'éco](./images/abonnements/12_decembre/Pour_l_eco_decembre_2022_47.jpg "Pour l'éco, décembre 2022, 47"){width=20%}](./images/abonnements/12_decembre/Pour_l_eco_decembre_2022_47.pdf){target=_blank}
     [![Que choisir](./images/abonnements/12_decembre/Que_choisir_decembre_2022_619.jpg "Que choisir, décembre 2022, 619"){width=20%}](./images/abonnements/12_decembre/Que_choisir_decembre_2022_619.pdf){target=_blank}
     [![Que choisir santé](./images/abonnements//12_decembre/Que_choisir_sante_decembre_2022_177.jpg "Que choisir santé, décembre 2022, 177"){width=20%}](./images/abonnements/12_decembre/Que_choisir_sante_decembre_2022_177.pdf){target=_blank}
     [![Science et Vie](./images/abonnements/12_decembre/Science_et_vie_decembre_2022_1263.jpg "Science et Vie, décembre 2022, n°1263"){width=20%}](./images/abonnements/12_decembre/Science_et_vie_decembre_2022_1263.pdf){target=_blank}
@@ -145,7 +45,7 @@
     [![Sciences et avenir](./images/abonnements/10_octobre/Sciences_et_avenir_octobre-decembre_2022_211HS.jpg "Sciences et avenir, octobre-décembre 2022, n°211HS"){width=20%}](./images/abonnements/10_octobre/Sciences_et_avenir_octobre-decembre_2022_211HS.pdf){target=_blank}
     [![Sciences humaines](./images/abonnements/12_decembre/Sciences_humaines_decembre_2022_353.jpg "Sciences humaines, décembre 2022, n°353"){width=20%}](./images/abonnements/12_decembre/Sciences_humaines_decembre_2022_353.pdf){target=_blank}
     [![Sciences ouest](./images/abonnements/11_novembre/Sciences_ouest_novembre_2022_403.jpg "Sciences ouest, novembre 2022, n°403"){width=20%}](./images/abonnements/11_novembre/Sciences_ouest_novembre_2022_403.pdf){target=_blank}
-    [![Sport et vie](./images/abonnements/11_novembre/Sport_et_vie_novembre-decembre_2022_195.jpg "Sport et Vie, novembre-décembre 2022, n°195"){width=20%}](./images/abonnements/11_novembre/Sport_et_vie_novembre-decembre_2022_195.pdf){target=_blank}
+    [![Sport et vie](./images/abonnements/12_decembre/Sport_et_vie_decembre2022_57HS.jpg "Sport et Vie, décembre 2022, n°57HS"){width=20%}](./images/abonnements/12_decembre/Sport_et_vie_decembre2022_57HS.pdf){target=_blank}
     [![Virgule](./images/abonnements/12_decembre/Virgule_decembre_2022_212.jpg "Virgule, décembre 2022, n°212"){width=20%}](./images/abonnements/12_decembre/Virgule_decembre_2022_212.pdf){target=_blank}
     
 

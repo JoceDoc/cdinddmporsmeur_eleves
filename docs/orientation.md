@@ -19,48 +19,24 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
 
 ## Actualités
 ![IFPS_Vannes](./images/orientation/IFPS_VANNES_PO-2023.jpg "Affiche"){width=35%}
-![CPGES_LaSalle](./images/orientation/Campus_LaSalle_CPGES_2022.jpg "Affiche"){width=35%}
 
-??? info "**14/10/2022 : Mail de M. QUINIO (coordinateur pour l'orientation) aux élèves de terminale**"
-    Bonjour,
-
-    Voici résumé les informations importantes que j'ai pu compiler en ce mois d'octobre et qui pourront vous aider dans la construction de votre projet d'orientation :
-
-    Rappel : Des ==**immersions à l'UBO et l'UCO**== sont possibles pendant les vacances d'automne (voir sur cette page dans les ressources (==**onglet PO-IMMERSIONS**==).
-
-    ==**InstaFac**== - A partir du mois de novembre, l'UBO propose chaque mercredi entre 14h et 16h une présentation de formations du supérieur par des enseignants et des étudiants. Vous pouvez dès à présent vous inscrire à certaines présentations sur le site de l'[==**UBO**==](https://www.univ-brest.fr/cap-avenir/menu/Bloc-Lyceen/Insta_-Fac){target=_blank}
-    Ces présentations vous demanderont de vous déplacer sur Brest. Une justification d'inscription vous sera demandée à la vie scolaire pour excuser votre absence en cours.
-
-    La fondation ==**CGénial**== propose un parcours de plusieurs visioconférences présentant des métiers dans le domaine des sciences et techniques. Les visios seront l'occasion d'avoir des témoignages de professionnels. La première d'entre elle a lieu le 19/10 et s'intitule "Qu'est-ce que le métier d'ingénieur ?" Consultez l'ensemble du parcours [==**ici**==](https://www.cgenial.org/82-nos-actions/225-mercredis-geniaux){target=_blank}.
-
-    Le Forum en ligne se poursuivra après les vacances. Vous trouverez en pièce jointe le programme pour les mois de novembre et décembre.
-
-    ==**Réservez la date !**== Du 08 au 10/12 se tiendra à St Brieuc le salon de l'orientation [==**SupArmor**==](https://www.suparmor.fr/){target=_blank} : équivalent du salon Azimut pour le département 22. C'est l'occasion de rencontrer des étudiants et des enseignants qui représentent des dizaines de formations du supérieur ! 
-
-
-    Bonne fin de journée,
-
-    F. Quinio
-    Coordinateur pour l'orientation
-
-??? info "**23/09/2022 : Mail de M. QUINIO (coordinateur pour l'orientation) aux élèves de terminale**"
-    Bonjour à tous,
-
-    En tant que coordinateur pour l'orientation au lycée, je serai amené à vous transmettre quelques informations au cours de l'année scolaire. J'essaierai au maximum de concentrer et trier les informations avant de vous les transmettre. L'objectif étant d'une communication par mois. 
-
-    Pour ce mois de septembre, des informations concernant des possibilités d'==**immersions à l'UBO et l'UCO**== vous ont été envoyées. Vous pouvez les retrouver sur cette page dans les ==**ressources**== (onglet PO-IMMERSIONS).
-
-    A partir du 03 octobre, vous aurez accès au ==**forum en ligne**==. Ce dispositif qui entame sa troisième année vous permettra de découvrir chaque lundi (jusqu'en février) en visio sur ==**TEAMS**== une formation du supérieur présentée par un étudiant ou un enseignant. La visio commence à 18h30 et a une durée d'environ 30 minutes. 
+??? info "**Les informations du mois de DECEMBRE par M. QUINIO, coordinateur pour l'orientation**"
     
-    Vos professeurs principaux auront l'occasion de vous présenter les modalités de ce dispositif dans les prochains jours.
+    Quelques informations autour de l'orientation post-bac avant de partir en vacances :
 
-    Je vous invite à saisir les opportunités qui vous sont proposées pour construire ou parfaire votre projet dans l'enseignement supérieur.
+    ==**Parcoursup**== : A partir du ==**20/12**== vous aurez accès au catalogue 2023 des formations sur le site Parcoursup. Il faudra attendre le ==**18/01**== pour pouvoir vous inscrire et entrer des voeux.
 
-    Bon week-end,
-
-    F. Quinio
+    ==**UBO**== : Les mercredis après-midi insta'fac continuent et vous pouvez vous y inscrire [**ici**](https://www.univ-brest.fr/cap-avenir/menu/Bloc-Lyceen){target=_blank}. Sur le même site vous pouvez vous inscrire à des immersions en février dans différentes filières de l'UBO.
     
-    Enseignant de physique-chimie - Coordinateur pour l'orientation
+    Pour rappel : vous devrez justifier votre absence à l'avance par un mot de vos parents et un justificatif d'inscription déposés à la vie scolaire. 
+    Attention : bac blanc la semaine du ==**16/01**== !
+    
+    ==**Lycée Kerichen**== : ==**immersions**== dans les classes prépas littéraires, économiques et scientifiques. Dates et modalités [==**ICI**==](./pdf/ministages_kerichen.pdf){target=_blank}. Si vous êtes interessés, merci d'en informer M. Quinio par mail avant le 05/01 afin qu'il puisse vous y inscrire. Ne pas oublier de préciser la filière et le jour souhaités. Ne pas prévoir de visite la semaine du 16/01 (bac blanc).
+
+    ==**Forum en ligne**== : reprise des conférences ==**lundi 09/01**== avec la présentation du BUT Info/COM de Lannion. Un message vous sera envoyé à la rentrée. Le forum de l'orientation du lycée aura lieu le vendredi 10/02 entre 13h20 et 16h20. 
+
+    Pour finir, le CIO de Morlaix peut être un passage utile pour vous aider dans votre projet. Il reste ouvert pendant les vacances de Noël.
+
 
 ???+ info "**Au fil de la presse...**"
     - [**Le Télégramme - 14/09/2022**](https://www.letelegramme.fr/finistere/morlaix/gwenael-morel-l-atout-drone-des-pompiers-finisteriens-14-09-2022-13178211.php){target=_blank} : Gwenaël Morel, l'atout drone des pompiers finistériens"
@@ -96,6 +72,7 @@ ___
         - [**Pôle emploi**](https://www.pole-emploi.fr/accueil/){target=_blank}
         - [**L'Etudiant**](https://www.letudiant.fr/etudes/alternance.html){target=_blank} : dossier sur l'alternance (Ecoles, formations, entreprises, offres...)
         - [**AREP29**](https://www.arep29.fr/){target=_blank} : CFA et centre de formation continue à Brest (CAP, BTS et Bac+3 en alternance, formation continue des salariés d'établissements...)
+        - [**IBEP-Morlaix**](https://www.ibepformation.fr/formation/formation-adulte/morlaix/){target=_blank} : les vendredis de l'alternance pour se former en étant salarié ([**contact**](./pdf/vendredi_alternance_ibep.pdf){target=_blank})
         - [**ISFFEL**](https://www.isffel.fr/){target=_blank} : chercher sa formation en alternance sur le site de l'Institut Supérieur de Formation. 
         - [**Les compagnons du devoir**](https://www.compagnons-du-devoir.com/){target=_blank} : journées portes ouvertes les ==**14-15 janvier** / **11 mars 2023**==.
         [![**Compagnons du devoir**](./images/orientation/Flyer_jpo_compagnons.jpg "Flyers_jpo"){width=50%}](https://www.compagnons-du-devoir.com/){target=_blank}
@@ -211,6 +188,7 @@ ___
         - [**ENSM**](https://www.supmaritime.fr/){target=_blank} : Ecole Nationale Supérieure Maritime - [**Dates et inscriptions**](https://www.supmaritime.fr/jpo-ensm-2023/){target=_blank} aux journées portes ouvertes par site (Le Havre - Marseille - Nantes - Saint-Malo).
         
         [![**AIR actualités"**](./images/orientation/Air_actualites_20221101_couverture.jpg "Couverture_air_actualités"){width=20%}](./pdf/Air_actualites_20221101.pdf){target=_blank}
+        [![**EFSOAA"**](./images/orientation/brochure-efsoaa-page-001.jpg "EFSOAA"){width=25%}](./pdf/brochure-efsoaa.pdf){target=_blank}
     === "SECURITE"
         - [**Devenir gendarme**](https://www.devenir-gendarme.fr/){target=_blank}
         - [**Devenir policier**](https://www.devenirpolicier.fr/){target=_blank}
@@ -252,7 +230,9 @@ ___
 ??? "Liens utiles"
     === "ENERGIE"
         - [**Energie**](https://www.onisep.fr/decouvrir-les-metiers/des-metiers-par-secteur/energie){target=_blank} : métiers, emploi et formations dans le secteur de l'énergie. (*Sources : Onisep*)
-
+    === "ENVIRONNEMENT"
+        - [**Environnement**](https://www.onisep.fr/decouvrir-les-metiers/des-metiers-par-secteur/environnement){target=_blank} : métiers, emploi et formations dans le secteur de l'environnement. (*Sources : Onisep*)
+        - A découvrir au **Lycée Notre-Dame de Guingamp** : [**BTS Métiers de l'eau**](https://www.notredameguingamp.fr/superieur/bts-me-metiers-de-leau/){target=_blank} et [**BUT MA ME - Maintenance Avancée Parcours Métiers de l'eau**](https://www.notredameguingamp.fr/bachelor-maintenance-avancee-parcours-metiers-de-leau/){target=_blank}
 ### Enseignement - Recherche
 ??? "Liens utiles"
     === "ENSEIGNEMENT"
@@ -306,6 +286,7 @@ ___
         - [**Chaptal**](https://www.lycee-chaptal.fr/nos-formations/enseignement-superieur/bts-sp3s/){target=_blank} : BTS SP3S (Services et Prestations des Secteurs Sanitaire et Social). (*Quimper*)
         - [**Fénelon**](https://www.fenelonsup.org/formations/brevet-technicien-superieur-economie-sociale-familiale/){target=_blank} : BTS EFS (Economie Familiale et Sociales). (*Brest*)
         - [**Jules Lesven**](https://www.lycee-jules-lesven.org/formations-593-0-0-0.html){target=_blank} : BTS CG (Comptabilité Gestion) - BTS PI (Professions Immobilières) - BTS CI (Commerce International) - BTS G PME (Gestion de la PME) - BTS MMV (Métiers de la Mode et du Vêtement). (*Brest*)
+        - [**Notre-Dame-de-Guingamp**](https://www.notredameguingamp.fr/superieur/bts-me-metiers-de-leau/){target=_blank} : BTS Métiers de l'eau (*Guingamp*)
         - [**Le Paraclet**](https://www.leparaclet.org/formations-quimper/enseignement-superieur/bts-management-en-hotellerie-restauration/){target=_blank} : BTS Management en hôtellerie restauration (*Quimper*)
         - [**Rosa Parks**](https://www.lp-rosaparks-rostrenen.ac-rennes.fr/spip.php?article273){target=_blank} : BTS MOS (Management Opérationnel de la Sécurité) [**Fiche de présentation**](./pdf/fiche_bts_mos.pdf){target=_blank}(*Rostrenen*)
 ___ 
