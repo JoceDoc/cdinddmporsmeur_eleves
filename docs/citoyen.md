@@ -41,6 +41,21 @@
 
 ## S'engager
 
+### Délégués - CVL
+??? "**Délégué pour quoi faire ?**"
+    ???+ "**Présentation**"
+        ![Délégué](./images/nuage-de-mots_delegue.png "Nuage_delegue"){width=50% align=right}
+        Porte-paroles de tous les élèves auprès des enseignants et des autres adultes de l'établissement, les ==**délégués**==  et membres du ==**CVL**== font partie des ==**instances lycéennes**== qui participent à la qualité du ==**climat scolaire**==. 
+    
+        Pour tout savoir sur le [**rôle des délégués et du Conseil de Vie Lycéenne**](https://www.education.gouv.fr/les-representants-des-eleves-au-college-et-au-lycee-7514){target=_blank} et accéder aux [**textes de référence**](https://www.service-public.fr/particuliers/vosdroits/F1370){target=_blank}
+
+        Rôle spécifique des [**éco-délégués**](https://www.education.gouv.fr/des-eleves-eco-delegues-pour-agir-en-faveur-du-developpement-durable-10835){target=_blank} en faveur du développement durable. 
+
+    ??? "**Actualités du CVL**"
+
+    ??? "**Projets de l'année**"
+
+
 ### Contre le harcèlement
 
 ???+ info ""

@@ -19,6 +19,7 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
 
 ## Actualités
 ![IFPS_Vannes](./images/orientation/IFPS_VANNES_PO-2023.jpg "Affiche"){width=35%}
+![FOROMAP29](./images/orientation/affiche_foromap_2023_def.jpg "Affiche"){width=35%}
 
 ??? info "**Les informations du mois de DECEMBRE par M. QUINIO, coordinateur pour l'orientation**"
     
@@ -65,7 +66,7 @@ ___
     === "GUIDES"
         Tous les [**guides IDEO**](https://ideo.bretagne.bzh/publications){target=_blank} pour l'aide à l'orientation.
     
-        -[![**Guide "Que faire après le BAC ?"**](./images/orientation/Que_faire_apres_le_bac_ideo.gif "Que faire après le BAC"){width=20%}](./pdf/IDEO_Guide_BAC_2021-2022.pdf){target=_blank}
+        -[![**Guide "Que faire après le BAC ?"**](./images/orientation/Guide_IDEO_Apres_BAC_2022-2023.jpg "Que faire après le BAC"){width=20%}](./pdf/Guide_IDEO_Apres_BAC_2022-2023.pdf){target=_blank}
         -[![**Guide "Entrer dans le SUP 2022**](./images/orientation/Entrer_dans_le_sup_2022.jpg "Entrer dans le SUP 2022"){width=20%}](./pdf/GUIDE_ENTRER_DANS_LE_SUP_2022.pdf){target=_blank}
     === "ALTERNANCE"
         - [**Portail de l'Alternance**](https://www.alternance.emploi.gouv.fr/decouvrir-lalternance){target=_blank}
@@ -92,28 +93,47 @@ ___
 ___ 
 ### Niveau 2nde
 ??? "SECONDE"
-    - [**Guide d'accompagnement à l'orientation 2de**](./pdf/Guide_accompagnement_orientation_2nde_GT_20220316.pdf){target=_blank}
-    - [**Vers le PADLET seconde**](https://padlet.com/cdinddmporsmeur/orientation_seconde_2020){target=_blank}
-    - [**Secondes/Premières 2022-2023**](https://www.secondes-premieres2022-2023.fr/){target=_blank} 
-    - [**Quelles spécialités choisir pour le BAC?**](https://www.letudiant.fr/lycee/simulateur-de-specialites.html){target=_blank}
+    === "RESSOURCES"
+        - [**Guide d'accompagnement à l'orientation 2de**](./pdf/Guide_accompagnement_orientation_2nde_GT_20220316.pdf){target=_blank}
+        - [**Vers le PADLET seconde**](https://padlet.com/cdinddmporsmeur/orientation_seconde_2020){target=_blank}
+        - [**Secondes/Premières 2022-2023**](https://www.secondes-premieres2022-2023.fr/){target=_blank} : les étapes pour construire mon avenir au lycée.
+        - [**Quelles spécialités choisir pour le BAC?**](https://www.letudiant.fr/lycee/simulateur-de-specialites.html){target=_blank}
+    === "CHOISIR UN METIER"
+        - [**Selon mes goûts**](https://www.onisep.fr/decouvrir-les-metiers/Des-metiers-selon-mes-gouts){target=_blank}
+        - [**Par centre d'intérêts**](https://www.orientation-pour-tous.fr/tutoriel/decouvrir-les-metiers/je-veux-decouvrir-des-metiers-en-fonction-de-mes-centres-d-interet/article/les-metiers-par-centre-d-interet){target=_blank}
+        - [**Par secteur ou domaine**](https://www.onisep.fr/decouvrir-les-metiers#Des-metiers-par-secteur){target=_blank}
 
 ___ 
 ### Niveau 1re
 ??? "PREMIERE"
-    - [**Vers le PADLET première**](https://padlet.com/cdinddmporsmeur/orientation_premiere_2020){target=_blank}
-    - [**Secondes/Premières 2022-2023**](https://www.secondes-premieres2022-2023.fr/){target=_blank} 
+    === "RESSOURCES"
+        - [**Réussir au lycée**](https://www.education.gouv.fr/reussir-au-lycee/choisir-ses-enseignements-de-specialite-au-lycee-pour-preparer-ses-etudes-superieures-325475){target=_blank} : le choix des spécialités.
+        - [**Horizons21**](https://www.horizons21.fr/){target=_blank} : pour simuler des combinaisons de spécialités et découvrir des pespectives de formations et des métiers. 
+        - [**Secondes/Premières 2022-2023**](https://www.secondes-premieres2022-2023.fr/){target=_blank} : les étapes pour construire mon avenir au lycée...
+        - [**Terminales 2022-2023**](https://www.terminales2022-2023.fr/){target=_blank} : ...et après le lycée.
+        - [**Quelles études après le BAC**](https://www.onisep.fr/Choisir-mes-etudes/apres-le-bac/quelles-etudes-apres-le-bac){target=_blank} : étude courtes longues, licence, BUT, BTS, écoles spécialisée... découvrez toutes les possibilités qui s'offrent à vous.
+        - [**Témoignages d'étudiants**](https://www.onisep.fr/Choisir-mes-etudes/ma-premiere-annee-en){target=_blank} : Série web, ma première année en...
+    === "CHOISIR UN METIER"
+        - [**Selon mes goûts**](https://www.onisep.fr/decouvrir-les-metiers/Des-metiers-selon-mes-gouts){target=_blank}
+        - [**Par centre d'intérêts**](https://www.orientation-pour-tous.fr/tutoriel/decouvrir-les-metiers/je-veux-decouvrir-des-metiers-en-fonction-de-mes-centres-d-interet/article/les-metiers-par-centre-d-interet){target=_blank}
+        - [**Par secteur ou domaine**](https://www.onisep.fr/decouvrir-les-metiers#Des-metiers-par-secteur){target=_blank}
+    === "SALONS - FORUMS"
+        - [**Salons - Forums de l'orientation**](https://www.onisep.fr/recherche?text=SALONS%20FORUMS){target=_blank} : comment préparer sa visite à un salon ?
+        - [**Azimut**](https://www.salon-azimut.com/){target=_blank} : site officiel du salon les ==**19-21 janvier 2023**==. Pour préparer ta visite au salon Azimut découvre le [**Kit de l'élève de 1ère**](./pdf/Azimut_kit_1ere.pdf){target=_blank}.
 
 ___ 
 ### Niveau Tle
 ??? "TERMINALE"
     === "RESSOURCES"
         - [**Terminales 2022-2023**](https://www.terminales2022-2023.fr/){target=_blank}
+        - [**Quelles études après le BAC**](https://www.onisep.fr/Choisir-mes-etudes/apres-le-bac/quelles-etudes-apres-le-bac){target=_blank} : étude courtes, longues, licence, BUT, BTS, écoles spécialisée... découvrez toutes les possibilités qui s'offrent à vous.
         - [**Quelle école après le BAC ?**](https://www.ipesup.fr/){target=_blank} : IPESUP, préparations aux examens et concours de l’enseignement supérieur.
-        - [**Ensemble des ressources de la DGESIP**](https://services.dgesip.fr/T454/S743/ressources){target=_blank} : Direction Générale de l'Enseignement Supérieur et de l'Insertion 
+        - [**Ensemble des ressources de la DGESIP**](https://services.dgesip.fr/T454/S743/ressources){target=_blank} : Direction Générale de l'Enseignement Supérieur et de l'Insertion
+        - [**Témoignages d'étudiants**](https://www.onisep.fr/Choisir-mes-etudes/ma-premiere-annee-en){target=_blank} : Série web, ma première année en...
     === "FORUM EN LIGNE"
         - [**FORUM EN LIGNE**](https://padlet.com/cdinddmporsmeur/forum_en_ligne_2022){target=_blank} 
         
-            Prochain rendez-vous ==**lundi 12/12 (18h30-19h)**== : présentation des ==**études d'architecture **== au sein d'une ENSA.
+            Prochain rendez-vous ==**lundi 09/01 (18h30-19h)**== : présentation du ==**BUT infoCOM (journalisme) **== de l'IUT de Lannion.
         
             [**Inscription à la visio**](https://docs.google.com/forms/d/e/1FAIpQLSfVKyDIJaA2I0R05okvmnbV5vELdgsNEc-JQODJle34cUL0tg/viewform){target=_blank} ==**avant dimanche - 17h**==
     === "PARCOURSUP"
@@ -134,9 +154,9 @@ ___
             [**Diététique**](https://www.lycee-chaptal.fr/nos-formations/enseignement-superieur/bts-dietetique/){target=_blank}  - [**ESF**](https://www.lycee-chaptal.fr/nos-formations/enseignement-superieur/bts-esf/){target=_blank} - [**Collaborateur juriste notarial**](https://www.lycee-chaptal.fr/nos-formations/enseignement-superieur/bts-notariat/){target=_blank} - [**SAM (Support à l'action managériale)**](https://www.lycee-chaptal.fr/nos-formations/enseignement-superieur/bts-sam/){target=_blank} - [**SIO (Services informatiques aux organisations)**](https://www.lycee-chaptal.fr/nos-formations/enseignement-superieur/bts-sio/){target=_blank} - [**SP3S (Services et Prestations des Secteurs Sanitaire et Social)**](https://www.lycee-chaptal.fr/nos-formations/enseignement-superieur/bts-sp3s/){target=_blank}
         - [**Lycée Mongazon**](https://www.mongazon.org/){target=_blank} présentation des BTS du pôle santé (BTS Podo orthésiste - BTS Prothésiste orthésiste - CP Orthopédiste orthésiste) lors des portes ouvertes les ==13 et 14 janvier 2023== (*Angers - 49*)
         - [**BTS Audiovisuel**](http://www.btsaudiovisuelsfnd.fr/){target=_blank} : journées portes-ouvertes  ==vendredi 9 Décembre 2022 (17h00 à 20h00)== et ==samedi 10 Décembre (10h00 à 15h00)== (*Lesneven - 29*)
-    === "SALONS-FORUMS"
-        - [**Salons - Forums de l'orientation**](https://www.onisep.fr/recherche?text=SALONS%20FORUMS){target=_blank} : comment préparer sa visite à un salon ?
-        - [**Azimut**](https://www.salon-azimut.com/){target=_blank} : site officiel du salon les ==**19-21 janvier 2023**==
+    === "SALONS - FORUMS"
+        - [**Salons - Forums de l'orientation**]https://www.onisep.fr/recherche?text=SALONS%20FORUMS){target=_blank} : comment préparer sa visite à un salon ?
+        - [**Azimut**](https://www.salon-azimut.com/){target=_blank} : site officiel du salon les ==**19-21 janvier 2023**==. Pour préparer ta visite au salon Azimut découvre le [**Kit de l'élève de Terminale**](./pdf/Azimut_kit_terminale.pdf){target=_blank}. 
         - [**Flyers soirées Azimut**](./pdf/Flyer_soirees_Azimut.pdf){target=_blank} : ==**novembre 2022**==.
         - [**Sup'Armor**](https://www.suparmor.fr/){target=_blank} : l'équivalent d'Azimut dans le 22 du ==**08 au 10 décembre 2022**==.
         - [**Studyrama**](https://www.studyrama.com/){target=_blank} : dates des prochains salons étudiants...
@@ -158,7 +178,11 @@ ___
         - [**Vidéo PARCOURSUP - Comment choisir une formation ?**](https://youtu.be/WJzf3wRqcWo){target=_blank}
     === "PO - IMMERSIONS"
         - [**ITES**](./pdf/Affiche_Portes-Ouvertes-ITES-18-19-nov-2022.pdf){target=_blank} : [**calendrier**](./pdf/JPO-ITES-Programme_2022-2023.pdf){target=_blank} des portes ouvertes de l'[**Institut de formation au travail Educatif et Social**](https://www.ites-formation.com/){target=_blank}.
-
+    === "SALONS - FORUMS"
+        - [**Salons - Forums de l'orientation**]https://www.onisep.fr/recherche?text=SALONS%20FORUMS){target=_blank} : comment préparer sa visite à un salon ?
+        - [**Azimut**](https://www.salon-azimut.com/){target=_blank} : site officiel du salon les ==**19-21 janvier 2023**== et pour préparer ta visite au salon Azimut : 
+            * [**Kit de l'élève de 1ère**](./pdf/Azimut_kit_1ere.pdf){target=_blank} 
+            * [**Kit de l'élève de Terminale**](./pdf/Azimut_kit_terminale.pdf){target=_blank} 
 ___ 
 ## DOMAINES
 
