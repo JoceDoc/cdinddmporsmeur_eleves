@@ -141,11 +141,11 @@ ___
         
         - [**Vidéo PARCOURSUP - Comment choisir une formation ?**](https://youtu.be/WJzf3wRqcWo){target=_blank}
     === "PO - IMMERSIONS"
-        - ==**UBO**== : toutes les informations pour vous inscrire aux [**immersions**](https://www.univ-brest.fr/cap-avenir/menu/Bloc-Lyceen/Inscriptions-individuelles-Continuum){target=_blank}. Calendrier des rencontres de l'année scolaire 2022-2023 [**Insta'fac**](https://www.univ-brest.fr/cap-avenir/menu/Bloc-Lyceen/Insta_-Fac){target=_blank}.
-        - ==**UCO Guingamp**== : pour tester l'université, découvrez le [**programme**](https://guingamp.uco.fr/fr/event/testez-l-universite-grace-aux-journees-decouvertes-d-octobre){target=_blank} des journées d'==octobre==.
+        - [**PORTES OUVERTES DU SUPERIEUR**](https://www.onisep.fr/Choisir-mes-etudes/apres-le-bac/les-journees-portes-ouvertes-2022-2023-dans-l-enseignement-superieur){target=_blank}
+        - ==**UBO - CAP'AVENIR**== : toutes les informations pour vous inscrire aux prochaines [**immersions**](https://www.univ-brest.fr/cap-avenir/menu/Bloc-Lyceen/Inscriptions-individuelles-Continuum){target=_blank} en février 2023.
+        - ==**UCO Guingamp**== : événements à venir de l'[**UCO**](https://guingamp.uco.fr/fr/fr/actualites-guingamp){target=_blank} prochaines [**immersions**](https://guingamp.uco.fr/fr/publication/testez-l-universite-grace-aux-journees-decouvertes){target=_blank} en février.
         - ==**IUT Brest-Morlaix**== : demi-journées d'immersion pour les lycéens de terminale en Génie Biologique (GB), Génie Mécanique et Productique (GMP) et Gestion Administrative et Commerciale (GACO). [**Inscription obligatoire sur weezent**](https://www.iut-brest.fr/evenements/journees-dimmersion-des-lyceens-a-liut/){target=_blank}. 
         - ==**Matinales de l'orientation**== : à l'IUT de Saint-Nazaire ==mercredi 30 novembre==. [**Formulaire d'inscription**](https://questionnaires.univ-nantes.fr/index.php/573826?newtest=Y&lang=fr){target=_blank}.  
-        - [**Portes ouvertes du supérieur**](https://padlet-uploads.storage.googleapis.com/119789356/ad6591b8995ae4ba9caad9481091f5fa/JPO_superieur_2022_2e_Edition_Ac_Rennes_Onisep_Bretagne_24_01_2022.pdf){target=_blank} dans l'académie de RENNES.
         - [**Printemps de l'orientation**](https://www.education.gouv.fr/reussir-au-lycee/le-printemps-de-l-orientation-327179){target=_blank} : ==20, 21 et 22 mars 2023==
         - [**ITES**](./pdf/Affiche_Portes-Ouvertes-ITES-18-19-nov-2022.pdf){target=_blank} : [**calendrier**](./pdf/JPO-ITES-Programme_2022-2023.pdf){target=_blank} des portes ouvertes de l'[**Institut de formation au travail Educatif et Social**](https://www.ites-formation.com/){target=_blank}.
         - [**CPGE PTSI-PT**](./pdf/Campus_LaSalle_CPGES_2022.pdf){target=_blank} : ==samedi 3 décembre 2022 - 9h-12h==. [**La Croix Rouge/La Salle - Brest**](https://www.lacroixrouge-brest.fr/ecoles-formations/enseignement-superieur/prepas-scientifiques-aux-grandes-ecoles-ptsi-pt/){target=_blank} 
@@ -154,6 +154,9 @@ ___
             [**Diététique**](https://www.lycee-chaptal.fr/nos-formations/enseignement-superieur/bts-dietetique/){target=_blank}  - [**ESF**](https://www.lycee-chaptal.fr/nos-formations/enseignement-superieur/bts-esf/){target=_blank} - [**Collaborateur juriste notarial**](https://www.lycee-chaptal.fr/nos-formations/enseignement-superieur/bts-notariat/){target=_blank} - [**SAM (Support à l'action managériale)**](https://www.lycee-chaptal.fr/nos-formations/enseignement-superieur/bts-sam/){target=_blank} - [**SIO (Services informatiques aux organisations)**](https://www.lycee-chaptal.fr/nos-formations/enseignement-superieur/bts-sio/){target=_blank} - [**SP3S (Services et Prestations des Secteurs Sanitaire et Social)**](https://www.lycee-chaptal.fr/nos-formations/enseignement-superieur/bts-sp3s/){target=_blank}
         - [**Lycée Mongazon**](https://www.mongazon.org/){target=_blank} présentation des BTS du pôle santé (BTS Podo orthésiste - BTS Prothésiste orthésiste - CP Orthopédiste orthésiste) lors des portes ouvertes les ==13 et 14 janvier 2023== (*Angers - 49*)
         - [**BTS Audiovisuel**](http://www.btsaudiovisuelsfnd.fr/){target=_blank} : journées portes-ouvertes  ==vendredi 9 Décembre 2022 (17h00 à 20h00)== et ==samedi 10 Décembre (10h00 à 15h00)== (*Lesneven - 29*)
+        - [**BTS SIO**](http://www.saint-louis29.net/wp-content/uploads/2023/01/plaquette-BTS-22-23.pdf){target=_blank} : journées portes-ouvertes  ==vendredi 3 mars 2023 (17h00 à 19h00)== et ==samedi 4 mars (9h00 à 12h00)== (*Chateaulin - 29*)
+        - [**BTS SP3S**](https://www.lycee-campostal-gouarec.com/A-VOS-AGENDAS-MINI-STAGE-DECOUVERTE-BTS-SP3S){target=_blank} : mini-stages découverte  ==jeudi 19 janvier 2023 (9h45 à 16h)== (*Rostrenen - Gouarec 22*)
+        - [**Faire sa PREPA au Lycée Chateaubriand**](https://lycee-chateaubriand.live/){target=_blank} : visioconférence  ==mercredi 11 janvier 2023 (de 19h à 21h)== et portes ouvertes ==Vendredi 3 février 2023 (de 16h à 19h)== présentation du **CPES** (Cycle  Pluridisciplinaire d‘Etudes Supérieures Sciences Environnement et Société) et ==samedi 4 février 2023 (de 9h à 13h)== **CPGE** (classes préparatoires aux grandes écoles)(*Rennes - 35*)
     === "SALONS - FORUMS"
         - [**Salons - Forums de l'orientation**]https://www.onisep.fr/recherche?text=SALONS%20FORUMS){target=_blank} : comment préparer sa visite à un salon ?
         - [**Azimut**](https://www.salon-azimut.com/){target=_blank} : site officiel du salon les ==**19-21 janvier 2023**==. Pour préparer ta visite au salon Azimut découvre le [**Kit de l'élève de Terminale**](./pdf/Azimut_kit_terminale.pdf){target=_blank}. 
@@ -178,6 +181,7 @@ ___
         - [**Vidéo PARCOURSUP - Comment choisir une formation ?**](https://youtu.be/WJzf3wRqcWo){target=_blank}
     === "PO - IMMERSIONS"
         - [**ITES**](./pdf/Affiche_Portes-Ouvertes-ITES-18-19-nov-2022.pdf){target=_blank} : [**calendrier**](./pdf/JPO-ITES-Programme_2022-2023.pdf){target=_blank} des portes ouvertes de l'[**Institut de formation au travail Educatif et Social**](https://www.ites-formation.com/){target=_blank}.
+        - [**BTS SP3S**](https://www.lycee-campostal-gouarec.com/A-VOS-AGENDAS-MINI-STAGE-DECOUVERTE-BTS-SP3S){target=_blank} : mini-stages découverte  ==jeudi 19 janvier 2023 (9h45 à 16h)== (*Rostrenen - Gouarec 22*)
     === "SALONS - FORUMS"
         - [**Salons - Forums de l'orientation**]https://www.onisep.fr/recherche?text=SALONS%20FORUMS){target=_blank} : comment préparer sa visite à un salon ?
         - [**Azimut**](https://www.salon-azimut.com/){target=_blank} : site officiel du salon les ==**19-21 janvier 2023**== et pour préparer ta visite au salon Azimut : 
@@ -313,6 +317,7 @@ ___
         - [**Notre-Dame-de-Guingamp**](https://www.notredameguingamp.fr/superieur/bts-me-metiers-de-leau/){target=_blank} : BTS Métiers de l'eau (*Guingamp*)
         - [**Le Paraclet**](https://www.leparaclet.org/formations-quimper/enseignement-superieur/bts-management-en-hotellerie-restauration/){target=_blank} : BTS Management en hôtellerie restauration (*Quimper*)
         - [**Rosa Parks**](https://www.lp-rosaparks-rostrenen.ac-rennes.fr/spip.php?article273){target=_blank} : BTS MOS (Management Opérationnel de la Sécurité) [**Fiche de présentation**](./pdf/fiche_bts_mos.pdf){target=_blank}(*Rostrenen*)
+        - [**Saint-Louis**](http://www.saint-louis29.net/wp-content/uploads/2023/01/plaquette-BTS-22-23.pdf){target=_blank} : BTS SIO (Services Informatiques aux Organisations) (*Chateaulin*)
 ___ 
 ### BUT
 ??? "Liens utiles"
