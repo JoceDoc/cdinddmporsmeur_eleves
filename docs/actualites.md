@@ -27,9 +27,41 @@
 ??? "**Kiosque du mois** :newspaper:"
   
     [![01.NET](./images/abonnements/12_decembre/01.NET_30_novembre_2022_987.jpg "01.NET, 30 novembre 2022, n°987"){width=20%}](./images/abonnements/12_decembre/01.NET_30_novembre_2022_987.pdf){target=_blank}
+    [![01.NET](./images/abonnements/01_janvier_2023/01.NET_28_decembre_2023_989.jpg "01.NET, 28 décembre 2022, n°989"){width=20%}](./images/abonnements/01_janvier_2023/01.NET_28_decembre_2023_989.pdf){target=_blank}
+    [![Alternatives Economiques](./images/abonnements/01_janvier_2023/Alternatives_economiques_janvier_2023_430.jpg "Alternatives Economiques, janvier 2023, n°430"){width=20%}](./images/abonnements/01_janvier_2023/Alternatives_economiques_janvier_2023_430.pdf){target=_blank}
+    [![Ca m'intéresse](./images/abonnements/01_janvier_2023/Ca_m_interesse_janvier_2023_503.jpg"Ca m'intéresse, janvier 2023, n°503"){width=20%}](./images/abonnements/01_janvier_2023/Ca_m_interesse_janvier_2023_503.pdf){target=_blank}
+    [![Courrier international](./images/abonnements/01_janvier_2023/Courrier_international_05_janvier_2023_1679.jpg"Courrier international, 05 janvier 2023, n°1679"){width=20%}](./images/abonnements/01_janvier_2023/Courrier_international_05_janvier_2023_1679.pdf){target=_blank}
+    [![Journal de l'animation](./images/abonnements/01_janvier_2023/Journal_animation_janvier_2023_235.jpg "Journal de l'animation, janvier 2023, n°235"){width=20%}](./images/abonnements/01_janvier_2023/Journal_animation_janvier_2023_235.pdf){target=_blank}
+    [![Lire](./images/abonnements/12_decembre/Lire_decembre_2022_514.jpg "Lire, décembre 2022, n°514"){width=20%}](./images/abonnements/12_decembre/Lire_decembre_2022_514.pdf){target=_blank}
+    [![Management](./images/abonnements/12_decembre/Mangement_decembre_2022_306.jpg "Management, décembre 2022, n°306"){width=20%}](./images/abonnements/12_decembre/Mangement_decembre_2022_306.pdf){target=_blank}
+    [![Philosophie magazine](./images/abonnements/12_decembre/Philosophie_magazine_decembre_2022_165.jpg "Philosophie magazine, décembre 2022, 165"){width=20%}](./images/abonnements/12_decembre/Philosophie_magazine_decembre_2022_165.pdf){target=_blank}
+    [![Phosphore](./images/abonnements/01_janvier_2023/Phosphore_1er_janvier_2023_545.jpg "Phosphore, 1re janvier 2023, 545"){width=20%}](./images/abonnements/01_janvier_2023/Phosphore_1er_janvier_2023_545.pdf){target=_blank}
+    [![Phosphore](./images/abonnements/01_janvier_2023/Phosphore_15_janvier_2023_546.jpg "Phosphore, 15 janvier 2023, 546"){width=20%}](./images/abonnements/01_janvier_2023/Phosphore_15_janvier_2023_546.pdf){target=_blank}
+    [![Pour l'éco](./images/abonnements/12_decembre/Pour_l_eco_decembre_2022_47.jpg "Pour l'éco, décembre 2022, 47"){width=20%}](./images/abonnements/12_decembre/Pour_l_eco_decembre_2022_47.pdf){target=_blank}
+    [![Que choisir](./images/abonnements/01_janvier_2023/Que_choisir_janvier_2023_169HS.jpg "Que choisir, janvier 2023, 169HS"){width=20%}](./images/abonnements/01_janvier_2023/Que_choisir_janvier_2023_169HS.pdf){target=_blank}
+    [![Que choisir](./images/abonnements/01_janvier_2023/Que_choisir_janvier_2023_620.jpg "Que choisir, janvier 2023, 620"){width=20%}](./images/abonnements/01_janvier_2023/Que_choisir_janvier_2023_620.pdf){target=_blank}
+    [![Que choisir santé](./images/abonnements/01_janvier_2023/Que_choisir_sante_janvier_2023_178.jpg "Que choisir santé, janvier 2023, 178"){width=20%}](./images/abonnements/01_janvier_2023/Que_choisir_sante_janvier_2023_178.pdf){target=_blank}
+    [![Science et Vie](./images/abonnements/01_janvier_2023/Science_et_vie_janvier_2023_305HS.jpg "Science et Vie, janvier 2023, n°305HS"){width=20%}](./images/abonnements/01_janvier_2023/Science_et_vie_janvier_2023_305HS.pdf){target=_blank}
+    [![Science et Vie](./images/abonnements/01_janvier_2023/Science_et_vie_janvier_2023_1264.jpg "Science et Vie, janvier 2023, n°1264"){width=20%}](./images/abonnements/01_janvier_2023/Science_et_vie_janvier_2023_1264.pdf){target=_blank}
+    [![Science et Vie Junior](./images/abonnements/01_janvier_2023/Science_et_vie_junior_janvier_2023_157HS.jpg "Science et Vie Junior, janvier 2023, n°157HS"){width=20%}](./images/abonnements/01_janvier_2023/Science_et_vie_junior_janvier_2023_157HS.pdf){target=_blank}
+    [![Science et Vie Junior](./images/abonnements/01_janvier_2023/Science_et_vie_junior_janvier_2023_400.jpg "Science et Vie Junior, janvier 2023, n°400"){width=20%}](./images/abonnements/01_janvier_2023/Science_et_vie_junior_janvier_2023_400.pdf){target=_blank}
+    [![Sciences et avenir](./images/abonnements/01_janvier_2023/Sciences_et_avenir_janvier_2023_212HS.jpg "Sciences et avenir, janvier 2023, n°212HS"){width=20%}](./images/abonnements/01_janvier_2023/Sciences_et_avenir_janvier_2023_212HS.pdf){target=_blank}
+    [![Sciences et avenir](./images/abonnements/01_janvier_2023/Sciences_et_avenir_janvier_2023_911.jpg "Sciences et avenir, janvier 2023, n°911"){width=20%}](./images/abonnements/01_janvier_2023/Sciences_et_avenir_janvier_2023_911.pdf){target=_blank}
+    [![Sciences humaines](./images/abonnements/12_decembre/Sciences_humaines_decembre_2022_353.jpg "Sciences humaines, décembre 2022, n°353"){width=20%}](./images/abonnements/12_decembre/Sciences_humaines_decembre_2022_353.pdf){target=_blank}
+    [![Sciences ouest](./images/abonnements/11_novembre/Sciences_ouest_novembre_2022_403.jpg "Sciences ouest, novembre 2022, n°403"){width=20%}](./images/abonnements/11_novembre/Sciences_ouest_novembre_2022_403.pdf){target=_blank}
+    [![Sport et vie](./images/abonnements/12_decembre/Sport_et_vie_decembre2022_57HS.jpg "Sport et Vie, décembre 2022, n°57HS"){width=20%}](./images/abonnements/12_decembre/Sport_et_vie_decembre2022_57HS.pdf){target=_blank}
+    [![Virgule](./images/abonnements/01_janvier_2023/Virgule_janvier_2023_213.jpg"Virgule, janvier 2023, n°213"){width=20%}](./images/abonnements/01_janvier_2023/Virgule_janvier_2023_213.pdf){target=_blank}
+    
+
+??? "**Kiosque du mois dernier** :newspaper:"    
+    
+    [![01.NET](./images/abonnements/12_decembre/01.NET_30_novembre_2022_987.jpg "01.NET, 30 novembre 2022, n°987"){width=20%}](./images/abonnements/12_decembre/01.NET_30_novembre_2022_987.pdf){target=_blank}
+    [![01.NET](./images/abonnements/12_decembre/01.NET_14_decembre_2022_988.jpg "01.NET, 14 décembre 2022, n°988"){width=20%}](./images/abonnements/12_decembre/01.NET_14_decembre_2022_988.pdf){target=_blank}
+    [![Aide-soignante](./images/abonnements/12_decembre/Aide_soignante_decembre_2023_242.jpg "Aide-soignante, décembre 2022, n°242"){width=20%}](./images/abonnements/12_decembre/Aide_soignante_decembre_2023_242.pdf){target=_blank}
     [![Alternatives Economiques](./images/abonnements/12_decembre/Alternatives_economiques_decembre_2022_429.jpg "Alternatives Economiques, décembre 2022, n°429"){width=20%}](./images/abonnements/12_decembre/Alternatives_economiques_decembre_2022_429.pdf){target=_blank}
     [![Ca m'intéresse](./images/abonnements/12_decembre/Ca_m_interesse_decembre_2022_502.jpg "Ca m'intéresse, décembre 2022, n°502"){width=20%}](./images/abonnements/12_decembre/Ca_m_interesse_decembre_2022_502.pdf){target=_blank}
     [![Courrier international](./images/abonnements/12_decembre/Courrier_international_1er_decembre_2022_1674.jpg"Courrier international, 1er décembre 2022, n°1674"){width=20%}](./images/abonnements/12_decembre/Courrier_international_1er_decembre_2022_1674.pdf){target=_blank}
+    [![Courrier international](./images/abonnements/12_decembre/Courrier_international_15_decembre_2023_1676-1677-1678.jpg"Courrier international, 15 décembre 2022, n°1676-1677-1678"){width=20%}](./images/abonnements/12_decembre/Courrier_international_15_decembre_2023_1676-1677-1678.pdf){target=_blank}
     [![Journal de l'animation](./images/abonnements/12_decembre/Journal_animation_decembre_2022_234.jpg "Journal de l'animation, décembre 2022, n°234"){width=20%}](./images/abonnements/12_decembre/Journal_animation_decembre_2022_234.pdf){target=_blank}
     [![Lire](./images/abonnements/12_decembre/Lire_decembre_2022_514.jpg "Lire, décembre 2022, n°514"){width=20%}](./images/abonnements/12_decembre/Lire_decembre_2022_514.pdf){target=_blank}
     [![Management](./images/abonnements/12_decembre/Mangement_decembre_2022_306.jpg "Management, décembre 2022, n°306"){width=20%}](./images/abonnements/12_decembre/Mangement_decembre_2022_306.pdf){target=_blank}
@@ -47,41 +79,7 @@
     [![Sciences ouest](./images/abonnements/11_novembre/Sciences_ouest_novembre_2022_403.jpg "Sciences ouest, novembre 2022, n°403"){width=20%}](./images/abonnements/11_novembre/Sciences_ouest_novembre_2022_403.pdf){target=_blank}
     [![Sport et vie](./images/abonnements/12_decembre/Sport_et_vie_decembre2022_57HS.jpg "Sport et Vie, décembre 2022, n°57HS"){width=20%}](./images/abonnements/12_decembre/Sport_et_vie_decembre2022_57HS.pdf){target=_blank}
     [![Virgule](./images/abonnements/12_decembre/Virgule_decembre_2022_212.jpg "Virgule, décembre 2022, n°212"){width=20%}](./images/abonnements/12_decembre/Virgule_decembre_2022_212.pdf){target=_blank}
-    
 
-??? "**Kiosque du mois dernier** :newspaper:"    
-    
-    [![01.NET](./images/abonnements/11_novembre/01.NET_02_novembre_2022_985.jpg "01.NET, 16 novembre 2022, n°986"){width=20%}](./images/abonnements/11_novembre/01.NET_02_novembre_2022_985.pdf){target=_blank}
-    [![01.NET](./images/abonnements/11_novembre/01.NET_16_novembre_2022_986.jpg "01.NET, 02 novembre 2022, n°986"){width=20%}](./images/abonnements/11_novembre/01.NET_16_novembre_2022_986.pdf){target=_blank}
-    [![Aide-soignante](./images/abonnements/11_novembre/Aide-soignante_novembre_2022_241.jpg "Aide-soignante, novembre 2022, n°241"){width=20%}](./images/abonnements/11_novembre/Aide-soignante_novembre_2022_241.pdf){target=_blank}
-    [![Alternatives Economiques](./images/abonnements/11_novembre/Alternatives_economiques_novembre_2022_428.jpg "Alternatives Economiques, novembre 2022, n°428"){width=20%}](./images/abonnements/11_novembre/Alternatives_economiques_novembre_2022_428.pdf){target=_blank}
-    [![Ca m'intéresse](./images/abonnements/11_novembre/Ca_m_interesse_novembre_2022_501.jpg "Ca m'intéresse, novembre 2022, n°501"){width=20%}](./images/abonnements/11_novembre/Ca_m_interesse_novembre_2022_501.pdf){target=_blank}
-    [![CNES_mag](./images/abonnements/11_novembre/CNES_mag_novembre_2022_94.jpg "CNES MAG, novembre 2022, 94"){width=20%}](./images/abonnements/11_novembre/CNES_mag_novembre_2022_94.pdf){target=_blank}
-    [![Courrier international](./images/abonnements/11_novembre/Courrier_international_03_novembre_2022_1670.jpg "Courrier international, 03 novembre 2022, n°1670"){width=20%}](./images/abonnements/11_novembre/Courrier_international_03_novembre_2022_1670.pdf){target=_blank}
-    [![Courrier international](./images/abonnements/11_novembre/Courrier_international_10_novembre_2022_1671.jpg "Courrier international, 10 novembre 2022, n°1671"){width=20%}](./images/abonnements/11_novembre/Courrier_international_10_novembre_2022_1671.pdf){target=_blank}
-    [![Courrier international](./images/abonnements/11_novembre/Courrier_international_17_novembre_2022_1672.jpg "Courrier international, 17 novembre 2022, n°1672"){width=20%}](./images/abonnements/11_novembre/Courrier_international_17_novembre_2022_1672.pdf){target=_blank}
-    [![Courrier international](./images/abonnements/11_novembre/Courrier_international_24_novembre_2022_1673.jpg "Courrier international, 24 novembre 2022, n°1673"){width=20%}](./images/abonnements/11_novembre/Courrier_international_24_novembre_2022_1673.pdf){target=_blank}
-    [![Documentation photographique](./images/abonnements/11_novembre/Documentation_photographique_novembre_2022_8149.jpg "Documentation photographique, novembre 2022, n°8149"){width=20%}](./images/abonnements/11_novembre/Documentation_photographique_novembre_2022_8149.pdf){target=_blank}
-    [![Journal de l'animation](./images/abonnements/11_novembre/Journal_animation_novembre_2022_233.jpg "Journal de l'animation, novembre 2022, n°233"){width=20%}](./images/abonnements/11_novembre/Journal_animation_novembre_2022_233.pdf){target=_blank}
-    [![Lire](./images/abonnements/11_novembre/Lire_novembre_2022_513.jpg "Lire, novembre 2022, n°513"){width=20%}](./images/abonnements/11_novembre/Lire_novembre_2022_513.pdf){target=_blank}
-    [![Management](./images/abonnements/11_novembre/Management_octobre-novembre_2022_305.jpg "Management, octobre-novembre 2022, n°305"){width=20%}](./images/abonnements/11_novembre/Management_octobre-novembre_2022_305.pdf){target=_blank}
-    [![Philosophie magazine](./images/abonnements/11_novembre/Philosophie_magazine_novembre_2022_164.jpg "Philosophie magazine, novembre 2022, 164"){width=20%}](./images/abonnements/11_novembre/Philosophie_magazine_novembre_2022_164.pdf){target=_blank}
-    [![Phosphore](./images/abonnements/11_novembre/Phosphore_15_novembre_2022_542.jpg "Phosphore, 15 novembre 2022, 542"){width=20%}](./images/abonnements/11_novembre/Phosphore_15_novembre_2022_542.pdf){target=_blank}
-    [![Pour l'éco](./images/abonnements/11_novembre/Pour_l_eco_novembre_2022_46.jpg "Pour l'éco, novembre 2022, 46"){width=20%}](./images/abonnements/11_novembre/Pour_l_eco_novembre_2022_46.pdf){target=_blank}
-    [![Que choisir](./images/abonnements/11_novembre/Que_choisir_novembre_2022_618.jpg "Que choisir, novembre 2022, 618"){width=20%}](./images/abonnements/11_novembre/Que_choisir_novembre_2022_618.pdf){target=_blank}
-    [![Que choisir santé](./images/abonnements/11_novembre/Que_choisir_sante_novembre_2022_176.jpg "Que choisir santé, novembre 2022, 176"){width=20%}](./images/abonnements/11_novembre/Que_choisir_sante_novembre_2022_176.pdf){target=_blank}
-    [![Science et Vie](./images/abonnements/11_novembre/Science_et_vie_novembre_2022_1262.jpg "Science et Vie, novembre 2022, n°1262"){width=20%}](./images/abonnements/11_novembre/Science_et_vie_novembre_2022_1262.pdf){target=_blank}
-    [![Science et Vie](./images/abonnements/11_novembre/Science_et_vie_novembre_2022_304HS.jpg "Science et Vie, novembre 2022, n°304HS"){width=20%}](./images/abonnements/11_novembre/Science_et_vie_novembre_2022_304HS.pdf){target=_blank}
-    [![Science et Vie Junior](./images/abonnements/11_novembre/SVJ_novembre_2022_398.jpg "Science et Vie Junior, novembre 2022, n°398"){width=20%}](./images/abonnements/11_novembre/SVJ_novembre_2022_398.pdf){target=_blank}
-    [![Science et Vie Junior](./images/abonnements/11_novembre/SVJ_novembre_2022_156HS.jpg "Science et Vie Junior, novembre 2022, n°156HS"){width=20%}](./images/abonnements/11_novembre/SVJ_novembre_2022_156HS.pdf){target=_blank}
-    [![Sciences et avenir](./images/abonnements/11_novembre/Sciences_et_avenir_novembre_2022_909.jpg "Sciences et avenir, novembre 2022, n°909"){width=20%}](./images/abonnements/11_novembre/Sciences_et_avenir_novembre_2022_909.pdf){target=_blank}
-    [![Sciences et avenir](./images/abonnements/10_octobre/Sciences_et_avenir_octobre-decembre_2022_211HS.jpg "Sciences et avenir, octobre-décembre 2022, n°211HS"){width=20%}](./images/abonnements/10_octobre/Sciences_et_avenir_octobre-decembre_2022_211HS.pdf){target=_blank}
-    [![Sciences humaines](./images/abonnements/11_novembre/Sciences_humaines_novembre_2022_352.jpg "Sciences humaines, novembre 2022, n°352"){width=20%}](./images/abonnements/11_novembre/Sciences_humaines_novembre_2022_352.pdf){target=_blank}
-    [![Sciences ouest](./images/abonnements/11_novembre/Sciences_ouest_novembre_2022_403.jpg "Sciences ouest, novembre 2022, n°403"){width=20%}](./images/abonnements/11_novembre/Sciences_ouest_novembre_2022_403.pdf){target=_blank}
-    [![Sport et vie](./images/abonnements/11_novembre/Sport_et_vie_novembre-decembre_2022_195.jpg "Sport et Vie, novembre-décembre 2022, n°195"){width=20%}](./images/abonnements/11_novembre/Sport_et_vie_novembre-decembre_2022_195.pdf){target=_blank}
-    [![Virgule](./images/abonnements/11_novembre/Virgule_novembre_2022_211.jpg "Virgule, novembre 2022, n°211"){width=20%}](./images/abonnements/11_novembre/Virgule_novembre_2022_211.pdf){target=_blank}
-    
-    
 ??? "**Kiosque des langues vivantes** :gb: :de: :es: :it: :cn:"
     
     ??? Example ":gb: **Anglais** :gb:"
@@ -95,7 +93,7 @@
     [![I love English world](./images/abonnements/langues/IloveEnglishWorld_octobre_2022_353.jpg "I love english world, octobre 2022, n°353"){width=20%}](./images/abonnements/langues/IloveEnglishWorld_octobre_2022_353.pdf){target=_blank}
     [![I love English world](./images/abonnements/langues/IloveEnglishWorld_novembre_2022_354.jpg "I love english world, novembre 2022, n°354"){width=20%}](./images/abonnements/langues/IloveEnglishWorld_novembre_2022_354.pdf){target=_blank}
     [![I love English world](./images/abonnements/langues/IloveEnglishWorld_decembre_2022_355.jpg "I love english world, décembre 2022, n°355"){width=20%}](./images/abonnements/langues/IloveEnglishWorld_decembre_2022_355.pdf){target=_blank}
-
+    [![I love English world](./images/abonnements/langues/IloveEnglishWorld_janvier_2023_356.jpg "I love english world, janvier 2023, n°356"){width=20%}](./images/abonnements/langues/IloveEnglishWorld_janvier_2023_356.pdf){target=_blank}
     
     ??? Example ":de: **Allemand** :de:"
     [![Vocable Allemand](./images/abonnements/langues/Vocable_Allemand_20220120_856.jpg "Vocable Allemand, 20 janvier 2022, n°856"){width=20%}](./images/abonnements/langues/Vocable_Allemand_20220120_856_sommaire.pdf){target=_blank}
@@ -111,7 +109,7 @@
     [![Vocable Allemand](./images/abonnements/langues/Vocable_allemand_20221001_871.jpg "Vocable Allemand, octobre 2022, n°871"){width=20%}](./images/abonnements/langues/Vocable_allemand_20221001_871.pdf){target=_blank}
     [![Vocable Allemand](./images/abonnements/langues/Vocable_allemand_20221101_872.jpg "Vocable Allemand, novembre 2022, n°872"){width=20%}](./images/abonnements/langues/Vocable_allemand_20221101_872.pdf){target=_blank}
     [![Vocable Allemand](./images/abonnements/langues/Vocable_allemand_20221201_873.jpg "Vocable Allemand, décembre 2022, n°873"){width=20%}](./images/abonnements/langues/Vocable_allemand_20221201_873.pdf){target=_blank}
-    
+    [![Vocable Allemand](./images/abonnements/langues/Vocable_allemand_janvier_2023_874.jpg "Vocable Allemand, janvier 2023, n°874"){width=20%}](./images/abonnements/langues/Vocable_allemand_janvier_2023_874.pdf){target=_blank}
     
     ??? Example ":es: **Espagnol** :es:"
     [![Vocable Espagnol](./images/abonnements/langues/Vocable_Espagnol_20220120_849.jpg "Vocable Espagnol, 20 janvier 2022, n°849"){width=20%}](./images/abonnements/langues/Vocable_Espagnol_20220120_849_sommaire.pdf){target=_blank}
@@ -127,6 +125,7 @@
     [![Vocable Espagnol](./images/abonnements/langues/Vocable_espagnol_20221001_864.jpg "Vocable Espagnol, octobre 2022, n°864"){width=20%}](./images/abonnements/langues/Vocable_espagnol_20221001_864.pdf){target=_blank}
     [![Vocable Espagnol](./images/abonnements/langues/Vocable_espagnol_20221101_865.jpg "Vocable Espagnol, novembre 2022, n°865"){width=20%}](./images/abonnements/langues/Vocable_espagnol_20221101_865.pdf){target=_blank}
     [![Vocable Espagnol](./images/abonnements/langues/Vocable_espagnol_20221201_866.jpg "Vocable Espagnol, décembre 2022, n°866"){width=20%}](./images/abonnements/langues/Vocable_espagnol_20221201_866.pdf){target=_blank}
+    [![Vocable Espagnol](./images/abonnements/langues/Vocable_espagnol_janvier_2023_867.jpg "Vocable Espagnol, janvier 2023, n°867"){width=20%}](./images/abonnements/langues/Vocable_espagnol_janvier_2023_867.pdf){target=_blank}
 
 ??? "**Pour les enseignants**"
     [![Cahiers pédagogiques](./images/abonnements/enseignants/Cahiers_pedagogiques_février_2022_575.jpg "Cahiers pédagogiques, février 2022, n°575"){width=20%}](./images/abonnements/enseignants/Cahiers_pedagogiques_février_2022_575.pdf){target=_blank}

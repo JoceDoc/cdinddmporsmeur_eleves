@@ -40,6 +40,7 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
 
 
 ???+ info "**Au fil de la presse...**"
+    - [**Le Télégramme - 30/12/2022**](https://www.letelegramme.fr/finistere/morlaix/a-23-ans-il-est-regisseur-dans-une-salle-mythique-loan-peron-de-plougonven-aux-coulisses-de-l-olympia-30-12-2022-13250759.php){target=_blank} : À 23 ans, il est régisseur « dans une salle mythique » : Loan Péron, de Plougonven, aux coulisses de l’Olympia , l'atout drone des pompiers finistériens". Bravo à cet ancien élève du lycée.
     - [**Le Télégramme - 14/09/2022**](https://www.letelegramme.fr/finistere/morlaix/gwenael-morel-l-atout-drone-des-pompiers-finisteriens-14-09-2022-13178211.php){target=_blank} : Gwenaël Morel, l'atout drone des pompiers finistériens"
     - [**Ouest-france - 24/05/2022**](https://www.ouest-france.fr/bretagne/morlaix-29600/dans-le-pays-de-morlaix-comme-ailleurs-tous-les-metiers-sont-en-tension-6a181b20-db6e-11ec-84fd-0d1f31a3fa84){target=_blank} : Dans le pays de Morlaix comme ailleurs , "tous les métiers sont en tension"...
 
