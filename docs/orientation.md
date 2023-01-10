@@ -70,9 +70,28 @@ ___
         -[![**Guide "Que faire après le BAC ?"**](./images/orientation/Guide_IDEO_Apres_BAC_2022-2023.jpg "Que faire après le BAC"){width=20%}](./pdf/Guide_IDEO_Apres_BAC_2022-2023.pdf){target=_blank}
         -[![**Guide "Entrer dans le SUP 2022**](./images/orientation/Entrer_dans_le_sup_2022.jpg "Entrer dans le SUP 2022"){width=20%}](./pdf/GUIDE_ENTRER_DANS_LE_SUP_2022.pdf){target=_blank}
     === "QUIZ"
-        - [**Tests d'orientation**](https://test-orientation.studyrama.com/){target=_blank} : pour mieux se connaître et découvrir des pistes pour mon avenir.
-        - [**Quel métier est fait pour moi ?**](https://www.letudiant.fr/test/metiers/orientation/pour-quels-metiers-etes-vous-fait.html){target=_blank} : pour trouver sa voie, son futur métier et construire son projet professionnel.
-        - [**Quelles études après le BAC ?**](https://m.onisep.fr/Media/Multimedia/Quiz-de-positionnement/quelles-etudes-apres-le-bac){target=_blank} : quiz numérique pour appréhender les différentes formations après le BAC.
+        - [**Quiz de l'ONISEP**](https://www.onisep.fr/decouvrir-les-metiers/les-quiz-de-l-onisep/){target=_blank} :
+
+            [==**1-**==](https://www.onisep.fr/decouvrir-les-metiers/les-quiz-de-l-onisep/Quiz-Quels-metiers-selon-mes-gouts){target=_blank}Des métiers selon mes goûts
+
+            [==**2-**==](https://www.onisep.fr/decouvrir-les-metiers/Quels-metiers-demain/quels-metiers-demain/Quiz-Quels-metiers-demain){target=_blank} Quels métiers pour demain ?
+
+            [==**3-**==](https://www.onisep.fr/cap-vers-l-emploi/alternance/quiz-apprentissage){target=_blank} Quiz apprentissage 
+
+            [==**4-**==](https://www.onisep.fr/decouvrir-les-metiers/les-quiz-de-l-onisep/vrai-faux-sur-la-voie-pro){target=_blank} Vrai/faux sur la voie professionnelle
+
+            [==**5-**==](https://www.onisep.fr/decouvrir-les-metiers/les-quiz-de-l-onisep/quiz-etudes){target=_blank} Quiz études 
+
+            [==**6-**==](https://www.onisep.fr/decouvrir-les-metiers/les-quiz-de-l-onisep/Quiz-secteurs){target=_blank} Quiz secteurs
+
+            [==**7-**==](https://www.onisep.fr/equipes-educatives/egalite-filles-garcons/quiz-egalite-filles-garcons){target=_blank} Quiz égalité filles -garçons
+
+            [==**8-**==](https://www.onisep.fr/Choisir-mes-etudes/apres-le-bac/Conseils-et-strategies-d-etudes/quiz-universite-les-vraies-fausses-idees-sur-la-fac){target=_blank} Vraies-fausses idées sur la fac
+
+        - [**Tests d'orientation**](https://test-orientation.studyrama.com/){target=_blank} : pour mieux se connaître et découvrir des pistes pour mon avenir. (*Studyrama*)
+        - [**Quel métier est fait pour moi ?**](https://www.letudiant.fr/test/metiers/orientation/pour-quels-metiers-etes-vous-fait.html){target=_blank} : pour trouver sa voie, son futur métier et construire son projet professionnel. (*LEtudiant*)
+        - [**Quels métiers pour moi ?**](https://www.onisep.fr/Media/Multimedia/Quiz-de-positionnement/quiz-quels-metiers-pour-moi){target=_blank} : quiz pour trouver des exemples de métiers qui vous correspondent. (*Onisep*)
+        - [**Quelles études après le BAC ?**](https://m.onisep.fr/Media/Multimedia/Quiz-de-positionnement/quelles-etudes-apres-le-bac){target=_blank} : quiz numérique pour appréhender les différentes formations après le BAC. (*Onisep*)
     === "ALTERNANCE"
         - [**Portail de l'Alternance**](https://www.alternance.emploi.gouv.fr/decouvrir-lalternance){target=_blank}
         - [**Pôle emploi**](https://www.pole-emploi.fr/accueil/){target=_blank}
