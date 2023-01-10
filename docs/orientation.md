@@ -18,8 +18,10 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
 
 
 ## Actualités
-![IFPS_Vannes](./images/orientation/IFPS_VANNES_PO-2023.jpg "Affiche"){width=35%}
-![FOROMAP29](./images/orientation/affiche_foromap_2023_def.jpg "Affiche"){width=35%}
+[![IFPS_Vannes](./images/orientation/IFPS_VANNES_PO-2023.jpg "Affiche"){width=35%}](https://www.ifps-vannes.fr/){target=_blank}
+[![FOROMAP29](./images/orientation/affiche_foromap_2023_def.jpg "Affiche"){width=35%}](https://www.foromap29.fr/){target=_blank}
+[![UCO - BN](./images/orientation/JPO_2023_UCO_BN.jpg "Affiche"){width=35%}](https://guingamp.uco.fr/fr/publication/testez-l-universite-grace-aux-journees-decouvertes){target=_blank}
+[![Flyer](./images/orientation/Flyer-Semaine_automobile_2023.jpg "Affiche"){width=40%}](./pdf/Flyer-Semaine_automobile_2023.pdf){target=_blank}
 
 ??? info "**Les informations du mois de DECEMBRE par M. QUINIO, coordinateur pour l'orientation**"
     
@@ -72,7 +74,7 @@ ___
     === "QUIZ"
         - [**Quiz de l'ONISEP**](https://www.onisep.fr/decouvrir-les-metiers/les-quiz-de-l-onisep/){target=_blank} :
 
-            [==**1-**==](https://www.onisep.fr/decouvrir-les-metiers/les-quiz-de-l-onisep/Quiz-Quels-metiers-selon-mes-gouts){target=_blank}Des métiers selon mes goûts
+            [==**1-**==](https://www.onisep.fr/decouvrir-les-metiers/les-quiz-de-l-onisep/Quiz-Quels-metiers-selon-mes-gouts){target=_blank} Des métiers selon mes goûts
 
             [==**2-**==](https://www.onisep.fr/decouvrir-les-metiers/Quels-metiers-demain/quels-metiers-demain/Quiz-Quels-metiers-demain){target=_blank} Quels métiers pour demain ?
 
@@ -84,19 +86,21 @@ ___
 
             [==**6-**==](https://www.onisep.fr/decouvrir-les-metiers/les-quiz-de-l-onisep/Quiz-secteurs){target=_blank} Quiz secteurs
 
-            [==**7-**==](https://www.onisep.fr/equipes-educatives/egalite-filles-garcons/quiz-egalite-filles-garcons){target=_blank} Quiz égalité filles -garçons
+            [==**7-**==](https://www.onisep.fr/equipes-educatives/egalite-filles-garcons/quiz-egalite-filles-garcons){target=_blank} Quiz égalité filles-garçons
 
             [==**8-**==](https://www.onisep.fr/Choisir-mes-etudes/apres-le-bac/Conseils-et-strategies-d-etudes/quiz-universite-les-vraies-fausses-idees-sur-la-fac){target=_blank} Vraies-fausses idées sur la fac
 
-        - [**Tests d'orientation**](https://test-orientation.studyrama.com/){target=_blank} : pour mieux se connaître et découvrir des pistes pour mon avenir. (*Studyrama*)
-        - [**Quel métier est fait pour moi ?**](https://www.letudiant.fr/test/metiers/orientation/pour-quels-metiers-etes-vous-fait.html){target=_blank} : pour trouver sa voie, son futur métier et construire son projet professionnel. (*LEtudiant*)
         - [**Quels métiers pour moi ?**](https://www.onisep.fr/Media/Multimedia/Quiz-de-positionnement/quiz-quels-metiers-pour-moi){target=_blank} : quiz pour trouver des exemples de métiers qui vous correspondent. (*Onisep*)
         - [**Quelles études après le BAC ?**](https://m.onisep.fr/Media/Multimedia/Quiz-de-positionnement/quelles-etudes-apres-le-bac){target=_blank} : quiz numérique pour appréhender les différentes formations après le BAC. (*Onisep*)
+        - [**Tests d'orientation**](https://test-orientation.studyrama.com/){target=_blank} : pour mieux se connaître et découvrir des pistes pour mon avenir. (*Studyrama*)
+        - [**Quel métier est fait pour moi ?**](https://www.letudiant.fr/test/metiers/orientation/pour-quels-metiers-etes-vous-fait.html){target=_blank} : pour trouver sa voie, son futur métier et construire son projet professionnel. (*LEtudiant*)
+        
     === "ALTERNANCE"
         - [**Portail de l'Alternance**](https://www.alternance.emploi.gouv.fr/decouvrir-lalternance){target=_blank}
         - [**Pôle emploi**](https://www.pole-emploi.fr/accueil/){target=_blank}
         - [**L'Etudiant**](https://www.letudiant.fr/etudes/alternance.html){target=_blank} : dossier sur l'alternance (Ecoles, formations, entreprises, offres...)
         - [**AREP29**](https://www.arep29.fr/){target=_blank} : CFA et centre de formation continue à Brest (CAP, BTS et Bac+3 en alternance, formation continue des salariés d'établissements...)
+        - [**Chambre des métiers et de l'artisanat**](https://www.cma29.bzh/finistere/finistere/){target=_blank} : portes ouvertes samedi 28 janvier 2023 (9h-16h) et [**formulaire**](./pdf/CMA_Quimper_mercredis_apprentissage_formulaire.pdf){target=_blank} d'inscription aux mercredis de l'apprentissage du Campus des métiers de Quimper. 
         - [**IBEP-Morlaix**](https://www.ibepformation.fr/formation/formation-adulte/morlaix/){target=_blank} : les vendredis de l'alternance pour se former en étant salarié ([**contact**](./pdf/vendredi_alternance_ibep.pdf){target=_blank})
         - [**ISFFEL**](https://www.isffel.fr/){target=_blank} : chercher sa formation en alternance sur le site de l'Institut Supérieur de Formation. 
         - [**Les compagnons du devoir**](https://www.compagnons-du-devoir.com/){target=_blank} : journées portes ouvertes les ==**14-15 janvier** / **11 mars 2023**==.

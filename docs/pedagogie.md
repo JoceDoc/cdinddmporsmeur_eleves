@@ -62,6 +62,7 @@ ___
     - [**Nouveaux cours**](https://www.fun-mooc.fr/fr/cours/?limit=21&new=new&offset=0){target=_blank} : en ligne sur FunMOOC pour découvrir, apprendre, progresser... dans les différentes disciplines.
     - [**DYS**](https://www.ffdys.com/troubles-dys){target=_blank} : comprendre les troubles cognitifs spécifiques.
     - [**Documents libres de droits**](https://www.reformedulycee.fr/2019/11/documents-libres-de-droits-nos-sites-preferes/){target=_blank} : liste non exhaustive de sites proposant des images, vidéos et musiques libres de droits. (Lelivrescolaire.fr)
+    - [**50 musiques libres de droits**](https://www.auboutdufil.com/){target=_blank} à télécharger.
 
 ??? info "Logiciels and Co"
     - [**EXCEL**](https://www.excel-pratique.com/){target=_blank} : cours en ligne.
