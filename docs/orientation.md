@@ -58,7 +58,7 @@ ___
         - [**ONISEP**](https://www.onisep.fr/){target=_blank} : Éditeur public, l'Onisep produit et diffuse toute l'information sur les formations et les métiers.
         - [**Orientation pour tous**](https://www.orientation-pour-tous.fr/){target=_blank} : pour ne rien manquer de l'actualité de l'orientation, découvrir des informations sur les métiers, les études par région...
         - [**1001 orientation**](https://1001orientations.fr/){target=_blank} : 1001 conseils, 1001 parcours pour choisir sa voie...
-        - [**L'Etudiant**](https://www.letudiant.fr/orientation.html) : les outils pour réussir son orientation, des tests en ligne pour affiner sa réflexion sur l'orientation, le service de coaching du site de l'Etudiant...
+        - [**L'Etudiant**](https://www.letudiant.fr/orientation.html){target=_blank} : les outils pour réussir son orientation, des tests en ligne pour affiner sa réflexion sur l'orientation, le service de coaching du site de l'Etudiant...
         - [**Quelles spécialités pour quelles études ?**](https://www.letudiant.fr/lycee/specialites-bac-general/article/reforme-lycee-quelles-specialites-pour-quelles-etudes.html){target=_blank} : les spécialités recommandées par type de formation ou par domaine d'études...
         - [**Témoignages**](https://www.onisep.fr/Choisir-mes-etudes/ma-premiere-annee-en){target=_blank} : ma première année en... CAP, BAC PRO, BAC TECHNO, diplôme du sport, du paramédical, DUT/BUT, classe préparatoire, DN MADE, licence...
         - [**THOTIS - Le média étudiant**](https://thotismedia.com/){target=_blank} : découvrir les formations et trouver sa voie - Affiner son projet en contactant des étudiants - Se renseigner sur Parcoursup. 
@@ -69,6 +69,10 @@ ___
     
         -[![**Guide "Que faire après le BAC ?"**](./images/orientation/Guide_IDEO_Apres_BAC_2022-2023.jpg "Que faire après le BAC"){width=20%}](./pdf/Guide_IDEO_Apres_BAC_2022-2023.pdf){target=_blank}
         -[![**Guide "Entrer dans le SUP 2022**](./images/orientation/Entrer_dans_le_sup_2022.jpg "Entrer dans le SUP 2022"){width=20%}](./pdf/GUIDE_ENTRER_DANS_LE_SUP_2022.pdf){target=_blank}
+    === "QUIZ"
+        - [**Tests d'orientation**](https://test-orientation.studyrama.com/){target=_blank} : pour mieux se connaître et découvrir des pistes pour mon avenir.
+        - [**Quel métier est fait pour moi ?**](https://www.letudiant.fr/test/metiers/orientation/pour-quels-metiers-etes-vous-fait.html){target=_blank} : pour trouver sa voie, son futur métier et construire son projet professionnel.
+        - [**Quelles études après le BAC ?**](https://m.onisep.fr/Media/Multimedia/Quiz-de-positionnement/quelles-etudes-apres-le-bac){target=_blank} : quiz numérique pour appréhender les différentes formations après le BAC.
     === "ALTERNANCE"
         - [**Portail de l'Alternance**](https://www.alternance.emploi.gouv.fr/decouvrir-lalternance){target=_blank}
         - [**Pôle emploi**](https://www.pole-emploi.fr/accueil/){target=_blank}
@@ -95,8 +99,7 @@ ___
 ### Niveau 2nde
 ??? "SECONDE"
     === "RESSOURCES"
-        - [**Guide d'accompagnement à l'orientation 2de**](./pdf/Guide_accompagnement_orientation_2nde_GT_20220316.pdf){target=_blank}
-        - [**Vers le PADLET seconde**](https://padlet.com/cdinddmporsmeur/orientation_seconde_2020){target=_blank}
+        - [**Horizons21**](https://www.horizons21.fr/){target=_blank} : pour simuler des combinaisons de spécialités et découvrir des pespectives de formations et des métiers.
         - [**Secondes/Premières 2022-2023**](https://www.secondes-premieres2022-2023.fr/){target=_blank} : les étapes pour construire mon avenir au lycée.
         - [**Quelles spécialités choisir pour le BAC?**](https://www.letudiant.fr/lycee/simulateur-de-specialites.html){target=_blank}
     === "CHOISIR UN METIER"
