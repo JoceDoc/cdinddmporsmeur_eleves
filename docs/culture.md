@@ -10,6 +10,16 @@
 
 ## Actualités
 
+???+ info "**Les mercredis des sciences**"
+    
+    Au [**Programme**](https://www.espace-sciences.org/morlaix/programme){target=_blank} du mois de janvier de l'[**Espace des sciences**](https://www.espace-sciences.org/morlaix){target=_blank} : 
+    
+    * La chirurgie cardiaque d'hier à aujourd'hui.
+    
+    * Un océan de plastiques : quels impacts pour le vivant.
+    
+    * Astronomie de l'étrange.
+
 ???+ info "**Visite de l'exposition Ernest Pignon-Ernest au FHEL**"
     
     Mercredi 19 octobre les élèves de seconde générale inscrits à l'option arts plastiques ont découvert le travail de l'artiste **Ernest-Pignon-Ernest**, à travers l'exposition présentée aux Fonds Hélène et Édouard Leclerc à Landerneau.
@@ -43,6 +53,7 @@ La [**ville de Morlaix**](https://www.ville.morlaix.fr/VIVRE-A-MORLAIX/Culture-L
         * [**Musée de Morlaix**](https://musee.ville.morlaix.fr/){target=_blank}
         * [**La Virgule**](https://www.ville.morlaix.fr/VIVRE-A-MORLAIX/Culture-Loisirs/La-Virgule){target=_blank}
     === "SPECTACLES VIVANTS"
+        * [**MJC**](https://www.mjcmorlaix.com/){target=_blank} (Maison des Jeunes et de la Culture)
         * [**Le Roudour**](https://www.espace-roudour.com/){target=_blank}
         * [**Sew**](https://www.sew-morlaix.com/){target=_blank}
         * [**Théâtre du Pays de Morlaix**](https://www.theatre-du-pays-de-morlaix.fr/){target=_blank}

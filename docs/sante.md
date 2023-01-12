@@ -40,16 +40,17 @@
 ## Alimentation
 ??? info "Equilibre alimentaire"
 
-    [**Manger équilibré, ça veut dire quoi ?**](https://www.mangerbouger.fr/manger-mieux/se-faire-plaisir-en-mangeant-equilibre/manger-equilibre-ca-veut-dire-quoi-et-comment-y-arriver){target=_blank}
+    **Manger équilibré, ça veut dire quoi ?** : réponses sur le site [**Mangerbouger.fr**](https://www.mangerbouger.fr/manger-mieux/se-faire-plaisir-en-mangeant-equilibre/manger-equilibre-ca-veut-dire-quoi-et-comment-y-arriver){target=_blank}
+    ou le site de la [**Fédération française de cardiologie**](https://www.fedecardio.org/je-m-informe/qu-est-ce-qu-une-alimentation-equilibree/){target=_blank}
 
-??? "Guides et astuces"
+    ??? "Guides et astuces"
 
-    50 petites astuces pour manger mieux et bouger plus [**ici**](https://www.mangerbouger.fr/l-essentiel/guides-et-documents){target=_blank}
+        50 petites astuces pour manger mieux et bouger plus [**ici**](https://www.mangerbouger.fr/l-essentiel/guides-et-documents){target=_blank}
 
         
 
 ## Addictions
-??? Info "Information" 
+??? attention "Information" 
     Voir le site [**AMELI**](https://www.ameli.fr/finistere/assure/sante/themes/addictions){target=_blank} de l'assurance maladie.
 
 
@@ -60,18 +61,17 @@
     ???+ info "Niveaux d'activité physique par âge"
         ![Données santé](./images/parcours_sante/bretagne-sport-sante-lutte-contre-la-sedentarite-recommandations-activite-physique-insuffisante.jpg "Données santé"){width=70% align=left} Source : [**Bretagne - Sport santé**](https://bretagne-sport-sante.fr/){target=_blank}
         
-??? question "La sédentarité et moi !"
-    Pour connaître ton niveau d'activité physique et de sédentarité, réalise ce [**test **](https://www.mangerbouger.fr/bouger-plus/test-de-niveau-d-activite-physique-et-de-sedentarite){target=_blank} en ligne et découvre [**pour quel sport tu es fait.**](https://www.phosphore.com/entre-nous/tests-perso/pour-quel-sport-es-tu-faite/){target=_blank}
+    ???+ question "La sédentarité et moi !"
+        Pour connaître ton niveau d'activité physique et de sédentarité, réalise ce [**test **](https://www.mangerbouger.fr/bouger-plus/test-de-niveau-d-activite-physique-et-de-sedentarite){target=_blank} en ligne et découvre [**pour quel sport tu es fait.**](https://www.phosphore.com/entre-nous/tests-perso/pour-quel-sport-es-tu-faite/){target=_blank}
 
-    D'autres jeux et quizz sur l'[**ONAPS**](https://onaps.fr/jeux-et-quizz/){target=_blank} : Observatoire National de l'Activité Physique et de la Sédentarité.
+        D'autres jeux et quizz sur l'[**ONAPS**](https://onaps.fr/jeux-et-quizz/){target=_blank} : Observatoire National de l'Activité Physique et de la Sédentarité.
 
 
 ## Vie affective et sexuelle
 
 ??? info "Des sites pour s'informer"
-    [**CIDFF**](https://finistere.cidff.info/){target=_blank} : Centre d'information sur les droits des femmes et des familles.
-
-    [**CLER**](https://www.cler.net/Education-affective-et-sexuelle){target=_blank} : Education affective et sexuelle.
+    * [**CIDFF**](https://finistere.cidff.info/){target=_blank} : Centre d'information sur les droits des femmes et des familles.
+    * [**CLER**](https://www.cler.net/Education-affective-et-sexuelle){target=_blank} : Education affective et sexuelle.
 
 
 

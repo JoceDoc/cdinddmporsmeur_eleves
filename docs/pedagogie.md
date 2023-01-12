@@ -18,6 +18,7 @@ Pour vous aider et vous accompagner dans vos apprentissages :
 ___
 
 ## Actualité des disciplines
+[![**PRINTEMPS DES POETES**](./images/expositions/printemps_poetes_affiche_2023.jpg){width=40%}](https://www.printempsdespoetes.com/Edition2023){target=_blank}
 
 
 ## Méthodologie pour tous
@@ -62,7 +63,7 @@ ___
     - [**Nouveaux cours**](https://www.fun-mooc.fr/fr/cours/?limit=21&new=new&offset=0){target=_blank} : en ligne sur FunMOOC pour découvrir, apprendre, progresser... dans les différentes disciplines.
     - [**DYS**](https://www.ffdys.com/troubles-dys){target=_blank} : comprendre les troubles cognitifs spécifiques.
     - [**Documents libres de droits**](https://www.reformedulycee.fr/2019/11/documents-libres-de-droits-nos-sites-preferes/){target=_blank} : liste non exhaustive de sites proposant des images, vidéos et musiques libres de droits. (Lelivrescolaire.fr)
-    - [**50 musiques libres de droits**](https://www.auboutdufil.com/){target=_blank} à télécharger.
+    - [**Musiques libres de droits**](https://www.auboutdufil.com/){target=_blank} à télécharger.
 
 ??? info "Logiciels and Co"
     - [**EXCEL**](https://www.excel-pratique.com/){target=_blank} : cours en ligne.
@@ -91,14 +92,15 @@ ___
         * [**Le Monde**](https://www.lemonde.fr/){target=_blank}
         * [**Le Figaro**](https://www.lefigaro.fr/){target=_blank}
         * [**Ouest-France**](https://www.ouest-france.fr/){target=_blank}
-
-    ??? "Autres sites"
+        
+    ???+ "Autres sites"
         [![**Lire l'actu**](./images/editeurs/lirelactu.jpg "Page d'accueil lirelactu"){width=20%}](http://lirelactu.fr/){target=_blank}
 
         * [**AFP**](https://www.afp.com/fr){target=_blank}
         * [**France24**](https://www.france24.com/fr/){target=_blank}
         * [**FranceInfo**](https://mobile.francetvinfo.fr/){target=_blank}
         * [**Reporters sans frontières**](https://rsf.org/fr){target=_blank}
+        * [**Vie publique**](https://www.vie-publique.fr/){target=_blank} au coeur des débats pour comprendre les sujets de l'actualité.
      
         
 
@@ -124,13 +126,25 @@ ___
 ___
 ## Concours scolaires
 
-??? "Concours de critique"
-    En octobre et novembre, les élèves de 1G3 et 1G4, participent au [**concours de critique littéraire**](https://www.bruitdelire.org/concours-de-critique-litteraire/){target=_blank} organisé par la Région Bretagne en partenariat avec le Rectorat de Rennes et l’association **"Bruit de lire"**. L’objectif pour les élèves est de rédiger une critique sur l’un des romans de la sélection en lice pour le **Prix Goncourt des Lycéens**.
-    
-    En apprenant à exprimer leur pensée et à argumenter, les lycéens avancent vers l'autonomie. Au-delà du « j’aime » / « je n’aime pas », ils apprennent à formuler une appréciation personnelle sur l’œuvre choisie et à justifier leur avis. En s’exerçant à ce genre particulier, les élèves développent de véritables compétences d’argumentation.
+??? info "**Concours de la résistance**"
+    La classe de TG2 participent au [**Concours National de la Résistance et de la Déportation**](https://www.reseau-canope.fr/
+    cnrd/){target=_blank}. Les objectifs et les modalités du concours sur le site officiel.
+
 ___
 
-??? "Si on lisait à voix haute"
+??? info "**Concours de critique**"
+    En octobre et novembre, les élèves de 1G3 et 1G4, participent au [**concours de critique littéraire**](https://www.bruitdelire.org/concours-de-critique-litteraire/){target=_blank} organisé par la Région Bretagne en partenariat avec le Rectorat de Rennes et l’association ==**"Bruit de lire"**==. L’objectif pour les élèves est de rédiger une critique sur l’un des romans de la sélection en lice pour le ==**Prix Goncourt des Lycéens**==.
+    
+    En apprenant à exprimer leur pensée et à argumenter, les lycéens avancent vers l'autonomie. Au-delà du « j’aime » / « je n’aime pas », ils apprennent à formuler une appréciation personnelle sur l’œuvre choisie et à justifier leur avis. En s’exerçant à ce genre particulier, les élèves développent de véritables compétences d’argumentation.
+    
+    ???+ "**Autres ressources**"
+        * [**L'Académie Goncourt**](https://www.academiegoncourt.com/home){target=_blank}
+        * [**PADLET du CONCOURS**](https://padlet.com/cdinddmporsmeur/concours2021){target=_blank}
+
+        
+___
+
+??? info "**Si on lisait à voix haute**"
     Dans le cadre de l'AP, 19 élèves de seconde générale participent cette année au concours [**"Si on lisait à voix haute"**](https://www.lumni.fr/dossier/la-grande-librairie-concours-de-lecture-a-voix-haute){target=_blank} organisé par François Busnel et la Grande Librairie.
 
     Leurs motivations et leurs attentes au moment de choisir cet atelier étaient diverses : pour certains la **curiosité**, pour d’autres, l’**envie de travailler l’oral** et de **gagner en aisance**, pour d’autres encore, aimant déjà lire à voix haute, le **désir de participer à un concours national**, quelques-uns, aussi, sans motivation particulière, parce que s’étant inscrits dans cet atelier un peu par défaut.
@@ -145,7 +159,7 @@ ___
     </figure>
 ___
 
-??? "Prix folio des lycéens"
+??? info "**Prix folio des lycéens**"
     Petit parcours vers la **littérature contemporaine** : à travers des activités variées, découvrir 6 titres récents aux thèmes diversifiés ; partager ses impressions de lecture par oral et par écrit ; affiner ses goûts, développer son esprit critique en attribuant « coups de cœur » et « coups de griffe » et en votant pour son roman préféré.
     
     Une manière décontractée de se préparer aux épreuves anticipées de Français (écrites et orales) et au Grand Oral du bac !
