@@ -62,7 +62,7 @@ ___
     - [**France Culture Education**](https://www.radiofrance.fr/sujets/france-culture-education-des-podcasts-pour-apprendre-et-reviser){target=_blank} : des podcasts pour apprendre et réviser.
     - [**Nouveaux cours**](https://www.fun-mooc.fr/fr/cours/?limit=21&new=new&offset=0){target=_blank} : en ligne sur FunMOOC pour découvrir, apprendre, progresser... dans les différentes disciplines.
     - [**DYS**](https://www.ffdys.com/troubles-dys){target=_blank} : comprendre les troubles cognitifs spécifiques.
-    - [**Documents libres de droits**](https://www.reformedulycee.fr/2019/11/documents-libres-de-droits-nos-sites-preferes/){target=_blank} : liste non exhaustive de sites proposant des images, vidéos et musiques libres de droits. (Lelivrescolaire.fr)
+    - [**Documents libres de droits**](https://www.reformedulycee.fr/2019/11/documents-libres-de-droits-nos-sites-preferes/){target=_blank} : liste non exhaustive de sites proposant des images, vidéos et musiques libres de droits. (*Lelivrescolaire.fr*)
     - [**Musiques libres de droits**](https://www.auboutdufil.com/){target=_blank} à télécharger.
 
 ??? info "Logiciels and Co"
@@ -70,7 +70,7 @@ ___
 
 ___
 ## EMI Médias et Information
-??? question "Pourquoi et comment s'informer ?" 
+??? question "**Pourquoi et comment s'informer** ?" 
     
     * S'informer pour comprendre le monde
     
@@ -87,13 +87,13 @@ ___
     ???+ attention "Comment développer son esprit critique ?"
         ![Esprit critique](./images/esprit_critique.jpg "Esprit critique"){width=70% align=left}
         
-??? "Sites pour s'informer"
-    ???+ "Des Journaux"
+??? "**Sites pour s'informer**"
+    ???+ "**Des Journaux**"
         * [**Le Monde**](https://www.lemonde.fr/){target=_blank}
         * [**Le Figaro**](https://www.lefigaro.fr/){target=_blank}
         * [**Ouest-France**](https://www.ouest-france.fr/){target=_blank}
         
-    ???+ "Autres sites"
+    ???+ "**Autres sites**"
         [![**Lire l'actu**](./images/editeurs/lirelactu.jpg "Page d'accueil lirelactu"){width=20%}](http://lirelactu.fr/){target=_blank}
 
         * [**AFP**](https://www.afp.com/fr){target=_blank}
@@ -104,20 +104,20 @@ ___
      
         
 
-??? question "Enquêtes sur les médias"
+??? question "**Enquêtes sur les médias**"
     - [**Comment les français s'informent-ils sur Internet ?**](https://www.fondationdescartes.org/wp-content/uploads/2021/03/Etude_Information_Internet_FondationDescartes_2021.pdf){target=_blank}
 
-??? question "Désintox : vrai ou fake ?"
+??? question "**Désintox : vrai ou fake ?**"
     En ces périodes troublées, il est plus que jamais ==**nécessaire et important**== de lutter contre la désinformation. 
     
     - [**Quelles solutions pour lutter contre la désinformation**](https://www.europe1.fr/medias-tele/quelles-solutions-pour-lutter-contre-la-desinformation-4042553){target=_blank} : Fabrice Fries, président de l'AFP et auteur de "L'Emprise du faux" répond sur Europe1.
     - [**FranceInfo**](https://www.francetvinfo.fr/vrai-ou-fake/){target=_blank}
     - [**Poutine à la "Une" du Times**](https://www.francetvinfo.fr/monde/europe/manifestations-en-ukraine/vrai-ou-fake-guerre-en-ukraine-non-cette-couverture-du-magazine-time-associant-poutine-et-hitler-n-est-pas-authentique_4987458.html){Target=_blank} : un exemple de fake.
 
-??? "Ressources pour l'EMI"
+??? "**Ressources pour l'EMI**"
     [**Padlet de ressources**](https://padlet.com/cdinddmporsmeur/emi){target=_blank}
 
-??? "Données personnelles"
+??? "**Données personnelles**"
     - [**Cybermalveillance**](https://www.cybermalveillance.gouv.fr/){target=_blank} : site officiel pour assister les particuliers, les entreprises, les associations, les collectivités et les administrations victimes de cybermalveillance, les informer sur les menaces numériques et les moyens de s'en protéger.
     - [**10 conseils pour assurer votre cybersécurité**](https://www.cybermalveillance.gouv.fr/tous-nos-contenus/bonnes-pratiques/10-mesures-essentielles-assurer-securite-numerique){target=_blank}
     - [**Conseils pour la gestion des "Mots de passe"**](https://www.cybermalveillance.gouv.fr/tous-nos-contenus/bonnes-pratiques/mots-de-passe){target=_blank}
@@ -192,7 +192,7 @@ ___
     
     * Management et Gestion : Créer ma propre entreprise
     
-    * Histoire : Savoir être et savoir vivre à la Renaissance
+    * Histoire : Savoir-être et savoir-vivre à la Renaissance
 
     ==**PROJETS COURTS**== (*9 semaines*)
     
@@ -498,6 +498,40 @@ ___
     
 ___ 
 ## Grand Oral
+
+[**Padlet de ressources pour le GO**](https://padlet.com/cdinddmporsmeur/grandoral2021){target=_blank}
+
+
+??? "**Présentation**" 
+    
+    Pour ne pas stresser, ce [**test**](https://learningapps.org/display?v=pf4o5pjnk21){target=_blank} récapitule ce qu'il est conseillé de faire ou au contraire préférable d'éviter.
+        
+    === "**REFERENTIEL**"
+        - [**Comment se passe le grand oral ?**](https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-comment-se-passe-le-grand-oral-100028){target=_blank} : objectifs et modalités.
+    
+??? "**Méthodologie**" 
    
-??? "Se préparer pour l'oral"
-    [**Padlet de ressources pour le GO**](https://padlet.com/cdinddmporsmeur/grandoral2021){target=_blank}
+    === "**TUTORIELS**"
+        - [**Petits tutos Lumni**](https://www.lumni.fr/dossier/preparer-son-oral#3){target=_blank} : se préparer - se présenter - s'engager - maîtriser les codes de la communication orale. (*Lumni*)
+        - [**La minute du coach ?**](https://www.editions-hatier.fr/grand-oral){target=_blank} : conseils et ressources pour préparer l'épreuve. (*Editions Hatier*)
+        - [**Exercices**](https://www.super-bac.com/articles/bac/exercices-grand-oral-maniere-parler/){target=_blank} pour améliorer sa manière de parler.
+    === "**S'ORGANISER**"
+
+??? "**Ressources par disciplines**"
+
+    === "**HGGSP**"
+    === "**HLP**"
+    === "**LLCER**"
+    === "**MATH**"
+    === "**NSI**"
+    === "**PHYSIQUE-CHIMIE**"
+    === "**SES**"
+    === "**SI**"
+    === "**SVT**"
+    === "**STMG**"
+        - [**Quelles questions pour le grand oral ?**](https://grand-oral-enseignants.lerobert.com/9782321015383/assets/les-ressources-numeriques-pour-les-stmg-1/preview){target=_blank} : liste des thèmes du porgramme et exemples de questions par spécialité. 
+    
+
+
+
+   
