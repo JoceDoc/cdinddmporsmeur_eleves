@@ -23,26 +23,27 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
 [![UCO - BN](./images/orientation/JPO_2023_UCO_BN.jpg "Affiche"){width=35%}](https://guingamp.uco.fr/fr/publication/testez-l-universite-grace-aux-journees-decouvertes){target=_blank}
 [![Flyer](./images/orientation/Flyer-Semaine_automobile_2023.jpg "Affiche"){width=40%}](./pdf/Flyer-Semaine_automobile_2023.pdf){target=_blank}
 
-??? info "**Les informations du mois de DECEMBRE par M. QUINIO, coordinateur pour l'orientation**"
+??? info "**Les informations du mois de JANVIER - M. QUINIO, coordinateur pour l'orientation**"
     
-    Quelques informations autour de l'orientation post-bac avant de partir en vacances :
+    Quelques informations en ce début d'année concernant les dispositifs d'aide à l'orientation :
 
-    ==**Parcoursup**== : A partir du ==**20/12**== vous aurez accès au catalogue 2023 des formations sur le site Parcoursup. Il faudra attendre le ==**18/01**== pour pouvoir vous inscrire et entrer des voeux.
+    - ==**Ouverture des dossiers *Parcoursup* à partir du 18/01**== 
+    L'ouverture se fera en classe avec votre prof référent.
 
-    ==**UBO**== : Les mercredis après-midi insta'fac continuent et vous pouvez vous y inscrire [**ici**](https://www.univ-brest.fr/cap-avenir/menu/Bloc-Lyceen){target=_blank}. Sur le même site vous pouvez vous inscrire à des immersions en février dans différentes filières de l'UBO.
-    
-    Pour rappel : vous devrez justifier votre absence à l'avance par un mot de vos parents et un justificatif d'inscription déposés à la vie scolaire. 
-    Attention : bac blanc la semaine du ==**16/01**== !
-    
-    ==**Lycée Kerichen**== : ==**immersions**== dans les classes prépas littéraires, économiques et scientifiques. Dates et modalités [==**ICI**==](./pdf/ministages_kerichen.pdf){target=_blank}. Si vous êtes interessés, merci d'en informer M. Quinio par mail avant le 05/01 afin qu'il puisse vous y inscrire. Ne pas oublier de préciser la filière et le jour souhaités. Ne pas prévoir de visite la semaine du 16/01 (bac blanc).
+    - ==**Salon *Azimut* à Brest du 19 au 21/01**==
+    Visite du salon pour le niveau terminale vendredi après-midi entre 12h15 et 16h20.
 
-    ==**Forum en ligne**== : reprise des conférences ==**lundi 09/01**== avec la présentation du BUT Info/COM de Lannion. Un message vous sera envoyé à la rentrée. Le forum de l'orientation du lycée aura lieu le vendredi 10/02 entre 13h20 et 16h20. 
+    - ==**Immersions**==  Ne pas hésiter à contacter la ou les formations qui vous intéressent pour leur demander la possibilité d'une immersion. Voir toutes les propositions d'immersions ci-dessous [**Niveau Tle**](https://cdi-lycee.ecmorlaix.fr/orientation/#niveau-tle){target=_blank}
 
-    Pour finir, le CIO de Morlaix peut être un passage utile pour vous aider dans votre projet. Il reste ouvert pendant les vacances de Noël.
+    - ==**Portes ouvertes**== : La saison des portes ouvertes bat son plein entre janvier et mars. Le plus simple pour connaitre les dates est de rechercher la formation sur **Parcoursup**. Liste des portes ouvertes de l'[**académie de Rennes**](https://cdi-lycee.ecmorlaix.fr/pdf/JPO_superieur_2023_Ac_Rennes_ONISEP_Bretagne_20230110.pdf){target=_blank}
+
+    - ==**Forum en ligne**== : Deux dernières séances - ==**Lundi 23/01**== - Licence arts et spectacles (Rennes) et ==**lundi 30/01**== - BUT Techniques de Commercialisations (Quimper).
+
+    - ==**Forum de l'orientation au lycée**== : Vendredi 10/02 entre 15h30 et 16h20 pour les élèves de terminales (plus d'informations à venir)
 
 
 ???+ info "**Au fil de la presse...**"
-    - [**Le Télégramme - 30/12/2022**](https://www.letelegramme.fr/finistere/morlaix/a-23-ans-il-est-regisseur-dans-une-salle-mythique-loan-peron-de-plougonven-aux-coulisses-de-l-olympia-30-12-2022-13250759.php){target=_blank} : À 23 ans, il est régisseur « dans une salle mythique » : Loan Péron, de Plougonven, aux coulisses de l’Olympia , l'atout drone des pompiers finistériens". Bravo à cet ancien élève du lycée.
+    - [**Le Télégramme - 30/12/2022**](https://www.letelegramme.fr/finistere/morlaix/a-23-ans-il-est-regisseur-dans-une-salle-mythique-loan-peron-de-plougonven-aux-coulisses-de-l-olympia-30-12-2022-13250759.php){target=_blank} : À 23 ans, il est régisseur « dans une salle mythique » : Loan Péron, de Plougonven, aux coulisses de l’Olympia. Bravo à cet ancien élève du lycée.
     - [**Le Télégramme - 14/09/2022**](https://www.letelegramme.fr/finistere/morlaix/gwenael-morel-l-atout-drone-des-pompiers-finisteriens-14-09-2022-13178211.php){target=_blank} : Gwenaël Morel, l'atout drone des pompiers finistériens"
     - [**Ouest-france - 24/05/2022**](https://www.ouest-france.fr/bretagne/morlaix-29600/dans-le-pays-de-morlaix-comme-ailleurs-tous-les-metiers-sont-en-tension-6a181b20-db6e-11ec-84fd-0d1f31a3fa84){target=_blank} : Dans le pays de Morlaix comme ailleurs , "tous les métiers sont en tension"...
 

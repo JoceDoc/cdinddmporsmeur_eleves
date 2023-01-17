@@ -278,21 +278,25 @@ ___
     [**Programme d´EMC**](https://eduscol.education.fr/1681/programmes-et-ressources-en-enseignement-moral-et-civique-voie-gt){target=_blank}
     
 ??? "Ressources" 
-    - [**Le dessous des cartes**](https://www.arte.tv/fr/videos/RC-014036/le-dessous-des-cartes/){target=_blank} : le magazine géopolitique d'Arte, créé par Jean-Christophe Victor et présenté par Émilie Aubry pour comprendre les enjeux de notre monde contemporain au moyen de cartes géographiques. Diffusée à l'antenne tous les samedis à 19h30, l'émission est disponible en replay et en VOD et DVD.
-    - [**France Culture**](https://www.franceculture.fr/geopolitique){target=_blank} : Analyses et décryptages : comprendre les relations internationales et la géopolitique du monde actuel grâce aux émissions et podcasts de France Culture.
-    - [**Lumni**](https://www.lumni.fr/recherche?query=G%C3%A9opolitique&establishment=lycee&schoolLevel=seconde){target=_blank} : Série Géopoliticus pour décrypter la géopolitique à l’aide d’infographies animées pour comprendre le monde et les grands enjeux politiques de notre temps.
-    - [**IRIS - Institut de Relations Internationales et Stratégiques**](https://www.iris-france.org/){target=_blank}
-    - [**Revue Conflits**](https://www.revueconflits.com/){target=_blank} : Revue de géopolitique.
-    - [**Site du gouvernement**](https://www.gouvernement.fr){target=_blank} : composition, actualité du gouvernement français.
+    === "SITES INSTITUTIONNELS"
+        - [**Service public**](https://www.vie-publique.fr/fiches){target=_blank} : fiches thématiques pour comprendre le fonctionnement des principales institutions.
+        - [**Site du gouvernement**](https://www.gouvernement.fr){target=_blank} : composition, actualité du gouvernement français.
+    === "CARTES"
+        - [**Le dessous des cartes**](https://www.arte.tv/fr/videos/RC-014036/le-dessous-des-cartes/){target=_blank} : le magazine géopolitique d'Arte, créé par Jean-Christophe Victor et présenté par Émilie Aubry pour comprendre les enjeux de notre monde contemporain au moyen de cartes géographiques. Diffusée à l'antenne tous les samedis à 19h30, l'émission est disponible en replay et en VOD et DVD.
+    === "GEOPOLITIQUE"
+        - [**Lumni**](https://www.lumni.fr/recherche?query=G%C3%A9opolitique&establishment=lycee&schoolLevel=seconde){target=_blank} : Série "Géopoliticus" pour décrypter la géopolitique à l’aide d’infographies animées et comprendre le monde et les grands enjeux politiques de notre temps.
+        - [**Revue Conflits**](https://www.revueconflits.com/){target=_blank} : Revue de géopolitique.
+    === "RELATIONS INTERNATIONALES"
+        - [**France Culture**](https://www.franceculture.fr/geopolitique){target=_blank} : Analyses et décryptages : comprendre les relations internationales et la géopolitique du monde actuel grâce aux émissions et podcasts de France Culture.
+        - [**EURONEWS**](https://fr.euronews.com/tag/relations-internationales){target=_blank} : actualités des relations internationales.
+        - [**IRIS - Institut de Relations Internationales et Stratégiques**](https://www.iris-france.org/){target=_blank}
+        
+    
+??? "Concours"
     - [**Concours national de la résistance**](https://www.reseau-canope.fr/cnrd/){target=_blank} : ressources pour participer.
-    
-??? "Actualité UKRAINE"
-    - [**Histoire de l'Ukraine**](https://www.franceculture.fr/emissions/serie/une-histoire-de-l-ukraine){target=_blank} : Série d'émissions à retrouver dans l'émission "la fabrique de l'histoire" sur France culture.
-    - [**Ressources des éditions Magnard**](https://www.magnard.fr/article/toutes-les-actualites-de-lhistoire-geographie-et-de-lhggsp){target=_blank}
-    
+     
 ??? "Séances pédagogiques"   
-    [**Faire une revue de presse thématique**](./pdf/HGGSP_1re_revue de presse thématique.pdf){target=_blank}
-    
+    - [**Faire une revue de presse thématique**](./pdf/HGGSP_1re_revue de presse thématique.pdf){target=_blank}
     
 ??? "Etudes et géopolitique"
     Si la géopolitique vous intéresse, pourquoi ne pas continuer vos études dans cette voix à l'[**Institut Français de géopolitique**](https://www.geopolitique.net/fr/){target=_blank}
