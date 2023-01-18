@@ -18,10 +18,12 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
 
 
 ## Actualités
+
 [![IFPS_Vannes](./images/orientation/IFPS_VANNES_PO-2023.jpg "Affiche"){width=35%}](https://www.ifps-vannes.fr/){target=_blank}
 [![FOROMAP29](./images/orientation/affiche_foromap_2023_def.jpg "Affiche"){width=35%}](https://www.foromap29.fr/){target=_blank}
 [![UCO - BN](./images/orientation/JPO_2023_UCO_BN.jpg "Affiche"){width=35%}](https://guingamp.uco.fr/fr/publication/testez-l-universite-grace-aux-journees-decouvertes){target=_blank}
 [![Flyer](./images/orientation/Flyer-Semaine_automobile_2023.jpg "Affiche"){width=40%}](./pdf/Flyer-Semaine_automobile_2023.pdf){target=_blank}
+[![Nuit de l'Orientation -RENNES](./images/orientation/2023_nuit_orientation_RENNES.jpg "Affiche"){width=35%}](https://www.bretagne.cci.fr/formation/s-orienter/les-nuits-de-l-orientation-2022-et-2023){target=_blank}
 
 ??? info "**Les informations du mois de JANVIER - M. QUINIO, coordinateur pour l'orientation**"
     
@@ -70,7 +72,8 @@ ___
     === "GUIDES"
         Tous les [**guides IDEO**](https://ideo.bretagne.bzh/publications){target=_blank} pour l'aide à l'orientation.
     
-        -[![**Guide "Que faire après le BAC ?"**](./images/orientation/Guide_IDEO_Apres_BAC_2022-2023.jpg "Que faire après le BAC"){width=20%}](./pdf/Guide_IDEO_Apres_BAC_2022-2023.pdf){target=_blank}
+        -[![**Guide "Que faire après la 3e ?"**](./images/orientation/IDEO_2022_que_faire_apres_la_3e.png "Que faire après la 3e"){width=20%}](./pdf/IDEO_2022_que_faire_apres_la_3e.pdf){target=_blank}
+        -[![**Guide "Que faire après le BAC ?"**](./images/orientation/IDEO_Apres_BAC_2022-2023.jpg "Que faire après le BAC"){width=20%}](./pdf/IDEO_Apres_BAC_2022-2023.pdf){target=_blank}
         -[![**Guide "Entrer dans le SUP 2022**](./images/orientation/Entrer_dans_le_sup_2022.jpg "Entrer dans le SUP 2022"){width=20%}](./pdf/GUIDE_ENTRER_DANS_LE_SUP_2022.pdf){target=_blank}
     === "QUIZ"
         - [**Quiz de l'ONISEP**](https://www.onisep.fr/decouvrir-les-metiers/les-quiz-de-l-onisep/){target=_blank} :
@@ -175,6 +178,7 @@ ___
     === "PO - IMMERSIONS"
         - [**PORTES OUVERTES DU SUPERIEUR - Académie de Rennes**](./pdf/JPO_superieur_2023_Ac_Rennes_ONISEP_Bretagne_20230110.pdf){target=_blank}
         - [**PORTES OUVERTES DU SUPERIEUR - National**](https://www.onisep.fr/Choisir-mes-etudes/apres-le-bac/les-journees-portes-ouvertes-2022-2023-dans-l-enseignement-superieur){target=_blank}
+        - [**Catalogue IDEO des IMMERSIONS - Bretagne**](https://www.linscription.com/pro/catalogue-immersion-brio-ideo-actions-pour-lyceens.php){target=_blank}
         - [**Printemps de l'orientation**](https://www.education.gouv.fr/reussir-au-lycee/le-printemps-de-l-orientation-327179){target=_blank} : ==20, 21 et 22 mars 2023==
         
         ???+ info "BTS"
@@ -186,7 +190,9 @@ ___
             - [**BTS SIO**](http://www.saint-louis29.net/wp-content/uploads/2023/01/plaquette-BTS-22-23.pdf){target=_blank} : journées portes-ouvertes  ==vendredi 3 mars 2023 (17h00 à 19h00)== et ==samedi 4 mars (9h00 à 12h00)== (*Chateaulin - 29*)
             - [**BTS SP3S**](https://www.lycee-campostal-gouarec.com/A-VOS-AGENDAS-MINI-STAGE-DECOUVERTE-BTS-SP3S){target=_blank} : mini-stages découverte  ==jeudi 19 janvier 2023 (9h45 à 16h)== (*Rostrenen - Gouarec 22*)
             - [**Lycée Le Sage**](https://www.lycee-lesage.fr/La-formation/5/brevet-de-technicien-superieur){target=_blank} : BTS commerce international - BTS Comptabilité et gestion - BTS Systèmes numériques option électronique et communication ==Vendredi 3 février 2023 de 17h30 à 20h30==  et ==Samedi 4 février 2023 de 9h à 12h30== (*Vannes - 56*)
-        
+            - [**BTS CI**](https://www.lekreisker.fr/accueil-lycee-notre-dame-du-kreisker/nos-formations/bts-commerce-international/){target=_blank} (Commerce International): portes ouvertes ==vendredi 10 mars 2023 (17h à 20h)== et ==samedi 11 mars (9h à 13h)== préinscriptions et modalités d'inscriptions. (*Saint-Pol-de-Léon - 29*)
+
+
         ???+ info "IUT"
             - ==**IUT Brest-Morlaix**== : demi-journées d'immersion pour les lycéens de terminale en Génie Biologique (GB), Génie Mécanique et Productique (GMP) et Gestion Administrative et Commerciale (GACO). [**Inscription obligatoire sur weezent**](https://www.iut-brest.fr/evenements/journees-dimmersion-des-lyceens-a-liut/){target=_blank}. 
             - ==**Matinales de l'orientation**== : à l'IUT de Saint-Nazaire ==mercredi 30 novembre==. [**Formulaire d'inscription**](https://questionnaires.univ-nantes.fr/index.php/573826?newtest=Y&lang=fr){target=_blank}.
@@ -223,6 +229,8 @@ ___
     === "RESSOURCES"
         - [**Vers le PADLET voie pro**](https://padlet.com/cdinddmporsmeur/LP_2020){target=_blank}
         - [**Recherche de stage, mode d'emploi**](./pdf/IDEO_Recherche_de_stage_mode_d_emploi.pdf){target=_blank}
+        - [**Je choisis mon CAP**](./pdf/IDEO_2022_je_choisis_mon_CAP.pdf){target=_blank}
+
     === "PARCOURSUP"    
         - [**PARCOURSUP - Site officiel**](https://www.parcoursup.fr/index.php?desc=){target=_blank}
         - [**Vidéo PARCOURSUP - Comment choisir une formation ?**](https://youtu.be/WJzf3wRqcWo){target=_blank}
@@ -417,7 +425,7 @@ ___
     === "ECOLES"
         - [**CPE Lyon**](https://www.cpe.fr/){target=_blank} : Ecole d'Ingénieurs en Chimie et Sciences du Numérique (*Lyon - 69*).
         - [**EPITA**](https://www.epita.fr/){target=_blank} : Ecole des ingénieurs en intelligence informatique.
-        - [**ENSC Rennes**](https://www.ensc-rennes.fr/){target=_blank} : Ecole Nationale Supérieure de Chimie (*Rennes - 35*).
+        - [**ENSC Rennes**](https://www.ensc-rennes.fr/){target=_blank} : Ecole Nationale Supérieure de Chimie - [Visioconférence](https://www.ensc-rennes.fr/admission-en-cpi-visioconferences-supplementaires-en-mars/){target=_blank} ==**samedi 21 janvier 2023**== et ==**mercredi 1er mars**==. (*Rennes - 35*)
         - [**ESGT**](https://www.esgt.cnam.fr/presentation/){target=_blank} : École Supérieure d'Ingénieurs Géomètres et Topographes (*Le Man - 72*).
         - [**ESIGELEC**](https://www.esigelec.fr/fr){target=_blank} : Ecole d'Ingénieurs généralistes (*Saint-Étienne-du-Rouvray - 76*).
         - [**ESME**](https://www.esme.fr/){target=_blank} : les ingénieurs qui transforment le monde (numérique, robotique et IA et transition énergétique).
