@@ -21,9 +21,10 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
 
 [![IFPS_Vannes](./images/orientation/IFPS_VANNES_PO-2023.jpg "Affiche"){width=35%}](https://www.ifps-vannes.fr/){target=_blank}
 [![FOROMAP29](./images/orientation/affiche_foromap_2023_def.jpg "Affiche"){width=35%}](https://www.foromap29.fr/){target=_blank}
-[![UCO - BN](./images/orientation/JPO_2023_UCO_BN.jpg "Affiche"){width=35%}](https://guingamp.uco.fr/fr/publication/testez-l-universite-grace-aux-journees-decouvertes){target=_blank}
+[![UCO - BN](./images/orientation/UCO_guingamp_programme_fevrier_2023.jpg "Affiche"){width=35%}](https://guingamp.uco.fr/fr/publication/testez-l-universite-grace-aux-journees-decouvertes){target=_blank}
 [![Flyer](./images/orientation/Flyer-Semaine_automobile_2023.jpg "Affiche"){width=40%}](./pdf/Flyer-Semaine_automobile_2023.pdf){target=_blank}
-[![Nuit de l'Orientation -RENNES](./images/orientation/2023_nuit_orientation_RENNES.jpg "Affiche"){width=35%}](https://www.bretagne.cci.fr/formation/s-orienter/les-nuits-de-l-orientation-2022-et-2023){target=_blank}
+[![Nuit de l'Orientation - RENNES](./images/orientation/2023_nuit_orientation_RENNES.jpg "Affiche"){width=35%}](https://www.bretagne.cci.fr/formation/s-orienter/les-nuits-de-l-orientation-2022-et-2023){target=_blank}
+[![ASKORIA - MORLAIX](./images/orientation/askoria_PO_2023_affiche_morlaix-page-001.jpg "Affiche"){width=35%}](https://www.askoria.eu/index.php/nos-campus-des-solidarites?start=2){target=_blank}
 
 ??? info "**Les informations du mois de JANVIER - M. QUINIO, coordinateur pour l'orientation**"
     
@@ -164,13 +165,11 @@ ___
     === "FORUM EN LIGNE"
         - [**FORUM EN LIGNE**](https://padlet.com/cdinddmporsmeur/forum_en_ligne_2022){target=_blank} 
         
-            Prochains rendez-vous :
+            Prochain rendez-vous :
             
-            * ==**lundi 16/01 (18h30-19h)**== : présentation de la licence de psychologie - [**Inscription cette visio**](https://docs.google.com/forms/d/e/1FAIpQLSfVKyDIJaA2I0R05okvmnbV5vELdgsNEc-JQODJle34cUL0tg/viewform){target=_blank} ==**avant dimanche - 17h**==
+            ==**lundi 16/01 (18h30-19h)**== : présentation de la licence arts du spectacle - [**Inscription à la visio**](https://docs.google.com/forms/d/e/1FAIpQLSfVKyDIJaA2I0R05okvmnbV5vELdgsNEc-JQODJle34cUL0tg/viewform){target=_blank} ==**avant dimanche - 17h**==
             
-            * ==**lundi 16/01 (18h40-19h)**== : présentation de l'UTC, école d'ingénieurs - [**Inscription ici**](https://docs.google.com/forms/d/e/1FAIpQLSff4D0htwnMe-JEoZVp53_EBOtgksQIxgRwFR1KYmcBy0n4Sg/viewform){target=_blank} ==**avant dimanche - 17h**==
-        
-            
+                        
     === "PARCOURSUP"
         [![**PARCOURSUP"**](./images/orientation/parcoursup.png "Page d'accueil PARCOURSUP"){width=20%}](https://www.parcoursup.fr/index.php?desc=){target=_blank}
         
@@ -347,6 +346,7 @@ ___
         - [**Appareillage médical**](https://www.youtube.com/watch?v=b2T9387AzkY){target=_blank} : enseignement supérieur santé du [**Lycée Mongazon**](https://www.mongazon.org/){target=_blank} (BTS Podo orthésiste - BTS Prothésiste orthésiste - CP Orthopédiste orthésiste) (*Angers - 49*)
     === "SOCIAL"
         - [**ITES**](https://www.ites-formation.com/){target=_blank} : Institut de Formation  au Travail Educatif et Social.
+        - [**ASKORIA**](https://www.askoria.eu/index.php/formations/toutes-nos-formations-qualifiantes){target=_blank}  activateur de solidarités : 1ère école française de travail social, formant à l’ensemble des métiers de l’intervention sociale (action  sociale - Education et prévention spécialisée - Accompagnement éducatif et social - Animation sociale et territoriale -Fonctions tutorales - Protection des majeurs et des mineurs - Management d’équipes, de projets et de dispositifs).
     === "SPORT"
         - [**Travailler dans le sport**](https://sport.onisep.fr/){target=_blank} : je construis mon projet dans le sport sur le site de l'**ONISEP**.
         - [**Fiches métiers**](https://www.letudiant.fr/metiers/secteur/sport.html){target=_blank} : site de **L'Etudiant**.
@@ -359,16 +359,23 @@ ___
 
 ___ 
 ### BTS
+
+    
+
 ??? "Liens utiles"
     === "PRESENTATION"
-        - [**Les BTS**](https://www.onisep.fr/Choisir-mes-etudes/apres-le-bac/organisation-des-etudes-superieures/Les-BTS){target=_blank} : organisation des études, poursuite d'études.
+        - [**Les BTS**](https://www.onisep.fr/Choisir-mes-etudes/apres-le-bac/organisation-des-etudes-superieures/Les-BTS){target=_blank} : organisation des études, poursuite d'études. (*Sources : Onisep*)
         - [**Liste des BTS**](https://www.letudiant.fr/etudes/bts.html){target=_blank} : tout savoir sur le BTS et accéder à la liste des BTS par domaine.(*Sources : L'étudiant*)
+    === "ACTUALITES - PO"
+        [![Lycée CHAPTAL](./images/orientation/Chaptal_affiche_PO.jpg "Affiche"){width=25%}](https://www.lycee-chaptal.fr/nos-formations/enseignement-superieur/){target=_blank}
+        [![Lycée Lammenais](./images/orientation/Lammenais_BTS_MCO_mini-stages.jpg "Affiche"){width=25%}](https://www.lycee-lamennais.fr/parcours-services-au-entreprises/){target=_blank}
     === "ECOLES"
         - [**Les 2 Rives**](https://les-2-rives.fr/enseignement-superieur/){target=_blank} : BTS Conseiller de Clientèle - BTS Assurance - BTS CRSA (Conception et réalisation de systèmes automatiques). (*Landerneau*)
         - [**Campus de Pouillé**](https://www.campus-pouille.com/){target=_blank} : BTS dans le domaine de la nature, du vivant et de l'environnement. (*Angers*)
-        - [**Chaptal**](https://www.lycee-chaptal.fr/nos-formations/enseignement-superieur/bts-sp3s/){target=_blank} : BTS SP3S (Services et Prestations des Secteurs Sanitaire et Social). (*Quimper*)
+        - [**Chaptal**](https://www.lycee-chaptal.fr/nos-formations/enseignement-superieur/){target=_blank} : BTS Bioqualité - Diététique - ESF - Collaborateur-juriste - SAM - SIO - SP3S - DECESF) (*Quimper*)
         - [**Fénelon**](https://www.fenelonsup.org/formations/brevet-technicien-superieur-economie-sociale-familiale/){target=_blank} : BTS EFS (Economie Familiale et Sociales). (*Brest*)
         - [**Jules Lesven**](https://www.lycee-jules-lesven.org/formations-593-0-0-0.html){target=_blank} : BTS CG (Comptabilité Gestion) - BTS PI (Professions Immobilières) - BTS CI (Commerce International) - BTS G PME (Gestion de la PME) - BTS MMV (Métiers de la Mode et du Vêtement). (*Brest*)
+        - [**Lammenais**](https://www.lycee-lamennais.fr/parcours-services-au-entreprises/){target=_blank} : BTS MCO (*Ploërmel*)
         - [**Notre-Dame-de-Guingamp**](https://www.notredameguingamp.fr/superieur/bts-me-metiers-de-leau/){target=_blank} : BTS Métiers de l'eau (*Guingamp*)
         - [**Le Paraclet**](https://www.leparaclet.org/formations-quimper/enseignement-superieur/bts-management-en-hotellerie-restauration/){target=_blank} : BTS Management en hôtellerie restauration (*Quimper*)
         - [**Rosa Parks**](https://www.lp-rosaparks-rostrenen.ac-rennes.fr/spip.php?article273){target=_blank} : BTS MOS (Management Opérationnel de la Sécurité) [**Fiche de présentation**](./pdf/fiche_bts_mos.pdf){target=_blank}(*Rostrenen*)
@@ -377,6 +384,9 @@ ___
 ### BUT
 ??? "Liens utiles"
     === "PRESENTATION"
+        - [**BACHELORS**](https://www.onisep.fr/Choisir-mes-etudes/apres-le-bac/Conseils-et-strategies-d-etudes/Quelle-reconnaissance-pour-les-diplomes-du-superieur/les-bachelors){target=_blank} : Quelle reconnaissance pour les diplômes du supérieur ? (*Sources : Onisep*)
+        - [**Qu'est-ce qu'un BACHELOR ?**](https://www.letudiant.fr/etudes/ecole-de-commerce/qu-est-ce-qu-un-bachelor-1.html){target=_blank} : (*L'Etudiant  : Onisep*)
+    === "IUT et SPECIALITES"  
         - [**Annuaire des IUT**](https://www.iut.fr/){target=_blank} : 108 IUT, 170 campus partout en France, 24 spécialités.
         - [**Les IUT vers le BUT**](https://www.iut.fr/le-but-et-ses-specialites/){target=_blank}
         - [**Les 24 spécialités de BUT**](https://www.iut.fr/bachelor-universitaire-de-technologie/){target=_blank}
@@ -446,7 +456,8 @@ ___
         - [**Pourquoi choisir la Fac ?**](https://www.letudiant.fr/etudes/fac/universite-les-10-bonnes-raisons-de-choisir-la-fac.html){target=_blank} (*Sources : L'Etudiant*).
     === "CAMPUS"
         - [**ICR**](https://www.icrennes.org/){target=_blank} : Institut Catholique de Rennes.
-        - [**RENNES 1**](https://www.univ-rennes1.fr/){target=_blank} : Université de Rennes1.
+        - [**RENNES1**](https://www.univ-rennes1.fr/){target=_blank} : Université de Rennes1.
+        - [**RENNES2**](https://www.univ-rennes2.fr/){target=_blank} : Université de Rennes2.
         - [**UBO**](https://nouveau.univ-brest.fr/fr){target=_blank} : Université de Bretagne Occidentale.
         - [**UCO**](https://www.uco.fr/fr){target=_blank} : Université Catholique de l'Ouest.
         - [**UTBM**](https://www.utbm.fr/){target=_blank} : Université de Technologie de Belfort-Montbéliard.

@@ -9,9 +9,14 @@
     - [**Panorama des arts**](https://panoramadelart.com/){target=_blank}
 
 ## Actualités
+Pour activer son compte sur [**EduConnet**](https://educonnect.education.gouv.fr/idp/profile/SAML2/Redirect/SSO?execution=e1s1){target=_blank}, cliquer sur l'affiche ci-dessous, puis télécharger l'application [**PASS CULTURE**](https://pass.culture.fr/){target=_blank}
+
+[![**PASS CULTURE**](./images/culture/Pass_Culture_Affiche.jpg "Accès EduConnet"){width=35%}](https://educonnect.education.gouv.fr/idp/profile/SAML2/Redirect/SSO?execution=e1s1){target=_blank}
+
+
 
 ???+ info "**Les mercredis des sciences**"
-    
+     
     Au [**Programme**](https://www.espace-sciences.org/morlaix/programme){target=_blank} du mois de janvier de l'[**Espace des sciences**](https://www.espace-sciences.org/morlaix){target=_blank} : 
     
     * La chirurgie cardiaque d'hier à aujourd'hui.
