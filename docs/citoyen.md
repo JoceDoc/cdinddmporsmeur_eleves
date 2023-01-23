@@ -6,12 +6,12 @@
     
 ## Actualités
 
-![Sobriété_numérique](./images/guide-en-route-vers-sobriete-numerique-page-001.jpg "Affiche_sobriete"){width=20% align=left}
+[![Sobriété_numérique](./images/guide-en-route-vers-sobriete-numerique-page-001.jpg "Affiche_sobriete"){width=20% align=left}](./pdf/guide-en-route-vers-sobriete-numerique.pdf){target=_blank}
 
 
 * [**La sobriété numérique**](./pdf/guide-en-route-vers-sobriete-numerique.pdf){target=_blank} ou comment profiter du numérique en gardant le contrôle ? 
 
-**^^Au sommaire :^^** 
+    **^^Au sommaire :^^** 
     
 * La face cachée du numérique 
     
@@ -44,12 +44,14 @@
 ### Délégués - CVL
 ??? "**Délégué pour quoi faire ?**"
     ???+ "**Présentation**"
-        ![Délégué](./images/nuage-de-mots_delegue.png "Nuage_delegue"){width=50% align=right}
+        ![Délégué](./images/parcours_citoyen/nuage-de-mots_delegue.png "Missions_délégués"){width=50% align=right}
         Porte-paroles de tous les élèves auprès des enseignants et des autres adultes de l'établissement, les ==**délégués**==  et membres du ==**CVL**== font partie des ==**instances lycéennes**== qui participent à la qualité du ==**climat scolaire**==. 
     
-        Pour tout savoir sur le [**rôle des délégués et du Conseil de Vie Lycéenne**](https://www.education.gouv.fr/les-representants-des-eleves-au-college-et-au-lycee-7514){target=_blank} et accéder aux [**textes de référence**](https://www.service-public.fr/particuliers/vosdroits/F1370){target=_blank}
+        - Tout savoir sur le [**rôle des délégués et du CVL**](https://www.education.gouv.fr/les-representants-des-eleves-au-college-et-au-lycee-7514){target=_blank}
+        
+        - Accéder aux [**textes de référence**](https://www.service-public.fr/particuliers/vosdroits/F1370){target=_blank}.
 
-        Rôle spécifique des [**éco-délégués**](https://www.education.gouv.fr/des-eleves-eco-delegues-pour-agir-en-faveur-du-developpement-durable-10835){target=_blank} en faveur du développement durable. 
+        - Rôle spécifique des [**éco-délégués**](https://www.education.gouv.fr/des-eleves-eco-delegues-pour-agir-en-faveur-du-developpement-durable-10835){target=_blank} en faveur du développement durable. 
 
     ??? "**Actualités du CVL**"
 
@@ -59,30 +61,43 @@
 ### Contre le harcèlement
 
 ???+ info ""
-    ![Affiche_men](./images/affiche_harcèlement.jpg "Affiche_harcèlement"){width=20% align=left}
+    ![Affiche_men](./images/affiche_harcèlement.jpg "Affiche_harcèlement"){width=30% align=left}
 
-    La lutte contre le harcèlement est une des priorités du [**Ministère de l'Education Nationale**](https://www.education.gouv.fr/lutte-contre-le-harcelement-l-ecole-289530){target=_blank}
+    La lutte contre le harcèlement est une des priorités du [**Ministère de l'Education Nationale**](https://www.education.gouv.fr/lutte-contre-le-harcelement-l-ecole-289530){target=_blank}. Le harcèlement peut prendre différentes formes. 
+    
+    Pour comprendre et agir rendez-vous sur le site [**Eduscol**](https://eduscol.education.fr/974/le-harcelement-entre-eleves){target=_blank}.
 
-    ![Conseils](./images/affiche_10_conseils.jpg "10 conseils"){width=50% align=right}
-
-    Le harcèlement peut prendre différentes formes. Pour comprendre et agir rendez-vous sur le site [**Eduscol**](https://eduscol.education.fr/974/le-harcelement-entre-eleves){target=_blank}.
+    ![Conseils](./images/affiche_10_conseils.jpg "10 conseils"){width=60% align=right}
 
 
 
 ### Service National Universel
 
 ???+ info ""
+    
     Présentation et principes du **SNU** sur le [**site officiel**](https://www.snu.gouv.fr/){target=_blank}
+
+    [![Affiche_SNU](./images//parcours_citoyen/snu_2023_affiche-inscriptions-finistere.jpg "Inscriptions_Finistère"){width=35% align=left}](./pdf/snu_2023_depliant.pdf){target=_blank}
+    
+
     
 ### Vie associative
-???+ tip "Guerre en Ukraine"
-    === "S'informer"
-        - [**France Culture**](https://www.franceculture.fr/theme/conflit-ukrainien){target=_blank} : dossier Ukraine.
-        - [**France Inter**](https://www.franceinter.fr/monde/carte-quels-pays-aident-l-ukraine-dans-la-guerre-contre-la-russie-et-comment){target=_blank}
-        - [**France Info**](https://www.francetvinfo.fr/monde/europe/manifestations-en-ukraine/){target=_blank}
-        - [**Le dessous des cartes**](https://www.arte.tv/fr/videos/RC-014036/le-dessous-des-cartes/){target=_blank} 
-    === "Soutenir"
-        - [**Aider et soutenir l'Ukraine**](https://www.service-public.fr/particuliers/actualites/A15542){target=_blank} : don en argent aux associations, accueil des réfugiés...
+
+??? "Présentation"
+    === "SITES INSTITUTIONNELS"
+        - [**Associations.gouv.fr**](https://www.associations.gouv.fr/je-veux-m-engager.html){target=_blank}
+        - [**JeVeuxAider.gouv.fr**](https://www.jeveuxaider.gouv.fr/){target=_blank}
+        - [**France Bénévolat**](https://www.francebenevolat.org/benevoles/devenir-benevole-un-geste-simple){target=_blank}
+    === "A MORLAIX"
+        - [**Annuaire des associations**](https://www.ville.morlaix.fr/VIVRE-A-MORLAIX/Vie-associative/L-annuaire-des-associations){target=_blank}
+
+
+
+
+
+
+        
+    
 
 
 
