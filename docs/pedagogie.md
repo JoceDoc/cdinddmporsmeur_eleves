@@ -167,72 +167,75 @@ ___
     Informations et actualités du [**Prix folio**](https://www.prixdeslyceensfolio.fr/){target=_blank} sur le site.
     
 ___
-## Seconde générale
+## LGT
+___
+### Seconde générale
 
 ??? info "AP 2nde générale"
     Dans le cadre de l'**accompagnement personnalisé** de la classe de seconde, les élèves participent à un **projet long** et trois **projets courts**.
     
     L’objectif est de les guider dans leurs choix d'orientation, en leur proposant soit des modules de découverte variés où ils pourront exprimer leurs talents, soit des activités liées à une discipline spécifique, ou encore des outils pour les aider à surmonter des difficultés identifiées.
-     
-    ==**PROJETS LONGS**== (*27 semaines*)
+    === "**PROJETS LONGS** (*27 semaines*)"
+        * Sciences et laboratoire : Faire des sciences dans le cadre d’une enquête policière
     
-    * Sciences et laboratoire : Faire des sciences dans le cadre d’une enquête policière
+        * Journal du lycée : Ecrire à la façon d’un journaliste
     
-    * Journal du lycée : Ecrire à la façon d’un journaliste
+        * Projet Symbiose : Science-Fiction, Fantasy, Fantastique, si j’écrivais des nouvelles de SFFF
     
-    * Projet Symbiose : Science-Fiction, Fantasy, Fantastique, si j’écrivais des nouvelles de SFFF
+        * Maths expertes : Les maths, j’adore, je veux devenir un expert
     
-    * Maths expertes : Les maths, j’adore, je veux devenir un expert
+        * Création et innovation technologique : des idées plein la tête pour des projets concrets
     
-    * Création et innovation technologique : des idées plein la tête pour des projets concrets
+        * Lecture à voix haute : concours "Si on lisait à voix haute" (*Lumni - La Grande Librairie*)
     
-    * Lecture à voix haute 
+        * Atelier d'écriture : pour les écrivains en herbes
     
-    * Atelier d'écriture : pour les écrivains en herbes
+        * Management et Gestion : Créer ma propre entreprise
     
-    * Management et Gestion : Créer ma propre entreprise
-    
-    * Histoire : Savoir-être et savoir-vivre à la Renaissance
+        * Histoire : Savoir-être et savoir-vivre à la Renaissance
 
-    ==**PROJETS COURTS**== (*9 semaines*)
+    === "PROJETS COURTS (*9 semaines*)"
     
-    * Soutien mathématiques : pour reprendre les bases en début d'année
-    
-    * Soutien français : pour reprendre les bases en début d'année
-    
-    * Initiation aux sciences de l'ingénieur
-    
-    * Initiation au management et à la gestion
-    
-    * Prix des lycéens Folios : être jury dans un concours littéraire
+        * Soutien mathématiques : pour reprendre les bases en début d'année
+        
+        * Soutien français : pour reprendre les bases en début d'année
+        
+        * Initiation aux sciences de l'ingénieur
+        
+        * Initiation au management et à la gestion
+        
+        * Prix des lycéens Folios : être jury dans un concours littéraire
 
-    * Etre à l'aise à l'oral
+        * Etre à l'aise à l'oral
     
-    * Sciences et laboratoire : répondre à des questions scientifiques par l'expérience
-    
-    * Les Imaginaires du futur : créer une exposition interactive
+        * Sciences et laboratoire : répondre à des questions scientifiques par l'expérience
+        
+        * Les Imaginaires du futur : créer une exposition interactive
 
-    * Prononciation anglaise : doubler des séries en anglais
-   
+        * Prononciation anglaise : doubler des séries en anglais
+    
 ___
-## Disciplines et Spécialités
+### Disciplines et Spécialités
 
-???+ attention "Avertissement"
+???+ attention "**Avertissement**"
     Ci-dessous les ==**programmes scolaires**== et des ==**ressources**== pour les enseignements du lycée général et technologique.
 
     Par souci de clarté sont regroupés sous la même rubrique les ==**disciplines du tronc commun**== et les ==**enseignements de spécialité**== proposés au lycée.
 
-???+ info "Choix des spécialités"
-    Pour le bac général et technologique, pendant l’année de 2de, les élèves choisissent 3 spécialités qu'ils étudieront pendant la classe de 1re, en fonction de leurs goûts et de leurs motivations. Pour la terminale ils choisiront de conserver 2 des spécialités étudiées en 1re.
+???+ info "**Programmes d'enseignements**"
+    Les programmes du lycée en 10 points sur le site [**Education Nationale** ](https://www.education.gouv.fr/les-programmes-du-lycee-general-et-technologique-9812){target=_blank}
     
-    Pour bien choisir vos spécialités, découvrir les attendus et les programmes de première et de terminale, pour chacune d'entre elles, rendez-vous sur le site du [**Ministère de l'Education Nationale**](https://www.education.gouv.fr/reussir-au-lycee/choisir-ses-specialites-au-lycee-pour-preparer-ses-etudes-superieures-325475){target=_blank} ou sur le site de [**l'Etudiant**](https://www.studyrama.com/formations/diplomes/bac/les-programmes-et-attendus-des-12-specialites/){target=_blank}.
+    ???+ "**Choix des spécialités**"
+        Pour le bac général et technologique, pendant l’année de 2de, les élèves choisissent 3 spécialités qu'ils étudieront pendant la classe de 1re, en fonction de leurs goûts et de leurs motivations. Pour la terminale ils choisiront de conserver 2 des spécialités étudiées en 1re.
     
-    D'autres sites d'informations sur les spécialités sont à découvrir sous l'onglet [**parcours avenir**](https://cdi-lycee.ecmorlaix.fr/orientation/){target=_blank} du présent site, vers le padlet SECONDE.
+        Pour bien choisir vos spécialités, découvrir les attendus et les programmes de première et de terminale, pour chacune d'entre elles, rendez-vous sur le site du [**Ministère de l'Education Nationale**](https://www.education.gouv.fr/reussir-au-lycee/choisir-ses-specialites-au-lycee-pour-preparer-ses-etudes-superieures-325475){target=_blank} ou sur le site de [**l'Etudiant**](https://www.studyrama.com/formations/diplomes/bac/les-programmes-et-attendus-des-12-specialites/){target=_blank}.
+    
+        D'autres sites d'informations sur les spécialités sont à découvrir sous l'onglet [**parcours avenir**](https://cdi-lycee.ecmorlaix.fr/orientation/){target=_blank} du présent site, vers le padlet SECONDE.
   
 
 
 ___   
-### Arts plastiques
+#### Arts plastiques
 
 ??? "Programmes"
     Sur le site [**Eduscol**](https://eduscol.education.fr/1713/programmes-et-ressources-en-arts-plastiques-voie-gt){target=_blank}.
@@ -241,7 +244,7 @@ ___
     - [**Arts plastiques - Ministère de la culture**](https://www.culture.gouv.fr/Thematiques/Arts-plastiques){target=_blank}
     - [**Histoire des arts**](https://histoiredesarts.culture.gouv.fr/){target=_blank}
 ___ 
-### EPS
+#### EPS
     
 ??? "Programmes"
     Sur le site [**Eduscol**](https://eduscol.education.fr/1748/programmes-et-ressources-en-eps-voie-gt){target=_blank}
@@ -252,7 +255,7 @@ ___
     
   
 ___ 
-### Français / EAF
+#### Français / EAF
 ??? "Programmes"
     Sur le site [**Eduscol**](https://eduscol.education.fr/1712/programmes-et-ressources-en-francais-voie-gt){target=_blank}.
 
@@ -271,7 +274,7 @@ ___
  
 
 ___       
-### HGGSP / Histoire-géographie EMC
+#### HGGSP / Histoire-géographie EMC
 
 ??? "Programmes"
     Sur le site [**Eduscol**](https://eduscol.education.fr/1676/programmes-et-ressources-en-histoire-geographie-geopolitique-et-sciences-politiques-voie-g){target=_blank} : programmes d´histoire, géographie, géopolitique et sciences politique...
@@ -303,7 +306,7 @@ ___
        
 
 ___
-### HLP / Philosophie
+#### HLP / Philosophie
 
 ??? "Programmes"
     Sur le site [**Eduscol**](https://eduscol.education.fr/1711/programmes-et-ressources-en-humanites-litterature-et-philosophie-voie-g){target=_blank}
@@ -316,7 +319,7 @@ ___
     - [**Le pouvoir de la parole**](https://www.franceculture.fr/emissions/les-chemins-de-la-philosophie/le-pouvoir-de-la-parole-14-parler-est-ce-agir){target=_blank} : Série de quatre émissions sur le pouvoir de la parole, diffusées sur France Culture en novembre 2019. (^^Episode 1^^ : Parler est-ce agir ? - ^^Épisode 2^^ : Quand la parole ne suffit pas : les stoïciens au secours de l’écologie - ^^Épisode 3^^ : Quand dire, c’est guérir - ^^Épisode 4^^ : Devient-on quelqu’un d’autre quand on ment ?).
    
 ___  
-### LLCE / Langues vivantes
+#### LLCE / Langues vivantes
 
 ??? "Programmes"
     Sur le site [**Eduscol**](https://eduscol.education.fr/1684/programmes-et-ressources-en-langues-litteratures-et-cultures-etrangeres-et-regionales-voie-g){target=_blank}
@@ -337,8 +340,7 @@ ___
     - [**Genially du cours d'Allemand**](https://view.genial.ly/631c848b649e570019de15e9){target=_blank} de Madame Michel.
     
 ___    
-### Mathématiques / SNT
-
+#### Mathématiques / SNT
 
 ??? "Programmes"
     Sur le site [**Eduscol**](https://eduscol.education.fr/1723/programmes-et-ressources-en-mathematiques-voie-gt){target=_blank}
@@ -364,7 +366,7 @@ ___
             - [**Ressources**](https://maths.discip.ac-caen.fr/spip.php?article554){target=_blank}
 
 ___
-### NSI
+#### NSI
 
 ??? "Programmes"
     Sur le site [**Eduscol**](https://eduscol.education.fr/2068/programmes-et-ressources-en-numerique-et-sciences-informatiques-voie-g){target=_blank}
@@ -379,7 +381,7 @@ ___
 
 
 ___
-### Physique Chimie
+#### Physique Chimie
 
 ??? "Programmes"
     Sur le site [**Eduscol**](https://eduscol.education.fr/1648/programmes-et-ressources-en-physique-chimie-voie-gt){target=_blank}
@@ -392,7 +394,7 @@ ___
        
 
 ___
-### SES
+#### SES
 
 ??? "Programmes"
     Sur le site [**Eduscol**](https://eduscol.education.fr/1658/programmes-et-ressources-en-sciences-economiques-et-sociales-voie-gt){target=_blank}
@@ -417,7 +419,7 @@ ___
         - [**Pour l'Eco**](https://www.pourleco.com/){target=_blank} : le site de la revue.
 
 ___
-### SI
+#### SI
 
 ??? "Programmes"
     Sur le site [**Eduscol**](https://eduscol.education.fr/1646/programmes-et-ressources-en-sciences-de-l-ingenieur-voie-gt){target=_blank}
@@ -426,7 +428,7 @@ ___
     - [**Techniques de l'ingénieur**](https://www.techniques-ingenieur.fr/){target=_blank}
 
 ___
-### SVT
+#### SVT
 
 ??? "Programmes"
     Sur le site [**Eduscol**](https://eduscol.education.fr/1664/programmes-et-ressources-en-sciences-de-la-vie-et-de-la-terre-voie-gt){target=_blank}
@@ -437,7 +439,7 @@ ___
     - [**A la découverte du corps humain**](https://www.reseau-canope.fr/corpus/#){target=_blank}
 
 ___
-### Série STMG  
+#### Série STMG  
 ??? "Programmes"
     Sur le site [**Eduscol**](https://eduscol.education.fr/1742/programmes-et-ressources-en-serie-stmg){target=_blank}
 
@@ -446,7 +448,9 @@ ___
     - [**Vidéos LUMNI**](https://www.lumni.fr/lycee/premiere/voie-technologique/stmg-sciences-et-technologies-du-management-et-de-la-gestion-1){target=_blank} : en lien avec les programmes de droit et d'économie
 
 ___
-## BAC PRO
+
+## LP
+### BAC PRO
 Présentation du baccalauréat professionnel sur le site [**Eduscol**](https://eduscol.education.fr/1916/le-baccalaureat-professionnel){target=_blank} (Dernière mise à jour février 2022) : voies de formation, contenu de la formation, conditions d'obtention du diplôme...
 
 - Programmes des [**enseignements généraux**](https://eduscol.education.fr/94/j-enseigne-au-lycee-professionnel){target=_blank}
@@ -458,32 +462,32 @@ Présentation du baccalauréat professionnel sur le site [**Eduscol**](https://e
 - [**Le chef d'oeuvre**](https://eduscol.education.fr/3001/la-realisation-du-chef-d-oeuvre){target=_blank} - [**Vademecum**](https://eduscol.education.fr/document/1916/download?attachment){target=_blank} : définition, modalités, collaboration entre disciplines, enjeux et mise en oeuvre.
 
 ___
-### ASSP
+#### ASSP
 ??? "Programmes et référentiel"
     Sur le site [**Eduscol**](https://eduscol.education.fr/referentiels-professionnels/a127/a127c.pdf){target=_blank}
     
 ___
-### AEPA
+#### AEPA
 ??? "Programmes et référentiel"
     Sur le Site [**Eduscol**](https://eduscol.education.fr/referentiels-professionnels/Bac_Pro_Animation/Annexes_Bac%20Pro%20Animation190722.pdf){target=_blank}
 
 ___
-### MCV
+#### MCV
 ??? "Programmes et référentiel"
     Sur le site [**Eduscol**](https://eduscol.education.fr/referentiels-professionnels/BacPro_MetCoVe/Annexes_BacPro_MetCoVe.pdf){target=_blank}
 
 ___
-## CAP
+### CAP
 ??? "Programmes et référentiel"
     Sur le Site [**Eduscol**](https://eduscol.education.fr/1923/le-certificat-d-aptitude-professionnelle-cap){target=_blank}
 
 ___
-### AEPE
+#### AEPE
 ??? "Programmes et référentiel"
     Sur le Site [**Eduscol**](https://eduscol.education.fr/referentiels-professionnels/CAP_AEPE.html){target=_blank}
 
 ___
-### EPC
+#### EPC
 ??? "Programmes et référentiel"
     Sur le Site [**Eduscol**](https://eduscol.education.fr/referentiels-professionnels/cap_EPC.html){target=_blank}
 
@@ -506,20 +510,23 @@ ___
 [**Padlet de ressources pour le GO**](https://padlet.com/cdinddmporsmeur/grandoral2021){target=_blank}
 
 
-??? "**Présentation**" 
+??? "**Présentation de l'épreuve**" 
     
     Pour ne pas stresser, ce [**test**](https://learningapps.org/display?v=pf4o5pjnk21){target=_blank} récapitule ce qu'il est conseillé de faire ou au contraire préférable d'éviter.
         
     === "**REFERENTIEL**"
-        - [**Comment se passe le grand oral ?**](https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-comment-se-passe-le-grand-oral-100028){target=_blank} : objectifs et modalités.
+        - [**Définition et objectifs**](https://eduscol.education.fr/729/presentation-du-grand-oral){target=_blank} (*Eduscol*)
+        - [**Comment se passe le grand oral ?**](https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-comment-se-passe-le-grand-oral-100028){target=_blank} (*MEN*)
     
 ??? "**Méthodologie**" 
-   
+    [**OBJECTIF GRAND ORAL**](https://view.genial.ly/60107d7e4e7f380d0505928a){target=_blank} : présentation Génially de l'académie de Grenoble.
+
     === "**TUTORIELS**"
         - [**Petits tutos Lumni**](https://www.lumni.fr/dossier/preparer-son-oral#3){target=_blank} : se préparer - se présenter - s'engager - maîtriser les codes de la communication orale. (*Lumni*)
         - [**La minute du coach ?**](https://www.editions-hatier.fr/grand-oral){target=_blank} : conseils et ressources pour préparer l'épreuve. (*Editions Hatier*)
-        - [**Exercices**](https://www.super-bac.com/articles/bac/exercices-grand-oral-maniere-parler/){target=_blank} pour améliorer sa manière de parler.
+        - [**Exercices**](https://www.super-bac.com/articles/bac/exercices-grand-oral-maniere-parler/){target=_blank} pour améliorer ses qualités oratoires.
     === "**S'ORGANISER**"
+
 
 ??? "**Ressources par disciplines**"
 
