@@ -26,9 +26,9 @@ vous donner des conseils de lecture...**
 
 Le site du CDI vous propose :
 
-- Des ==**Ressources**== pour les disciplines du lycée.
-- Des ==**Informations**== et ==**ressources**== pour l'orientation et le ==**parcours avenir**==.
-- Des ==**Conseils méthodologiques**== et des ==**tutoriels**== divers pour vous aider dans votre travail.
+- Des [**ressources**](https://cdi-lycee.ecmorlaix.fr/pedagogie/){target=_blank} pour les disciplines du lycée.
+- Des ==**informations**== et ==**ressources**== pour l'orientation et le [**parcours avenir**](https://cdi-lycee.ecmorlaix.fr/orientation/){target=_blank}.
+- Des ==**conseils méthodologiques**== et des ==**tutoriels**== divers pour vous aider dans votre travail.
     
 Les dernières nouveautés du CDI pour la presse sont accessibles dans le [**Kiosque du mois**](https://jocedoc.github.io/cdinddmporsmeur_eleves/actualites/#presse){target=blank}, onglet ==**Actualités**==.
 

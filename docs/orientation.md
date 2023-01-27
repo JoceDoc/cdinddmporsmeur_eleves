@@ -19,12 +19,14 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
 
 ## Actualités
 
-[![IFPS_Vannes](./images/orientation/IFPS_VANNES_PO-2023.jpg "Affiche"){width=35%}](https://www.ifps-vannes.fr/){target=_blank}
-[![FOROMAP29](./images/orientation/affiche_foromap_2023_def.jpg "Affiche"){width=35%}](https://www.foromap29.fr/){target=_blank}
-[![UCO - BN](./images/orientation/UCO_guingamp_programme_fevrier_2023.jpg "Affiche"){width=35%}](https://guingamp.uco.fr/fr/publication/testez-l-universite-grace-aux-journees-decouvertes){target=_blank}
-[![Flyer](./images/orientation/Flyer-Semaine_automobile_2023.jpg "Affiche"){width=40%}](./pdf/Flyer-Semaine_automobile_2023.pdf){target=_blank}
-[![Nuit de l'Orientation - RENNES](./images/orientation/2023_nuit_orientation_RENNES.jpg "Affiche"){width=35%}](https://www.bretagne.cci.fr/formation/s-orienter/les-nuits-de-l-orientation-2022-et-2023){target=_blank}
-[![ASKORIA - MORLAIX](./images/orientation/askoria_PO_2023_affiche_morlaix-page-001.jpg "Affiche"){width=35%}](https://www.askoria.eu/index.php/nos-campus-des-solidarites?start=2){target=_blank}
+[![FOROMAP29](./images/orientation/affiche_foromap_2023_def.jpg "Affiche"){width=23%}](https://www.foromap29.fr/){target=_blank}
+[![Flyer](./images/orientation/Flyer-Semaine_automobile_2023.jpg "Affiche"){width=29%}](./pdf/Flyer-Semaine_automobile_2023.pdf){target=_blank}
+[![ASKORIA - MORLAIX](./images/orientation/askoria_PO_2023_affiche_morlaix-page-001.jpg "Affiche"){width=25%}](https://www.askoria.eu/index.php/nos-campus-des-solidarites?start=2){target=_blank}
+[![IFPS_Vannes](./images/orientation/IFPS_VANNES_PO-2023.jpg "Affiche"){width=25%}](https://www.ifps-vannes.fr/){target=_blank}
+[![UCO - BN](./images/orientation/UCO_guingamp_programme_fevrier_2023.jpg "Affiche"){width=25%}](https://guingamp.uco.fr/fr/publication/testez-l-universite-grace-aux-journees-decouvertes){target=_blank}
+[![IUT_St-Malo](./images/orientation/IUT_Saint-Malo_affiche_JPO.png "Affiche"){width=25%}](https://iut-stmalo.univ-rennes.fr/){target=_blank}
+
+
 
 ??? info "**Les informations du mois de JANVIER - M. QUINIO, coordinateur pour l'orientation**"
     
@@ -167,7 +169,7 @@ ___
         
             Prochain rendez-vous :
             
-            ==**lundi 16/01 (18h30-19h)**== : présentation de la licence arts du spectacle - [**Inscription à la visio**](https://docs.google.com/forms/d/e/1FAIpQLSfVKyDIJaA2I0R05okvmnbV5vELdgsNEc-JQODJle34cUL0tg/viewform){target=_blank} ==**avant dimanche - 17h**==
+            ==**lundi 30/01 (18h30-19h)**== : présentation du BUT Techniques de commercialisation - [**Inscription à la visio**](https://docs.google.com/forms/d/e/1FAIpQLSfVKyDIJaA2I0R05okvmnbV5vELdgsNEc-JQODJle34cUL0tg/viewform){target=_blank} ==**avant dimanche - 17h**==
             
                         
     === "PARCOURSUP"
@@ -208,7 +210,6 @@ ___
         ???+ info "ECOLES SPECIALISEES"
             - [**IFPS**](https://www.ifps-brest.bzh/){target=_blank} : l'Institut de Formation des Professionnels de santé (IFPS) du CHU e Brest  réunit instituts paramédicaux et écoles spécialisées proposant des formations iniitales et continues à Brest et Carhaix.
             - [**ITES**](./pdf/Affiche_Portes-Ouvertes-ITES-18-19-nov-2022.pdf){target=_blank} : [**calendrier**](./pdf/JPO-ITES-Programme_2022-2023.pdf){target=_blank} des portes ouvertes de l'[**Institut de formation au travail Educatif et Social**](https://www.ites-formation.com/){target=_blank}.
-        
     === "SALONS - FORUMS"
         - [**Salons - Forums de l'orientation**](https://www.onisep.fr/recherche?text=SALONS%20FORUMS){target=_blank} : comment préparer sa visite à un salon ?
         - [**Azimut**](https://www.salon-azimut.com/){target=_blank} : site officiel du salon les ==**19-21 janvier 2023**==. Pour préparer ta visite au salon Azimut découvre le [**Kit de l'élève de Terminale**](./pdf/Azimut_kit_terminale.pdf){target=_blank}. 
@@ -263,6 +264,7 @@ ___
 ??? "Liens utiles"
     === "ARMEE"
         - [**Armée de l'air**](https://devenir-aviateur.fr/){target=_blank} : devenir aviateur.
+        - [**EETAA**](https://eetaa722.fr/){target=_blank} : Ecole d'Enseignement Technique de l'Armée de l'Air et de l'Espace. Avis de recrutement d'élèves en [**1ère **](./pdf/EETAA_20230123_avis_recrutement_premiere.pdf){target=_blank} et [**terminale**](./pdf/EETAA_20230123_avis_recrutement_terminale.pdf){target=-blank}.
         - [**Forum des métiers de l'aéronautique**](https://www.eventbrite.fr/e/billets-forum-des-metiers-de-laeronautique-navale-179481121867){target=_blank} : le **31 mars 2023** à la base aéronavale de Landivisiau.
         - [**Armée de terre**](https://www.sengager.fr/){target=_blank} : **117 spécialités** dans **16 domaines d'activité**.
         - [**CIRFA**](https://www.sengager.fr/ou-nous-rencontrer?xtor=SEC-229-GOO-[24018634367]-[353506367]-g-[cirfa]&ds_rl=1210417&gclid=EAIaIQobChMI6PzavM2g7QIV_P3VCh1GLQ1eEAAYASAAEgK7z_D_BwE){target=_blank} : L'armée de terre recrute et forme **16000 postes**. Vous trouverez ici les centres de recrutement.
@@ -397,7 +399,7 @@ ___
         - [**IUT Brest-Morlaix**](https://www.iut-brest.fr/){target=_blank}
         - [**IUT Lannion-Rennes1**](https://iut-lannion.univ-rennes1.fr/){target=_blank}
         - [**IUT St-Brieuc-Rennes1**](https://iut-stbrieuc.univ-rennes1.fr/){target=_blank}
-        - [**IUT Saint-Malo**](https://www.iut-saintmalo.plateforme360.fr/){target=_blank}
+        - [**IUT Saint-Malo**](https://iut-stmalo.univ-rennes.fr/){target=_blank} - Visite virtuelle [**ICI**](https://www.iut-saintmalo.plateforme360.fr/){target=_blank}
 
 ___ 
 ### CPEG
@@ -436,9 +438,9 @@ ___
         - [**Puissance ALPHA**](https://www.puissance-alpha.fr/){target=_blank} : les 18 grandes écoles d'ingénieurs du groupe, modalités d'admission.
     === "ECOLES"
         - [**CPE Lyon**](https://www.cpe.fr/){target=_blank} : Ecole d'Ingénieurs en Chimie et Sciences du Numérique (*Lyon - 69*).
-        - [**EPITA**](https://www.epita.fr/){target=_blank} : Ecole des ingénieurs en intelligence informatique.
         - [**ENSC Rennes**](https://www.ensc-rennes.fr/){target=_blank} : Ecole Nationale Supérieure de Chimie - [Visioconférence](https://www.ensc-rennes.fr/admission-en-cpi-visioconferences-supplementaires-en-mars/){target=_blank} ==**samedi 21 janvier 2023**== et ==**mercredi 1er mars**==. (*Rennes - 35*)
-        - [**ESGT**](https://www.esgt.cnam.fr/presentation/){target=_blank} : École Supérieure d'Ingénieurs Géomètres et Topographes (*Le Man - 72*).
+        - [**EPITA**](https://www.epita.fr/){target=_blank} : Ecole des ingénieurs en intelligence informatique.
+        - [**ESGT**](https://www.esgt.cnam.fr/presentation/){target=_blank} : École Supérieure d'Ingénieurs Géomètres et Topographes. Plaquette  [**ESGT**](./pdf/ESGT_plaquette_ecole.pdf){target=_blank} - Présentation du cycle [**ingénieur**](./pdf/ESGT_cycle_ingenieur.pdf){target=_blank} spécialité géomètre et du cycle [**préparatoire**](./pdf/ESGT_cycle_preparatoire_integre.pdf){target=_blank} (*Le Man - 72*).
         - [**ESIGELEC**](https://www.esigelec.fr/fr){target=_blank} : Ecole d'Ingénieurs généralistes (*Saint-Étienne-du-Rouvray - 76*).
         - [**ESME**](https://www.esme.fr/){target=_blank} : les ingénieurs qui transforment le monde (numérique, robotique et IA et transition énergétique).
         - [**ESEO**](https://eseo.fr/){target=_blank} : Ecole d'Ingénieurs généralistes des technologies de la transformation numérique et électronique (*Angers - 49 ; Paris-Vélizy - 78 ; Dijon - 21*).
