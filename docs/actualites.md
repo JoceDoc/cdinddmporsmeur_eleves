@@ -26,8 +26,9 @@
    
 ??? "**Kiosque du mois** :newspaper:"
   
-    [![01.NET](./images/abonnements/12_decembre/01.NET_30_novembre_2022_987.jpg "01.NET, 30 novembre 2022, n°987"){width=20%}](./images/abonnements/12_decembre/01.NET_30_novembre_2022_987.pdf){target=_blank}
     [![01.NET](./images/abonnements/01_janvier_2023/01.NET_28_decembre_2023_989.jpg "01.NET, 28 décembre 2022, n°989"){width=20%}](./images/abonnements/01_janvier_2023/01.NET_28_decembre_2023_989.pdf){target=_blank}
+    [![01.NET](./images/abonnements/01_janvier_2023/01.NET_18_janvier_2023_990.jpg "01.NET, 18 janvier 2023, n°990"){width=20%}](./images/abonnements/01_janvier_2023/01.NET_18_janvier_2023_990.pdf){target=_blank}
+    [![Aide-soignante](./images/abonnements/01_janvier_2023/Aide-soignante_janvier_2023_243.jpg "Aide-soignante, janvier 2023, n°243"){width=20%}](./images/abonnements/01_janvier_2023/Aide-soignante_janvier_2023_243.pdf){target=_blank}
     [![Alternatives Economiques](./images/abonnements/01_janvier_2023/Alternatives_economiques_janvier_2023_430.jpg "Alternatives Economiques, janvier 2023, n°430"){width=20%}](./images/abonnements/01_janvier_2023/Alternatives_economiques_janvier_2023_430.pdf){target=_blank}
     [![Alternatives Economiques](./images/abonnements/01_janvier_2023/Alternatives_economiques_janvier_2023_126HS.jpg "Alternatives Economiques, janvier 2023, n°126HS"){width=20%}](./images/abonnements/01_janvier_2023/Alternatives_economiques_janvier_2023_126HS.pdf){target=_blank}
     [![Ca m'intéresse](./images/abonnements/01_janvier_2023/Ca_m_interesse_janvier_2023_503.jpg"Ca m'intéresse, janvier 2023, n°503"){width=20%}](./images/abonnements/01_janvier_2023/Ca_m_interesse_janvier_2023_503.pdf){target=_blank}
