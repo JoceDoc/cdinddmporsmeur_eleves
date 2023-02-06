@@ -19,9 +19,8 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
 
 ## Actualités
 
-[![FOROMAP29](./images/orientation/affiche_foromap_2023_def.jpg "Affiche"){width=23%}](https://www.foromap29.fr/){target=_blank}
-[![Flyer](./images/orientation/Flyer-Semaine_automobile_2023.jpg "Affiche"){width=29%}](./pdf/Flyer-Semaine_automobile_2023.pdf){target=_blank}
-[![ASKORIA - MORLAIX](./images/orientation/askoria_PO_2023_affiche_morlaix-page-001.jpg "Affiche"){width=25%}](https://www.askoria.eu/index.php/nos-campus-des-solidarites?start=2){target=_blank}
+[![Tutorat_Santé](./images/orientation/Tutorat_PASS_LAS_Brest.jpg "Affiche"){width=25%}](https://tutoratbrest.fr/journeedulyceen-2022/){target=_blank}
+[![Mini-Stage_Campostal](./images/orientation/Campostal_Gouarec_mini-stage.jpg "Affiche"){width=25%}](https://www.lycee-campostal-gouarec.com/){target=_blank}
 [![IFPS_Vannes](./images/orientation/IFPS_VANNES_PO-2023.jpg "Affiche"){width=25%}](https://www.ifps-vannes.fr/){target=_blank}
 [![UCO - BN](./images/orientation/UCO_guingamp_programme_fevrier_2023.jpg "Affiche"){width=25%}](https://guingamp.uco.fr/fr/publication/testez-l-universite-grace-aux-journees-decouvertes){target=_blank}
 [![IUT_St-Malo](./images/orientation/IUT_Saint-Malo_affiche_JPO.png "Affiche"){width=25%}](https://iut-stmalo.univ-rennes.fr/){target=_blank}
