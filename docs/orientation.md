@@ -24,6 +24,7 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
 [![IFPS_Vannes](./images/orientation/IFPS_VANNES_PO-2023.jpg "Affiche"){width=25%}](https://www.ifps-vannes.fr/){target=_blank}
 [![UCO - BN](./images/orientation/UCO_guingamp_programme_fevrier_2023.jpg "Affiche"){width=25%}](https://guingamp.uco.fr/fr/publication/testez-l-universite-grace-aux-journees-decouvertes){target=_blank}
 [![IUT_St-Malo](./images/orientation/IUT_Saint-Malo_affiche_JPO.png "Affiche"){width=25%}](https://iut-stmalo.univ-rennes.fr/){target=_blank}
+[![Forum_Métiers_aéronautique](./images/orientation/Forum_metiers_aeronautique_BAN_Landivisiau_20230331.jpg "Affiche"){width=25%}](https://www.eventbrite.fr/e/billets-forum-des-metiers-de-laeronautique-navale-438995967757){target=_blank}
 
 
 
@@ -270,7 +271,8 @@ ___
         - [**Marine Nationale**](https://www.lamarinerecrute.fr/){target=_blank} : En 2022, la marine recrute **4000 jeunes femmes et hommes**, rejoignez l’équipage...
         - [**ENSM**](https://www.supmaritime.fr/){target=_blank} : Ecole Nationale Supérieure Maritime - [**Dates et inscriptions**](https://www.supmaritime.fr/jpo-ensm-2023/){target=_blank} aux journées portes ouvertes par site (Le Havre - Marseille - Nantes - Saint-Malo).
         
-        [![**AIR actualités"**](./images/orientation/Air_actualites_20221101_couverture.jpg "Couverture_air_actualités"){width=20%}](./pdf/Air_actualites_20221101.pdf){target=_blank}
+        [![Forum_Métiers_aéronautique](./images/orientation/Forum_metiers_aeronautique_BAN_Landivisiau_20230331.jpg "Affiche"){width=25%}](https://www.eventbrite.fr/e/billets-forum-des-metiers-de-laeronautique-navale-438995967757){target=_blank}
+        [![**AIR actualités"**](./images/orientation/Air_actualites_20221101_couverture.jpg "Couverture_air_actualités"){width=25%}](./pdf/Air_actualites_20221101.pdf){target=_blank}
         [![**EFSOAA"**](./images/orientation/brochure-efsoaa-page-001.jpg "EFSOAA"){width=25%}](./pdf/brochure-efsoaa.pdf){target=_blank}
     === "SECURITE"
         - [**Devenir gendarme**](https://www.devenir-gendarme.fr/){target=_blank}
