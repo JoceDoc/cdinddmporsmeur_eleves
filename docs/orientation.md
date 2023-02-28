@@ -19,10 +19,17 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
 
 ## Actualités
 
-[![Tutorat_Santé](./images/orientation/Tutorat_PASS_LAS_Brest.jpg "Affiche"){width=25%}](https://tutoratbrest.fr/journeedulyceen-2022/){target=_blank}
+==**100 FEMMES - 100 METIERS ingénieure demain ! Jeudi 23 mars 2023 de 13h30 à 16h15**== 
+
+Invitation et formulaire d'inscription pour rencontrer des ingénieurEs de l'[**UIMM**](https://uimm.lafabriquedelavenir.fr/industrie/){target=_blank} et du site de l'[**ENSTA Bretagne**](https://www.ensta-bretagne.fr/fr/100-femmes-100-metiers-ingenieure-demain){target=_blank}.
+
+[![100 femmes - 100 métiers](./images/orientation/2023_100femmes100metiers-amphi.jpg "100 femmes - 100 métiers"){width=45%}](./pdf/2023_invitation_inscription_100_femmes_100_metiers.pdf){target=_blank}
+
+
+
+
 [![Mini-Stage_Campostal](./images/orientation/Campostal_Gouarec_mini-stage.jpg "Affiche"){width=25%}](https://www.lycee-campostal-gouarec.com/){target=_blank}
 [![IFPS_Vannes](./images/orientation/IFPS_VANNES_PO-2023.jpg "Affiche"){width=25%}](https://www.ifps-vannes.fr/){target=_blank}
-[![UCO - BN](./images/orientation/UCO_guingamp_programme_fevrier_2023.jpg "Affiche"){width=25%}](https://guingamp.uco.fr/fr/publication/testez-l-universite-grace-aux-journees-decouvertes){target=_blank}
 [![IUT_St-Malo](./images/orientation/IUT_Saint-Malo_affiche_JPO.png "Affiche"){width=25%}](https://iut-stmalo.univ-rennes.fr/){target=_blank}
 [![Forum_Métiers_aéronautique](./images/orientation/Forum_metiers_aeronautique_BAN_Landivisiau_20230331.jpg "Affiche"){width=25%}](https://www.eventbrite.fr/e/billets-forum-des-metiers-de-laeronautique-navale-438995967757){target=_blank}
 
@@ -348,8 +355,8 @@ ___
         - [**PASS ou L.AS**](https://pass-sante.com/){target=_blank} : que maîtriser pour réussir sa rentrée en [**PASS**](https://www.letudiant.fr/etudes/medecine-sante/ce-qu-il-faut-maitriser-pour-reussir-sa-rentree-en-pass-1.html){target=_blank}.
         - [**Appareillage médical**](https://www.youtube.com/watch?v=b2T9387AzkY){target=_blank} : enseignement supérieur santé du [**Lycée Mongazon**](https://www.mongazon.org/){target=_blank} (BTS Podo orthésiste - BTS Prothésiste orthésiste - CP Orthopédiste orthésiste) (*Angers - 49*)
     === "SOCIAL"
-        - [**ITES**](https://www.ites-formation.com/){target=_blank} : Institut de Formation  au Travail Educatif et Social.
-        - [**ASKORIA**](https://www.askoria.eu/index.php/formations/toutes-nos-formations-qualifiantes){target=_blank}  activateur de solidarités : 1ère école française de travail social, formant à l’ensemble des métiers de l’intervention sociale (action  sociale - Education et prévention spécialisée - Accompagnement éducatif et social - Animation sociale et territoriale -Fonctions tutorales - Protection des majeurs et des mineurs - Management d’équipes, de projets et de dispositifs).
+        - [**ITES**](https://www.ites-formation.com/){target=_blank} : Institut de Formation au Travail Educatif et Social. [**Visio conférence**](https://www.ites-formation.com/evenements/information-collective-accompagnant-educatif-et-social-2/){target=_blank} ==**Jeudi 9 mars 2023**== pour devenir [**Accompagnant Educatif et Social**](https://www.ites-formation.com/formations/accompagnant-educatif-et-social/){target=_blank}.
+        - [**ASKORIA**](https://www.askoria.eu/index.php/formations/toutes-nos-formations-qualifiantes){target=_blank}  activateur de solidarités : 1ère école française de travail social, formant à l’ensemble des métiers de l’intervention sociale (action  sociale - Education et prévention spécialisée - Accompagnement éducatif et social - Animation sociale et territoriale - Fonctions tutorales - Protection des majeurs et des mineurs - Management d’équipes, de projets et de dispositifs). [**Dates des réunions d'information**](https://askoria.eu/index.php/les-reunions-d-information){target=_blank} pour construire son projet professionnel dans les métiers du social : ==**Jeudi 2 mars 2023**== de 14h à 15h sur le campus des solidarités de Morlaix.
     === "SPORT"
         - [**Travailler dans le sport**](https://sport.onisep.fr/){target=_blank} : je construis mon projet dans le sport sur le site de l'**ONISEP**.
         - [**Fiches métiers**](https://www.letudiant.fr/metiers/secteur/sport.html){target=_blank} : site de **L'Etudiant**.
@@ -464,7 +471,13 @@ ___
         - [**RENNES1**](https://www.univ-rennes1.fr/){target=_blank} : Université de Rennes1.
         - [**RENNES2**](https://www.univ-rennes2.fr/){target=_blank} : Université de Rennes2.
         - [**UBO**](https://nouveau.univ-brest.fr/fr){target=_blank} : Université de Bretagne Occidentale.
-        - [**UCO**](https://www.uco.fr/fr){target=_blank} : Université Catholique de l'Ouest.
+        - [**UCO**](https://www.uco.fr/fr){target=_blank} : Université Catholique de l'Ouest. Licences professionnelles à découvrir :
+            
+            - [**Sciences  et technologies - Ingénierie des produits et process - Cosmétiques/Alimentation Santé**](./pdf/UCO_bretagne_nord_Fiche%20Formation%20Sciences%20et%20Technologies.pdf){target=_blank} 
+                
+            - [**Bio-industries et Biotechnologies Plantes, Algues & Nutrition**](./pdf/UCO_bretagne_nord_Fiche_Formation_LP_Bio-Industries_2023-2024.pdf){target=_blank}
+
+
         - [**UTBM**](https://www.utbm.fr/){target=_blank} : Université de Technologie de Belfort-Montbéliard.
         - [**UTC**](https://www.utc.fr/){target=_blank} : Université de Technologie de Compiègne.
 
