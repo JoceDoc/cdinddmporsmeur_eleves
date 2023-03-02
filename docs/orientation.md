@@ -26,12 +26,11 @@ Invitation et formulaire d'inscription pour rencontrer des ingénieurEs de l'[**
 [![100 femmes - 100 métiers](./images/orientation/2023_100femmes100metiers-amphi.jpg "100 femmes - 100 métiers"){width=45%}](./pdf/2023_invitation_inscription_100_femmes_100_metiers.pdf){target=_blank}
 
 
+[![IFPS_Vannes](./images/orientation/IFPS_VANNES_PO-2023.jpg "Affiche"){width=28%}](https://www.ifps-vannes.fr/){target=_blank}
+[![IUT_St-Malo](./images/orientation/IUT_Saint-Malo_affiche_JPO.png "Affiche"){width=28%}](https://iut-stmalo.univ-rennes.fr/){target=_blank}
 
-
-[![Mini-Stage_Campostal](./images/orientation/Campostal_Gouarec_mini-stage.jpg "Affiche"){width=25%}](https://www.lycee-campostal-gouarec.com/){target=_blank}
-[![IFPS_Vannes](./images/orientation/IFPS_VANNES_PO-2023.jpg "Affiche"){width=25%}](https://www.ifps-vannes.fr/){target=_blank}
-[![IUT_St-Malo](./images/orientation/IUT_Saint-Malo_affiche_JPO.png "Affiche"){width=25%}](https://iut-stmalo.univ-rennes.fr/){target=_blank}
-[![Forum_Métiers_aéronautique](./images/orientation/Forum_metiers_aeronautique_BAN_Landivisiau_20230331.jpg "Affiche"){width=25%}](https://www.eventbrite.fr/e/billets-forum-des-metiers-de-laeronautique-navale-438995967757){target=_blank}
+[![CIRFA](./images/orientation/Forum_CIRFA_marine_st-renan.jpg "Affiche"){width=30%}](https://www.lamarinerecrute.fr/){target=_blank}
+[![Forum_Métiers_aéronautique](./images/orientation/Forum_metiers_aeronautique_BAN_Landivisiau_20230331.jpg "Affiche"){width=30%}](https://www.eventbrite.fr/e/billets-forum-des-metiers-de-laeronautique-navale-438995967757){target=_blank}
 
 
 
