@@ -17,7 +17,7 @@ Pour activer son compte sur [**EduConnet**](https://educonnect.education.gouv.fr
 
 ???+ info "**Les mercredis des sciences**"
      
-    Au [**Programme**](https://www.espace-sciences.org/morlaix/programme){target=_blank} du mois de janvier de l'[**Espace des sciences**](https://www.espace-sciences.org/morlaix){target=_blank} : 
+    Le [**Programme**](https://www.espace-sciences.org/morlaix/programme){target=_blank} du mois de l'[**Espace des sciences**](https://www.espace-sciences.org/morlaix){target=_blank} : 
     
     * La chirurgie cardiaque d'hier à aujourd'hui.
     
