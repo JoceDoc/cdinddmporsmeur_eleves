@@ -66,11 +66,24 @@ La [**ville de Morlaix**](https://www.ville.morlaix.fr/VIVRE-A-MORLAIX/Culture-L
         * [**Les Mardis de l'Espace des sciences **](https://www.espace-sciences.org/conferences/conferenciers){target=_blank}
 
 
-??? "Partenaires culturels"
-    * [**Association Film&Culture - Brest**](https://www.film-et-culture.fr/){target=_blank}
-    * [**Théâtre du Pays de Morlaix**](https://www.theatre-du-pays-de-morlaix.fr/){target=_blank}
-    * [**Fonds Hélène Edouard Leclerc**](https://www.fonds-culturel-leclerc.fr/){target=_blank}
-    * [**Librairie Dialogues Morlaix**](https://www.dialoguesmorlaix.com/){target=_blank}
+??? "Projet d'éducation artistique et culturelle au lycée"
+  
+
+    === "CINEMA"
+        ??? "Découvrir des oeuvres cinématographiques"
+
+        L'[**Association Film&Culture - Brest**](https://www.film-et-culture.fr/){target=_blank} intervient au lycée pour des ateliers de lecture de l'image et des circuits.
+        
+        La programmation de l'année
+
+    === "THEATRE"
+        * [**Théâtre du Pays de Morlaix**](https://www.theatre-du-pays-de-morlaix.fr/){target=_blank}
+    
+    === "EXPOSITIONS"
+        * [**Fonds Hélène Edouard Leclerc**](https://www.fonds-culturel-leclerc.fr/){target=_blank}
+    
+    === "JEUNES EN LIBRAIRIE"
+        * [**Librairie Dialogues Morlaix**](https://www.dialoguesmorlaix.com/){target=_blank}
 
     
 
@@ -85,6 +98,7 @@ La [**ville de Morlaix**](https://www.ville.morlaix.fr/VIVRE-A-MORLAIX/Culture-L
     * [**Les Champs Libres**](https://www.espace-sciences.org/){target=_blank}
     * [**Espace des sciences**](https://www.espace-sciences.org/){target=_blank}
     * [**Annuaire des salles culturelles**](https://www.spectable.com/bretagne/annuaire-culture/salles-spectacles/n_187-l_31.php){target=_blank}
+
 
 
 ## Ressources

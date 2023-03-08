@@ -32,9 +32,17 @@ Invitation et formulaire d'inscription pour rencontrer des ingénieurEs de l'[**
 [![CIRFA](./images/orientation/Forum_CIRFA_marine_st-renan.jpg "Affiche"){width=30%}](https://www.lamarinerecrute.fr/){target=_blank}
 [![Forum_Métiers_aéronautique](./images/orientation/Forum_metiers_aeronautique_BAN_Landivisiau_20230331.jpg "Affiche"){width=30%}](https://www.eventbrite.fr/e/billets-forum-des-metiers-de-laeronautique-navale-438995967757){target=_blank}
 
+??? attention "**Communication de l'UBO**"
 
+    Vous avez raté les Portes Ouvertes à l'==**UBO**==, ou alors il vous reste encore des questions ?
 
-??? info "**Les informations du mois de JANVIER - M. QUINIO, coordinateur pour l'orientation**"
+    N'oubliez pas que vous pouvez contacter par mail les équipes pédagogiques (via l'onglet ==**"échanger avec l'établissement"**== de la fiche Parcoursup) pour tout renseignement sur la formation, vos chances d'admission...
+
+    En complément, pour avoir un témoignage et un ressenti d'étudiante ou étudiant de la filière, une adresse est également disponible dans cette même rubrique de la fiche Parcoursup.
+
+    Voici la [**liste**](./pdf/UBO_listes_ambassadeurs.pdf){target=_blank} de l'ensemble des adresses d'étudiant.es ambassadeurs.drices disponibles à l'UBO pour discuter avec vous jusqu'au 6 avril.
+
+??? info "**Informations de M. QUINIO, coordinateur pour l'orientation**"
     
     Quelques informations en ce début d'année concernant les dispositifs d'aide à l'orientation :
 
