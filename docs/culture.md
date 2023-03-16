@@ -13,6 +13,63 @@ Pour activer son compte sur [**EduConnet**](https://educonnect.education.gouv.fr
 
 [![**PASS CULTURE**](./images/culture/Pass_Culture_Affiche.jpg "Accès EduConnet"){width=35%}](https://educonnect.education.gouv.fr/){target=_blank}
 
+## Projets culturels au lycée
+???+ "**Projets d'éducation artistique et culturelle au lycée**"
+  
+    === "CINEMA"
+        ??? "Découvrir des oeuvres cinématographiques"
+
+        L'[**Association Film&Culture - Brest**](https://www.film-et-culture.fr/){target=_blank} intervient au lycée pour des ateliers de lecture de l'image et des circuits.
+        
+        Ci-dessous, la programmation de l'année.
+
+        [![Greenbook](./images/culture/greenbook.jpg "Greenbook"){width=20%}](./pdf/){target=_blank}
+        [![La couleur de la victoire](./images/culture/la_couleur_de_la_victoire.jpg "La couleur de la victoire"){width=19%}](./pdf/){target=_blank}
+        [![1917](./images/culture/1917.jpg "1917"){width=20%}](./pdf/){target=_blank}
+        [![Compagnons](./images/culture/compagnons.jpg "Compagnons"){width=20%}](./pdf/){target=_blank}
+        
+
+
+    === "THEATRE"
+        La proximité du [**Théâtre du Pays de Morlaix**](https://www.theatre-du-pays-de-morlaix.fr/){target=_blank} permet d'offrir aux élèves la possibilité d'assister à des représentations d'oeuvres de spectacle vivant.
+
+        [![**Monte-Cristo**](./images/culture/monte_cristo_01.jpg "Monte-Cristo - Jeudi 9 février - 14h"){width=28%}](https://www.theatre-du-pays-de-morlaix.fr/Monte-Cristo.html){target=_blank}
+        [![**La petite messe solennelle**](./images/culture/la_petite_messe_solennelle_01.jpg "La petite messe solennelle - vendredi 10 mars - 20h "){width=28%}](https://www.theatre-du-pays-de-morlaix.fr/La-Petite-Messe-solennelle-559.html){target=_blank}
+        [![**La question**](./images/culture/laquestion_01.jpg "La question - mardi 16 mai - 14h "){width=27%}](https://www.theatre-du-pays-de-morlaix.fr/La-Question-568.html){target=_blank}
+    
+    === "EXPOSITIONS"
+        ???+ info "**Visite de l'exposition Ernest Pignon-Ernest au FHEL**"
+    
+        Mercredi 19 octobre les élèves de seconde générale inscrits à l'option arts plastiques ont découvert le travail de l'artiste **Ernest-Pignon-Ernest**, à travers l'exposition présentée aux [**Fonds Hélène Edouard Leclerc**](https://www.fonds-culturel-leclerc.fr/){target=_blank} à Landerneau.
+    
+        Le plasticien travaille depuis plus de 50 ans dans l'espace public, dans le monde entier. Les quelques 300 œuvres exposées ont révélé aux élèves, le processus créatif, les méthodes d'un représentant français du street art, qui est à la fois un dessinateur talentueux, un poète et un homme engagé. (Florence Charlou, Enseignante d'Arts plastiques)
+   
+        ??? attention "**Photos souvenirs**" 
+            ![FHEL Ernest](./images/visite_FHEL/oeuvres01.jpeg "Oeuvres01"){width=60% align=left}
+            ![FHEL Ernest](./images/visite_FHEL/eleves02.jpeg "Eleves02"){width=60% align=left}
+            ![FHEL Ernest](./images/visite_FHEL/eleves03.jpeg "Eleves03"){width=60% align=left}
+    
+        ??? info "**Ressources**" 
+            * [**Site officiel de l'artiste**](https://pignon-ernest.com/){target=_blank}
+            * [**Galerie d'art**](https://www.galerie-lelong.com/fr/artiste/16/ernest-pignon-ernest/){target=_blank}
+            * [**Street Art Avenue**](https://street-art-avenue.com/biographie-artiste-ernest-pignon-ernest-street-art){target=_blank}
+        
+        
+    
+    === "JEUNES EN LIBRAIRIE"
+        Les élèves de 2nde AEPA et MRC participent au projet régional [**Jeunes en librairie**](https://daac.ac-rennes.fr/spip.php?article2268){target=_blank} qui a pour ambition de sensibiliser les élèves à l’ensemble de la chaîne du livre. 
+        Les élèves se sont vu accorder un crédit de 30 € à utiliser à la [**Librairie Dialogues Morlaix**](https://www.dialoguesmorlaix.com/){target=_blank} partenaire de l'opération.
+
+        Dans le cadre de ce projet les élèves de 2nde AEPA participent au [**Prix des Embouquineurs 2023**](https://www.lagalerne.com/dossiers/4-3e-1/){target=_blank}.
+        
+        Les élèves des deux classes auront aussi la chance de rencontrer des auteurs et autrices :
+
+        * [**Luc Blanvillain**](https://www.letelegramme.fr/livres/a-lire/luc-blanvillain-j-ai-beaucoup-pense-a-claude-chabrol-quand-j-ai-ecrit-ce-livre-25-09-2022-13185904.php){target=_blank} **le 21 mars**, dont le dernier livre *Pas de souci* est salué par la critique.
+
+        * [**Louise Delgado**](https://www.librinova.com/auteur/louise-delgado){target=_blank}, **le 12 avril**. L'autrice a fait paraître en 2022 son premier roman, *Les derniers gardiens* en auto-édition.
+
+        * [**Nathalie Bernard**](https://www.youtube.com/watch?v=Rij2_mdk3uM){target=_blank}, **le 4 mai**, pour présenter son projet d'écriture.
+
 
 
 ???+ info "**Les mercredis des sciences**"
@@ -25,25 +82,9 @@ Pour activer son compte sur [**EduConnet**](https://educonnect.education.gouv.fr
     
     * Astronomie de l'étrange.
 
-???+ info "**Visite de l'exposition Ernest Pignon-Ernest au FHEL**"
-    
-    Mercredi 19 octobre les élèves de seconde générale inscrits à l'option arts plastiques ont découvert le travail de l'artiste **Ernest-Pignon-Ernest**, à travers l'exposition présentée aux Fonds Hélène et Édouard Leclerc à Landerneau.
-    
-    Le plasticien travaille depuis plus de 50 ans dans l'espace public, dans le monde entier. Les quelques 300 œuvres exposées ont révélé aux élèves, le processus créatif, les méthodes d'un représentant français du street art, qui est à la fois un dessinateur talentueux, un poète et un homme engagé. (Florence Charlou, Enseignante d'Arts plastiques)
-   
-    ??? attention "**Photos souvenirs**" 
-        ![FHEL Ernest](./images/visite_FHEL/oeuvres01.jpeg "Oeuvres01"){width=60% align=left}
-        ![FHEL Ernest](./images/visite_FHEL/eleves02.jpeg "Eleves02"){width=60% align=left}
-        ![FHEL Ernest](./images/visite_FHEL/eleves03.jpeg "Eleves03"){width=60% align=left}
-    
-    ??? info "**Ressources**" 
-        * [**Site officiel de l'artiste**](https://pignon-ernest.com/){target=_blank}
-        * [**Galerie d'art**](https://www.galerie-lelong.com/fr/artiste/16/ernest-pignon-ernest/){target=_blank}
-        * [**Street Art Avenue**](https://street-art-avenue.com/biographie-artiste-ernest-pignon-ernest-street-art){target=_blank}
 
 
-
-## A Morlaix
+## La culture à Morlaix
 
 La [**ville de Morlaix**](https://www.ville.morlaix.fr/VIVRE-A-MORLAIX/Culture-Loisirs){target=_blank} propose une offre culturelle diversifiée. Sur le site de la ville, vous  trouverez des informations pratiques concernant les animations, expositions, et infrastuctures diverses : adresses, horaires, programmations des salles de spectacles, cinémas, bibliothèques...
 
@@ -68,7 +109,7 @@ La [**ville de Morlaix**](https://www.ville.morlaix.fr/VIVRE-A-MORLAIX/Culture-L
 
 ??? "Projet d'éducation artistique et culturelle au lycée"
   
-  
+
     === "CINEMA"
         ??? "Découvrir des oeuvres cinématographiques"
 
@@ -79,26 +120,26 @@ La [**ville de Morlaix**](https://www.ville.morlaix.fr/VIVRE-A-MORLAIX/Culture-L
     === "THEATRE"
         * [**Théâtre du Pays de Morlaix**](https://www.theatre-du-pays-de-morlaix.fr/){target=_blank}
     
-    === "EXPOSITIONS"
-        * [**Fonds Hélène Edouard Leclerc**](https://www.fonds-culturel-leclerc.fr/){target=_blank}
+        * Un océan de plastiques : quels impacts pour le vivant.
     
-    === "JEUNES EN LIBRAIRIE"
-        * [**Librairie Dialogues Morlaix**](https://www.dialoguesmorlaix.com/){target=_blank}
+        * Astronomie de l'étrange.
 
-    
 
-## Un peu plus loin...
+
+## et un peu plus loin...
 
 ??? "Finistère"
     * [**FHEL - Landerneau**](https://www.fonds-culturel-leclerc.fr/){target=_blank}
     * [**Ateliers des Capucins**](https://www.ateliersdescapucins.fr/fr){target=_blank}
-    * [**Le Quartz**](https://www.lequartz.com/){target=_blank}
+    * [**Le Quartz - Brest**](https://www.lequartz.com/){target=_blank}
+    * [**Musée National de la Marine - Brest**](https://www.musee-marine.fr/brest){target=_blank}
+    * [**Musée des Beaux-Arts - Quimper**](https://www.mbaq.fr/){target=_blank}
+
     
 ??? "Bretagne"
-    * [**Les Champs Libres**](https://www.espace-sciences.org/){target=_blank}
-    * [**Espace des sciences**](https://www.espace-sciences.org/){target=_blank}
+    * [**Les Champs Libres**](https://www.espace-sciences.org/){target=_blank} : Espace des sciences à Rennes.
+    * [**Cycle de conférences : les Mardis de l'Espace des sciences**](https://www.espace-sciences.org/conferences/conferenciers){target=_blank}
     * [**Annuaire des salles culturelles**](https://www.spectable.com/bretagne/annuaire-culture/salles-spectacles/n_187-l_31.php){target=_blank}
-
 
 
 ## Ressources
@@ -114,7 +155,6 @@ La [**ville de Morlaix**](https://www.ville.morlaix.fr/VIVRE-A-MORLAIX/Culture-L
 ??? "Sites incontournables"
     * [**Cinémathèque de Bretagne**](https://www.cinematheque-bretagne.bzh/){target=_blank}
     * [**Centre National du cinéma et de l'image animée**](https://www.cnc.fr/){target=_blank}
-
 
 ### Théâtre
 
