@@ -68,7 +68,7 @@ La [**ville de Morlaix**](https://www.ville.morlaix.fr/VIVRE-A-MORLAIX/Culture-L
 
 ??? "Projet d'éducation artistique et culturelle au lycée"
   
-
+  
     === "CINEMA"
         ??? "Découvrir des oeuvres cinématographiques"
 
