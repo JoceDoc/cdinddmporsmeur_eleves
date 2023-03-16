@@ -1,4 +1,4 @@
-Pour vous aider et vous accompagner dans vos apprentissages :
+**Pour vous aider et vous accompagner dans vos apprentissages :**
 
 ???+ example inline end "Liens utiles :"
     [![**LUMNI"**](./images/lumni.jpg "Page d'accueil Lumni"){width=60%}](https://www.lumni.fr/){target=_blank}
@@ -126,9 +126,11 @@ ___
 ___
 ## Concours scolaires
 
-??? info "**Concours de la résistance**"
+??? info "**Concours National de la résistance**"
     La classe de TG2 participent au [**Concours National de la Résistance et de la Déportation**](https://www.reseau-canope.fr/
-    cnrd/){target=_blank}. Les objectifs et les modalités du concours sur le site officiel.
+    cnrd/){target=_blank}. Objectifs et modalités du concours sur le site officiel.
+
+
 
 ___
 
@@ -228,11 +230,9 @@ ___
     ???+ "**Choix des spécialités**"
         Pour le bac général et technologique, pendant l’année de 2de, les élèves choisissent 3 spécialités qu'ils étudieront pendant la classe de 1re, en fonction de leurs goûts et de leurs motivations. Pour la terminale ils choisiront de conserver 2 des spécialités étudiées en 1re.
     
-        Pour bien choisir vos spécialités, découvrir les attendus et les programmes de première et de terminale, pour chacune d'entre elles, rendez-vous sur le site du [**Ministère de l'Education Nationale**](https://www.education.gouv.fr/reussir-au-lycee/choisir-ses-specialites-au-lycee-pour-preparer-ses-etudes-superieures-325475){target=_blank} ou sur le site de [**l'Etudiant**](https://www.studyrama.com/formations/diplomes/bac/les-programmes-et-attendus-des-12-specialites/){target=_blank}.
+        Pour bien choisir vos spécialités, découvrir les attendus et les programmes de première et de terminale, pour chacune d'entre elles, rendez-vous sur le site du [**Ministère de l'Education Nationale**](https://www.education.gouv.fr/reussir-au-lycee/choisir-ses-specialites-au-lycee-pour-preparer-ses-etudes-superieures-325475){target=_blank}, sur le site [**Studyrama**](https://www.studyrama.com/formations/diplomes/bac/les-programmes-et-attendus-des-12-specialites/){target=_blank} ou encore le simulateur de spécialités du site de [**l'Etudiant**](https://www.letudiant.fr/lycee/simulateur-de-specialites.html){target=_blank}.
     
-        D'autres sites d'informations sur les spécialités sont à découvrir sous l'onglet [**parcours avenir**](https://cdi-lycee.ecmorlaix.fr/orientation/){target=_blank} du présent site, vers le padlet SECONDE.
-  
-
+       
 
 ___   
 #### Arts plastiques

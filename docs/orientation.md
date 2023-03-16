@@ -477,10 +477,11 @@ ___
         - [**ICR**](https://www.icrennes.org/){target=_blank} : Institut Catholique de Rennes.
         - [**RENNES1**](https://www.univ-rennes1.fr/){target=_blank} : Université de Rennes1.
         - [**RENNES2**](https://www.univ-rennes2.fr/){target=_blank} : Université de Rennes2.
+        - [**CNRS Sorbonne Université**](https://www.sb-roscoff.fr/){target=_blank} : Station biologique de Roscoff / CNRS-Sorbonne.
         - [**UBO**](https://nouveau.univ-brest.fr/fr){target=_blank} : Université de Bretagne Occidentale.
         - [**UCO**](https://www.uco.fr/fr){target=_blank} : Université Catholique de l'Ouest. Licences professionnelles à découvrir :
             
-            - [**Sciences  et technologies - Ingénierie des produits et process - Cosmétiques/Alimentation Santé**](./pdf/UCO_bretagne_nord_Fiche%20Formation%20Sciences%20et%20Technologies.pdf){target=_blank} 
+            - [**Sciences  et technologies - Ingénierie des produits et process - Cosmétiques/Alimentation Santé**](./pdf/UCO_bretagne_nord_Fiche_Formation_Sciences_et_Technologies.pdf){target=_blank} 
                 
             - [**Bio-industries et Biotechnologies Plantes, Algues & Nutrition**](./pdf/UCO_bretagne_nord_Fiche_Formation_LP_Bio-Industries_2023-2024.pdf){target=_blank}
 

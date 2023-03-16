@@ -1,21 +1,73 @@
 
+
+
 **Pour ne rien manquer des dernières actualités du lycée et du CDI.**
 
-[![logo ECAM](./images/logo_ecam.jpg "Actualités Lycée"){width=20% align=left}](https://www.ecmorlaix.fr/actualites/){target=_blank}
+???+ example inline end "Actualités ECA.M"
+       
+    [![logo ECAM](./images/logo_ecam.jpg "Actualités Lycée"){width=90% align=right}](https://www.ecmorlaix.fr/actualites/){target=_blank}
 
 
 
 
-## Au CDI
+## Expositions et projets
 
-???info "**Expositions en cours**"
-    ??? "**Annie ERNAUX**"
-    ![Exposition_Annie_Ernaux](./images/expositions/IMG_0197.jpg "Présentoir"){width=80% align=right}
-     
-
-
-## Nos élèves ont du talent...
+???+info "**Expositions en cours**"
+    ??? "**Jeunes en librairie**"
+    ![Jeunes en librairie](./images/expositions/JLB_affiche.png "Affiche"){width=20% align=right}
+    Les élèves de 2nde AEPA et 2nde MRC ont participé cette année au programme ==**« Jeunes en Librairie »**==, projet d’éducation artistique et culturelle autour des professionnels du livre et de la librairie.
+ 
+    Dans ce cadre, ils ont rencontré, plusieurs fois, Cathy de la ==**librairie Dialogues-Morlaix**==, partenaire du projet, au lycée d'abord, puis à la librairie. Les 2ndes MRC ont ainsi pu découvrir le circuit du livre, de la commande à la mise en rayon. Les 2ndes AEPA, quant à eux, ont apprécié le fonds littérature jeunesse et glaner quelques précieux conseils pour apprendre à conter des histoires aux plus petits. Des visites très appréciées par les élèves ! 
+  
+    A l'occasion d'une deuxième visite, les élèves ont pu dépenser en achat de livres, le chèque de 30 euros dont ils bénéficiaient en tant que participants au projet "Jeunes en librairie".
     
+    Evénements encore à venir :
+    
+    * Des ==**rencontres très attendues avec des auteurs et autrices**== : Luc Blanvillain (21 mars), Louise Delgado (12 avril) et Nathalie Bernard (4 mai)
+    
+    * Le vote pour le [**prix des embouquineurs**](https://www.lagalerne.com/dossiers/le-prix-des-embouquineurs-2022-2023/){target=_blank} auquel participent les 2ndes AEPA dans le cadre du projet.
+    
+    ![Jeunes en librairie](./images/expositions/JLB_librairie02.jpg "Visite Dialogues"){width=35% align=right}
+    ![Jeunes en librairie](./images/expositions/JLB_librairie01.jpg "Visite Dialogues"){width=20% align=right}
+    ![Jeunes en librairie](./images/expositions/Visite_cathy.jpg "Rencontre au CDI"){width=35% align=right}
+
+    ![Jeunes en librairie](./images/expositions/JLB_affiche_eleves.jpg "Avis des élèves"){width=65% align=right}
+  
+
+
+## Nos élèves ont du talent
+???+ "**Concours d'éloquence**"
+    Cinq élèves du LGT sous la responsabilité de Mme Gamard (enseignante d'Histoire-Géographie et de la spécialité HGGSP) ont organisé la deuxième édition du concours d'éloquence. Après les sessions éliminatoires de décembre et janvier, la finale du concours s'est déroulée vendredi 10 février à l’amphithéâtre du collège Saint-Augustin. 
+    
+    « Le rêve » était le sujet imposé. Qualité du texte, éloquence et argumentation étaient les critères pris en compte par le jury.
+    
+    Un grand BRAVO à Neven qui a convaincu et ému jury et public par sa sincérité, son naturel et aussi la justesse de son propos !
+    
+    *Ci-dessous, les finalistes en compagnie de Mme Gamard et Neven, vainqueur du concours.* 
+    
+    ![Les finalistes](./images/expositions/Concours_eloquence_finalistes.jpg "Les finalistes du concours"){width=45% align=left}
+
+    [![Neven Le Goff](./images/expositions/Concours_eloquence_Neven.jpg "Neven, vainqueur du concours"){width=25% align=left}](https://www.letelegramme.fr/finistere/morlaix/neven-le-goff-eleve-a-notre-dame-du-mur-le-porsmeur-a-morlaix-remporte-le-concours-d-eloquence-de-son-lycee-13-02-2023-13278707.php){target=_blank}
+
+???+ "**Arts plastiques**"
+    ![Arts_plastiques](./images/expositions/Arts_plastiques_01.jpeg "01"){width=25% align=left}
+    ![Arts_plastiques](./images/expositions/Arts_plastiques_02_Ambre_Frerejacques.jpeg "02"){width=25% align=left}
+    ![Arts_plastiques](./images/expositions/Arts_plastiques_04.jpeg "04"){width=25% align=left}
+    ![Arts_plastiques](./images/expositions/Arts_plastiques_05.jpeg "05"){width=25% align=left}
+    ![Arts_plastiques](./images/expositions/Arts_plastiques_07.jpeg "07"){width=25% align=left}
+    ![Arts_plastiques](./images/expositions/Arts_plastiques_06.jpeg "06"){width=25% align=left}
+    ![Arts_plastiques](./images/expositions/Arts_plastiques_08_Lila-Fetsch.jpeg "08"){width=25% align=left}
+
+    
+???+ "**Option Arts plastiques**"
+    ![Arts_plastiques](./images/expositions/Option_03.jpg "Otion_03"){width=25% align=left}
+    ![Arts_plastiques](./images/expositions/Option_05.jpg "Otion_05"){width=25% align=left}
+    ![Arts_plastiques](./images/expositions/Option_06.jpg "Otion_06"){width=25% align=left}
+    ![Arts_plastiques](./images/expositions/Option_01.jpg "Otion_01"){width=25% align=left}
+    ![Arts_plastiques](./images/expositions/Option_02.jpg "Otion_02"){width=25% align=left}
+    
+    ![Arts_plastiques](./images/expositions/Option_07.jpg "Otion_07"){width=35% align=left}
+
 
 ## Nouveautés
 
