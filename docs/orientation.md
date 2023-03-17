@@ -27,8 +27,6 @@ Invitation et formulaire d'inscription pour rencontrer des ingénieurEs de l'[**
 
 
 [![IFPS_Vannes](./images/orientation/IFPS_VANNES_PO-2023.jpg "Affiche"){width=28%}](https://www.ifps-vannes.fr/){target=_blank}
-[![IUT_St-Malo](./images/orientation/IUT_Saint-Malo_affiche_JPO.png "Affiche"){width=28%}](https://iut-stmalo.univ-rennes.fr/){target=_blank}
-
 [![CIRFA](./images/orientation/Forum_CIRFA_marine_st-renan.jpg "Affiche"){width=30%}](https://www.lamarinerecrute.fr/){target=_blank}
 [![Forum_Métiers_aéronautique](./images/orientation/Forum_metiers_aeronautique_BAN_Landivisiau_20230331.jpg "Affiche"){width=30%}](https://www.eventbrite.fr/e/billets-forum-des-metiers-de-laeronautique-navale-438995967757){target=_blank}
 

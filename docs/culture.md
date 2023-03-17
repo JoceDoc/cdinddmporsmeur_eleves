@@ -72,17 +72,6 @@ Pour activer son compte sur [**EduConnet**](https://educonnect.education.gouv.fr
 
 
 
-???+ info "**Les mercredis des sciences**"
-     
-    Le [**Programme**](https://www.espace-sciences.org/morlaix/programme){target=_blank} du mois de l'[**Espace des sciences**](https://www.espace-sciences.org/morlaix){target=_blank} : 
-    
-    * La chirurgie cardiaque d'hier à aujourd'hui.
-    
-    * Un océan de plastiques : quels impacts pour le vivant.
-    
-    * Astronomie de l'étrange.
-
-
 
 ## La culture à Morlaix
 
@@ -104,25 +93,17 @@ La [**ville de Morlaix**](https://www.ville.morlaix.fr/VIVRE-A-MORLAIX/Culture-L
         * [**Sew**](https://www.sew-morlaix.com/){target=_blank}
         * [**Théâtre du Pays de Morlaix**](https://www.theatre-du-pays-de-morlaix.fr/){target=_blank}
     === "EXPOSITIONS - CONFERENCES"
-        * [**Les Mardis de l'Espace des sciences **](https://www.espace-sciences.org/conferences/conferenciers){target=_blank}
-
-
-??? "Projet d'éducation artistique et culturelle au lycée"
-  
-
-    === "CINEMA"
-        ??? "Découvrir des oeuvres cinématographiques"
-
-        L'[**Association Film&Culture - Brest**](https://www.film-et-culture.fr/){target=_blank} intervient au lycée pour des ateliers de lecture de l'image et des circuits.
+        ???+ info "**L'Espace des sciences**"
+     
+            Le [**Programme**](https://www.espace-sciences.org/morlaix/programme){target=_blank} du mois de l'[**Espace des sciences**](https://www.espace-sciences.org/morlaix){target=_blank} : 
+    
+            * Astronomie de l'étrange : ==**mardi 29 mars**==.
+    
+            * ADN environnemental : ==**mercredi 5 avril**==.
+    
+            * Les scientifiques dans l'espace public : ==**mercredi 10 mai**==.
         
-        La programmation de l'année
-
-    === "THEATRE"
-        * [**Théâtre du Pays de Morlaix**](https://www.theatre-du-pays-de-morlaix.fr/){target=_blank}
-    
-        * Un océan de plastiques : quels impacts pour le vivant.
-    
-        * Astronomie de l'étrange.
+            Collection [**Les Mardis de l'Espace des sciences **](https://www.espace-sciences.org/conferences/conferenciers){target=_blank} (Les Champs libres - Rennes)
 
 
 

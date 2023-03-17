@@ -358,13 +358,12 @@ ___
             - [**Mme NUNEZ**](https://dnunez-gua.github.io/Maths_Terminales/){target=_blank} : Spécialité Mathématiques (Terminale) -  Option Maths expertes.
             - [**M. MADEC**](https://ericecmorlaix.github.io/SNT-2GT4_2022-2023/){target=_blank} : SNT seconde générale
 
-        ??? tip "Ressources proposées pour la "Semaine des mathématiques"
-            ==**Du 7 au 14 mars 2022, s'est déroulé la semaine des mathématiques**== : l'occasion de renforcer l'attractivité des mathématiques.
+        ??? tip "Ressources pour la "Semaine des Mathématiques""
+            ==**Semaine des mathématiques - Du 6 au 15 mars 2023**== : l'occasion de renforcer l'attractivité des mathématiques.
     
-            - [**Guide officiel**](https://eduscol.education.fr/document/38933/download?attachment){target=_blank} de l´édition 2022 sur le thème ==**"Les Maths en forme(s)"**==.
-            - [**Les défis possibles**](https://www.mathsenvie.fr/?p=10530){target=_blank} par niveau, les modalités du concours...
-            - [**Ressources**](https://maths.discip.ac-caen.fr/spip.php?article554){target=_blank}
-
+            - [**Guide officiel**](https://eduscol.education.fr/document/46258/download){target=_blank} de l´édition 2023 sur le thème ==**"Les Maths à la carte"**==.
+            - [**Les défis possibles**](https://www.mathsenvie.fr/semaine-des-mathematiques-2023-avec-mths-en-vie-une-semaine-a-la-carte/){target=_blank} par niveau, les modalités du concours...
+          
 ___
 #### NSI
 
@@ -512,20 +511,28 @@ ___
 
 ??? "**Présentation de l'épreuve**" 
     
-    Pour ne pas stresser, ce [**test**](https://learningapps.org/display?v=pf4o5pjnk21){target=_blank} récapitule ce qu'il est conseillé de faire ou au contraire préférable d'éviter.
+    Pour ne pas stresser, petit [**TEST**](https://learningapps.org/display?v=pf4o5pjnk21){target=_blank} récapitulant ce qu'il est conseillé de faire ou au contraire préférable d'éviter.
         
-    === "**REFERENTIEL**"
-        - [**Définition et objectifs**](https://eduscol.education.fr/729/presentation-du-grand-oral){target=_blank} (*Eduscol*)
+    === "**REFERENTIELS**"
+        - [**Définition et objectifs**](https://eduscol.education.fr/729/presentation-du-grand-oral){target=_blank} du Grand ORAL (*Eduscol*)
         - [**Comment se passe le grand oral ?**](https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-comment-se-passe-le-grand-oral-100028){target=_blank} (*MEN*)
+        - [**Grand oral et enseignement de spécialité**](file:///S:/T%C3%A9l%C3%A9chargements/Grand_oral_Igesr_Document_integral-1.pdf){target=_blank} : guide du Ministère de l'Education Nationale de la Jeunesse et des Sports.
+        - Tous les [**Programmes**](https://www.education.gouv.fr/les-programmes-du-lycee-general-et-technologique-9812){target=_blank} du lycée général et technologique.
+
     
-??? "**Méthodologie**" 
-    [**OBJECTIF GRAND ORAL**](https://view.genial.ly/60107d7e4e7f380d0505928a){target=_blank} : présentation Génially de l'académie de Grenoble.
+    === "**METHODOLOGIE**" 
+        [**OBJECTIF GRAND ORAL**](https://view.genial.ly/60107d7e4e7f380d0505928a){target=_blank} : présentation Génially de l'académie de Grenoble, très complète et très bien faite.
 
     === "**TUTORIELS**"
         - [**Petits tutos Lumni**](https://www.lumni.fr/dossier/preparer-son-oral#3){target=_blank} : se préparer - se présenter - s'engager - maîtriser les codes de la communication orale. (*Lumni*)
-        - [**La minute du coach ?**](https://www.editions-hatier.fr/grand-oral){target=_blank} : conseils et ressources pour préparer l'épreuve. (*Editions Hatier*)
+        - [**La minute du coach**](https://www.editions-hatier.fr/grand-oral){target=_blank} : conseils et ressources pour préparer l'épreuve. (*Editions Hatier*)
         - [**Exercices**](https://www.super-bac.com/articles/bac/exercices-grand-oral-maniere-parler/){target=_blank} pour améliorer ses qualités oratoires.
-    === "**S'ORGANISER**"
+
+    === "**VOLET ORIENTATION**"
+        - [**Fiche ONISEP**](./pdf/LGT_Fiche_Comment_preparer_volet_orientation_Grand_oral_bac_general_Fiche_eleve.pdf){target=_blank} livret pour vous aider à préparer le volet orientation de l'épreuve.
+    
+
+    
 
 
 ??? "**Ressources par disciplines**"
