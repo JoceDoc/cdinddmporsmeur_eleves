@@ -506,8 +506,6 @@ ___
 ___ 
 ## Grand Oral
 
-[**Padlet de ressources pour le GO**](https://padlet.com/cdinddmporsmeur/grandoral2021){target=_blank}
-
 
 ??? "**Présentation de l'épreuve**" 
     
@@ -516,10 +514,9 @@ ___
     === "**REFERENTIELS**"
         - [**Définition et objectifs**](https://eduscol.education.fr/729/presentation-du-grand-oral){target=_blank} du Grand ORAL (*Eduscol*)
         - [**Comment se passe le grand oral ?**](https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-comment-se-passe-le-grand-oral-100028){target=_blank} (*MEN*)
-        - [**Grand oral et enseignement de spécialité**](file:///S:/T%C3%A9l%C3%A9chargements/Grand_oral_Igesr_Document_integral-1.pdf){target=_blank} : guide du Ministère de l'Education Nationale de la Jeunesse et des Sports.
+        - [**Grand oral et enseignement de spécialité**](./pdf/Grand_oral_ens_specialite_MEN.pdf){target=_blank} : guide du Ministère de l'Education Nationale de la Jeunesse et des Sports.
         - Tous les [**Programmes**](https://www.education.gouv.fr/les-programmes-du-lycee-general-et-technologique-9812){target=_blank} du lycée général et technologique.
 
-    
     === "**METHODOLOGIE**" 
         [**OBJECTIF GRAND ORAL**](https://view.genial.ly/60107d7e4e7f380d0505928a){target=_blank} : présentation Génially de l'académie de Grenoble, très complète et très bien faite.
 
@@ -532,24 +529,3 @@ ___
         - [**Fiche ONISEP**](./pdf/LGT_Fiche_Comment_preparer_volet_orientation_Grand_oral_bac_general_Fiche_eleve.pdf){target=_blank} livret pour vous aider à préparer le volet orientation de l'épreuve.
     
 
-    
-
-
-??? "**Ressources par disciplines**"
-
-    === "**HGGSP**"
-    === "**HLP**"
-    === "**LLCER**"
-    === "**MATH**"
-    === "**NSI**"
-    === "**PHYSIQUE-CHIMIE**"
-    === "**SES**"
-    === "**SI**"
-    === "**SVT**"
-    === "**STMG**"
-        - [**Quelles questions pour le grand oral ?**](https://grand-oral-enseignants.lerobert.com/9782321015383/assets/les-ressources-numeriques-pour-les-stmg-1/preview){target=_blank} : liste des thèmes du porgramme et exemples de questions par spécialité. 
-    
-
-
-
-   
