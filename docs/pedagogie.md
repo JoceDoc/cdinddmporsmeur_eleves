@@ -88,7 +88,12 @@ ___
         ![Esprit critique](./images/esprit_critique.jpg "Esprit critique"){width=70% align=left}
         
 ??? "**Sites pour s'informer**"
-    ???+ "**Des Journaux**"
+    ???+ "**Les UNES du jour**"
+        [![**366**](./images/pedagogie/carte_presse_regionale.png "Page d'accueil 366"){width=45%}](https://www.366.fr/unes-du-jour/){target=_blank} 
+        
+        * [**366**](https://www.366.fr/unes-du-jour/){target=_blank} : Unes de la presse régionale.
+        * [**KIOSKO.NET**](https://fr.kiosko.net/fr/){target=_blank} : Les Unes des journaux de France, actualité nationale, internationale et régionale.
+    ???+ "**Journaux en ligne**"
         * [**Le Monde**](https://www.lemonde.fr/){target=_blank}
         * [**Le Figaro**](https://www.lefigaro.fr/){target=_blank}
         * [**Ouest-France**](https://www.ouest-france.fr/){target=_blank}
@@ -529,3 +534,6 @@ ___
         - [**Fiche ONISEP**](./pdf/LGT_Fiche_Comment_preparer_volet_orientation_Grand_oral_bac_general_Fiche_eleve.pdf){target=_blank} livret pour vous aider à préparer le volet orientation de l'épreuve.
     
 
+
+
+[def]: ./images/pedagogie/carte_presse_regionale.png "Page d'accueil kiosko.net"
