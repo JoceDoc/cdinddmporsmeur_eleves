@@ -413,7 +413,7 @@ ___
         - [**INC**](https://www.inc-conso.fr/){target=_blank} :  Institut national de la consommation.
         - [**60 millions de consommateurs**](https://www.60millions-mag.com/){target=_blank}
         - [**Service public**](https://www.service-public.fr/){target=_blank} : site officiel de l'administration française.
-        - [**Banque de France**](https://www.banque-france.fr/){target=_blank} : site officiel de la banque de France. 
+        - [**Banque de France**](https://www.banque-france.fr/){target=_blank} : site officiel de la banque de France ; politiuqe monétaire ; stabilité financière ; informations pour les entreprises ; ABC de l'économie. 
     === "SITES PEDAGOGIQUES"
         - [**Econofides**](https://econofides.ac-versailles.fr/){target=_blank} : l'économie pour le lycée, ressources pour la spécialité SES, et la 1ère STMG.
         - [**Melchior**](https://www.melchior.fr/){target=_blank} : site de ressources en SES proposées par des enseignants de SES en partenariat avec l'éducation nationale.
