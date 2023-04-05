@@ -23,10 +23,10 @@ Pour activer son compte sur [**EduConnet**](https://educonnect.education.gouv.fr
         
         Ci-dessous, la programmation de l'année.
 
-        [![Greenbook](./images/culture/greenbook.jpg "Greenbook"){width=20%}](./pdf/){target=_blank}
-        [![La couleur de la victoire](./images/culture/la_couleur_de_la_victoire.jpg "La couleur de la victoire"){width=19%}](./pdf/){target=_blank}
-        [![1917](./images/culture/1917.jpg "1917"){width=20%}](./pdf/){target=_blank}
-        [![Compagnons](./images/culture/compagnons.jpg "Compagnons"){width=20%}](./pdf/){target=_blank}
+        [![Greenbook](./images/culture/greenbook.jpg "Greenbook"){width=20%}](./pdf/Green_book.pdf){target=_blank}
+        [![La couleur de la victoire](./images/culture/la_couleur_de_la_victoire.jpg "La couleur de la victoire"){width=19%}](./pdf/La_Couleur_de_la_victoire.pdf){target=_blank}
+        [![1917](./images/culture/1917.jpg "1917"){width=20%}](./pdf/1917.pdf){target=_blank}
+        [![Compagnons](./images/culture/compagnons.jpg "Compagnons"){width=20%}](./pdf/Compagnons.pdf){target=_blank}
         
 
 

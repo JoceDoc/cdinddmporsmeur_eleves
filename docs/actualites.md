@@ -89,6 +89,8 @@
     [![Management](./images/abonnements/02_fevrier_2023/Management_fevrier-mars_2023_307.jpg "Management, février-mars 2023, n°307"){width=20%}](./images/abonnements/02_fevrier_2023/Management_fevrier-mars_2023_307.pdf){target=_blank}
     [![Philosophie magazine](./images/abonnements/04_avril_2023/Philosophie_magazine_avril_2023_168.jpg "Philosophie magazine, avril 2023, 168"){width=20%}](./images/abonnements/04_avril_2023/Philosophie_magazine_avril_2023_168.pdf){target=_blank}
     [![Phosphore](./images/abonnements/04_avril_2023/Phosphore_1er_avril_2023_551.jpg "Phosphore, 1er avril 2023, 551"){width=20%}](./images/abonnements/04_avril_2023/Phosphore_1er_avril_2023_551.pdf){target=_blank}
+    [![Phosphore](./images/abonnements/04_avril_2023/Phosphore_15_avril_2023_552.jpg "Phosphore, 15 avril 2023, 552"){width=20%}](./images/abonnements/04_avril_2023/Phosphore_15_avril_2023_552.pdf){target=_blank}
+    [![Pour l'éco](./images/abonnements/04_avril_2023/Pour_l_eco_avril_2023_50.jpg "Pour l'éco, avril 2023, 50"){width=20%}](./images/abonnements/04_avril_2023/Pour_l_eco_avril_2023_50.pdf){target=_blank}
     [![Que choisir](./images/abonnements/04_avril_2023/Que_choisir_avril_2023_623.jpg "Que choisir, avril 2023, 623"){width=20%}](./images/abonnements/04_avril_2023/Que_choisir_avril_2023_623.pdf){target=_blank}
     [![Que choisir. Argent](./images/abonnements/04_avril_2023/Que_choisir_argent_avril_2023_170.jpg "Que choisir. Argent, avril 2023, 170"){width=20%}](./images/abonnements/04_avril_2023/Que_choisir_argent_avril_2023_170.pdf){target=_blank}
     [![Que choisir santé](./images/abonnements/04_avril_2023/Que_choisir_sante_avril_2023_181.jpg "Que choisir santé, avril 2023, 181"){width=20%}](./images/abonnements/04_avril_2023/Que_choisir_sante_avril_2023_181.pdf){target=_blank}
@@ -182,6 +184,8 @@
     [![Vocable Espagnol](./images/abonnements/langues/Vocable_espagnol_fevrier_2023_868.jpg "Vocable Espagnol, février 2023, n°868"){width=20%}](./images/abonnements/langues/Vocable_espagnol_fevrier_2023_868.pdf){target=_blank}
 
 ??? "**Pour les enseignants**"
+    
+    ??? Example "**Cahiers pédagogiques**"
     [![Cahiers pédagogiques](./images/abonnements/enseignants/Cahiers_pedagogiques_février_2022_575.jpg "Cahiers pédagogiques, février 2022, n°575"){width=20%}](./images/abonnements/enseignants/Cahiers_pedagogiques_février_2022_575.pdf){target=_blank}
     [![Cahiers pédagogiques](./images/abonnements/enseignants/Cahiers_pedagogiques_mars-avril_2022_576.jpg "Cahiers pédagogiques, mars-avril 2022, n°576"){width=20%}](./images/abonnements/enseignants/Cahiers_pedagogiques_mars-avril_2022_576.pdf){target=_blank}
     [![Cahiers pédagogiques](./images/abonnements/enseignants/Cahiers_pedagogiques_mai_2022_577.jpg "Cahiers pédagogiques, mai 2022, n°577"){width=20%}](./images/abonnements/enseignants/Cahiers_pedagogiques_mai_2022_577.pdf){target=_blank}
@@ -189,7 +193,13 @@
     [![Cahiers pédagogiques](./images/abonnements/enseignants/Cahiers_pedagogiques_septembre-octobre_2022_579.jpg "Cahiers pédagogiques, septembre-octobre 2022, n°579"){width=20%}](./images/abonnements/enseignants/Cahiers_pedagogiques_septembre-octobre_2022_579.pdf){target=_blank}
     [![Cahiers pédagogiques](./images/abonnements/enseignants/Cahiers_pedagogiques_novembre_2022_580.jpg "Cahiers pédagogiques, novembre 2022, n°580"){width=20%}](./images/abonnements/enseignants/Cahiers_pedagogiques_novembre_2022_580.pdf){target=_blank}
     [![Cahiers pédagogiques](./images/abonnements/enseignants/Cahiers_pedagogiques_decembre_2022_581.jpg "Cahiers pédagogiques, décembre 2022, n°581"){width=20%}](./images/abonnements/enseignants/Cahiers_pedagogiques_decembre_2022_581.pdf){target=_blank}
+    ??? Example "**InterCDI**"
     [![InterCDI](./images/abonnements/enseignants/Intercdi_septembre-octobre_2022_298.jpg "InterCDI, septembre-octobre 2022, n°298"){width=20%}](./images/abonnements/enseignants/Intercdi_septembre-octobre_2022_298.pdf){target=_blank}
+    [![InterCDI](./images/abonnements/enseignants/Intercdi_novembre-decembre_2022_299-300.jpg "InterCDI, novembre-décembre 2022, n°299-300"){width=20%}](./images/abonnements/enseignants/Intercdi_novembre-decembre_2022_299-300.pdf){target=_blank}
+    [![InterCDI](./images/abonnements/enseignants/InterCDI_janvier-fevrier_2023_301.jpg "InterCDI, janvier-février 2023, n°301"){width=20%}](./images/abonnements/enseignants/InterCDI_janvier-fevrier_2023_301.pdf){target=_blank}
+    [![InterCDI](./images/abonnements/enseignants/InterCDI_mars-avril_2023_302.jpg"InterCDI, mars-avril 2023, n°302"){width=20%}](./images/abonnements/enseignants/InterCDI_mars-avril_2023_302.pdf){target=_blank}
+
+    ??? Example "**NRP Lycée**"
     [![NRP Lycée](./images/abonnements/enseignants/NRP_lycee_septembre_2022_100.jpg "NRP Lycée, septembre 2022, n°100"){width=20%}](./images/abonnements/enseignants/NRP_lycee_septembre_2022_100.pdf){target=_blank}
     [![NRP Lycée](./images/abonnements/enseignants/NRP_lycee_decembre_2022_101.jpg "NRP Lycée, décembre 2022, n°101"){width=20%}](./images/abonnements/enseignants/NRP_lycee_decembre_2022_101.pdf){target=_blank}
 
