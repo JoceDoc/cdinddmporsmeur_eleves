@@ -523,7 +523,7 @@ ___
         - Tous les [**Programmes**](https://www.education.gouv.fr/les-programmes-du-lycee-general-et-technologique-9812){target=_blank} du lycée général et technologique.
 
     === "**METHODOLOGIE**" 
-        [**OBJECTIF GRAND ORAL**](https://view.genial.ly/60107d7e4e7f380d0505928a){target=_blank} : présentation Génially de l'académie de Grenoble, très complète et très bien faite.
+        [**DECOUVRIR L'EPREUVE**](https://view.genial.ly/60107d7e4e7f380d0505928a){target=_blank} : présentation Génially de l'académie de Grenoble, très complète et très bien faite.
 
     === "**TUTORIELS**"
         - [**Petits tutos Lumni**](https://www.lumni.fr/dossier/preparer-son-oral#3){target=_blank} : se préparer - se présenter - s'engager - maîtriser les codes de la communication orale. (*Lumni*)
