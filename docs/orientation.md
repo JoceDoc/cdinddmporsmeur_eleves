@@ -19,16 +19,8 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
 
 ## Actualités
 
-==**100 FEMMES - 100 METIERS ingénieure demain ! Jeudi 23 mars 2023 de 13h30 à 16h15**== 
+[![CIRFA](./images/orientation/20230424_Affiche_forum_morlaix.png "Affiche"){width=30%}](https://www.lamarinerecrute.fr/){target=_blank}
 
-Invitation et formulaire d'inscription pour rencontrer des ingénieurEs de l'[**UIMM**](https://uimm.lafabriquedelavenir.fr/industrie/){target=_blank} et du site de l'[**ENSTA Bretagne**](https://www.ensta-bretagne.fr/fr/100-femmes-100-metiers-ingenieure-demain){target=_blank}.
-
-[![100 femmes - 100 métiers](./images/orientation/2023_100femmes100metiers-amphi.jpg "100 femmes - 100 métiers"){width=45%}](./pdf/2023_invitation_inscription_100_femmes_100_metiers.pdf){target=_blank}
-
-
-[![IFPS_Vannes](./images/orientation/IFPS_VANNES_PO-2023.jpg "Affiche"){width=28%}](https://www.ifps-vannes.fr/){target=_blank}
-[![CIRFA](./images/orientation/Forum_CIRFA_marine_st-renan.jpg "Affiche"){width=30%}](https://www.lamarinerecrute.fr/){target=_blank}
-[![Forum_Métiers_aéronautique](./images/orientation/Forum_metiers_aeronautique_BAN_Landivisiau_20230331.jpg "Affiche"){width=30%}](https://www.eventbrite.fr/e/billets-forum-des-metiers-de-laeronautique-navale-438995967757){target=_blank}
 
 ??? attention "**Communication de l'UBO**"
 
@@ -125,6 +117,7 @@ ___
         - [**Les compagnons du devoir**](https://www.compagnons-du-devoir.com/){target=_blank} : journées portes ouvertes les ==**14-15 janvier** / **11 mars 2023**==.
         [![**Compagnons du devoir**](./images/orientation/Flyer_jpo_compagnons.jpg "Flyers_jpo"){width=50%}](https://www.compagnons-du-devoir.com/){target=_blank}
     === "VIE ETUDIANTE"
+        - [==**Guide de la vie étudiante - 2023**==](https://www.enseignementsup-recherche.gouv.fr/fr/guide-etudiant-2023){target=_blank}
         - [**Vie étudiante : Infos, services, FAQ**](https://www.etudiant.gouv.fr/fr){target=_blank}
         - [**FAQ vie étudiante**](https://www.etudiant.gouv.fr/fr/faq){target=_blank}
         - [**Jeunes.gouv.fr**](https://jeunes.gouv.fr/){target=_blank}
@@ -465,7 +458,11 @@ ___
         - [**ISEN**](https://www.isen.fr/){target=_blank} : Formations d'ingénieurs dans le numérique.
         - [**SUP'BIOTECH**](https://www.supbiotech.fr/){target=_blank} : l'école des ingénieur·e·s en Biotechnologies.
         - [**UNGE**](https://www.unge.net/index.php){target=_blank} : Union Nationale des Géomètres-Experts.
-    
+    === "IngénieurEs"
+        **100 FEMMES - 100 METIERS ingénieure demain !** 
+        Site de l'[**ENSTA Bretagne**](https://www.ensta-bretagne.fr/fr/100-femmes-100-metiers-ingenieure-demain){target=_blank}.
+
+        [![100 femmes - 100 métiers](./images/orientation/2023_100femmes100metiers-amphi.jpg "100 femmes - 100 métiers"){width=45%}](./pdf/2023_invitation_inscription_100_femmes_100_metiers.pdf){target=_blank}
 ___ 
 ### Universités
 ??? "Liens utiles"
