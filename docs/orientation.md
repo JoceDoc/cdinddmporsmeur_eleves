@@ -32,24 +32,6 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
 
     Voici la [**liste**](./pdf/UBO_listes_ambassadeurs.pdf){target=_blank} de l'ensemble des adresses d'étudiant.es ambassadeurs.drices disponibles à l'UBO pour discuter avec vous jusqu'au 6 avril.
 
-??? info "**Informations de M. QUINIO, coordinateur pour l'orientation**"
-    
-    Quelques informations en ce début d'année concernant les dispositifs d'aide à l'orientation :
-
-    - ==**Ouverture des dossiers *Parcoursup* à partir du 18/01**== 
-    L'ouverture se fera en classe avec votre prof référent.
-
-    - ==**Salon *Azimut* à Brest du 19 au 21/01**==
-    Visite du salon pour le niveau terminale vendredi après-midi entre 12h15 et 16h20.
-
-    - ==**Immersions**==  Ne pas hésiter à contacter la ou les formations qui vous intéressent pour leur demander la possibilité d'une immersion. Voir toutes les propositions d'immersions ci-dessous [**Niveau Tle**](https://cdi-lycee.ecmorlaix.fr/orientation/#niveau-tle){target=_blank}
-
-    - ==**Portes ouvertes**== : La saison des portes ouvertes bat son plein entre janvier et mars. Le plus simple pour connaitre les dates est de rechercher la formation sur **Parcoursup**. Liste des portes ouvertes de l'[**académie de Rennes**](https://cdi-lycee.ecmorlaix.fr/pdf/JPO_superieur_2023_Ac_Rennes_ONISEP_Bretagne_20230110.pdf){target=_blank}
-
-    - ==**Forum en ligne**== : Deux dernières séances - ==**Lundi 23/01**== - Licence arts et spectacles (Rennes) et ==**lundi 30/01**== - BUT Techniques de Commercialisations (Quimper).
-
-    - ==**Forum de l'orientation au lycée**== : Vendredi 10/02 entre 15h30 et 16h20 pour les élèves de terminales (plus d'informations à venir)
-
 
 ???+ info "**Au fil de la presse...**"
     - [**Le Télégramme - 30/12/2022**](https://www.letelegramme.fr/finistere/morlaix/a-23-ans-il-est-regisseur-dans-une-salle-mythique-loan-peron-de-plougonven-aux-coulisses-de-l-olympia-30-12-2022-13250759.php){target=_blank} : À 23 ans, il est régisseur « dans une salle mythique » : Loan Péron, de Plougonven, aux coulisses de l’Olympia. Bravo à cet ancien élève du lycée.

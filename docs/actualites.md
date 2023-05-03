@@ -78,15 +78,16 @@
    
 ??? "**Kiosque du mois** :newspaper:"
   
-    [![01.NET](./images/abonnements/03_mars_2023/01.NET_1er_mars_2023_993.jpg "01.NET, 1er mars 2023, n°993"){width=20%}](./images/abonnements/03_mars_2023/01.NET_1er_mars_2023_993.pdf){target=_blank}
-    [![01.NET](./images/abonnements/03_mars_2023/01.NET_15_mars_2023_994.jpg "01.NET, 15 mars 2023, n°994"){width=20%}](./images/abonnements/03_mars_2023/01.NET_15_mars_2023_994.pdf){target=_blank}
-    [![Aide-soignante](./images/abonnements/03_mars_2023/Aide-soignante_mars_2023_245.jpg "Aide-soignante, mars 2023, n°245"){width=20%}](./images/abonnements/03_mars_2023/Aide-soignante_mars_2023_245.pdf){target=_blank}
+    [![01.NET](./images/abonnements/04_avril_2023/01.NET_05_avril_2023_995.jpg "01.NET, 05 avril 2023, n°995"){width=20%}](./images/abonnements/04_avril_2023/01.NET_05_avril_2023_995.pdf){target=_blank}
+    [![01.NET](./images/abonnements/04_avril_2023/01.NET_19_avril_2023_996.jpg "01.NET, 19 avril 2023, n°996"){width=20%}](./images/abonnements/04_avril_2023/01.NET_19_avril_2023_996.pdf){target=_blank}
+    [![Aide-soignante](./images/abonnements/04_avril_2023/Aide-soignante_avril_2023_246.jpg "Aide-soignante, avril 2023, n°246"){width=20%}](./images/abonnements/04_avril_2023/Aide-soignante_avril_2023_246.pdf){target=_blank}
     [![Alternatives Economiques](./images/abonnements/04_avril_2023/Alternatives_economiques_avril_2023_433.jpg "Alternatives Economiques, avril 2023, n°433"){width=20%}](./images/abonnements/04_avril_2023/Alternatives_economiques_avril_2023_433.pdf ){target=_blank}
+    [![Alternatives Economiques](./images/abonnements/04_avril_2023/Alternatives_economiques_avril_2023_127HS.jpg "Alternatives Economiques, avril 2023, n°127HS"){width=20%}](./images/abonnements/04_avril_2023/Alternatives_economiques_avril_2023_127HS.pdf){target=_blank}
     [![Ca m'intéresse](./images/abonnements/03_mars_2023/Ca_m_interesse_mars_2023_505.jpg "Ca m'intéresse, mars 2023, n°505"){width=20%}](./images/abonnements/03_mars_2023/Ca_m_interesse_mars_2023_505.pdf){target=_blank}
     [![Documentation photographique](./images/abonnements/03_mars_2023/Documentation_photographique_mars_2023_8151.jpg "Documentation photographique, mars 2023, n°8151"){width=20%}](./images/abonnements/03_mars_2023/Documentation_photographique_mars_2023_8151.pdf){target=_blank}
     [![Journal de l'animation](./images/abonnements/04_avril_2023/Journal_animation_avril_2023_238.jpg "Journal de l'animation, avril 2023, n°238"){width=20%}](./images/abonnements/04_avril_2023/Journal_animation_avril_2023_238.pdf){target=_blank}
     [![Lire](./images/abonnements/04_avril_2023/Lire_avril_2023_517.jpg "Lire, avril 2023, n°517"){width=20%}](./images/abonnements/04_avril_2023/Lire_avril_2023_517.pdf){target=_blank}
-    [![Management](./images/abonnements/02_fevrier_2023/Management_fevrier-mars_2023_307.jpg "Management, février-mars 2023, n°307"){width=20%}](./images/abonnements/02_fevrier_2023/Management_fevrier-mars_2023_307.pdf){target=_blank}
+    [![Management](./images/abonnements/05_mai_2023/Management_avril-mai_2023_308.jpg "Management, avril-mai 2023, n°308"){width=20%}](./images/abonnements/05_mai_2023/Management_avril-mai_2023_308.pdf){target=_blank}
     [![Philosophie magazine](./images/abonnements/04_avril_2023/Philosophie_magazine_avril_2023_168.jpg "Philosophie magazine, avril 2023, 168"){width=20%}](./images/abonnements/04_avril_2023/Philosophie_magazine_avril_2023_168.pdf){target=_blank}
     [![Phosphore](./images/abonnements/04_avril_2023/Phosphore_1er_avril_2023_551.jpg "Phosphore, 1er avril 2023, 551"){width=20%}](./images/abonnements/04_avril_2023/Phosphore_1er_avril_2023_551.pdf){target=_blank}
     [![Phosphore](./images/abonnements/04_avril_2023/Phosphore_15_avril_2023_552.jpg "Phosphore, 15 avril 2023, 552"){width=20%}](./images/abonnements/04_avril_2023/Phosphore_15_avril_2023_552.pdf){target=_blank}
@@ -135,55 +136,22 @@
 ??? "**Kiosque des langues vivantes** :gb: :de: :es: :it: :cn:"
     
     ??? Example ":gb: **Anglais** :gb:"
-    [![I love English world](./images/abonnements/langues/IloveEnglishWorld_février_2022_346.jpg "I love english world, février 2022, n°346"){width=20%}](./images/abonnements/langues/IloveEnglishWorld_février_2022_346.pdf){target=_blank}
-    [![I love English world](./images/abonnements/langues/IloveEnglishWorld_mars_2022_347.jpg "I love english world, mars 2022, n°347"){width=20%}](./images/abonnements/langues/IloveEnglishWorld_mars_2022_347.pdf){target=_blank}
-    [![I love English world](./images/abonnements/langues/IloveEnglishWorld_avril_2022_348.jpg "I love english world, avril 2022, n°348"){width=20%}](./images/abonnements/langues/IloveEnglishWorld_avril_2022_348.pdf){target=_blank}
-    [![I love English world](./images/abonnements/langues/IloveEnglishWorld_mai_2022_349.jpg "I love english world, mai 2022, n°349"){width=20%}](./images/abonnements/langues/IloveEnglishWorld_mai_2022_349.pdf){target=_blank}
-    [![I love English world](./images/abonnements/langues/IloveEnglishWorld_juin_2022_350.jpg "I love english world, juin 2022, n°350"){width=20%}](./images/abonnements/langues/IloveEnglishWorld_juin_2022_350.pdf){target=_blank}
-    [![I love English world](./images/abonnements/langues/IloveEnglishWorld_juillet-aout_2022_351.jpg "I love english world, juillet-aout 2022, n°351"){width=20%}](./images/abonnements/langues/IloveEnglishWorld_juillet-aout_2022_351.pdf){target=_blank}
-    [![I love English world](./images/abonnements/langues/IloveEnglishWorld_septembre_2022_352.jpg "I love english world, septembre 2022, n°352"){width=20%}](./images/abonnements/langues/IloveEnglishWorld_septembre_2022_352.pdf){target=_blank}
-    [![I love English world](./images/abonnements/langues/IloveEnglishWorld_octobre_2022_353.jpg "I love english world, octobre 2022, n°353"){width=20%}](./images/abonnements/langues/IloveEnglishWorld_octobre_2022_353.pdf){target=_blank}
-    [![I love English world](./images/abonnements/langues/IloveEnglishWorld_novembre_2022_354.jpg "I love english world, novembre 2022, n°354"){width=20%}](./images/abonnements/langues/IloveEnglishWorld_novembre_2022_354.pdf){target=_blank}
-    [![I love English world](./images/abonnements/langues/IloveEnglishWorld_decembre_2022_355.jpg "I love english world, décembre 2022, n°355"){width=20%}](./images/abonnements/langues/IloveEnglishWorld_decembre_2022_355.pdf){target=_blank}
     [![I love English world](./images/abonnements/langues/IloveEnglishWorld_janvier_2023_356.jpg "I love english world, janvier 2023, n°356"){width=20%}](./images/abonnements/langues/IloveEnglishWorld_janvier_2023_356.pdf){target=_blank}
     [![I love English world](./images/abonnements/langues/IloveEnglishWorld_fevrier_2023_357.jpg"I love english world, février 2023, n°357"){width=20%}](./images/abonnements/langues/IloveEnglishWorld_fevrier_2023_357.pdf){target=_blank}
     [![I love English world](./images/abonnements/langues/IloveEnglishWorld_mars_2023_358.jpg"I love english world, mars 2023, n°358"){width=20%}](./images/abonnements/langues/IloveEnglishWorld_mars_2023_358.pdf){target=_blank}
+    [![I love English world](./images/abonnements/langues/IloveEnglishWorld_avril_2023_359.jpg"I love english world, avril 2023, n°359"){width=20%}](./images/abonnements/langues/IloveEnglishWorld_avril_2023_359.pdf){target=_blank}
+    [![I love English world](./images/abonnements/langues/IloveEnglishWorld_mai_2023_360.jpg "I love english world, mai 2023, n°360"){width=20%}](./images/abonnements/langues/IloveEnglishWorld_mai_2023_360.pdf){target=_blank}
     
     ??? Example ":de: **Allemand** :de:"
-    [![Vocable Allemand](./images/abonnements/langues/Vocable_Allemand_20220120_856.jpg "Vocable Allemand, 20 janvier 2022, n°856"){width=20%}](./images/abonnements/langues/Vocable_Allemand_20220120_856_sommaire.pdf){target=_blank}
-    [![Vocable Allemand](./images/abonnements/langues/Vocable_Allemand_20220203_857.jpg "Vocable Allemand, 03 février 2022, n°857"){width=20%}](./images/abonnements/langues/Vocable_Allemand_20220203_857_sommaire.pdf){target=_blank}
-    [![Vocable Allemand](./images/abonnements/langues/Vocable_Allemand_20220217_858.jpg "Vocable Allemand, 17 février 2022, n°858"){width=20%}](./images/abonnements/langues/Vocable_Allemand_20220217_858_sommaire.pdf){target=_blank}
-    [![Vocable Allemand](./images/abonnements/langues/Vocable_Allemand_20220303_859.jpg "Vocable Allemand, 03 mars 2022, n°859"){width=20%}](./images/abonnements/langues/Vocable_Allemand_20220303_859_sommaire.pdf){target=_blank}
-    [![Vocable Allemand](./images/abonnements/langues/Vocable_Allemand_20220317_860.jpg "Vocable Allemand, 17 mars 2022, n°860"){width=20%}](./images/abonnements/langues/Vocable_Allemand_20220317_860_sommaire.pdf){target=_blank}
-    [![Vocable Allemand](./images/abonnements/langues/Vocable_Allemand_20220331_861.JPG "Vocable Allemand, 31 mars 2022, n°861"){width=20%}](./images/abonnements/langues/Vocable_Allemand_20220331_861_sommaire.pdf){target=_blank}
-    [![Vocable Allemand](./images/abonnements/langues/Vocable_allemand_20220623_867.jpg "Vocable Allemand, 23 juin 2022, n°867"){width=20%}](./images/abonnements/langues/Vocable_allemand_20220623_867.pdf){target=_blank}
-    [![Vocable Allemand](./images/abonnements/langues/Vocable_allemand_20220707_868.jpg "Vocable Allemand, 07 juillet 2022, n°868"){width=20%}](./images/abonnements/langues/Vocable_allemand_20220707_868.pdf){target=_blank}
-    [![Vocable Allemand](./images/abonnements/langues/Vocable_allemand_20220901_869.jpg "Vocable Allemand, 01 septembre 2022, n°869"){width=20%}](./images/abonnements/langues/Vocable_allemand_20220901_869.pdf){target=_blank}
-    [![Vocable Allemand](./images/abonnements/langues/Vocable_allemand_20220915_870.jpg "Vocable Allemand, 15 septembre 2022, n°870"){width=20%}](./images/abonnements/langues/Vocable_allemand_20220915_870.pdf){target=_blank}
-    [![Vocable Allemand](./images/abonnements/langues/Vocable_allemand_20221001_871.jpg "Vocable Allemand, octobre 2022, n°871"){width=20%}](./images/abonnements/langues/Vocable_allemand_20221001_871.pdf){target=_blank}
-    [![Vocable Allemand](./images/abonnements/langues/Vocable_allemand_20221101_872.jpg "Vocable Allemand, novembre 2022, n°872"){width=20%}](./images/abonnements/langues/Vocable_allemand_20221101_872.pdf){target=_blank}
-    [![Vocable Allemand](./images/abonnements/langues/Vocable_allemand_20221201_873.jpg "Vocable Allemand, décembre 2022, n°873"){width=20%}](./images/abonnements/langues/Vocable_allemand_20221201_873.pdf){target=_blank}
     [![Vocable Allemand](./images/abonnements/langues/Vocable_allemand_janvier_2023_874.jpg "Vocable Allemand, janvier 2023, n°874"){width=20%}](./images/abonnements/langues/Vocable_allemand_janvier_2023_874.pdf){target=_blank}
     [![Vocable Allemand](./images/abonnements/langues/Vocable_allemand_fevrier_2023_875.jpg "Vocable Allemand, février 2023, n°875"){width=20%}](./images/abonnements/langues/Vocable_allemand_fevrier_2023_875.pdf){target=_blank}
     [![Vocable Allemand](./images/abonnements/langues/Vocable_allemand_mars_2023_876.jpg"Vocable Allemand, mars 2023, n°876"){width=20%}](./images/abonnements/langues/Vocable_allemand_mars_2023_876.pdf){target=_blank}
     
     ??? Example ":es: **Espagnol** :es:"
-    [![Vocable Espagnol](./images/abonnements/langues/Vocable_Espagnol_20220120_849.jpg "Vocable Espagnol, 20 janvier 2022, n°849"){width=20%}](./images/abonnements/langues/Vocable_Espagnol_20220120_849_sommaire.pdf){target=_blank}
-    [![Vocable Espagnol](./images/abonnements/langues/Vocable_Espagnol_20220203_850.jpg "Vocable Espagnol, 03 février 2022, n°850"){width=20%}](./images/abonnements/langues/Vocable_Espagnol_20220203_850_sommaire.pdf){target=_blank}
-    [![Vocable Espagnol](./images/abonnements/langues/Vocable_Espagnol_20220217_851.jpg "Vocable Espagnol, 17 février 2022, n°851"){width=20%}](./images/abonnements/langues/Vocable_Espagnol_20220217_851_sommaire.pdf){target=_blank}
-    [![Vocable Espagnol](./images/abonnements/langues/Vocable_Espagnol_20220303_852.jpg "Vocable Espagnol, 03 mars 2022, n°852"){width=20%}](./images/abonnements/langues/Vocable_Espagnol_20220303_852_sommaire.pdf){target=_blank}
-    [![Vocable Espagnol](./images/abonnements/langues/Vocable_Espagnol_20220317_853.jpg "Vocable Espagnol, 17 mars 2022, n°853"){width=20%}](./images/abonnements/langues/Vocable_Espagnol_20220317_853_sommaire.pdf){target=_blank}
-    [![Vocable Espagnol](./images/abonnements/langues/Vocable_Espagnol_20220331_854.JPG "Vocable Espagnol, 31 mars 2022, n°854"){width=20%}](./images/abonnements/langues/Vocable_Espagnol_20220331_854_sommaire.pdf){target=_blank}
-    [![Vocable Espagnol](./images/abonnements/langues/Vocable_espagnol_20220623_860.jpg "Vocable Espagnol, 23 juin 2022, n°860"){width=20%}](./images/abonnements/langues/Vocable_espagnol_20220623_860.pdf){target=_blank}
-    [![Vocable Espagnol](./images/abonnements/langues/Vocable_espagnol_20220707_861.jpg "Vocable Espagnol, 07 juillet 2022, n°861"){width=20%}](./images/abonnements/langues/Vocable_espagnol_20220707_861.pdf){target=_blank}
-    [![Vocable Espagnol](./images/abonnements/langues/Vocable_espagnol_20220901_862.jpg "Vocable Espagnol, 01 septembre 2022, n°862"){width=20%}](./images/abonnements/langues/Vocable_espagnol_20220901_862.pdf){target=_blank}
-    [![Vocable Espagnol](./images/abonnements/langues/Vocable_espagnol_20220915_863.jpg "Vocable Espagnol, 15 septembre 2022, n°863"){width=20%}](./images/abonnements/langues/Vocable_espagnol_20220915_863.pdf){target=_blank}
-    [![Vocable Espagnol](./images/abonnements/langues/Vocable_espagnol_20221001_864.jpg "Vocable Espagnol, octobre 2022, n°864"){width=20%}](./images/abonnements/langues/Vocable_espagnol_20221001_864.pdf){target=_blank}
-    [![Vocable Espagnol](./images/abonnements/langues/Vocable_espagnol_20221101_865.jpg "Vocable Espagnol, novembre 2022, n°865"){width=20%}](./images/abonnements/langues/Vocable_espagnol_20221101_865.pdf){target=_blank}
-    [![Vocable Espagnol](./images/abonnements/langues/Vocable_espagnol_20221201_866.jpg "Vocable Espagnol, décembre 2022, n°866"){width=20%}](./images/abonnements/langues/Vocable_espagnol_20221201_866.pdf){target=_blank}
     [![Vocable Espagnol](./images/abonnements/langues/Vocable_espagnol_janvier_2023_867.jpg "Vocable Espagnol, janvier 2023, n°867"){width=20%}](./images/abonnements/langues/Vocable_espagnol_janvier_2023_867.pdf){target=_blank}
     [![Vocable Espagnol](./images/abonnements/langues/Vocable_espagnol_fevrier_2023_868.jpg "Vocable Espagnol, février 2023, n°868"){width=20%}](./images/abonnements/langues/Vocable_espagnol_fevrier_2023_868.pdf){target=_blank}
     [![Vocable Espagnol](./images/abonnements/langues/Vocable_espagnol_mars_2023_869.jpg "Vocable Espagnol, mars 2023, n°869"){width=20%}](./images/abonnements/langues/Vocable_espagnol_mars_2023_869.pdf){target=_blank}
+    [![Vocable Espagnol](./images/abonnements/langues/Vocable_espagnol_avril_2023_870.jpg "Vocable Espagnol, avril 2023, n°870"){width=20%}](./images/abonnements/langues/Vocable_espagnol_avril_2023_870.pdf){target=_blank}
     
 
 ??? "**Pour les enseignants**"
