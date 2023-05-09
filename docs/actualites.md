@@ -78,6 +78,29 @@
    
 ??? "**Kiosque du mois** :newspaper:"
   
+    [![Aide-soignante](./images/abonnements/05_mai_2023/Aide-soignante_mai_2023_247.jpg "Aide-soignante, mai 2023, n°247"){width=20%}](./images/abonnements/05_mai_2023/Aide-soignante_mai_2023_247.pdf){target=_blank}
+    [![Alternatives Economiques](./images/abonnements/05_mai_2023/Alternatives_economiques_mai_2023_434.jpg "Alternatives Economiques, mai 2023, n°434"){width=20%}](./images/abonnements/05_mai_2023/Alternatives_economiques_mai_2023_434.pdf ){target=_blank}
+    [![Courrier international](./images/abonnements/05_mai_2023/Courrier_international_27_avril_2023_1695.jpg "Courrier international, 27 avril 2023, n°1695"){width=20%}](./images/abonnements/05_mai_2023/Courrier_international_27_avril_2023_1695.pdf){target=_blank}
+    [![Courrier international](./images/abonnements/05_mai_2023/Courrier_international_4_mai_2023_1696.jpg "Courrier international, 04 mai 2023, n°1696"){width=20%}](./images/abonnements/05_mai_2023/Courrier_international_4_mai_2023_1696.pdf){target=_blank}
+    [![Journal de l'animation](./images/abonnements/05_mai_2023/Journal_animation_mai_2023_239.jpg "Journal de l'animation, mai 2023, n°239"){width=20%}](./images/abonnements/05_mai_2023/Journal_animation_mai_2023_239.pdf){target=_blank}
+    [![Lire](./images/abonnements/05_mai_2023/Lire_magazine_mai_2023_518.jpg "Lire, mai 2023, n°518"){width=20%}](./images/abonnements/05_mai_2023/Lire_magazine_mai_2023_518.pdf){target=_blank}
+    [![Management](./images/abonnements/05_mai_2023/Management_avril-mai_2023_308.jpg "Management, avril-mai 2023, n°308"){width=20%}](./images/abonnements/05_mai_2023/Management_avril-mai_2023_308.pdf){target=_blank}
+    [![Philosophie magazine](./images/abonnements/05_mai_2023/Philosophie_magazine_mai_2023_169.jpg "Philosophie magazine, mai 2023, 169"){width=20%}](./images/abonnements/05_mai_2023/Philosophie_magazine_mai_2023_169.pdf){target=_blank}
+    [![Phosphore](./images/abonnements/05_mai_2023/Phosphore_01_mai_2023_553.jpg "Phosphore, 1er mai 2023, 553"){width=20%}](./images/abonnements/05_mai_2023/Phosphore_01_mai_2023_553.pdf){target=_blank}
+    [![Phosphore](./images/abonnements/05_mai_2023/Phosphore_15_mai_2023_554.jpg "Phosphore, 15 mai 2023, 554"){width=20%}](./images/abonnements/05_mai_2023/Phosphore_15_mai_2023_554.pdf){target=_blank}
+    [![Pour l'éco](./images/abonnements/05_mai_2023/Pour_l_eco_mai_2023_51.jpg "Pour l'éco, mai 2023, 51"){width=20%}](./images/abonnements/05_mai_2023/Pour_l_eco_mai_2023_51.pdf){target=_blank}
+    [![Que choisir](./images/abonnements/05_mai_2023/Que_choisir_mai_2023_624.jpg "Que choisir, mai 2023, 624"){width=20%}](./images/abonnements/05_mai_2023/Que_choisir_mai_2023_624.pdf){target=_blank}
+    [![Que choisir santé](./images/abonnements/05_mai_2023/Que_choisir_sante_mai_2023_182.jpg "Que choisir santé, mai 2023, 182"){width=20%}](./images/abonnements/05_mai_2023/Que_choisir_sante_mai_2023_182.pdf){target=_blank}
+    [![Science et Vie](./images/abonnements/05_mai_2023/Science_et_vie_mai_2023_1268.jpg "Science et Vie, mai 2023, n°1268"){width=20%}](./images/abonnements/05_mai_2023/Science_et_vie_mai_2023_1268.pdf){target=_blank}
+    [![Science et Vie](./images/abonnements/05_mai_2023/Science_et_vie_mai_2023_307HS.jpg "Science et Vie, mai 2023, n°307HS"){width=20%}](./images/abonnements/05_mai_2023/Science_et_vie_mai_2023_307HS.pdf){target=_blank}
+    [![Science et Vie Junior](./images/abonnements/05_mai_2023/Science_et_vie_junior_mai_2023_404.jpg "Science et Vie Junior, mai 2023, n°404"){width=20%}](./images/abonnements/05_mai_2023/Science_et_vie_junior_mai_2023_404.pdf){target=_blank}
+    [![Science et Vie Junior](./images/abonnements/05_mai_2023/Science_et_vie_junior_mai_2023_159HS.jpg "Science et Vie Junior, mai 2023, n°159HS"){width=20%}](./images/abonnements/05_mai_2023/Science_et_vie_junior_mai_2023_159HS.pdf){target=_blank}
+    [![Sciences et avenir](./images/abonnements/05_mai_2023/Sciences_et_avenir_mai_2023_975.jpg "Sciences et avenir, mai 2023, n°918"){width=20%}](./images/abonnements/05_mai_2023/Sciences_et_avenir_mai_2023_975.pdf){target=_blank}
+    [![Sciences humaines](./images/abonnements/05_mai_2023/Sciences_humaines_mai_2023_358.jpg "Sciences humaines, mai 2023, n°358"){width=20%}](./images/abonnements/05_mai_2023/Sciences_humaines_mai_2023_358.pdf){target=_blank}
+        
+
+??? "**Kiosque du mois dernier** :newspaper:"    
+    
     [![01.NET](./images/abonnements/04_avril_2023/01.NET_05_avril_2023_995.jpg "01.NET, 05 avril 2023, n°995"){width=20%}](./images/abonnements/04_avril_2023/01.NET_05_avril_2023_995.pdf){target=_blank}
     [![01.NET](./images/abonnements/04_avril_2023/01.NET_19_avril_2023_996.jpg "01.NET, 19 avril 2023, n°996"){width=20%}](./images/abonnements/04_avril_2023/01.NET_19_avril_2023_996.pdf){target=_blank}
     [![Aide-soignante](./images/abonnements/04_avril_2023/Aide-soignante_avril_2023_246.jpg "Aide-soignante, avril 2023, n°246"){width=20%}](./images/abonnements/04_avril_2023/Aide-soignante_avril_2023_246.pdf){target=_blank}
@@ -103,34 +126,7 @@
     [![Sciences humaines](./images/abonnements/04_avril_2023/Sciences_humaines_avril_2023_357.jpg "Sciences humaines, avril 2023, n°357"){width=20%}](./images/abonnements/04_avril_2023/Sciences_humaines_avril_2023_357.pdf){target=_blank}
     [![Sport et vie](./images/abonnements/03_mars_2023/Sport_et_vie_mars-avril_2023_197.jpg "Sport et Vie, mars-avril 2023, n°197"){width=20%}](./images/abonnements/03_mars_2023/Sport_et_vie_mars-avril_2023_197.pdf){target=_blank}
     [![Virgule](./images/abonnements/04_avril_2023/Virgule_avril_2023_216.jpg" Virgule, avril 2023, n°216"){width=20%}](./images/abonnements/04_avril_2023/Virgule_avril_2023_216.pdf){target=_blank}
-    
-
-??? "**Kiosque du mois dernier** :newspaper:"    
-    
-    [![01.NET](./images/abonnements/03_mars_2023/01.NET_1er_mars_2023_993.jpg "01.NET, 1er mars 2023, n°993"){width=20%}](./images/abonnements/03_mars_2023/01.NET_1er_mars_2023_993.pdf){target=_blank}
-    [![01.NET](./images/abonnements/03_mars_2023/01.NET_15_mars_2023_994.jpg "01.NET, 15 mars 2023, n°994"){width=20%}](./images/abonnements/03_mars_2023/01.NET_15_mars_2023_994.pdf){target=_blank}
-    [![Aide-soignante](./images/abonnements/03_mars_2023/Aide-soignante_mars_2023_245.jpg "Aide-soignante, mars 2023, n°245"){width=20%}](./images/abonnements/03_mars_2023/Aide-soignante_mars_2023_245.pdf){target=_blank}
-    [![Alternatives Economiques](./images/abonnements/03_mars_2023/Alternatives_economiques_mars_2023_432.jpg "Alternatives Economiques, mars 2023, n°432"){width=20%}](./images/abonnements/03_mars_2023/Alternatives_economiques_mars_2023_432.pdf){target=_blank}
-    [![Ca m'intéresse](./images/abonnements/03_mars_2023/Ca_m_interesse_mars_2023_505.jpg "Ca m'intéresse, mars 2023, n°505"){width=20%}](./images/abonnements/03_mars_2023/Ca_m_interesse_mars_2023_505.pdf){target=_blank}
-    [![Courrier international](./images/abonnements/03_mars_2023/Courrier_international_02_mars_2023_1687.jpg "Courrier international, 02 mars 2023, n°1687"){width=20%}](./images/abonnements/03_mars_2023/Courrier_international_02_mars_2023_1687.pdf){target=_blank}
-    [![Documentation photographique](./images/abonnements/03_mars_2023/Documentation_photographique_mars_2023_8151.jpg "Documentation photographique, mars 2023, n°8151"){width=20%}](./images/abonnements/03_mars_2023/Documentation_photographique_mars_2023_8151.pdf){target=_blank}
-    [![Journal de l'animation](./images/abonnements/03_mars_2023/Journal_animation_mars_2023_237.jpg "Journal de l'animation, mars 2023, n°237"){width=20%}](./images/abonnements/03_mars_2023/Journal_animation_mars_2023_237.pdf){target=_blank}
-    [![Lire](./images/abonnements/03_mars_2023/Lire_magazine_mars_2023_516.jpg "Lire, mars 2023, n°516"){width=20%}](./images/abonnements/03_mars_2023/Lire_magazine_mars_2023_516.pdf){target=_blank}
-    [![Management](./images/abonnements/02_fevrier_2023/Management_fevrier-mars_2023_307.jpg "Management, février-mars 2023, n°307"){width=20%}](./images/abonnements/02_fevrier_2023/Management_fevrier-mars_2023_307.pdf){target=_blank}
-    [![Philosophie magazine](./images/abonnements/03_mars_2023/Philosophie_magazine_mars_2023_167.jpg "Philosophie magazine, mars 2023, 167"){width=20%}](./images/abonnements/03_mars_2023/Philosophie_magazine_mars_2023_167.pdf){target=_blank}
-    [![Phosphore](./images/abonnements/03_mars_2023/Phosphore_1er_mars_2023_549.jpg "Phosphore, 1er mars 2023, 549"){width=20%}](./images/abonnements/03_mars_2023/Phosphore_1er_mars_2023_549.pdf){target=_blank}
-    [![Phosphore](./images/abonnements/03_mars_2023/Phosphore_15_mars_2023_550.jpg "Phosphore, 15 mars 2023, 550"){width=20%}](./images/abonnements/03_mars_2023/Phosphore_15_mars_2023_550.pdf){target=_blank}
-    [![Pour l'éco](./images/abonnements/03_mars_2023/Pour_l_eco_mars_2023_49.jpg "Pour l'éco, mars 2023, 48"){width=20%}](./images/abonnements/03_mars_2023/Pour_l_eco_mars_2023_49.pdf){target=_blank}
-    [![Que choisir](./images/abonnements/03_mars_2023/Que_choisir_mars_2023_622.jpg "Que choisir, mars 2023, 622"){width=20%}](./images/abonnements/03_mars_2023/Que_choisir_mars_2023_622.pdf){target=_blank}
-    [![Que choisir santé](./images/abonnements/03_mars_2023/Que_choisir_sante_mars_2023_180.jpg "Que choisir santé, mars 2023, 180"){width=20%}](./images/abonnements/03_mars_2023/Que_choisir_sante_mars_2023_180.pdf){target=_blank}
-    [![Science et Vie](./images/abonnements/03_mars_2023/Science_et_vie_mars_2023_1266.jpg "Science et Vie, mars 2023, n°1266"){width=20%}](./images/abonnements/03_mars_2023/Science_et_vie_mars_2023_1266.pdf){target=_blank}
-    [![Science et Vie](./images/abonnements/03_mars_2023/Science_et_vie_mars_2023_306HS.jpg "Science et Vie, mars 2023, n°306HS"){width=20%}](./images/abonnements/03_mars_2023/Science_et_vie_mars_2023_306HS.pdf){target=_blank}
-    [![Science et Vie Junior](./images/abonnements/03_mars_2023/Science_et_vie_junior_mars_2023_402.jpg "Science et Vie Junior, mars 2023, n°402"){width=20%}](./images/abonnements/03_mars_2023/Science_et_vie_junior_mars_2023_402.pdf){target=_blank}
-    [![Science et Vie Junior](./images/abonnements/03_mars_2023/Science_et_vie_junior_mars_2023_158HS.jpg "Science et Vie Junior, mars 2023, n°158HS"){width=20%}](./images/abonnements/03_mars_2023/Science_et_vie_junior_mars_2023_158HS.pdf){target=_blank}
-    [![Sciences et avenir](./images/abonnements/03_mars_2023/Sciences_et_avenir_mars_2023_913.jpg "Sciences et avenir, mars 2023, n°913"){width=20%}](./images/abonnements/03_mars_2023/Sciences_et_avenir_mars_2023_913.pdf){target=_blank}
-    [![Sciences humaines](./images/abonnements/03_mars_2023/Sciences_humaines_mars_2023_356.jpg "Sciences humaines, mars 2023, n°356"){width=20%}](./images/abonnements/03_mars_2023/Sciences_humaines_mars_2023_356.pdf){target=_blank}
-    [![Sport et vie](./images/abonnements/03_mars_2023/Sport_et_vie_mars-avril_2023_197.jpg "Sport et Vie, mars-avril 2023, n°197"){width=20%}](./images/abonnements/03_mars_2023/Sport_et_vie_mars-avril_2023_197.pdf){target=_blank}
-    [![Virgule](./images/abonnements/03_mars_2023/Virgule_mars_2023_215.jpg" Virgule, mars 2023, n°215"){width=20%}](./images/abonnements/03_mars_2023/Virgule_mars_2023_215.pdf){target=_blank}   
+     
     
 
 ??? "**Kiosque des langues vivantes** :gb: :de: :es: :it: :cn:"
@@ -170,8 +166,8 @@
     ??? Example "**InterCDI**"
     [![InterCDI](./images/abonnements/enseignants/Intercdi_septembre-octobre_2022_298.jpg "InterCDI, septembre-octobre 2022, n°298"){width=20%}](./images/abonnements/enseignants/Intercdi_septembre-octobre_2022_298.pdf){target=_blank}
     [![InterCDI](./images/abonnements/enseignants/Intercdi_novembre-decembre_2022_299-300.jpg "InterCDI, novembre-décembre 2022, n°299-300"){width=20%}](./images/abonnements/enseignants/Intercdi_novembre-decembre_2022_299-300.pdf){target=_blank}
-    [![InterCDI](./images/abonnements/enseignants/InterCDI_janvier-fevrier_2023_301.jpg "InterCDI, janvier-février 2023, n°301"){width=20%}](./images/abonnements/enseignants/InterCDI_janvier-fevrier_2023_301.pdf){target=_blank}
-    [![InterCDI](./images/abonnements/enseignants/InterCDI_mars-avril_2023_302.jpg "InterCDI, mars-avril 2023, n°302"){width=20%}](./images/abonnements/enseignants/InterCDI_mars-avril_2023_302.pdf){target=_blank}
+    [![InterCDI](./images/abonnements/enseignants/Intercdi_janvier-fevrier_2023_301.jpg "InterCDI, janvier-février 2023, n°301"){width=20%}](./images/abonnements/enseignants/Intercdi_janvier-fevrier_2023_301.pdf){target=_blank}
+    [![InterCDI](./images/abonnements/enseignants/Intercdi_mars-avril_2023_302.jpg "InterCDI, mars-avril 2023, n°302"){width=20%}](./images/abonnements/enseignants/Intercdi_mars-avril_2023_302.pdf){target=_blank}
 
     ??? Example "**NRP Lycée**"
     [![NRP Lycée](./images/abonnements/enseignants/NRP_lycee_septembre_2022_100.jpg "NRP Lycée, septembre 2022, n°100"){width=20%}](./images/abonnements/enseignants/NRP_lycee_septembre_2022_100.pdf){target=_blank}

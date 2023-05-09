@@ -38,23 +38,30 @@ Pour activer son compte sur [**EduConnet**](https://educonnect.education.gouv.fr
         [![**La question**](./images/culture/laquestion_01.jpg "La question - mardi 16 mai - 14h "){width=27%}](https://www.theatre-du-pays-de-morlaix.fr/La-Question-568.html){target=_blank}
     
     === "EXPOSITIONS"
-        ???+ info "**Visite de l'exposition Ernest Pignon-Ernest au FHEL**"
+        ???+ "**Visite de l'exposition Ernest Pignon-Ernest au FHEL**"
     
-        Mercredi 19 octobre les élèves de seconde générale inscrits à l'option arts plastiques ont découvert le travail de l'artiste **Ernest-Pignon-Ernest**, à travers l'exposition présentée aux [**Fonds Hélène Edouard Leclerc**](https://www.fonds-culturel-leclerc.fr/){target=_blank} à Landerneau.
+            Mercredi 19 octobre les élèves de 2nde inscrits à l'option arts plastiques ont découvert le travail de l'artiste **Ernest-Pignon-Ernest**, à travers l'exposition présentée aux [**Fonds Hélène Edouard Leclerc**](https://www.fonds-culturel-leclerc.fr/){target=_blank} à Landerneau.
     
-        Le plasticien travaille depuis plus de 50 ans dans l'espace public, dans le monde entier. Les quelques 300 œuvres exposées ont révélé aux élèves, le processus créatif, les méthodes d'un représentant français du street art, qui est à la fois un dessinateur talentueux, un poète et un homme engagé. (Florence Charlou, Enseignante d'Arts plastiques)
+            Le plasticien travaille depuis plus de 50 ans dans l'espace public, dans le monde entier. Les quelques 300 œuvres exposées ont révélé aux élèves, le processus créatif, les méthodes d'un représentant français du street art, qui est à la fois un dessinateur talentueux, un poète et un homme engagé. (Florence Charlou, Enseignante d'Arts plastiques)
    
-        ??? attention "**Photos souvenirs**" 
-            ![FHEL Ernest](./images/visite_FHEL/oeuvres01.jpeg "Oeuvres01"){width=60% align=left}
-            ![FHEL Ernest](./images/visite_FHEL/eleves02.jpeg "Eleves02"){width=60% align=left}
-            ![FHEL Ernest](./images/visite_FHEL/eleves03.jpeg "Eleves03"){width=60% align=left}
+            ??? info "**Ressources**" 
+                * [**Site officiel de l'artiste**](https://pignon-ernest.com/){target=_blank}
+                * [**Galerie d'art**](https://www.galerie-lelong.com/fr/artiste/16/ernest-pignon-ernest/){target=_blank}
+                * [**Street Art Avenue**](https://street-art-avenue.com/biographie-artiste-ernest-pignon-ernest-street-art){target=_blank}
+            
+            ![FHEL Ernest](./images/visite_FHEL/oeuvres01.jpeg "Oeuvres01"){width=30% align=left}
+            ![FHEL Ernest](./images/visite_FHEL/eleves02.jpeg "Eleves02"){width=30% align=left}
+            ![FHEL Ernest](./images/visite_FHEL/eleves03.jpeg "Eleves03"){width=30% align=left}
     
-        ??? info "**Ressources**" 
-            * [**Site officiel de l'artiste**](https://pignon-ernest.com/){target=_blank}
-            * [**Galerie d'art**](https://www.galerie-lelong.com/fr/artiste/16/ernest-pignon-ernest/){target=_blank}
-            * [**Street Art Avenue**](https://street-art-avenue.com/biographie-artiste-ernest-pignon-ernest-street-art){target=_blank}
+                        
         
-        
+        ???+ "**Les élèves de l'option ARTS PLASTIQUES en visite à Brest**"
+            
+            Mercredi 3 mai, les élèves de 2nde de l'option arts plastiques ont visité l'[EESAB](https://www.eesab.fr/){target=_blank} école des Beaux-Arts de Brest : l'occasion de découvrir les modalités du concours et les spécificités pédagogiques en post-bac.  Après la visite du musée des Beaux-Arts, où s'est improvisé un petit atelier, le groupe s'est rendu à l'espace des Capucins, puis au centre d'art contemporain "La Passerelle" où ils ont découvert le travail d'artistes en résidence.
+            
+            ![Musée des Beaux-arts](./images/culture/Arts_plastiques_04.jpeg){width=40% align=left}
+            ![Musée des Beaux-arts](./images/culture/Arts_plastiques_07.jpeg){width=40% align=left}
+
     
     === "JEUNES EN LIBRAIRIE"
         Les élèves de 2nde AEPA et MRC participent au projet régional [**Jeunes en librairie**](https://daac.ac-rennes.fr/spip.php?article2268){target=_blank} qui a pour ambition de sensibiliser les élèves à l’ensemble de la chaîne du livre. 
