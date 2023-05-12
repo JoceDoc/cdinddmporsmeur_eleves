@@ -78,10 +78,12 @@
    
 ??? "**Kiosque du mois** :newspaper:"
   
+    [![01.NET](./images/abonnements/05_mai_2023/01.NET_11_mai_2023_997.jpg "01.NET, 11 mai 2023, n°997"){width=20%}](./images/abonnements/05_mai_2023/01.NET_11_mai_2023_997.pdf){target=_blank}
     [![Aide-soignante](./images/abonnements/05_mai_2023/Aide-soignante_mai_2023_247.jpg "Aide-soignante, mai 2023, n°247"){width=20%}](./images/abonnements/05_mai_2023/Aide-soignante_mai_2023_247.pdf){target=_blank}
     [![Alternatives Economiques](./images/abonnements/05_mai_2023/Alternatives_economiques_mai_2023_434.jpg "Alternatives Economiques, mai 2023, n°434"){width=20%}](./images/abonnements/05_mai_2023/Alternatives_economiques_mai_2023_434.pdf ){target=_blank}
     [![Courrier international](./images/abonnements/05_mai_2023/Courrier_international_27_avril_2023_1695.jpg "Courrier international, 27 avril 2023, n°1695"){width=20%}](./images/abonnements/05_mai_2023/Courrier_international_27_avril_2023_1695.pdf){target=_blank}
     [![Courrier international](./images/abonnements/05_mai_2023/Courrier_international_4_mai_2023_1696.jpg "Courrier international, 04 mai 2023, n°1696"){width=20%}](./images/abonnements/05_mai_2023/Courrier_international_4_mai_2023_1696.pdf){target=_blank}
+    [![Courrier international](./images/abonnements/05_mai_2023/Courrier_international_11_mai_2023_1697.jpg "Courrier international, 11 mai 2023, n°1697"){width=20%}](./images/abonnements/05_mai_2023/Courrier_international_11_mai_2023_1697.pdf){target=_blank}
     [![Journal de l'animation](./images/abonnements/05_mai_2023/Journal_animation_mai_2023_239.jpg "Journal de l'animation, mai 2023, n°239"){width=20%}](./images/abonnements/05_mai_2023/Journal_animation_mai_2023_239.pdf){target=_blank}
     [![Lire](./images/abonnements/05_mai_2023/Lire_magazine_mai_2023_518.jpg "Lire, mai 2023, n°518"){width=20%}](./images/abonnements/05_mai_2023/Lire_magazine_mai_2023_518.pdf){target=_blank}
     [![Management](./images/abonnements/05_mai_2023/Management_avril-mai_2023_308.jpg "Management, avril-mai 2023, n°308"){width=20%}](./images/abonnements/05_mai_2023/Management_avril-mai_2023_308.pdf){target=_blank}
@@ -97,7 +99,7 @@
     [![Science et Vie Junior](./images/abonnements/05_mai_2023/Science_et_vie_junior_mai_2023_159HS.jpg "Science et Vie Junior, mai 2023, n°159HS"){width=20%}](./images/abonnements/05_mai_2023/Science_et_vie_junior_mai_2023_159HS.pdf){target=_blank}
     [![Sciences et avenir](./images/abonnements/05_mai_2023/Sciences_et_avenir_mai_2023_975.jpg "Sciences et avenir, mai 2023, n°918"){width=20%}](./images/abonnements/05_mai_2023/Sciences_et_avenir_mai_2023_975.pdf){target=_blank}
     [![Sciences humaines](./images/abonnements/05_mai_2023/Sciences_humaines_mai_2023_358.jpg "Sciences humaines, mai 2023, n°358"){width=20%}](./images/abonnements/05_mai_2023/Sciences_humaines_mai_2023_358.pdf){target=_blank}
-        
+    [![Sport et vie](./images/abonnements/05_mai_2023/Sport_et_vie_mai-juin_2023_198.jpg "Sport et Vie, mai-juin 2023, n°198"){width=20%}](./images/abonnements/05_mai_2023/Sport_et_vie_mai-juin_2023_198.pdf){target=_blank}   
 
 ??? "**Kiosque du mois dernier** :newspaper:"    
     

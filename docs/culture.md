@@ -9,9 +9,23 @@
     - [**Panorama des arts**](https://panoramadelart.com/){target=_blank}
 
 ## Actualités
-Pour activer son compte sur [**EduConnet**](https://educonnect.education.gouv.fr/){target=_blank}, cliquer sur l'affiche ci-dessous, puis télécharger l'application [**PASS CULTURE**](https://pass.culture.fr/){target=_blank}
+???+ "**Connaissez-vous l'application Mélotick ?**"
+    [![**PASS CULTURE**](./images/culture/melotick.jpg "Mélotick"){width=35%}](https://melotick.com/)
+    
+    Télécharger l'application pour accéder aux services suivants :
+    
+    * ==**Agenda culturel**== : découvrez et suivez les évènements culturels de votre ville (Opéras, Ballets, Concerts, Musées, Théâtre et Expositions…)
+    
+    * ==**Bourse aux billets**== : revendez et achetez des billets culturels.
 
-[![**PASS CULTURE**](./images/culture/Pass_Culture_Affiche.jpg "Accès EduConnet"){width=35%}](https://educonnect.education.gouv.fr/){target=_blank}
+    * ==**Club culturel**== : rencontrez d’autres passionnés et accédez à des activités culturelles exclusives.(visites, rencontres, concerts etc…) 
+
+    
+
+???+ "**PASS CULTURE**"
+    Pour activer son compte sur [**EduConnet**](https://educonnect.education.gouv.fr/){target=_blank}, cliquer sur l'affiche ci-dessous, puis télécharger l'application [**PASS CULTURE**](https://pass.culture.fr/){target=_blank}
+
+    [![**PASS CULTURE**](./images/culture/Pass_Culture_Affiche.jpg "Accès EduConnet"){width=35%}](https://educonnect.education.gouv.fr/){target=_blank}
 
 ## Projets culturels au lycée
 ???+ "**Projets d'éducation artistique et culturelle au lycée**"
