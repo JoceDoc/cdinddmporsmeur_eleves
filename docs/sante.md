@@ -14,27 +14,18 @@
     
 
 ## Actualités
-![Logo](./images/parcours_sante/00_Bougeons_ensemble_le_logo.png "Logo"){width=35% align=right}
+![Logo](./images/parcours_sante/Bougeons_ensemble_2023.jpg "Affiche 2023"){width=25% align=right}
     
 
 ???+ info "Bougeons ensemble"
-    Une journée **exceptionnelle** dédiée au sport, pour sensibiliser les élèves du lycée à l’importance de l’activité physique pour lutter contre la **sédentarité**.
+    ==**Mardi 23 mai**==, c'est la 2ème édition d'une journée entièrement dédiée au sport pour le niveau seconde. <u>Objectifs</u> : pratiquer une activité physique, lutter contre la sédentarité, préserver sa santé et oublier son portable le temps d'une journée...
 
-    Grâce à l’association ==**« Bougeons ensemble »**== contactée par M. Derrien, enseignant d’EPS, les 300 élèves du niveau seconde ont découvert les bienfaits d’un mode de vie actif et du sport sur la santé.
+    <u>Programme à venir...</u>
 
-    Au programme : Escalade, défi vélo, postures, step, biathlon, rugby, run fit, danse, pilate, cross fit, musculation, mais aussi sophrologie et atelier de diététique… tout était réuni pour un parcours santé complet.
+    
+    ??? "Bientôt les photos de l'édition 2023"
 
-    Voir l'article de presse sur le site du journal Ouest-France [**ici**](https://www.ouest-france.fr/bretagne/morlaix-29600/morlaix-pour-lutter-contre-la-sedentarite-ils-vont-faire-bouger-300-jeunes-6d718506-aa02-11ec-8f08-42ee829ff732){target=_blank}
-
-    Pour aller plus loin, voir la rubrique [**Sédentarité**](https://cdi-lycee.ecmorlaix.fr/sante/#sedentarite) ci-dessous.
-
-    ??? "Photos souvenirs"
-
-        ![Parcours santé_01](./images/parcours_sante/01_Bougeons_ensemble_parcours_sante.jpg "parcours santé"){width=55%}
-        ![Parcours santé_02](./images/parcours_sante/02_Bougeons_ensemble_velo.jpg "vélo"){width=50%}
-        ![Parcours santé_03](./images/parcours_sante/03_Bougeons_ensemble_danse.jpg "danse"){width=50%}
-        ![Parcours santé_04](./images/parcours_sante/04_Bougeons_ensemble_en_mode_infiltre.jpg "infiltre"){width=90%}
-
+        
 
 
 ## Alimentation
@@ -47,7 +38,7 @@
 
         50 petites astuces pour manger mieux et bouger plus [**ici**](https://www.mangerbouger.fr/l-essentiel/guides-et-documents){target=_blank}
 
-        
+    
 
 ## Addictions
 ??? attention "Information" 
@@ -65,6 +56,32 @@
         Pour connaître ton niveau d'activité physique et de sédentarité, réalise ce [**test **](https://www.mangerbouger.fr/bouger-plus/test-de-niveau-d-activite-physique-et-de-sedentarite){target=_blank} en ligne et découvre [**pour quel sport tu es fait.**](https://www.phosphore.com/entre-nous/tests-perso/pour-quel-sport-es-tu-faite/){target=_blank}
 
         D'autres jeux et quizz sur l'[**ONAPS**](https://onaps.fr/jeux-et-quizz/){target=_blank} : Observatoire National de l'Activité Physique et de la Sédentarité.
+
+## Sommeil
+??? attention "Le sommeil, un allier santé"
+    Une bonne hygiène du sommeil est indispensable et contribue à préserver la santé.
+    Le sommeil possède plusieurs fonctions particulières, indissociables de l'état de veille et mettant en jeu de nombreux mécanismes physiologiques : sécrétions hormonales, régénération cellulaire (peau, muscle…), mémorisation etc. Dormir permet ainsi une récupération physique, psychologique et intellectuelle…
+
+    * [INSV](https://institut-sommeil-vigilance.org/){target=_blank} : Institut National du Sommeil et de la Vigilance.
+    
+    * [INSERM](https://www.inserm.fr/dossier/sommeil/){target=_blank} : toute la lumière sur notre activité nocturne.
+    
+    * [Observatoire de la Santé](https://www.observatoire-sante.fr/categorie/bien-etre/sommeil/){target=_blank} : les dossiers consacrés au sommeil.
+
+    * [Réseau Morphée](https://sommeilenfant.reseau-morphee.fr/en-savoir-plus/les-bienfaits-du-sommeil/){target=_blank} : les bienfaits du sommeil.
+
+    ???+ question "Testez son sommeil"
+
+        * [Questionnaire](https://sommeilenfant.reseau-morphee.fr/){target=_blank} totalement gratuit et anonyme proposé par le [réseau Morphée](https://sommeilenfant.reseau-morphee.fr/ado/sommeil-de-ladolescent/){target=_blank} pour réaliser un bilan complet de ton sommeil.
+
+    ???+ question "Sommeil et écrans"
+        Votre sommeil est-il en danger ? [**Faites le test**](https://institut-sommeil-vigilance.org/sommeil-et-nouvelles-technologies/){target=_blank} et découvrez l'importance du couvre-feu digital. 
+    
+
+    
+     
+
+
 
 
 ## Vie affective et sexuelle

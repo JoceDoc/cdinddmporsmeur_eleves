@@ -19,7 +19,7 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
 
 ## Actualités
 
-[![CIRFA](./images/orientation/20230424_Affiche_forum_morlaix.png "Affiche"){width=30%}](https://www.lamarinerecrute.fr/){target=_blank}
+[![Mission Locale du Pays de Morlaix](./images/orientation/job_dating_alternance.png "Affiche"){width=28%}](https://www.mission-locale-morlaix.fr/sitemlm/wp-content/themes/mlm/missionLocale.php){target=_blank}
 
 
 ??? attention "**Communication de l'UBO**"
