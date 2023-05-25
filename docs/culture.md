@@ -1,6 +1,7 @@
 ???+ example inline end "Liens utiles"
     [![**PASS CULTURE**](./images/culture/pass-culture-logo-france.jpg "Page d'accueil PASS CULTURE"){width=90%}](https://pass.culture.fr/){target=_blank}
-    [![**A VOS AGENDAS**](./images/culture/logo-agenda-culturel.png "Page d'accueil AGENDA"){width=99%}](https://www.agendaculturel.fr/){target=_blank}
+    [![**A VOS AGENDAS**](./images/culture/logo-agenda-culturel.png "Page d'accueil AGENDA"){width=110%}](https://www.agendaculturel.fr/){target=_blank}
+    [![**PASS CULTURE**](./images/culture/melotick.jpg "Mélotick"){width=90%}](https://melotick.com/)
     
     - [**Ministère de la culture**](https://www.culture.gouv.fr/){target=_blank}
     - [**Culture et patrimoine**](https://www.cultureetpatrimoine.com/){target=_blank}
@@ -9,8 +10,19 @@
     - [**Panorama des arts**](https://panoramadelart.com/){target=_blank}
 
 ## Actualités
+???+ "**"Le Théatre de la Corniche" présente**...==*"Les mauvais jours finiront"*=="
+    
+    ==**Chronique en chansons de la Commune de Paris**== : événement historique dont nous avons fêté le 150e anniversaire en 2021.
+    
+    Rendez-vous à la MJC de Morlaix ==**vendredi 16 juin à 18h**==.
+
+    Découvrez le [**Théâtre de la Corniche**](https://www.theatredelacorniche.fr/){target=_blank} et ci-dessous la présentation du spectacle.
+
+    [![**Les mauvais jours finiront**](./images/culture/Les_Mauvais_Jours_finiront.jpg "Présentation"){width=50%}](./images/culture/Les_mauvais_jours_finiront.pdf){target=_blank}
+
+    
 ???+ "**Connaissez-vous l'application Mélotick ?**"
-    [![**PASS CULTURE**](./images/culture/melotick.jpg "Mélotick"){width=35%}](https://melotick.com/)
+    [![**PASS CULTURE**](./images/culture/melotick.jpg "Mélotick"){width=35%}](https://melotick.com/){target=_blank}
     
     Télécharger l'application pour accéder aux services suivants :
     
@@ -83,13 +95,17 @@
 
         Dans le cadre de ce projet les élèves de 2nde AEPA participent au [**Prix des Embouquineurs 2023**](https://www.lagalerne.com/dossiers/4-3e-1/){target=_blank}.
         
-        Les élèves des deux classes auront aussi la chance de rencontrer des auteurs et autrices :
+        Les élèves des deux classes ont aussi eu la chance de rencontrer des auteurs et autrices :
 
-        * [**Luc Blanvillain**](https://www.letelegramme.fr/livres/a-lire/luc-blanvillain-j-ai-beaucoup-pense-a-claude-chabrol-quand-j-ai-ecrit-ce-livre-25-09-2022-13185904.php){target=_blank} **le 21 mars**, dont le dernier livre *Pas de souci* est salué par la critique.
-
-        * [**Louise Delgado**](https://www.librinova.com/auteur/louise-delgado){target=_blank}, **le 12 avril**. L'autrice a fait paraître en 2022 son premier roman, *Les derniers gardiens* en auto-édition.
+        * [**Luc Blanvillain**](https://www.letelegramme.fr/livres/a-lire/luc-blanvillain-j-ai-beaucoup-pense-a-claude-chabrol-quand-j-ai-ecrit-ce-livre-25-09-2022-13185904.php){target=_blank}, **le 21 mars**, dont le dernier livre <u>*Pas de Souci*</u> a été salué par la critique. 
+        
+        * [**Louise Delgado**](https://www.librinova.com/auteur/louise-delgado){target=_blank}, **le 12 avril**. L'autrice a fait paraître en 2022 son premier roman, <u>*Les derniers gardiens*</u> en auto-édition.
 
         * [**Nathalie Bernard**](https://www.youtube.com/watch?v=Rij2_mdk3uM){target=_blank}, **le 4 mai**, pour présenter son projet d'écriture.
+
+        [![Luc Blanvillain](./images/culture/Luc_Blanvillain_un_auteur_dans_mon_lycee.jpg "Luc Blanvillain - 21 mars 2023"){width=20% align=left}](https://www.letelegramme.fr/livres/a-lire/luc-blanvillain-j-ai-beaucoup-pense-a-claude-chabrol-quand-j-ai-ecrit-ce-livre-25-09-2022-13185904.php){target=_blank}
+
+        [![Louise Delgado](./images/culture/Louise_Delgado_avec_les_lyceens.jpg "Louise Delgado - 12 avril 2023"){width=45% align=left}](https://www.librinova.com/auteur/louise-delgado){target=_blank}
 
 
 

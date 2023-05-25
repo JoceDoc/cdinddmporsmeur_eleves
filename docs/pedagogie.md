@@ -377,8 +377,8 @@ ___
     Sur le site [**Eduscol**](https://eduscol.education.fr/2068/programmes-et-ressources-en-numerique-et-sciences-informatiques-voie-g){target=_blank}
 
 ??? "Ressources" 
-    - [**Histoire de l'informatique, d'Internet et du Web**](https://delmas-rigoutsos.nom.fr/documents/YDelmas-histoire_informatique/index.html){target=_blank}
-    - [**Cours sur Python**](https://courspython.com/){target=_blank}
+    - [**Interstices**](https://interstices.info/){target=_blank} : pour explorer les sciences du numérique. Algorithmes, logiciels, modèles, données... entrez dans les interstices.
+    - [**Python**](https://courspython.com/){target=_blank} : introduction à Python 3 pour la programmation scientifique.
     - [**Cours de sciences numériques et informatiques**](https://www.numerique-sciences-informatiques.fr/){target=_blank} : python, mini-projets, HTML et CSS, PHP, robots, objects orientés, android, sujets bacs. Les métiers du numérique.
     - [**Kahn Academy**](https://fr.khanacademy.org/){target=_blank} : Cours en mathématiques, sciences, informatique, économie et finance, arts.
     - [**PIXEES**](https://pixees.fr/){target=_blank} : ressources pour les sciences du numérique.

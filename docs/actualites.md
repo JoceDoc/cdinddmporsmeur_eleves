@@ -84,6 +84,7 @@
     [![Courrier international](./images/abonnements/05_mai_2023/Courrier_international_27_avril_2023_1695.jpg "Courrier international, 27 avril 2023, n°1695"){width=20%}](./images/abonnements/05_mai_2023/Courrier_international_27_avril_2023_1695.pdf){target=_blank}
     [![Courrier international](./images/abonnements/05_mai_2023/Courrier_international_4_mai_2023_1696.jpg "Courrier international, 04 mai 2023, n°1696"){width=20%}](./images/abonnements/05_mai_2023/Courrier_international_4_mai_2023_1696.pdf){target=_blank}
     [![Courrier international](./images/abonnements/05_mai_2023/Courrier_international_11_mai_2023_1697.jpg "Courrier international, 11 mai 2023, n°1697"){width=20%}](./images/abonnements/05_mai_2023/Courrier_international_11_mai_2023_1697.pdf){target=_blank}
+    [![Eau&Rivières de Bretagne](./images/abonnements/05_mai_2023/Eau_et_rivieres_de_bretagne_mai_2023_197.jpg "Eau&Rivières de Bretagne, mai 2023, n°197"){width=20%}](./images/abonnements/05_mai_2023/Eau_et_rivieres_de_bretagne_mai_2023_197.pdf){target=_blank}
     [![Journal de l'animation](./images/abonnements/05_mai_2023/Journal_animation_mai_2023_239.jpg "Journal de l'animation, mai 2023, n°239"){width=20%}](./images/abonnements/05_mai_2023/Journal_animation_mai_2023_239.pdf){target=_blank}
     [![Lire](./images/abonnements/05_mai_2023/Lire_magazine_mai_2023_518.jpg "Lire, mai 2023, n°518"){width=20%}](./images/abonnements/05_mai_2023/Lire_magazine_mai_2023_518.pdf){target=_blank}
     [![Management](./images/abonnements/05_mai_2023/Management_avril-mai_2023_308.jpg "Management, avril-mai 2023, n°308"){width=20%}](./images/abonnements/05_mai_2023/Management_avril-mai_2023_308.pdf){target=_blank}
@@ -164,6 +165,7 @@
     [![Cahiers pédagogiques](./images/abonnements/enseignants/Cahiers_pedagogiques_decembre_2022_581.jpg "Cahiers pédagogiques, décembre 2022, n°581"){width=20%}](./images/abonnements/enseignants/Cahiers_pedagogiques_decembre_2022_581.pdf){target=_blank}
     [![Cahiers pédagogiques](./images/abonnements/enseignants/Cahiers_pedagogiques_fevrier_2023_583.jpg "Cahiers pédagogiques, février 2022, n°583"){width=20%}](./images/abonnements/enseignants/Cahiers_pedagogiques_fevrier_2023_583.pdf){target=_blank}
     [![Cahiers pédagogiques](./images/abonnements/enseignants/Cahiers_pedagogiques_mars-avril_2023_584.jpg "Cahiers pédagogiques, mars-avril 2023, n°584"){width=20%}](./images/abonnements/enseignants/Cahiers_pedagogiques_mars-avril_2023_584.pdf){target=_blank}
+    [![Cahiers pédagogiques](./images/abonnements/enseignants/Cahiers_pedagogiques_mai_2023_585.jpg "Cahiers pédagogiques, mai 2023, n°585"){width=20%}](./images/abonnements/enseignants/Cahiers_pedagogiques_mai_2023_585.pdf){target=_blank}
 
     ??? Example "**InterCDI**"
     [![InterCDI](./images/abonnements/enseignants/Intercdi_septembre-octobre_2022_298.jpg "InterCDI, septembre-octobre 2022, n°298"){width=20%}](./images/abonnements/enseignants/Intercdi_septembre-octobre_2022_298.pdf){target=_blank}
