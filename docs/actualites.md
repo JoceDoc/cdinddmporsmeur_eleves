@@ -142,6 +142,7 @@
     [![Vocable Allemand](./images/abonnements/langues/Vocable_allemand_janvier_2023_874.jpg "Vocable Allemand, janvier 2023, n°874"){width=20%}](./images/abonnements/langues/Vocable_allemand_janvier_2023_874.pdf){target=_blank}
     [![Vocable Allemand](./images/abonnements/langues/Vocable_allemand_fevrier_2023_875.jpg "Vocable Allemand, février 2023, n°875"){width=20%}](./images/abonnements/langues/Vocable_allemand_fevrier_2023_875.pdf){target=_blank}
     [![Vocable Allemand](./images/abonnements/langues/Vocable_allemand_mars_2023_876.jpg"Vocable Allemand, mars 2023, n°876"){width=20%}](./images/abonnements/langues/Vocable_allemand_mars_2023_876.pdf){target=_blank}
+    [![Vocable Allemand](./images/abonnements/langues/Vocable_allemand_avril_2023_877.jpg "Vocable Allemand, avril 2023, n°877"){width=20%}](./images/abonnements/langues/Vocable_allemand_avril_2023_877.pdf){target=_blank}
     [![Vocable Allemand](./images/abonnements/langues/Vocable_allemand_mai_2023_878.jpg "Vocable Allemand, mai 2023, n°878"){width=20%}](./images/abonnements/langues/Vocable_allemand_mai_2023_878.pdf){target=_blank}
     [![Vocable Allemand](./images/abonnements/langues/Vocable_allemand_juin_2023_879.jpg "Vocable Allemand, juin 2023, n°879"){width=20%}](./images/abonnements/langues/Vocable_allemand_juin_2023_879.pdf){target=_blank}
     

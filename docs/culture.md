@@ -10,6 +10,11 @@
     - [**Panorama des arts**](https://panoramadelart.com/){target=_blank}
 
 ## Actualités
+???+ "**Exposition BANKSY, un événément exceptionnel à BREST**"
+    300 oeuvres du célèbre Street-Art exposées à l'[**Atelier des Capucins**](https://www.ateliersdescapucins.fr/fr){target=_blank} ==**du 10 au 25 juin**==. Les premières images de l'exposition sur cette page du [**Télégramme**](https://www.letelegramme.fr/bretagne/banksy-a-brest-les-premieres-images-de-lexposition-6363582.php){target=_blank}
+    
+    [![**Expo_Banksy**](./images/culture/Expo_Banksy_brest.jpg "Banksy_affiche"){width=35%}](https://www.letelegramme.fr/bretagne/banksy-a-brest-les-premieres-images-de-lexposition-6363582.php){target=_blank}
+
 ???+ "**"Le Théatre de la Corniche" présente**...==*"Les mauvais jours finiront"*=="
     
     ==**Chronique en chansons de la Commune de Paris**== : événement historique dont nous avons fêté le 150e anniversaire en 2021.

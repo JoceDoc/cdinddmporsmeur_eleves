@@ -69,19 +69,19 @@
     Une bonne hygiène du sommeil est indispensable et contribue à préserver la santé.
     Le sommeil possède plusieurs fonctions particulières, indissociables de l'état de veille et mettant en jeu de nombreux mécanismes physiologiques : sécrétions hormonales, régénération cellulaire (peau, muscle…), mémorisation etc. Dormir permet ainsi une récupération physique, psychologique et intellectuelle…
 
-    * [INSV](https://institut-sommeil-vigilance.org/){target=_blank} : Institut National du Sommeil et de la Vigilance.
+    * [**INSV**](https://institut-sommeil-vigilance.org/){target=_blank} : Institut National du Sommeil et de la Vigilance.
     
-    * [INSERM](https://www.inserm.fr/dossier/sommeil/){target=_blank} : toute la lumière sur notre activité nocturne.
+    * [**INSERM**](https://www.inserm.fr/dossier/sommeil/){target=_blank} : toute la lumière sur notre activité nocturne.
     
-    * [Observatoire de la Santé](https://www.observatoire-sante.fr/categorie/bien-etre/sommeil/){target=_blank} : les dossiers consacrés au sommeil.
+    * [**Observatoire de la Santé**](https://www.observatoire-sante.fr/categorie/bien-etre/sommeil/){target=_blank} : les dossiers consacrés au sommeil.
 
-    * [Réseau Morphée](https://sommeilenfant.reseau-morphee.fr/en-savoir-plus/les-bienfaits-du-sommeil/){target=_blank} : les bienfaits du sommeil.
+    * [**Réseau Morphée**](https://sommeilenfant.reseau-morphee.fr/en-savoir-plus/les-bienfaits-du-sommeil/){target=_blank} : les bienfaits du sommeil.
 
-    ???+ question "Testez son sommeil"
+    ???+ question "**Testez son sommeil**"
 
-        * [Questionnaire](https://sommeilenfant.reseau-morphee.fr/){target=_blank} totalement gratuit et anonyme proposé par le [réseau Morphée](https://sommeilenfant.reseau-morphee.fr/ado/sommeil-de-ladolescent/){target=_blank} pour réaliser un bilan complet de ton sommeil.
+        [**Questionnaire**](https://sommeilenfant.reseau-morphee.fr/){target=_blank} totalement gratuit et anonyme proposé par le [**réseau Morphée**](https://sommeilenfant.reseau-morphee.fr/ado/sommeil-de-ladolescent/){target=_blank} pour réaliser un bilan complet de ton sommeil.
 
-    ???+ question "Sommeil et écrans"
+    ???+ question "**Sommeil et écrans**"
         Votre sommeil est-il en danger ? [**Faites le test**](https://institut-sommeil-vigilance.org/sommeil-et-nouvelles-technologies/){target=_blank} et découvrez l'importance du couvre-feu digital. 
     
 
