@@ -174,7 +174,7 @@
     [![InterCDI](./images/abonnements/enseignants/Intercdi_septembre-octobre_2022_298.jpg "InterCDI, septembre-octobre 2022, n°298"){width=20%}](./images/abonnements/enseignants/Intercdi_septembre-octobre_2022_298.pdf){target=_blank}
     [![InterCDI](./images/abonnements/enseignants/Intercdi_novembre-decembre_2022_299-300.jpg "InterCDI, novembre-décembre 2022, n°299-300"){width=20%}](./images/abonnements/enseignants/Intercdi_novembre-decembre_2022_299-300.pdf){target=_blank}
     [![InterCDI](./images/abonnements/enseignants/Intercdi_janvier-fevrier_2023_301.jpg "InterCDI, janvier-février 2023, n°301"){width=20%}](./images/abonnements/enseignants/Intercdi_janvier-fevrier_2023_301.pdf){target=_blank}
-    [![InterCDI](./images/abonnements/enseignants/Intercdi_mars-avril_2023_302.jpg "InterCDI, mars-avril 2023, n°302"){width=20%}](./images/abonnements/enseignants/Intercdi_mars-avril_2023_302.pdf){target=_blank}
+    [![InterCDI](./images/abonnements/enseignants/InterCDI_mars-avril_2023_302.jpg "InterCDI, mars-avril 2023, n°302"){width=20%}](./images/abonnements/enseignants/InterCDI_mars-avril_2023_302.pdf){target=_blank}
 
     ??? Example "**NRP Lycée**"
     [![NRP Lycée](./images/abonnements/enseignants/NRP_lycee_septembre_2022_100.jpg "NRP Lycée, septembre 2022, n°100"){width=20%}](./images/abonnements/enseignants/NRP_lycee_septembre_2022_100.pdf){target=_blank}

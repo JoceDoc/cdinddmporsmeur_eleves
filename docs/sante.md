@@ -17,13 +17,22 @@
 ![Logo](./images/parcours_sante/Bougeons_ensemble_2023.jpg "Affiche 2023"){width=25% align=right}
     
 
-???+ info "Bougeons ensemble"
-    ==**Mardi 23 mai**==, c'est la 2ème édition d'une journée entièrement dédiée au sport pour le niveau seconde. <u>Objectifs</u> : pratiquer une activité physique, lutter contre la sédentarité, préserver sa santé et oublier son portable le temps d'une journée...
+???+ info "**Bougeons ensemble - Edition 2023**"
+    ==**Mardi 23 mai**==, M. Derrien, enseignant d'EPS, plusieurs enseignants et l'association ==**Bougeons ensemble**== organisaient une ==**journée entièrement dédiée au sport**== pour le niveau seconde du lycée. 
+    
+    <u>Au programme :</u>
 
-    <u>Programme à venir...</u>
+    ==**Ateliers sportifs**== : string -mélange de zumba et d'aérobic-, salsa, biathlon-laser, step, et autres sports d'adresse ou de combat comme l'escrime et la boxe française...
+    
+    ==**Rencontres et échanges avec des professionnels**== : des kinésithérapeuthes, sophrologues et un diététicien venus les sensibiliser aux bienfaits de l'exercice physique et d'une alimentation équilibrée.
+    
+    ==**Conférence**== : pour clôturer la journée, Yannick Guillodo, médecin du sport a insisté sur l'intérêt d'avoir un mode de vie actif, de lutter contre la sédentarité et de limiter son usage du téléphone portable...
+    
+    Les élèves étaient d'ailleurs conviés à "décrocher" de leur portable pendant cette journée, puisque celui-ci n'était pas autorisé pendant les ateliers.
+
 
     
-    ??? "Photos souvenirs de l'édition 2023"
+    ??? "**Photos souvenirs**"
 
         ![Bougeons ensemble](./images/parcours_sante/Bougeons_ensemble/Souvenirs_1.jpg "01"){width=65% align=left}
         ![Bougeons ensemble](./images/parcours_sante/Bougeons_ensemble/Souvenirs_2.jpg "02"){width=70% align=left}

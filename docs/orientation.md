@@ -206,6 +206,7 @@ ___
     === "CONCOURS"
         - [**EMSLB**](https://service-sante-des-armees.uniformesdefrance.com/secours-militaire-ssa-dates-concours-emsbl-esa-eppa-medecin-infirmier.php){target=_blank} : dates des concours pour l'entrée en Ecoles Militaires de Santé de Lyon-Bron. [**Voir fiche**](./pdf/Fiche_conditions_acce%CC%80s_concours_ESA_2023.pdf) conditions d'accès au concours de médecin ou pharmacien militaire. 
         - [**EMSLB - infirmier**](https://www.emslb.defense.gouv.fr/nous-rejoindre-concours/concours-eppa){target=_blank} : devenir infirmier militaire  en intégrant les écoles militaires de santé Lyon-Bron. [**Voir la plaquette**](./pdf/EMSLB_Plaquette_infirmier_militaire.pdf){target=_blank}
+        - [**IPESUP**](https://www.ipesup.fr/){target=_blank} : préparation aux concours des filères sélectives telles que Sciences PO, ENA, HEC, SESAME, ACCES, ALPHA, AVENIR, GEIPI/POLYTECH, MATH SUP, MATH SPE, DSCG, CELSA...
     === "STMG"  
         - [**Que faire après un BAC STMG ?**](https://www.onisep.fr/Choisir-mes-etudes/Apres-le-bac/Que-faire-apres-le-bac/Apres-un-bac-techno/Que-faire-apres-le-bac-STMG){target=_blank}
 
