@@ -78,9 +78,9 @@
    
 ??? "**Kiosque du mois** :newspaper:"
   
-    [![01.NET](./images/abonnements/05_mai_2023/01.NET_24_mai_2023_998.jpg "01.NET, 24 mai 2023, n°998"){width=20%}](./images/abonnements/05_mai_2023/01.NET_24_mai_2023_998.pdf){target=_blank}
     [![Aide-soignante](./images/abonnements/07_juillet_2023/Aide-soignante_juillet_2023_248.jpg "Aide-soignante, juillet 2023, n°248"){width=20%}](./images/abonnements/07_juillet_2023/Aide-soignante_juillet_2023_248.pdf){target=_blank}
     [![Alternatives Economiques](./images/abonnements/06_juin_2023/Alternatives_economiques_juin_2023_435.jpg "Alternatives Economiques, juin 2023, n°435"){width=20%}](./images/abonnements/06_juin_2023/Alternatives_economiques_juin_2023_435.pdf ){target=_blank}
+    [![Ca m'intéresse](./images/abonnements/07_juillet_2023/Ca_m_interesse_juillet_2023_509.jpg "Ca m'intéresse, juillet 2023, 509"){width=20%}](./images/abonnements/07_juillet_2023/Ca_m_interesse_juillet_2023_509.pdf){target=_blank}
     [![Journal de l'animation](./images/abonnements/06_juin_2023/Journal_animation_juin_2023_juin-juillet_2023_240.jpg "Journal de l'animation, juin 2023, n°240"){width=20%}](./images/abonnements/06_juin_2023/Journal_animation_juin_2023_juin-juillet_2023_240.pdf){target=_blank}
     [![Lire](./images/abonnements/05_mai_2023/Lire_magazine_mai_2023_518.jpg "Lire, mai 2023, n°518"){width=20%}](./images/abonnements/05_mai_2023/Lire_magazine_mai_2023_518.pdf){target=_blank}
     [![Philosophie magazine](./images/abonnements/06_juin_2023/Philosophie_magazine_juin_2023_170.jpg "Philosophie magazine, juin 2023, 170"){width=20%}](./images/abonnements/06_juin_2023/Philosophie_magazine_juin_2023_170.pdf){target=_blank}
@@ -98,7 +98,8 @@
 
 ??? "**Kiosque du mois dernier** :newspaper:"    
     
-    [![01.NET](./images/abonnements/05_mai_2023/01.NET_24_mai_2023_998.jpg "01.NET, 24 mai 2023, n°998"){width=20%}](./images/abonnements/05_mai_2023/01.NET_24_mai_2023_998.pdf){target=_blank}
+    [![01.NET](./images/abonnements/06_juin_2023/01.NET_07_juin_2023_999.jpg "01.NET, 07 juin 2023, n°999"){width=20%}](./images/abonnements/06_juin_2023/01.NET_07_juin_2023_999.pdf){target=_blank}
+    [![01.NET](./images/abonnements/06_juin_2023/01.NET_21_juin_2023_1000.jpg "01.NET, 21 juin 2023, n°1000"){width=20%}](./images/abonnements/06_juin_2023/01.NET_21_juin_2023_1000.pdf){target=_blank}
     [![Aide-soignante](./images/abonnements/05_mai_2023/Aide-soignante_mai_2023_247.jpg "Aide-soignante, mai 2023, n°247"){width=20%}](./images/abonnements/05_mai_2023/Aide-soignante_mai_2023_247.pdf){target=_blank}
     [![Alternatives Economiques](./images/abonnements/06_juin_2023/Alternatives_economiques_juin_2023_435.jpg "Alternatives Economiques, juin 2023, n°435"){width=20%}](./images/abonnements/06_juin_2023/Alternatives_economiques_juin_2023_435.pdf ){target=_blank}
     [![Ca m'intéresse](./images/abonnements/06_juin_2023/Ca_m_interesse_juin_2023_508.jpg "Ca m'intéresse, juin 2023, 508"){width=20%}](./images/abonnements/06_juin_2023/Ca_m_interesse_juin_2023_508.pdf){target=_blank}
