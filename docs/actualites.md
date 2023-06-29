@@ -79,10 +79,33 @@
 ??? "**Kiosque du mois** :newspaper:"
   
     [![01.NET](./images/abonnements/05_mai_2023/01.NET_24_mai_2023_998.jpg "01.NET, 24 mai 2023, n°998"){width=20%}](./images/abonnements/05_mai_2023/01.NET_24_mai_2023_998.pdf){target=_blank}
+    [![Aide-soignante](./images/abonnements/07_juillet_2023/Aide-soignante_juillet_2023_248.jpg "Aide-soignante, juillet 2023, n°248"){width=20%}](./images/abonnements/07_juillet_2023/Aide-soignante_juillet_2023_248.pdf){target=_blank}
+    [![Alternatives Economiques](./images/abonnements/06_juin_2023/Alternatives_economiques_juin_2023_435.jpg "Alternatives Economiques, juin 2023, n°435"){width=20%}](./images/abonnements/06_juin_2023/Alternatives_economiques_juin_2023_435.pdf ){target=_blank}
+    [![Journal de l'animation](./images/abonnements/06_juin_2023/Journal_animation_juin_2023_juin-juillet_2023_240.jpg "Journal de l'animation, juin 2023, n°240"){width=20%}](./images/abonnements/06_juin_2023/Journal_animation_juin_2023_juin-juillet_2023_240.pdf){target=_blank}
+    [![Lire](./images/abonnements/05_mai_2023/Lire_magazine_mai_2023_518.jpg "Lire, mai 2023, n°518"){width=20%}](./images/abonnements/05_mai_2023/Lire_magazine_mai_2023_518.pdf){target=_blank}
+    [![Philosophie magazine](./images/abonnements/06_juin_2023/Philosophie_magazine_juin_2023_170.jpg "Philosophie magazine, juin 2023, 170"){width=20%}](./images/abonnements/06_juin_2023/Philosophie_magazine_juin_2023_170.pdf){target=_blank}
+    [![Phosphore](./images/abonnements/07_juillet_2023/Phosphore_juillet_2023_557.jpg "Phosphore, juillet 2023, 557"){width=20%}](./images/abonnements/07_juillet_2023/Phosphore_juillet_2023_557.pdf){target=_blank}
+    [![Pour l'éco](./images/abonnements/06_juin_2023/Pour_l_eco_juin_2023_52.jpg "Pour l'éco, juin 2023, 52"){width=20%}](./images/abonnements/06_juin_2023/Pour_l_eco_juin_2023_52.pdf){target=_blank}
+    [![Que choisir](./images/abonnements/07_juillet_2023/Que_choisir_juillet-aout_2023_626.jpg "Que choisir, juillet 2023, 626"){width=20%}](./images/abonnements/07_juillet_2023/Que_choisir_juillet-aout_2023_626.pdf){target=_blank}
+    [![Que choisir santé](./images/abonnements/06_juin_2023/Que_choisir_sant%C3%A9_juin_2023_183.jpg "Que choisir santé, juin 2023, 183"){width=20%}](./images/abonnements/06_juin_2023/Que_choisir_sant%C3%A9_juin_2023_183.pdf){target=_blank}
+    [![Science et Vie](./images/abonnements/07_juillet_2023/Science_et_vie_juillet_2023_1270.jpg "Science et Vie, juillet 2023, n°1270"){width=20%}](./images/abonnements/07_juillet_2023/Science_et_vie_juillet_2023_1270.pdf){target=_blank}
+    [![Science et Vie](./images/abonnements/07_juillet_2023/Science_et_vie_juillet_2023_308HS.jpg "Science et Vie, juillet 2023, n°308HS"){width=20%}](./images/abonnements/07_juillet_2023/Science_et_vie_juillet_2023_308HS.pdf){target=_blank}
+    [![Science et Vie Junior](./images/abonnements/07_juillet_2023/Science_et_vie_junior_juillet_2023_406.jpg "Science et Vie Junior, juillet 2023, n°406"){width=20%}](./images/abonnements/07_juillet_2023/Science_et_vie_junior_juillet_2023_406.pdf){target=_blank}
+    [![Science et Vie Junior](./images/abonnements/07_juillet_2023/Science_et_vie_junior_juillet_2023_160HS.jpg "Science et Vie Junior, juillet 2023, n°160HS"){width=20%}](./images/abonnements/07_juillet_2023/Science_et_vie_junior_juillet_2023_160HS.pdf){target=_blank}
+    [![Sciences et avenir](./images/abonnements/06_juin_2023/Sciences_et_avenir_juin_2023_916.jpg "Sciences et avenir, juin 2023, n°916"){width=20%}](./images/abonnements/06_juin_2023/Sciences_et_avenir_juin_2023_916.pdf){target=_blank}
+    [![Sciences humaines](./images/abonnements/07_juillet_2023/Sciences_humaines_juillet_2023_360.jpg "Sciences humaines, juillet 2023, n°360"){width=20%}](./images/abonnements/07_juillet_2023/Sciences_humaines_juillet_2023_360.pdf){target=_blank}
+    [![Sport et vie](./images/abonnements/07_juillet_2023/Sport_et_vie_juin_2023_58HS.jpg "Sport et Vie, juillet 2023, n°58HS"){width=20%}](./images/abonnements/07_juillet_2023/Sport_et_vie_juin_2023_58HS.pdf){target=_blank}   
+
+??? "**Kiosque du mois dernier** :newspaper:"    
+    
+    [![01.NET](./images/abonnements/05_mai_2023/01.NET_24_mai_2023_998.jpg "01.NET, 24 mai 2023, n°998"){width=20%}](./images/abonnements/05_mai_2023/01.NET_24_mai_2023_998.pdf){target=_blank}
     [![Aide-soignante](./images/abonnements/05_mai_2023/Aide-soignante_mai_2023_247.jpg "Aide-soignante, mai 2023, n°247"){width=20%}](./images/abonnements/05_mai_2023/Aide-soignante_mai_2023_247.pdf){target=_blank}
     [![Alternatives Economiques](./images/abonnements/06_juin_2023/Alternatives_economiques_juin_2023_435.jpg "Alternatives Economiques, juin 2023, n°435"){width=20%}](./images/abonnements/06_juin_2023/Alternatives_economiques_juin_2023_435.pdf ){target=_blank}
+    [![Ca m'intéresse](./images/abonnements/06_juin_2023/Ca_m_interesse_juin_2023_508.jpg "Ca m'intéresse, juin 2023, 508"){width=20%}](./images/abonnements/06_juin_2023/Ca_m_interesse_juin_2023_508.pdf){target=_blank}
+    [![CNES Magazine](./images/abonnements/06_juin_2023/CNES_magazine_juin_2023_95.jpg "CNES Magazine, juin 2023, 95"){width=20%}](./images/abonnements/06_juin_2023/CNES_magazine_juin_2023_95.pdf){target=_blank}
     [![Courrier international](./images/abonnements/06_juin_2023/Courrier_international_01_juin_2023_1700.jpg "Courrier international, 01 juin 2023, n°1700"){width=20%}](./images/abonnements/06_juin_2023/Courrier_international_01_juin_2023_1700.pdf){target=_blank}
     [![Courrier international](./images/abonnements/06_juin_2023/Courrier_international_08_juin_2023_1701.jpg "Courrier international, 08 juin 2023, n°1701"){width=20%}](./images/abonnements/06_juin_2023/Courrier_international_08_juin_2023_1701.pdf){target=_blank}
+    [![Courrier international](./images/abonnements/06_juin_2023/Courrier_international_22_juin_2023_1703.jpg "Courrier international, 22 juin 2023, n°1703"){width=20%}](./images/abonnements/06_juin_2023/Courrier_international_22_juin_2023_1703.pdf){target=_blank}
     [![Eau&Rivières de Bretagne](./images/abonnements/05_mai_2023/Eau_et_rivieres_de_bretagne_mai_2023_197.jpg "Eau&Rivières de Bretagne, mai 2023, n°197"){width=20%}](./images/abonnements/05_mai_2023/Eau_et_rivieres_de_bretagne_mai_2023_197.pdf){target=_blank}
     [![Journal de l'animation](./images/abonnements/06_juin_2023/Journal_animation_juin_2023_juin-juillet_2023_240.jpg "Journal de l'animation, juin 2023, n°240"){width=20%}](./images/abonnements/06_juin_2023/Journal_animation_juin_2023_juin-juillet_2023_240.pdf){target=_blank}
     [![Lire](./images/abonnements/05_mai_2023/Lire_magazine_mai_2023_518.jpg "Lire, mai 2023, n°518"){width=20%}](./images/abonnements/05_mai_2023/Lire_magazine_mai_2023_518.pdf){target=_blank}
@@ -96,34 +119,6 @@
     [![Science et Vie Junior](./images/abonnements/06_juin_2023/Science_et_vie_junior_juin_2023_405.jpg "Science et Vie Junior, juin 2023, n°405"){width=20%}](./images/abonnements/06_juin_2023/Science_et_vie_junior_juin_2023_405.pdf){target=_blank}
     [![Sciences et avenir](./images/abonnements/06_juin_2023/Sciences_et_avenir_juin_2023_916.jpg "Sciences et avenir, juin 2023, n°916"){width=20%}](./images/abonnements/06_juin_2023/Sciences_et_avenir_juin_2023_916.pdf){target=_blank}
     [![Sciences humaines](./images/abonnements/06_juin_2023/Sciences_humaines_juin_2023_359.jpg "Sciences humaines, juin 2023, n°359"){width=20%}](./images/abonnements/06_juin_2023/Sciences_humaines_juin_2023_359.pdf){target=_blank}
-    [![Sport et vie](./images/abonnements/05_mai_2023/Sport_et_vie_mai-juin_2023_198.jpg "Sport et Vie, mai-juin 2023, n°198"){width=20%}](./images/abonnements/05_mai_2023/Sport_et_vie_mai-juin_2023_198.pdf){target=_blank}   
-
-??? "**Kiosque du mois dernier** :newspaper:"    
-    
-    [![01.NET](./images/abonnements/05_mai_2023/01.NET_11_mai_2023_997.jpg "01.NET, 11 mai 2023, n°997"){width=20%}](./images/abonnements/05_mai_2023/01.NET_11_mai_2023_997.pdf){target=_blank}
-    [![01.NET](./images/abonnements/05_mai_2023/01.NET_24_mai_2023_998.jpg "01.NET, 24 mai 2023, n°998"){width=20%}](./images/abonnements/05_mai_2023/01.NET_24_mai_2023_998.pdf){target=_blank}
-    [![Aide-soignante](./images/abonnements/05_mai_2023/Aide-soignante_mai_2023_247.jpg "Aide-soignante, mai 2023, n°247"){width=20%}](./images/abonnements/05_mai_2023/Aide-soignante_mai_2023_247.pdf){target=_blank}
-    [![Alternatives Economiques](./images/abonnements/05_mai_2023/Alternatives_economiques_mai_2023_434.jpg "Alternatives Economiques, mai 2023, n°434"){width=20%}](./images/abonnements/05_mai_2023/Alternatives_economiques_mai_2023_434.pdf ){target=_blank}
-    [![Courrier international](./images/abonnements/05_mai_2023/Courrier_international_27_avril_2023_1695.jpg "Courrier international, 27 avril 2023, n°1695"){width=20%}](./images/abonnements/05_mai_2023/Courrier_international_27_avril_2023_1695.pdf){target=_blank}
-    [![Courrier international](./images/abonnements/05_mai_2023/Courrier_international_4_mai_2023_1696.jpg "Courrier international, 04 mai 2023, n°1696"){width=20%}](./images/abonnements/05_mai_2023/Courrier_international_4_mai_2023_1696.pdf){target=_blank}
-    [![Courrier international](./images/abonnements/05_mai_2023/Courrier_international_11_mai_2023_1697.jpg "Courrier international, 11 mai 2023, n°1697"){width=20%}](./images/abonnements/05_mai_2023/Courrier_international_11_mai_2023_1697.pdf){target=_blank}
-    [![Courrier international](./images/abonnements/05_mai_2023/Courrier_international_17_mai_2023_1698.jpg "Courrier international, 17 mai 2023, n°1698"){width=20%}](./images/abonnements/05_mai_2023/Courrier_international_17_mai_2023_1698.pdf){target=_blank}
-    [![Eau&Rivières de Bretagne](./images/abonnements/05_mai_2023/Eau_et_rivieres_de_bretagne_mai_2023_197.jpg "Eau&Rivières de Bretagne, mai 2023, n°197"){width=20%}](./images/abonnements/05_mai_2023/Eau_et_rivieres_de_bretagne_mai_2023_197.pdf){target=_blank}
-    [![Journal de l'animation](./images/abonnements/05_mai_2023/Journal_animation_mai_2023_239.jpg "Journal de l'animation, mai 2023, n°239"){width=20%}](./images/abonnements/05_mai_2023/Journal_animation_mai_2023_239.pdf){target=_blank}
-    [![Lire](./images/abonnements/05_mai_2023/Lire_magazine_mai_2023_518.jpg "Lire, mai 2023, n°518"){width=20%}](./images/abonnements/05_mai_2023/Lire_magazine_mai_2023_518.pdf){target=_blank}
-    [![Management](./images/abonnements/05_mai_2023/Management_avril-mai_2023_308.jpg "Management, avril-mai 2023, n°308"){width=20%}](./images/abonnements/05_mai_2023/Management_avril-mai_2023_308.pdf){target=_blank}
-    [![Philosophie magazine](./images/abonnements/05_mai_2023/Philosophie_magazine_mai_2023_169.jpg "Philosophie magazine, mai 2023, 169"){width=20%}](./images/abonnements/05_mai_2023/Philosophie_magazine_mai_2023_169.pdf){target=_blank}
-    [![Phosphore](./images/abonnements/05_mai_2023/Phosphore_01_mai_2023_553.jpg "Phosphore, 1er mai 2023, 553"){width=20%}](./images/abonnements/05_mai_2023/Phosphore_01_mai_2023_553.pdf){target=_blank}
-    [![Phosphore](./images/abonnements/05_mai_2023/Phosphore_15_mai_2023_554.jpg "Phosphore, 15 mai 2023, 554"){width=20%}](./images/abonnements/05_mai_2023/Phosphore_15_mai_2023_554.pdf){target=_blank}
-    [![Pour l'éco](./images/abonnements/05_mai_2023/Pour_l_eco_mai_2023_51.jpg "Pour l'éco, mai 2023, 51"){width=20%}](./images/abonnements/05_mai_2023/Pour_l_eco_mai_2023_51.pdf){target=_blank}
-    [![Que choisir](./images/abonnements/05_mai_2023/Que_choisir_mai_2023_624.jpg "Que choisir, mai 2023, 624"){width=20%}](./images/abonnements/05_mai_2023/Que_choisir_mai_2023_624.pdf){target=_blank}
-    [![Que choisir santé](./images/abonnements/05_mai_2023/Que_choisir_sante_mai_2023_182.jpg "Que choisir santé, mai 2023, 182"){width=20%}](./images/abonnements/05_mai_2023/Que_choisir_sante_mai_2023_182.pdf){target=_blank}
-    [![Science et Vie](./images/abonnements/05_mai_2023/Science_et_vie_mai_2023_1268.jpg "Science et Vie, mai 2023, n°1268"){width=20%}](./images/abonnements/05_mai_2023/Science_et_vie_mai_2023_1268.pdf){target=_blank}
-    [![Science et Vie](./images/abonnements/05_mai_2023/Science_et_vie_mai_2023_307HS.jpg "Science et Vie, mai 2023, n°307HS"){width=20%}](./images/abonnements/05_mai_2023/Science_et_vie_mai_2023_307HS.pdf){target=_blank}
-    [![Science et Vie Junior](./images/abonnements/05_mai_2023/Science_et_vie_junior_mai_2023_404.jpg "Science et Vie Junior, mai 2023, n°404"){width=20%}](./images/abonnements/05_mai_2023/Science_et_vie_junior_mai_2023_404.pdf){target=_blank}
-    [![Science et Vie Junior](./images/abonnements/05_mai_2023/Science_et_vie_junior_mai_2023_159HS.jpg "Science et Vie Junior, mai 2023, n°159HS"){width=20%}](./images/abonnements/05_mai_2023/Science_et_vie_junior_mai_2023_159HS.pdf){target=_blank}
-    [![Sciences et avenir](./images/abonnements/05_mai_2023/Sciences_et_avenir_mai_2023_915.jpg "Sciences et avenir, mai 2023, n°915"){width=20%}](./images/abonnements/05_mai_2023/Sciences_et_avenir_mai_2023_915.pdf){target=_blank}
-    [![Sciences humaines](./images/abonnements/05_mai_2023/Sciences_humaines_mai_2023_358.jpg "Sciences humaines, mai 2023, n°358"){width=20%}](./images/abonnements/05_mai_2023/Sciences_humaines_mai_2023_358.pdf){target=_blank}
     [![Sport et vie](./images/abonnements/05_mai_2023/Sport_et_vie_mai-juin_2023_198.jpg "Sport et Vie, mai-juin 2023, n°198"){width=20%}](./images/abonnements/05_mai_2023/Sport_et_vie_mai-juin_2023_198.pdf){target=_blank}  
      
     
@@ -169,6 +164,7 @@
     [![Cahiers pédagogiques](./images/abonnements/enseignants/Cahiers_pedagogiques_fevrier_2023_583.jpg "Cahiers pédagogiques, février 2022, n°583"){width=20%}](./images/abonnements/enseignants/Cahiers_pedagogiques_fevrier_2023_583.pdf){target=_blank}
     [![Cahiers pédagogiques](./images/abonnements/enseignants/Cahiers_pedagogiques_mars-avril_2023_584.jpg "Cahiers pédagogiques, mars-avril 2023, n°584"){width=20%}](./images/abonnements/enseignants/Cahiers_pedagogiques_mars-avril_2023_584.pdf){target=_blank}
     [![Cahiers pédagogiques](./images/abonnements/enseignants/Cahiers_pedagogiques_mai_2023_585.jpg "Cahiers pédagogiques, mai 2023, n°585"){width=20%}](./images/abonnements/enseignants/Cahiers_pedagogiques_mai_2023_585.pdf){target=_blank}
+    [![Cahiers pédagogiques](./images/abonnements/enseignants/Cahiers_pedagogiques_juillet_2023_586.jpg "Cahiers pédagogiques, juillet 2023, n°586"){width=20%}](./images/abonnements/enseignants/Cahiers_pedagogiques_juillet_2023_586.pdf){target=_blank}
 
     ??? Example "**InterCDI**"
     [![InterCDI](./images/abonnements/enseignants/Intercdi_septembre-octobre_2022_298.jpg "InterCDI, septembre-octobre 2022, n°298"){width=20%}](./images/abonnements/enseignants/Intercdi_septembre-octobre_2022_298.pdf){target=_blank}
@@ -179,8 +175,8 @@
     ??? Example "**NRP Lycée**"
     [![NRP Lycée](./images/abonnements/enseignants/NRP_lycee_septembre_2022_100.jpg "NRP Lycée, septembre 2022, n°100"){width=20%}](./images/abonnements/enseignants/NRP_lycee_septembre_2022_100.pdf){target=_blank}
     [![NRP Lycée](./images/abonnements/enseignants/NRP_lycee_decembre_2022_101.jpg "NRP Lycée, décembre 2022, n°101"){width=20%}](./images/abonnements/enseignants/NRP_lycee_decembre_2022_101.pdf){target=_blank}
-
-
+    [![NRP Lycée](./images/abonnements/enseignants/NRP_lycee_mars_2023_102.jpg "NRP Lycée, mars 2023, n°102"){width=20%}](./images/abonnements/enseignants/NRP_lycee_mars_2023_102.pdf){target=_blank}
+    [![NRP Lycée](./images/abonnements/enseignants/NRP_lycee_juin_2023_103.jpg "NRP Lycée, juin 2023, n°103"){width=20%}](./images/abonnements/enseignants/NRP_lycee_juin_2023_103.pdf){target=_blank}
 
 
 ### **Orientation**
