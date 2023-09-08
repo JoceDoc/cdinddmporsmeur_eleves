@@ -99,10 +99,12 @@
     [![Science et Vie](./images/abonnements/07_juillet_2023/Science_et_vie_aout_2023_1271.JPG "Science et Vie, aout 2023, n°1271"){width=20%}](./images/abonnements/07_juillet_2023/Science_et_vie_aout_2023_1271.pdf){target=_blank}
     [![Science et Vie](./images/abonnements/07_juillet_2023/Science_et_vie_juillet_2023_308HS.jpg "Science et Vie, juillet 2023, n°308HS"){width=20%}](./images/abonnements/07_juillet_2023/Science_et_vie_juillet_2023_308HS.pdf){target=_blank}
     [![Science et Vie Junior](./images/abonnements/07_juillet_2023/Science_et_vie_junior_juillet_2023_406.jpg "Science et Vie Junior, juillet 2023, n°406"){width=20%}](./images/abonnements/07_juillet_2023/Science_et_vie_junior_juillet_2023_406.pdf){target=_blank}
+    [![Science et Vie Junior](./images/abonnements/07_juillet_2023/Science_et_vie_junior_aout_2023_407.JPG "Science et Vie Junior, aout 2023, n°407"){width=20%}](./images/abonnements/07_juillet_2023/Science_et_vie_junior_aout_2023_407.pdf){target=_blank}
     [![Science et Vie Junior](./images/abonnements/07_juillet_2023/Science_et_vie_junior_juillet_2023_160HS.jpg "Science et Vie Junior, juillet 2023, n°160HS"){width=20%}](./images/abonnements/07_juillet_2023/Science_et_vie_junior_juillet_2023_160HS.pdf){target=_blank}
     [![Sciences et avenir](./images/abonnements/07_juillet_2023/Sciences_et_avenir_juillet-aout_2023_917.JPG "Sciences et avenir, juillet-août 2023, n°917"){width=20%}](./images/abonnements/07_juillet_2023/Sciences_et_avenir_juillet-aout_2023_917.pdf){target=_blank}
     [![Sciences et avenir](./images/abonnements/07_juillet_2023/Sciences_et_avenir_juillet_septembre_2023_214HS.JPG "Sciences et avenir, juillet-septembre 2023, n°214HS"){width=20%}](./images/abonnements/07_juillet_2023/Sciences_et_avenir_juillet_septembre_2023_214HS.pdf){target=_blank}
     [![Sciences humaines](./images/abonnements/07_juillet_2023/Sciences_humaines_juillet_2023_360.jpg "Sciences humaines, juillet 2023, n°360"){width=20%}](./images/abonnements/07_juillet_2023/Sciences_humaines_juillet_2023_360.pdf){target=_blank}
+    [![Sport et vie](./images/abonnements/07_juillet_2023/Sport_et_vie_juillet-aout_2023_199.JPG "Sport et Vie, juillet-aout 2023, n°199"){width=20%}](./images/abonnements/07_juillet_2023/Sport_et_vie_juillet-aout_2023_199.pdf){target=_blank} 
     [![Sport et vie](./images/abonnements/07_juillet_2023/Sport_et_vie_juin_2023_58HS.jpg "Sport et Vie, juillet 2023, n°58HS"){width=20%}](./images/abonnements/07_juillet_2023/Sport_et_vie_juin_2023_58HS.pdf){target=_blank}   
     
 
