@@ -11,15 +11,15 @@
 
 **BIENVENUE au CDI**
 
-**Nous vous accueillons en continu
+**Je vous accueille en continu
 du lundi au vendredi, pour répondre à vos questions, 
 vous guider dans vos recherches, 
 vous accompagner pour vos différents travaux, 
 vous donner des conseils de lecture...**
 
-==**N'hésitez pas à nous solliciter...**==
+==**N'hésitez pas à me solliciter...**==
 
-***Jocelyne Coz - Claire Léost***   *Les professeurs-documentalistes*
+***Jocelyne Coz***   *Professeure-documentaliste*
 
 -------
 
@@ -66,11 +66,11 @@ Ci-dessous les heures d'ouverture du CDI.
 ??? info "**Horaire hebdomadaire**"
     |**JOUR**      |**HORAIRES**                        | 
     |:-------------|:----------------------------------:|
-    |**Lundi**     | **9h00 - 18h30**                   |
-    |**Mardi**     | **8h30 - 18h30**                   |
-    |**Mercredi**  | **8h30 - 12h00 et 13h00 - 18h30**  |
-    |**Jeudi**     | **8h30 - 18h30**                   |
-    |**Vendredi**  | **8h30 - 16h30**                   |
+    |**Lundi**     | **9h00 - 16h20**                   |
+    |**Mardi**     | **9h00 - 16h20**                   |
+    |**Mercredi**  | **9h00 - 12h00**  |
+    |**Jeudi**     | **9h00 - 16h20**                   |
+    |**Vendredi**  | **9h00 - 16h20**                   |
 
 ### CDI - mode d'emploi
 

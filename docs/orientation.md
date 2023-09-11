@@ -19,19 +19,11 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
 
 ## Actualités
 
-[![Mission Locale du Pays de Morlaix](./images/orientation/job_dating_alternance.png "Affiche"){width=28%}](https://www.mission-locale-morlaix.fr/sitemlm/wp-content/themes/mlm/missionLocale.php){target=_blank}
+???+ attention "**Immersions individuelles à l'UBO**"
 
-
-??? attention "**Communication de l'UBO**"
-
-    Vous avez raté les Portes Ouvertes à l'==**UBO**==, ou alors il vous reste encore des questions ?
-
-    N'oubliez pas que vous pouvez contacter par mail les équipes pédagogiques (via l'onglet ==**"échanger avec l'établissement"**== de la fiche Parcoursup) pour tout renseignement sur la formation, vos chances d'admission...
-
-    En complément, pour avoir un témoignage et un ressenti d'étudiante ou étudiant de la filière, une adresse est également disponible dans cette même rubrique de la fiche Parcoursup.
-
-    Voici la [**liste**](./pdf/UBO_listes_ambassadeurs.pdf){target=_blank} de l'ensemble des adresses d'étudiant.es ambassadeurs.drices disponibles à l'UBO pour discuter avec vous jusqu'au 6 avril.
-
+    [![Immersions_UBO](./images/orientation/2023_immersions_UBO.jpg "Affiche"){width=35%}](https://www.univ-brest.fr/cap-avenir/fr/page/immersion-individuelle-lubo){target=_blank} 
+    
+    ==**Dates d'immersions et liens pour s'inscrire pour les vacances de la Toussaint**== sur le site de l'UBO.
 
 ???+ info "**Au fil de la presse...**"
     - [**Le Télégramme - 30/12/2022**](https://www.letelegramme.fr/finistere/morlaix/a-23-ans-il-est-regisseur-dans-une-salle-mythique-loan-peron-de-plougonven-aux-coulisses-de-l-olympia-30-12-2022-13250759.php){target=_blank} : À 23 ans, il est régisseur « dans une salle mythique » : Loan Péron, de Plougonven, aux coulisses de l’Olympia. Bravo à cet ancien élève du lycée.
@@ -154,16 +146,17 @@ ___
     === "FORUM EN LIGNE"
         - [**FORUM EN LIGNE**](https://padlet.com/cdinddmporsmeur/forum_en_ligne_2022){target=_blank} 
         
-            Prochain rendez-vous :
-            
-            ==**lundi 30/01 (18h30-19h)**== : présentation du BUT Techniques de commercialisation - [**Inscription à la visio**](https://docs.google.com/forms/d/e/1FAIpQLSfVKyDIJaA2I0R05okvmnbV5vELdgsNEc-JQODJle34cUL0tg/viewform){target=_blank} ==**avant dimanche - 17h**==
-            
+            Les dates d'ouverture du ==**Forum en ligne**== vous seront bientôt communiquées.
                         
     === "PARCOURSUP"
         [![**PARCOURSUP"**](./images/orientation/parcoursup.png "Page d'accueil PARCOURSUP"){width=20%}](https://www.parcoursup.fr/index.php?desc=){target=_blank}
         
         - [**Vidéo PARCOURSUP - Comment choisir une formation ?**](https://youtu.be/WJzf3wRqcWo){target=_blank}
     === "PO - IMMERSIONS"
+        
+        ==*ATTENTION : Les informations présentées ci-dessous concernent l'année 2022-2023.
+        Elles seront prochainement mises à jour.*==
+        
         - [**PORTES OUVERTES DU SUPERIEUR - Académie de Rennes**](./pdf/JPO_superieur_2023_Ac_Rennes_ONISEP_Bretagne_20230110.pdf){target=_blank}
         - [**PORTES OUVERTES DU SUPERIEUR - National**](https://www.onisep.fr/Choisir-mes-etudes/apres-le-bac/les-journees-portes-ouvertes-2022-2023-dans-l-enseignement-superieur){target=_blank}
         - [**Catalogue IDEO des IMMERSIONS - Bretagne**](https://www.linscription.com/pro/catalogue-immersion-brio-ideo-actions-pour-lyceens.php){target=_blank}

@@ -10,22 +10,7 @@
     - [**Panorama des arts**](https://panoramadelart.com/){target=_blank}
 
 ## Actualités
-???+ "**Exposition BANKSY, un événément exceptionnel à BREST**"
-    300 oeuvres du célèbre Street-Art exposées à l'[**Atelier des Capucins**](https://www.ateliersdescapucins.fr/fr){target=_blank} ==**du 10 au 25 juin**==. Les premières images de l'exposition sur cette page du [**Télégramme**](https://www.letelegramme.fr/bretagne/banksy-a-brest-les-premieres-images-de-lexposition-6363582.php){target=_blank}
-    
-    [![**Expo_Banksy**](./images/culture/Expo_Banksy_brest.jpg "Banksy_affiche"){width=35%}](https://www.letelegramme.fr/bretagne/banksy-a-brest-les-premieres-images-de-lexposition-6363582.php){target=_blank}
 
-???+ "**"Le Théatre de la Corniche" présente**...==*"Les mauvais jours finiront"*=="
-    
-    ==**Chronique en chansons de la Commune de Paris**== : événement historique dont nous avons fêté le 150e anniversaire en 2021.
-    
-    Rendez-vous à la MJC de Morlaix ==**vendredi 16 juin à 18h**==.
-
-    Découvrez le [**Théâtre de la Corniche**](https://www.theatredelacorniche.fr/){target=_blank} et ci-dessous la présentation du spectacle.
-
-    [![**Les mauvais jours finiront**](./images/culture/Les_Mauvais_Jours_finiront.jpg "Présentation"){width=50%}](./images/culture/Les_mauvais_jours_finiront.pdf){target=_blank}
-
-    
 ???+ "**Connaissez-vous l'application Mélotick ?**"
     [![**PASS CULTURE**](./images/culture/melotick.jpg "Mélotick"){width=35%}](https://melotick.com/){target=_blank}
     
@@ -37,7 +22,6 @@
 
     * ==**Club culturel**== : rencontrez d’autres passionnés et accédez à des activités culturelles exclusives.(visites, rencontres, concerts etc…) 
 
-    
 
 ???+ "**PASS CULTURE**"
     Pour activer son compte sur [**EduConnet**](https://educonnect.education.gouv.fr/){target=_blank}, cliquer sur l'affiche ci-dessous, puis télécharger l'application [**PASS CULTURE**](https://pass.culture.fr/){target=_blank}

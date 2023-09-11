@@ -12,7 +12,7 @@
 
 ## Expositions et projets
 
-???+info "**Expositions en cours**"
+???info "**Expositions en cours**"
     ??? "**Jeunes en librairie**"
     ![Jeunes en librairie](./images/expositions/JLB_affiche.png "Affiche"){width=20% align=right}
     Les élèves de 2nde AEPA et 2nde MRC ont participé cette année au programme ==**« Jeunes en Librairie »**==, projet d’éducation artistique et culturelle autour des professionnels du livre et de la librairie.
@@ -36,7 +36,7 @@
 
 
 ## Nos élèves ont du talent
-???+ "**Concours d'éloquence**"
+??? "**Concours d'éloquence**"
     Cinq élèves du LGT sous la responsabilité de Mme Gamard (enseignante d'Histoire-Géographie et de la spécialité HGGSP) ont organisé la deuxième édition du concours d'éloquence. Après les sessions éliminatoires de décembre et janvier, la finale du concours s'est déroulée vendredi 10 février à l’amphithéâtre du collège Saint-Augustin. 
     
     « Le rêve » était le sujet imposé. Qualité du texte, éloquence et argumentation étaient les critères pris en compte par le jury.
@@ -49,7 +49,7 @@
 
     [![Neven Le Goff](./images/expositions/Concours_eloquence_Neven.jpg "Neven, vainqueur du concours"){width=25% align=left}](https://www.letelegramme.fr/finistere/morlaix/neven-le-goff-eleve-a-notre-dame-du-mur-le-porsmeur-a-morlaix-remporte-le-concours-d-eloquence-de-son-lycee-13-02-2023-13278707.php){target=_blank}
 
-???+ "**Arts plastiques**"
+??? "**Arts plastiques**"
     ![Arts_plastiques](./images/expositions/Arts_plastiques_01.jpeg "01"){width=25% align=left}
     ![Arts_plastiques](./images/expositions/Arts_plastiques_02_Ambre_Frerejacques.jpeg "02"){width=25% align=left}
     ![Arts_plastiques](./images/expositions/Arts_plastiques_04.jpeg "04"){width=25% align=left}
@@ -59,7 +59,7 @@
     ![Arts_plastiques](./images/expositions/Arts_plastiques_08_Lila-Fetsch.jpeg "08"){width=25% align=left}
 
     
-???+ "**Option Arts plastiques**"
+??? "**Option Arts plastiques**"
     ![Arts_plastiques](./images/expositions/Option_03.jpg "Otion_03"){width=25% align=left}
     ![Arts_plastiques](./images/expositions/Option_05.jpg "Otion_05"){width=25% align=left}
     ![Arts_plastiques](./images/expositions/Option_06.jpg "Otion_06"){width=25% align=left}
@@ -77,8 +77,30 @@
     Retrouvez tous ces périodiques au CDI pour lire, sur place, les articles qui vous intéressent ou emprunter un magazine.
    
 ??? "**Kiosque du mois** :newspaper:"
-  
     
+    [![01NET](./images/abonnements/09_septembre_2023/01NET_06_septembre_2023_1005.JPG "01NET, 06 septembre 2023, n°1005"){width=20%}](./images/abonnements/09_septembre_2023/01NET_06_septembre_2023_1005.pdf){target=_blank}
+    [![Aide-soignante](./images/abonnements/09_septembre_2023/Aide-soignante_aout-septembre_2023_249.JPG "Aide-soignante, aout-septembre 2023, n°249"){width=20%}](./images/abonnements/09_septembre_2023/Aide-soignante_aout-septembre_2023_249.pdf){target=_blank}
+    [![Alternatives Economiques](./images/abonnements/09_septembre_2023/Alternatives_economiques_septembre_2023_438.JPG "Alternatives Economiques, septembre 2023, n°438"){width=20%}](./images/abonnements/09_septembre_2023/Alternatives_economiques_septembre_2023_438.pdf){target=_blank}
+    [![Ca m'intéresse](./images/abonnements/09_septembre_2023/Ca_m_interesse_septembre_2023_511.JPG "Ca m'intéresse, septembre 2023, 511"){width=20%}](./images/abonnements/09_septembre_2023/Ca_m_interesse_septembre_2023_511.pdf){target=_blank}
+    [![Documentation photographique](./images/abonnements/09_septembre_2023/Documentation_photographique_septembre_2023_8153.JPG "Documentation photographique, septembre 2023, 8153"){width=20%}](./images/abonnements/09_septembre_2023/Documentation_photographique_septembre_2023_8153.pdf){target=_blank}
+    [![Journal animation](./images/abonnements/09_septembre_2023/Journal_animation_septembre-octobre_2023_241.JPG "Journal animation, septembre-octobre 2023, 241"){width=20%}](./images/abonnements/09_septembre_2023/Journal_animation_septembre-octobre_2023_241.pdf){target=_blank}
+    [![Lire](./images/abonnements/09_septembre_2023/Lire_magazine_septembre_2023_522.JPG "Lire, septembre 2023, n°522"){width=20%}](./images/abonnements/09_septembre_2023/Lire_magazine_septembre_2023_522.pdf){target=_blank}
+    [![Philosophie magazine](./images/abonnements/09_septembre_2023/Philosophie_magazine_septembre_2023_172.JPG "Philosophie magazine, septembre 2023, 172"){width=20%}](./images/abonnements/09_septembre_2023/Philosophie_magazine_septembre_2023_172.pdf){target=_blank}
+    [![Phosphore](./images/abonnements/09_septembre_2023/Phosphore_1er_septembre_2023_559.JPG "Phosphore, 1er septembre 2023, 559"){width=20%}](./images/abonnements/09_septembre_2023/Phosphore_1er_septembre_2023_559.pdf){target=_blank}
+    [![Pour l'éco](./images/abonnements/09_septembre_2023/Pour_l_eco_septembre_2023_54.JPG "Pour l'éco, septembre 2023, 54"){width=20%}](./images/abonnements/09_septembre_2023/Pour_l_eco_septembre_2023_54.pdf){target=_blank}
+    [![Que choisir](./images/abonnements/09_septembre_2023/Que_choisir_septembre_2023_627.JPG "Que choisir, septembre 2023, 627"){width=20%}](./images/abonnements/09_septembre_2023/Que_choisir_septembre_2023_627.pdf){target=_blank}
+    [![Que choisir santé](./images/abonnements/09_septembre_2023/Que_choisir_sante_septembre_2023_185.JPG "Que choisir santé, septembre 2023, 185"){width=20%}](./images/abonnements/09_septembre_2023/Que_choisir_sante_septembre_2023_185.pdf){target=_blank}
+    [![Science et Vie](./images/abonnements/09_septembre_2023/Science_et_vie_septembre_2023_1272.JPG "Science et Vie, septembre 2023, n°1272"){width=20%}](./images/abonnements/09_septembre_2023/Science_et_vie_septembre_2023_1272.pdf){target=_blank}
+    [![Science et Vie](./images/abonnements/09_septembre_2023/Science_et_vie_septembre_2023_309HS.JPG "Science et Vie, septembre 2023, n°309HS"){width=20%}](./images/abonnements/09_septembre_2023/Science_et_vie_septembre_2023_309HS.pdf){target=_blank}
+    [![Science et Vie Junior](./images/abonnements/09_septembre_2023/Science_et_vie_junior_septembre_2023_408.JPG "Science et Vie Junior, septembre 2023, n°408"){width=20%}](./images/abonnements/09_septembre_2023/Science_et_vie_junior_septembre_2023_408.pdf){target=_blank}
+    [![Science et Vie Junior](./images/abonnements/09_septembre_2023/Science_et_vie_junior_septembre_2023_161HS.JPG "Science et Vie Junior, septembre 2023, n°161HS"){width=20%}](./images/abonnements/09_septembre_2023/Science_et_vie_junior_septembre_2023_161HS.pdf){target=_blank}
+    [![Sciences et avenir](./images/abonnements/09_septembre_2023/Sciences_et_avenir_septembre_2023_919.JPG "Sciences et avenir, septembre 2023, n°919"){width=20%}](./images/abonnements/09_septembre_2023/Sciences_et_avenir_septembre_2023_919.pdf){target=_blank}
+    [![Sciences humaines](./images/abonnements/09_septembre_2023/Sciences_humaines_aout-septembre_2023_361.JPG "Sciences humaines, aout-septembre 2023, n°361"){width=20%}](./images/abonnements/09_septembre_2023/Sciences_humaines_aout-septembre_2023_361.pdf){target=_blank}
+    [![Sport et vie](./images/abonnements/09_septembre_2023/Sport_et_vie_septembre-octobre_2023_200.JPG "Sport et Vie, septembre-octobre 2023, n°200"){width=20%}](./images/abonnements/09_septembre_2023/Sport_et_vie_septembre-octobre_2023_200.pdf){target=_blank}
+    [![Virgule](./images/abonnements/09_septembre_2023/Virgule_septembre_2023_220.JPG "Virgule, septembre 2023, n°220"){width=20%}](./images/abonnements/09_septembre_2023/Virgule_septembre_2023_220.pdf){target=_blank} 
+
+
+
 ??? "**Kiosque du mois dernier** :newspaper:"    
     
     [![Aide-soignante](./images/abonnements/07_juillet_2023/Aide-soignante_juin-juillet_2023_248.jpg "Aide-soignante, juin-juillet 2023, n°248"){width=20%}](./images/abonnements/07_juillet_2023/Aide-soignante_juin-juillet_2023_248.pdf){target=_blank}
