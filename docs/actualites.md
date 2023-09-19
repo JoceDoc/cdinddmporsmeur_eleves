@@ -140,6 +140,7 @@
     [![I love English world](./images/abonnements/langues/IloveEnglishWorld_mai_2023_360.jpg "I love English World, mai 2023, n°360"){width=20%}](./images/abonnements/langues/IloveEnglishWorld_mai_2023_360.pdf){target=_blank}
     [![I love English world](./images/abonnements/langues/IloveEnglishWorld_juin_2023_361.jpg "I love English World, juin 2023, n°361"){width=20%}](./images/abonnements/langues/IloveEnglishWorld_juin_2023_361.pdf){target=_blank}
     [![I love English world](./images/abonnements/langues/ILoveEnglishWorld_juillet-aout_2023_362.jpg "I love English World, juillet-août 2023, n°362"){width=20%}](./images/abonnements/langues/ILoveEnglishWorld_juillet-aout_2023_362.pdf){target=_blank}
+    [![I love English world](./images/abonnements/langues/IloveEnglishWorld_septembre_2023_363.JPG "I love English World, septembre 2023, n°363"){width=20%}](./images/abonnements/langues/IloveEnglishWorld_septembre_2023_363.pdf){target=_blank}
     
     ??? Example ":de: **Allemand** :de:"
     [![Vocable Allemand](./images/abonnements/langues/Vocable_allemand_janvier_2023_874.jpg "Vocable Allemand, janvier 2023, n°874"){width=20%}](./images/abonnements/langues/Vocable_allemand_janvier_2023_874.pdf){target=_blank}
@@ -150,6 +151,7 @@
     [![Vocable Allemand](./images/abonnements/langues/Vocable_allemand_juin_2023_879.jpg "Vocable Allemand, juin 2023, n°879"){width=20%}](./images/abonnements/langues/Vocable_allemand_juin_2023_879.pdf){target=_blank}
     [![Vocable Allemand](./images/abonnements/langues/Vocable_allemand_juillet_2023_880.JPG "Vocable Allemand, juillet 2023, n°880"){width=20%}](./images/abonnements/langues/Vocable_allemand_juillet_2023_880.pdf){target=_blank}
     [![Vocable Allemand](./images/abonnements/langues/Vocable_allemand_aout_2023_881.JPG "Vocable Allemand, aout 2023, n°881"){width=20%}](./images/abonnements/langues/Vocable_allemand_aout_2023_881.pdf){target=_blank}
+    [![Vocable Allemand](./images/abonnements/langues/Vocable_allemand_septembre_2023_882.JPG "Vocable Allemand, septembre 2023, n°882"){width=20%}](./images/abonnements/langues/Vocable_allemand_septembre_2023_882.pdf){target=_blank}
     
     ??? Example ":es: **Espagnol** :es:"
     [![Vocable Espagnol](./images/abonnements/langues/Vocable_espagnol_janvier_2023_867.jpg "Vocable Espagnol, janvier 2023, n°867"){width=20%}](./images/abonnements/langues/Vocable_espagnol_janvier_2023_867.pdf){target=_blank}
@@ -160,6 +162,7 @@
     [![Vocable Espagnol](./images/abonnements/langues/Vocable_espagnol_juin_2023_872.jpg "Vocable Espagnol, juin 2023, n°872"){width=20%}](./images/abonnements/langues/Vocable_espagnol_juin_2023_872.pdf){target=_blank}
     [![Vocable Espagnol](./images/abonnements/langues/Vocable_espagnol_juillet_2023_873.JPG "Vocable Espagnol, juillet 2023, n°873"){width=20%}](./images/abonnements/langues/Vocable_espagnol_juillet_2023_873.pdf){target=_blank}
     [![Vocable Espagnol](./images/abonnements/langues/Vocable_espagnol_aout_2023_874.JPG "Vocable Espagnol, aout 2023, n°874"){width=20%}](./images/abonnements/langues/Vocable_espagnol_aout_2023_874.pdf){target=_blank}
+    [![Vocable Espagnol](./images/abonnements/langues/Vocable_espagnol_septembre_2023_875.JPG "Vocable Espagnol, septembre 2023, n°875"){width=20%}](./images/abonnements/langues/Vocable_espagnol_septembre_2023_875.pdf){target=_blank}
 
     
 
