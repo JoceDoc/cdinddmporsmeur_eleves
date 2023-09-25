@@ -141,7 +141,7 @@ ___
 ___
 
 ??? info "**Concours de critique**"
-    En octobre et novembre, les élèves de 1G3 et 1G4, participent au [**concours de critique littéraire**](https://www.bruitdelire.org/concours-de-critique-litteraire/){target=_blank} organisé par la Région Bretagne en partenariat avec le Rectorat de Rennes et l’association ==**"Bruit de lire"**==. L’objectif pour les élèves est de rédiger une critique sur l’un des romans de la sélection en lice pour le ==**Prix Goncourt des Lycéens**==.
+    En octobre et novembre, les élèves de 1G1 et 1G2, participent au [**concours de critique littéraire**](https://www.bruitdelire.org/concours-de-critique-litteraire/){target=_blank} organisé par la Région Bretagne en partenariat avec le Rectorat de Rennes et l’association ==**"Bruit de lire"**==. L’objectif pour les élèves est de rédiger une critique sur l’un des romans de la sélection en lice pour le ==**Prix Goncourt des Lycéens**==.
     
     En apprenant à exprimer leur pensée et à argumenter, les lycéens avancent vers l'autonomie. Au-delà du « j’aime » / « je n’aime pas », ils apprennent à formuler une appréciation personnelle sur l’œuvre choisie et à justifier leur avis. En s’exerçant à ce genre particulier, les élèves développent de véritables compétences d’argumentation.
     
