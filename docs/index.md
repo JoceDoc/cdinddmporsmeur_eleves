@@ -67,7 +67,7 @@ Ci-dessous les heures d'ouverture du CDI.
     |**JOUR**      |**HORAIRES**                        | 
     |:-------------|:----------------------------------:|
     |**Lundi**     | **9h00 - 16h20**                   |
-    |**Mardi**     | **9h00 - 16h20**                   |
+    |**Mardi**     | **9h00 - 16h30**                   |
     |**Mercredi**  | **9h00 - 12h00**  |
     |**Jeudi**     | **9h00 - 16h20**                   |
     |**Vendredi**  | **9h00 - 16h20**                   |
