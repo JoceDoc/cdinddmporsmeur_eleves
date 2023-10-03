@@ -18,7 +18,7 @@
 ___
 
 ## Actualité des disciplines
-[![**PRINTEMPS DES POETES**](./images/expositions/printemps_poetes_affiche_2023.jpg){width=30%}](https://www.printempsdespoetes.com/Edition2023){target=_blank}
+[![**PRINTEMPS DES POETES**](./images/pedagogie/affiche_printemps_des_poetes_2024.jpg){width=30%}](https://www.printempsdespoetes.com/Edition2024){target=_blank}
 [![**Journée de l'Europe**](./images/pedagogie/journee_europe_20230509.jpg){width=40%}](https://www.clemi.fr/fr/evenements/toutes-les-actualites/actualite/news/detail/News/9-mai-journee-de-leurope-et-leducation-aux-medias-et-a-linformation.html){target=_blank}
 
 ## Méthodologie pour tous
