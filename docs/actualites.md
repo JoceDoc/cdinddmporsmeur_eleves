@@ -8,11 +8,13 @@
     [![logo ECAM](./images/logo_ecam.jpg "Actualités Lycée"){width=90% align=right}](https://www.ecmorlaix.fr/actualites/){target=_blank}
 
 
-
-
 ## Expositions et projets
 
 ???info "**Expositions en cours**"
+    ??? "**Conférence contre la peine de mort - le 27/11/2023**"
+    
+    ??? "**Fête de la science - Faites des sciences - 16/10/2023**"   
+
     ??? "**Jeunes en librairie**"
     ![Jeunes en librairie](./images/expositions/JLB_affiche.png "Affiche"){width=20% align=right}
     Les élèves de 2nde AEPA et 2nde MRC ont participé cette année au programme ==**« Jeunes en Librairie »**==, projet d’éducation artistique et culturelle autour des professionnels du livre et de la librairie.
@@ -21,11 +23,9 @@
   
     A l'occasion d'une deuxième visite, les élèves ont pu dépenser en achat de livres, le chèque de 30 euros dont ils bénéficiaient en tant que participants au projet "Jeunes en librairie".
     
-    Evénements encore à venir :
+    Des ==**rencontres très intéressantes avec des auteurs et autrices**== ont eu lieu en 2023 : Luc Blanvillain, le 21 mars, Louise Delgado le 12 avril et Nathalie Bernard le 4 mai.
     
-    * Des ==**rencontres très attendues avec des auteurs et autrices**== : Luc Blanvillain (21 mars), Louise Delgado (12 avril) et Nathalie Bernard (4 mai)
-    
-    * Le vote pour le [**prix des embouquineurs**](https://www.lagalerne.com/dossiers/le-prix-des-embouquineurs-2022-2023/){target=_blank} auquel participent les 2ndes AEPA dans le cadre du projet.
+    Dans le cadre du projet, les élèves de 2nde AEPA ont également participé au [**prix des embouquineurs - 2023**](https://www.lagalerne.com/dossiers/le-prix-des-embouquineurs-2022-2023/){target=_blank}.
     
     ![Jeunes en librairie](./images/expositions/JLB_librairie02.jpg "Visite Dialogues"){width=35% align=right}
     ![Jeunes en librairie](./images/expositions/JLB_librairie01.jpg "Visite Dialogues"){width=20% align=right}
