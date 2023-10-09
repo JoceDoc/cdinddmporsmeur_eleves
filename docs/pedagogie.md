@@ -31,12 +31,17 @@ ___
     ![carte mentale](./images/00-carte_mentale_tutoriel.jpg "Carte mentale"){center=80%}
         
 ??? question "Améliorer sa rédaction"   
-    - [**La langue française - Le Robert**](https://www.lalanguefrancaise.com/){target=_blank} : dictionnaire, conjugaison, orthographe, expressions...
-    - [**Question d'orthographe**](https://www.projet-voltaire.fr/regles-orthographe/){target=_blank} : consultez le site du projet Voltaire.
-    - [**Question de conjugaison**](https://www.toutelaconjugaison.com/){target=_blank}
-    - [**Argumenter**](https://www.assistancescolaire.com/eleve/2nde/francais/reviser-le-cours/2_f401){target=_blank} : explications, conseils, et méthode...
+    === "**Dictionnaires**"
+        - [**Dictionnaire LE ROBERT**](https://dictionnaire.lerobert.com/guide?utm_source=2023_LE_ROBERT_EDUC&utm_campaign=ROBE_202310_DICO_EN_LIGNE&utm_medium=email){target=_blank} : grammaire, orthographe, conjugaison, lexique, style, typographie...
+        - [**La langue française**](https://www.lalanguefrancaise.com/){target=_blank} : s'entraîner à la dictée, quiz d'orthographe de la semaine, mot du jour, mots croisés du jour...
+    === "**Orthographe**"
+        - [**Question d'orthographe**](https://www.projet-voltaire.fr/regles-orthographe/){target=_blank} : les règles d'orthographe du quotidien expliquées sur le site du projet Voltaire.
+    === "**Conjugaison**"
+        - [**Toute la conjugaison**](https://www.toutelaconjugaison.com/){target=_blank} : les verbes les plus conjugués, des exercices pour s'entraîner, des cours sur les temps verbaux et les modes.
+    === "**Rédaction**"
+        - [**Argumenter**](https://www.assistancescolaire.com/eleve/2nde/francais/reviser-le-cours/2_f401){target=_blank} : explications, conseils, et méthode...
     
-    Les **manuels scolaires** fourmillent de ==**conseils**== et ==**fiches méthodes**== pour améliorer sa rédaction et répondre aux exigences des différents exercices du baccalauréat ( commentaires, dissertations...) dans les différentes disciplines.
+    *Les **manuels scolaires** fourmillent de ==**conseils**== et ==**fiches méthodes**== pour améliorer sa rédaction et répondre aux exigences des différents exercices du baccalauréat (commentaires, dissertations, études de documents...) dans les différentes disciplines.*
         
 ??? question "Chercher des informations"
     - [**Base documentaire PMB du lycée**](https://ecmorlaix.basecdi.fr/pmb/opac_css/index.php){target=_blank}
@@ -58,7 +63,7 @@ ___
     - [**Citer ses sources**](http://www1.univ-ag.fr/buag/cours/LS1-web/co/Module_LICENCE1_6.html){target=_blank} : fiche synthèse [**ici**](./pdf/Méthodologie_Citer ses sources bibliographiques.pdf){target=_blank}
   
 
-??? info "Ressources"
+??? info "Ressources diverses"
     - [**France Culture Education**](https://www.radiofrance.fr/sujets/france-culture-education-des-podcasts-pour-apprendre-et-reviser){target=_blank} : des podcasts pour apprendre et réviser.
     - [**Nouveaux cours**](https://www.fun-mooc.fr/fr/cours/?limit=21&new=new&offset=0){target=_blank} : en ligne sur FunMOOC pour découvrir, apprendre, progresser... dans les différentes disciplines.
     - [**DYS**](https://www.ffdys.com/troubles-dys){target=_blank} : comprendre les troubles cognitifs spécifiques.
