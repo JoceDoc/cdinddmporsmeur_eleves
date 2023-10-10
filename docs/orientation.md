@@ -19,13 +19,21 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
 
 ## Actualités
 
-???+ attention "**Immersions individuelles à l'UBO**"
+???+ attention "**Immersions - Journées découverte**"
 
-    [![Immersions_UBO](./images/orientation/2023_immersions_UBO.jpg "Affiche"){width=35%}](https://www.univ-brest.fr/cap-avenir/fr/page/immersion-individuelle-lubo){target=_blank} 
+    ??? info "**Immersions individuelles à l'UBO**"
+
+        [![Immersions_UBO](./images/orientation/2023_immersions_UBO.jpg "Affiche"){width=35%}](https://www.univ-brest.fr/cap-avenir/fr/page/immersion-individuelle-lubo){target=_blank} 
     
-    ==**Dates d'immersions et liens pour s'inscrire pour les vacances de la Toussaint**== sur le site de l'UBO.
+        ==**Dates d'immersions et liens pour s'inscrire pour les vacances de la Toussaint**== sur le site de l'UBO.
+    
+    ??? info "**Journées découvertes à l'UCO Guingamp**"
 
-???+ info "**Au fil de la presse...**"
+        [![UCO-Guingamp](./images/orientation/Programme_journees_Decouvertes_Octobre%202023_GUINGAMP-page-001.jpg "Affiche"){width=35%}](./images/orientation/Programme_journees_Decouvertes_Octobre%202023_GUINGAMP.pdf){target=_blank} 
+
+        Accédez au programme en cliquant sur l'affiche et complétez le [**Formulaire pour choisir vos cours**](https://forms.office.com/pages/responsepage.aspx?id=gQWqPAeCVEaEOorw19tTeZ68V_hJsdlAqkgQ7OkuHG1URElEODEyWk9aWVdXOTZHMzlWOEwxNVUzMy4u){target=_blank} du 23 au 27 octobre.
+
+??? info "**Au fil de la presse...**"
     - [**Le Télégramme - 30/12/2022**](https://www.letelegramme.fr/finistere/morlaix/a-23-ans-il-est-regisseur-dans-une-salle-mythique-loan-peron-de-plougonven-aux-coulisses-de-l-olympia-30-12-2022-13250759.php){target=_blank} : À 23 ans, il est régisseur « dans une salle mythique » : Loan Péron, de Plougonven, aux coulisses de l’Olympia. Bravo à cet ancien élève du lycée.
     - [**Le Télégramme - 14/09/2022**](https://www.letelegramme.fr/finistere/morlaix/gwenael-morel-l-atout-drone-des-pompiers-finisteriens-14-09-2022-13178211.php){target=_blank} : Gwenaël Morel, l'atout drone des pompiers finistériens"
     - [**Ouest-france - 24/05/2022**](https://www.ouest-france.fr/bretagne/morlaix-29600/dans-le-pays-de-morlaix-comme-ailleurs-tous-les-metiers-sont-en-tension-6a181b20-db6e-11ec-84fd-0d1f31a3fa84){target=_blank} : Dans le pays de Morlaix comme ailleurs , "tous les métiers sont en tension"...
