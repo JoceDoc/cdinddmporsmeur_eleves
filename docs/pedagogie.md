@@ -279,8 +279,9 @@ ___
     - [**S'entraîner pour l'oral**](https://wordwall.net/fr/resource/2213377/eaf-oral-2-partie){target=_blank}
     - [**Outils numériques pour les lettres et LCA**](http://www.pearltrees.com/t/lettres-lca-academie-de-rennes/numeriques-lettres-academie/id30360664){target=_blank}
 
-    [![**Le printemps des poètes**](./images/Printemps_des_poetes.jpg "Affiche_2023"){width=40%}](https://www.printempsdespoetes.com/Le-Printemps-des-Poetes){target=_blank}
-
+    [![**PRINTEMPS DES POETES**](./images/pedagogie/affiche_printemps_des_poetes_2024.jpg){width=30%}](https://www.printempsdespoetes.com/Edition2024){target=_blank}
+    
+   
  
  
 

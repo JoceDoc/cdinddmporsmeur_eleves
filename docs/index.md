@@ -11,30 +11,33 @@
 
 **BIENVENUE au CDI**
 
-**Je vous accueille en continu
+***Je vous accueille en continu
 du lundi au vendredi, pour répondre à vos questions, 
 vous guider dans vos recherches, 
 vous accompagner pour vos différents travaux, 
-vous donner des conseils de lecture...**
+vous donner des conseils de lecture...***
 
-==**N'hésitez pas à me solliciter...**==
+***N'hésitez pas à me solliciter...***
 
 ***Jocelyne Coz***   *Professeure-documentaliste*
 
 -------
+==**BASE DOCUMENTAIRE DU CDI**== [![**PMB"**](./images/logo_PMB.png "Portail PMB"){width=15%}](https://ecmorlaix.basecdi.fr/pmb/opac_css/index.php){target=_blank}
 
 
-Le site du CDI vous propose :
+## Site du CDI
 
+Informations accessibles depuis ce site : 
+
+- Le [**kiosque du mois**](https://cdi-lycee.ecmorlaix.fr/actualites/#presse){target=blank}, onglet **Actualités**.
+- Les [**expositions ou événements**](https://cdi-lycee.ecmorlaix.fr/actualites/#expositions-et-projets){target=blank} à ne pas manquer.
 - Des [**ressources**](https://cdi-lycee.ecmorlaix.fr/pedagogie/){target=_blank} pour les disciplines du lycée.
-- Des ==**informations**== et ==**ressources**== pour l'orientation et le [**parcours avenir**](https://cdi-lycee.ecmorlaix.fr/orientation/){target=_blank}.
-- Des ==**conseils méthodologiques**== et des ==**tutoriels**== divers pour vous aider dans votre travail.
+ Des [**conseils méthodologiques et des tutoriels** ](https://cdi-lycee.ecmorlaix.fr/pedagogie/#methodologie-pour-tous{target=_blank}) pour vous aider dans votre travail.
+- Des **informations** et **ressources** pour l'orientation et le [**parcours avenir**](https://cdi-lycee.ecmorlaix.fr/orientation/){target=_blank}.
+- Des ressources pour alimenter les différents **parcours éducatifs** :  [**culturel**](https://cdi-lycee.ecmorlaix.fr/culture/){target=_blank}, [**citoyen**](https://cdi-lycee.ecmorlaix.fr/citoyen/){target=_blank} et [**santé**](https://cdi-lycee.ecmorlaix.fr/sante/){target=_blank}. 
     
-Les dernières nouveautés du CDI pour la presse sont accessibles dans le [**Kiosque du mois**](https://jocedoc.github.io/cdinddmporsmeur_eleves/actualites/#presse){target=blank}, onglet ==**Actualités**==.
 
-Pour découvrir les ==**autres nouveautés**== (documentaires, fictions, DVD...) et trouver des références de documents pour vos recherches dans les différentes disciplines, consultez la base documentaire du CDI.
 
-[![**PMB"**](./images/logo_PMB.png "Portail PMB"){width=15%}](https://ecmorlaix.basecdi.fr/pmb/opac_css/index.php){target=_blank}
 
 
 ## Présentation

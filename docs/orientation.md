@@ -18,21 +18,30 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
 
 
 ## Actualités
+???+ info "**CIO - Permanences aux vacances scolaires**"
 
-???+ attention "**Immersions - Journées découverte**"
+    Pour rappel, le [**Centre d'Information et d'Orientation**](https://www.ac-rennes.fr/cio-morlaix){target=_blank} de Morlaix sera ouvert pendant les vacances de la Toussaint :
 
-    ??? info "**Immersions individuelles à l'UBO**"
+    - du lundi 23 au vendredi 27 octobre 
+    - du jeudi 02 au vendredi 03 novembre
 
-        [![Immersions_UBO](./images/orientation/2023_immersions_UBO.jpg "Affiche"){width=35%}](https://www.univ-brest.fr/cap-avenir/fr/page/immersion-individuelle-lubo){target=_blank} 
+    de 9 h à 12 h et de 13 h à 16 h (uniquement sur rendez-vous)
+
+    Merci de contacter le secrétariat du CIO au 02.98.88.16.85
+
+    Les locaux sont situés à la Sous-préfecture de Morlaix : 9 avenue de la République.
+
+???+ attention "**Immersions - Journées découvertes dans le supérieur**"
+
+    Voir ci-dessous dans la rubrique 
     
-        ==**Dates d'immersions et liens pour s'inscrire pour les vacances de la Toussaint**== sur le site de l'UBO.
-    
-    ??? info "**Journées découvertes à l'UCO Guingamp**"
+    * [**Universités**](https://cdi-lycee.ecmorlaix.fr/orientation/#universites){target=_blank}
 
-        [![UCO-Guingamp](./images/orientation/Programme_journees_Decouvertes_Octobre%202023_GUINGAMP-page-001.jpg "Affiche"){width=35%}](./images/orientation/Programme_journees_Decouvertes_Octobre%202023_GUINGAMP.pdf){target=_blank} 
+    * [**IUT**](https://cdi-lycee.ecmorlaix.fr/orientation/#but){target=_blank}
 
-        Accédez au programme en cliquant sur l'affiche et complétez le [**Formulaire pour choisir vos cours**](https://forms.office.com/pages/responsepage.aspx?id=gQWqPAeCVEaEOorw19tTeZ68V_hJsdlAqkgQ7OkuHG1URElEODEyWk9aWVdXOTZHMzlWOEwxNVUzMy4u){target=_blank} du 23 au 27 octobre.
+        
 
+        
 ??? info "**Au fil de la presse...**"
     - [**Le Télégramme - 30/12/2022**](https://www.letelegramme.fr/finistere/morlaix/a-23-ans-il-est-regisseur-dans-une-salle-mythique-loan-peron-de-plougonven-aux-coulisses-de-l-olympia-30-12-2022-13250759.php){target=_blank} : À 23 ans, il est régisseur « dans une salle mythique » : Loan Péron, de Plougonven, aux coulisses de l’Olympia. Bravo à cet ancien élève du lycée.
     - [**Le Télégramme - 14/09/2022**](https://www.letelegramme.fr/finistere/morlaix/gwenael-morel-l-atout-drone-des-pompiers-finisteriens-14-09-2022-13178211.php){target=_blank} : Gwenaël Morel, l'atout drone des pompiers finistériens"
@@ -325,7 +334,7 @@ ___
     
 ___ 
 ### Santé - Social - Sport
-???+ "Liens utiles"
+??? "Liens utiles"
     === "COMMUN"
         - [**IRSS**](https://www.irss.fr/){target=_blank} : Organisme de formation et de préparation aux métiers du sport, de la santé, de la sécurité, du social et de la petite enfance.
     === "SANTE"
@@ -376,6 +385,10 @@ ___
         - [**Saint-Louis**](http://www.saint-louis29.net/wp-content/uploads/2023/01/plaquette-BTS-22-23.pdf){target=_blank} : BTS SIO (Services Informatiques aux Organisations) (*Chateaulin - 29*)
 ___ 
 ### BUT
+??? "Journées découvertes"
+    === "**IUT Brest-Morlaix**"
+        Modalités et formulaires d'inscription pour les journées d'immersion à l'[**IUT de Brest**](https://www.iut-brest.fr/evenements/journees-dimmersion-des-lyceens-a-liut/){target=_blank} à partir de début novembre. 
+    
 ??? "Liens utiles"
     === "PRESENTATION"
         - [**BACHELORS**](https://www.onisep.fr/Choisir-mes-etudes/apres-le-bac/Conseils-et-strategies-d-etudes/Quelle-reconnaissance-pour-les-diplomes-du-superieur/les-bachelors){target=_blank} : Quelle reconnaissance pour les diplômes du supérieur ? (*Sources : Onisep*)
@@ -449,7 +462,20 @@ ___
         [![100 femmes - 100 métiers](./images/orientation/2023_100femmes100metiers-amphi.jpg "100 femmes - 100 métiers"){width=45%}](./pdf/2023_invitation_inscription_100_femmes_100_metiers.pdf){target=_blank}
 ___ 
 ### Universités
-??? "Liens utiles"
+??? info "Journées découvertes"
+    === "UBO"
+        [![Immersions_UBO](./images/orientation/2023_immersions_UBO.jpg "Affiche"){width=35%}](https://www.univ-brest.fr/cap-avenir/fr/page/immersion-individuelle-lubo){target=_blank} 
+    
+        ==**Dates d'immersions et liens pour s'inscrire pour les vacances de la Toussaint**== sur le site de l'UBO.
+    === "UCO Brest-Guingamp"
+        [![UCO-Guingamp](./images/orientation/Programme_journees_Decouvertes_Octobre%202023_GUINGAMP-page-001.jpg "Guingamp"){width=30%}](https://guingamp.uco.fr/fr){target=_blank} 
+
+        Accédez au site de l'UCO Bretagne Nord en cliquant sur l'affiche et au programme des journées découvertes pour l'[**UCO de Brest**](./images/orientation/Programme_JD_octobre_2023_Brest_UCO.pdf){target=_blank} ou de l'[**UCO de Guingamp**](./images/orientation/Programme_JD_octobre_2023_Guingamp_UCO.pdf){target=_blank}.
+        
+        Complétez le [**Formulaire pour choisir vos cours**](https://forms.office.com/pages/responsepage.aspx?id=gQWqPAeCVEaEOorw19tTeZ68V_hJsdlAqkgQ7OkuHG1URElEODEyWk9aWVdXOTZHMzlWOEwxNVUzMy4u){target=_blank} du 23 au 27 octobre.
+
+    
+??? "Liens utiles pour l'université"
     === "PRESENTATION"
         - [**Pourquoi choisir la Fac ?**](https://www.letudiant.fr/etudes/fac/universite-les-10-bonnes-raisons-de-choisir-la-fac.html){target=_blank} (*Sources : L'Etudiant*).
     === "CAMPUS"
@@ -464,9 +490,11 @@ ___
                 
             - [**Bio-industries et Biotechnologies Plantes, Algues & Nutrition**](./pdf/UCO_bretagne_nord_Fiche_Formation_LP_Bio-Industries_2023-2024.pdf){target=_blank}
 
-
         - [**UTBM**](https://www.utbm.fr/){target=_blank} : Université de Technologie de Belfort-Montbéliard.
         - [**UTC**](https://www.utc.fr/){target=_blank} : Université de Technologie de Compiègne.
+    === "JOURNEES DECOUVERTES"
+        
+        
 
 
 
