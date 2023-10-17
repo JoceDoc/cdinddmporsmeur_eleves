@@ -59,6 +59,19 @@
 ## Addictions
 ??? attention "Information" 
     Voir le site [**AMELI**](https://www.ameli.fr/finistere/assure/sante/themes/addictions){target=_blank} de l'assurance maladie.
+    === "TABAGISME"
+        ==***Même si vous fumez depuis plusieurs années, il n’est jamais trop tard pour arrêter.***==
+
+        * [**TABADO**](https://tabado.fr/){target=_blank} : ensemble, sans tabac. 
+        * [**Tabac info service**](https://www.tabac-info-service.fr/){target=_blank} : trouver la motivation pour arrêter de fumer, se faire accompagner...
+
+
+
+## Don d'organes
+
+??? info "S'informer"
+    * [**Site officiel**](https://www.dondorganes.fr/){target=_blank} : questions-réponses sur le don d'organes. Que dit la loi ?
+    * [**FranceAdot**](https://www.france-adot.org/tout-savoir-sur-le-don/don-organe/){target=_blank} : Fédération des Associations pour le Don d'Organes et de Tissus humains.
 
 
 ## Sédentarité
@@ -94,9 +107,7 @@
         Votre sommeil est-il en danger ? [**Faites le test**](https://institut-sommeil-vigilance.org/sommeil-et-nouvelles-technologies/){target=_blank} et découvrez l'importance du couvre-feu digital. 
     
 
-    
-     
-
+ 
 
 
 
@@ -105,8 +116,6 @@
 ??? info "Des sites pour s'informer"
     * [**CIDFF**](https://finistere.cidff.info/){target=_blank} : Centre d'information sur les droits des femmes et des familles.
     * [**CLER**](https://www.cler.net/Education-affective-et-sexuelle){target=_blank} : Education affective et sexuelle.
-
-
 
 
 

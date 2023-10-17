@@ -39,8 +39,16 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
 
     * [**IUT**](https://cdi-lycee.ecmorlaix.fr/orientation/#but){target=_blank}
 
-        
+???+ info "**Semaine de l'industrie**"
 
+    Pilotée par la Direction générale des Entreprises, la ==**Semaine de l’industrie**== contribue à changer le regard du grand public et des jeunes sur l’industrie et ses métiers au travers d’événements organisés partout en France.
+
+    En Bretagne, la prochaine édition aura lieu du ==**16 novembre au 3 décembre 2023**== et est pilotée par [**AJIR Bretagne**](https://www.ajir-industrie.bzh/){target=_blank}. 
+    Découvrez tous les événements en [**Bretagne**](https://www.semaine-industrie-bretagne.fr/){target=_blank} et au [**niveau national**](https://www.semaine-industrie.gouv.fr/){target=_blank}.
+
+    <u>**L’objectif :**</u> renforcer l’attractivité du secteur et promouvoir les filières et métiers de l’industrie auprès des collégiens, lycéens, apprentis ou toute personne en recherche d’emploi.
+
+   
         
 ??? info "**Au fil de la presse...**"
     - [**Le Télégramme - 30/12/2022**](https://www.letelegramme.fr/finistere/morlaix/a-23-ans-il-est-regisseur-dans-une-salle-mythique-loan-peron-de-plougonven-aux-coulisses-de-l-olympia-30-12-2022-13250759.php){target=_blank} : À 23 ans, il est régisseur « dans une salle mythique » : Loan Péron, de Plougonven, aux coulisses de l’Olympia. Bravo à cet ancien élève du lycée.
