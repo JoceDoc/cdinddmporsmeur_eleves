@@ -79,6 +79,8 @@
 ??? "**Kiosque du mois** :newspaper:"
     
     [![01NET](./images/abonnements/10_octobre_2023/01NET_04_octobre_2023_1007.JPG "01NET, 04 octobre 2023, n°1007"){width=20%}](./images/abonnements/10_octobre_2023/01NET_04_octobre_2023_1007.pdf){target=_blank}
+    [![01NET](./images/abonnements/10_octobre_2023/01NET_18_octobre_2023_1008.JPG "01NET, 18 octobre 2023, n°1008"){width=20%}](./images/abonnements/10_octobre_2023/01NET_18_octobre_2023_1008.pdf){target=_blank}
+    [![Aide-soignante](./images/abonnements/10_octobre_2023/Aide-soignante_octobre_2023_250.JPG "Aide-soignante, octobre 2023, n°250"){width=20%}](./images/abonnements/10_octobre_2023/Aide-soignante_octobre_2023_250.pdf){target=_blank}
     [![Alternatives Economiques](./images/abonnements/10_octobre_2023/Alternatives_economiques_octobre_2023_439.JPG "Alternatives Economiques, octobre 2023, n°439"){width=20%}](./images/abonnements/10_octobre_2023/Alternatives_economiques_octobre_2023_439.pdf){target=_blank}
     [![Ca m'intéresse](./images/abonnements/10_octobre_2023/Ca_m_interesse_octobre_2023_512.JPG "Ca m'intéresse, octobre 2023, 512"){width=20%}](./images/abonnements/10_octobre_2023/Ca_m_interesse_octobre_2023_512.pdf){target=_blank}
     [![Courrier international](./images/abonnements/10_octobre_2023/Courrier_international_28_septembre_2023_1717.JPG "Courrier international, 28 septembre 2023, 1717"){width=20%}](./images/abonnements/10_octobre_2023/Courrier_international_28_septembre_2023_1717.pdf){target=_blank}
