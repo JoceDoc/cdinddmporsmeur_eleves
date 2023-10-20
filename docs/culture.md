@@ -1,6 +1,7 @@
 ???+ example inline end "Liens utiles"
     [![**PASS CULTURE**](./images/culture/pass-culture-logo-france.jpg "Page d'accueil PASS CULTURE"){width=90%}](https://pass.culture.fr/){target=_blank}
-    [![**A VOS AGENDAS**](./images/culture/logo-agenda-culturel.png "Page d'accueil AGENDA"){width=110%}](https://www.agendaculturel.fr/){target=_blank}
+    [![**CYRANO**](./images/culture/Cyrano.jpg "Cyrano"){width=85%}](https://www.cyrano.education/home){target=_blank}
+    [![**A VOS AGENDAS**](./images/culture/logo-agenda-culturel.png "Page d'accueil AGENDA"){width=125%}](https://www.agendaculturel.fr/){target=_blank}
     [![**PASS CULTURE**](./images/culture/melotick.jpg "Mélotick"){width=90%}](https://melotick.com/)
     
     - [**Ministère de la culture**](https://www.culture.gouv.fr/){target=_blank}
@@ -11,17 +12,12 @@
 
 ## Actualités
 
-???+ "**Connaissez-vous l'application Mélotick ?**"
-    [![**PASS CULTURE**](./images/culture/melotick.jpg "Mélotick"){width=35%}](https://melotick.com/){target=_blank}
+???+ "**CYRANO la plateforme dédiée au théâtre**"
+    Visionnez les captations intégrales des pièces de théâtre actuellement au programme.
+    ==**Théâtre classique - Théâtre contemporain - Théâtre de Molière**== 
     
-    Télécharger l'application pour accéder aux services suivants :
-    
-    * ==**Agenda culturel**== : découvrez et suivez les évènements culturels de votre ville (Opéras, Ballets, Concerts, Musées, Théâtre et Expositions…)
-    
-    * ==**Bourse aux billets**== : revendez et achetez des billets culturels.
-
-    * ==**Club culturel**== : rencontrez d’autres passionnés et accédez à des activités culturelles exclusives.(visites, rencontres, concerts etc…) 
-
+    [![**CYRANO**](./images/culture/Cyrano.jpg "Cyrano"){width=20%}](https://www.cyrano.education/home){target=_blank}
+        
 
 ???+ "**PASS CULTURE**"
     Pour activer son compte sur [**EduConnet**](https://educonnect.education.gouv.fr/){target=_blank}, cliquer sur l'affiche ci-dessous, puis télécharger l'application [**PASS CULTURE**](https://pass.culture.fr/){target=_blank}
