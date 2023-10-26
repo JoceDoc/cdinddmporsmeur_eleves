@@ -158,11 +158,11 @@ ___
 ___
 
 ??? info "**Si on lisait à voix haute**"
-    Dans le cadre de l'AP, 19 élèves de seconde générale participent cette année au concours [**"Si on lisait à voix haute"**](https://www.lumni.fr/dossier/la-grande-librairie-concours-de-lecture-a-voix-haute){target=_blank} organisé par François Busnel et la Grande Librairie.
+    Dans le cadre de l'AP, 8 élèves de seconde générale participent cette année au concours [**"Si on lisait à voix haute"**](https://www.lumni.fr/dossier/la-grande-librairie-concours-de-lecture-a-voix-haute){target=_blank} organisé par François Busnel et la Grande Librairie.
 
-    Leurs motivations et leurs attentes au moment de choisir cet atelier étaient diverses : pour certains la **curiosité**, pour d’autres, l’**envie de travailler l’oral** et de **gagner en aisance**, pour d’autres encore, aimant déjà lire à voix haute, le **désir de participer à un concours national**, quelques-uns, aussi, sans motivation particulière, parce que s’étant inscrits dans cet atelier un peu par défaut.
+    Ce qui les motive : l’**envie de travailler l’oral**, **gagner en aisance**, **participer à un concours national**.
     
-    Ensembles, ils ont choisi de relever le défi proposé par le concours et se sont engagés à travailler pour progresser dans cet exercice de lecture à voix haute, à s'entraider pour exceller et donner le meilleur d'eux-mêmes.
+    Ils ont choisi de relever le défi proposé par le concours et se sont engagés à travailler pour progresser dans cet exercice de lecture à voix haute, à s'entraider pour exceller et donner le meilleur d'eux-mêmes.
 
     Découvrez cet atelier pédagogique sur le [**Padlet du groupe d'AP**](https://padlet.com/cdinddmporsmeur/concours_lagrandelibrairie){target=_blank}.
     ![Concours](./images/Si on lisait à voix haute01.jpg "logo du concours"){width=35% align=right}
@@ -172,12 +172,7 @@ ___
     </figure>
 ___
 
-??? info "**Prix folio des lycéens**"
-    Petit parcours vers la **littérature contemporaine** : à travers des activités variées, découvrir 6 titres récents aux thèmes diversifiés ; partager ses impressions de lecture par oral et par écrit ; affiner ses goûts, développer son esprit critique en attribuant « coups de cœur » et « coups de griffe » et en votant pour son roman préféré.
-    
-    Une manière décontractée de se préparer aux épreuves anticipées de Français (écrites et orales) et au Grand Oral du bac !
-    
-    Informations et actualités du [**Prix folio**](https://www.prixdeslyceensfolio.fr/){target=_blank} sur le site.
+
     
 ___
 ## LGT
@@ -192,9 +187,7 @@ ___
         * Sciences et laboratoire : Faire des sciences dans le cadre d’une enquête policière
     
         * Journal du lycée : Ecrire à la façon d’un journaliste
-    
-        * Projet Symbiose : Science-Fiction, Fantasy, Fantastique, si j’écrivais des nouvelles de SFFF
-    
+     
         * Maths expertes : Les maths, j’adore, je veux devenir un expert
     
         * Création et innovation technologique : des idées plein la tête pour des projets concrets
@@ -204,29 +197,34 @@ ___
         * Atelier d'écriture : pour les écrivains en herbes
     
         * Management et Gestion : Créer ma propre entreprise
-    
-        * Histoire : Savoir-être et savoir-vivre à la Renaissance
+         
+        * Soutien maths (3)
+
+        * Projet TARA
 
     === "PROJETS COURTS (*9 semaines*)"
     
-        * Soutien mathématiques : pour reprendre les bases en début d'année
+        * Soutien mathématiques (1)
+
+        * Soutien mathématiques (2)
         
         * Soutien français : pour reprendre les bases en début d'année
+
+        * AP CARE
         
         * Initiation aux sciences de l'ingénieur
         
         * Initiation au management et à la gestion
         
-        * Prix des lycéens Folios : être jury dans un concours littéraire
+        * Projet DIAPOSON
 
-        * Etre à l'aise à l'oral
+        * AP ORAL
     
         * Sciences et laboratoire : répondre à des questions scientifiques par l'expérience
         
-        * Les Imaginaires du futur : créer une exposition interactive
+        * Infos-Presse-Médias: s'informer et développer son esprit critique
 
-        * Prononciation anglaise : doubler des séries en anglais
-    
+   
 ___
 ### Disciplines et Spécialités
 
