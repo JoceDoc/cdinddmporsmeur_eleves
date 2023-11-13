@@ -18,18 +18,13 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
 
 
 ## Actualités
-???+ info "**CIO - Permanences aux vacances scolaires**"
-
-    Pour rappel, le [**Centre d'Information et d'Orientation**](https://www.ac-rennes.fr/cio-morlaix){target=_blank} de Morlaix sera ouvert pendant les vacances de la Toussaint :
-
-    - du lundi 23 au vendredi 27 octobre 
-    - du jeudi 02 au vendredi 03 novembre
-
-    de 9 h à 12 h et de 13 h à 16 h (uniquement sur rendez-vous)
-
-    Merci de contacter le secrétariat du CIO au 02.98.88.16.85
-
-    Les locaux sont situés à la Sous-préfecture de Morlaix : 9 avenue de la République.
+???+ info "**Les soirées d'AZIMUT**"
+    Comment se repérer parmi les diplômes de l’enseignement supérieur ? 
+    
+    ==**Dates des rencontres ci-dessous.**==
+    
+    [![**Réunion d'information**](./images/orientation/Azimut_information_2023.jpg "Flyer_azimut"){width=50%}](https://www.salon-azimut.com/){target=_blank} 
+    
 
 ???+ attention "**Immersions - Journées découvertes dans le supérieur**"
 
@@ -110,10 +105,10 @@ ___
         - [**Pôle emploi**](https://www.pole-emploi.fr/accueil/){target=_blank}
         - [**L'Etudiant**](https://www.letudiant.fr/etudes/alternance.html){target=_blank} : dossier sur l'alternance (Ecoles, formations, entreprises, offres...)
         - [**AREP29**](https://www.arep29.fr/){target=_blank} : CFA et centre de formation continue à Brest (CAP, BTS et Bac+3 en alternance, formation continue des salariés d'établissements...)
-        - [**Chambre des métiers et de l'artisanat**](https://www.cma29.bzh/finistere/finistere/){target=_blank} : portes ouvertes samedi 28 janvier 2023 (9h-16h) et [**formulaire**](./pdf/CMA_Quimper_mercredis_apprentissage_formulaire.pdf){target=_blank} d'inscription aux mercredis de l'apprentissage du Campus des métiers de Quimper. 
-        - [**IBEP-Morlaix**](https://www.ibepformation.fr/formation/formation-adulte/morlaix/){target=_blank} : les vendredis de l'alternance pour se former en étant salarié ([**contact**](./pdf/vendredi_alternance_ibep.pdf){target=_blank})
+        - [**Chambre des métiers et de l'artisanat**](https://www.artisanat.fr/){target=_blank}
+        - [**IBEP-Morlaix**](https://www.ibepformation.fr/formation/formation-adulte/morlaix/){target=_blank} : Institut Breton d'éducation permanent.
         - [**ISFFEL**](https://www.isffel.fr/){target=_blank} : chercher sa formation en alternance sur le site de l'Institut Supérieur de Formation. 
-        - [**Les compagnons du devoir**](https://www.compagnons-du-devoir.com/){target=_blank} : journées portes ouvertes les ==**14-15 janvier** / **11 mars 2023**==.
+        - [**Les compagnons du devoir**](https://www.compagnons-du-devoir.com/){target=_blank} : journées portes ouvertes les ==**20-21 janvier et 23 mars 2024**==.
         [![**Compagnons du devoir**](./images/orientation/Flyer_jpo_compagnons.jpg "Flyers_jpo"){width=50%}](https://www.compagnons-du-devoir.com/){target=_blank}
     === "VIE ETUDIANTE"
         - [==**Guide de la vie étudiante - 2023**==](https://www.enseignementsup-recherche.gouv.fr/fr/guide-etudiant-2023){target=_blank}
@@ -171,7 +166,7 @@ ___
     === "FORUM EN LIGNE"
         - [**FORUM EN LIGNE**](https://padlet.com/cdinddmporsmeur/forum_en_ligne_2022){target=_blank} 
         
-            Les dates d'ouverture du ==**Forum en ligne**== vous seront bientôt communiquées.
+            Le ==**Forum en ligne**== débute le lundi 13 novembre.
                         
     === "PARCOURSUP"
         [![**PARCOURSUP"**](./images/orientation/parcoursup.png "Page d'accueil PARCOURSUP"){width=20%}](https://www.parcoursup.fr/index.php?desc=){target=_blank}
@@ -217,10 +212,9 @@ ___
             - [**ITES**](./pdf/Affiche_Portes-Ouvertes-ITES-18-19-nov-2022.pdf){target=_blank} : [**calendrier**](./pdf/JPO-ITES-Programme_2022-2023.pdf){target=_blank} des portes ouvertes de l'[**Institut de formation au travail Educatif et Social**](https://www.ites-formation.com/){target=_blank}.
     === "SALONS - FORUMS"
         - [**Salons - Forums de l'orientation**](https://www.onisep.fr/recherche?text=SALONS%20FORUMS){target=_blank} : comment préparer sa visite à un salon ?
-        - [**Azimut**](https://www.salon-azimut.com/){target=_blank} : site officiel du salon les ==**19-21 janvier 2023**==. Pour préparer ta visite au salon Azimut découvre le [**Kit de l'élève de Terminale**](./pdf/Azimut_kit_terminale.pdf){target=_blank}. 
-        - [**Flyers soirées Azimut**](./pdf/Flyer_soirees_Azimut.pdf){target=_blank} : ==**novembre 2022**==.
-        - [**Sup'Armor**](https://www.suparmor.fr/){target=_blank} : l'équivalent d'Azimut dans le 22 du ==**08 au 10 décembre 2022**==.
-        - [**Studyrama**](https://www.studyrama.com/){target=_blank} : dates des prochains salons étudiants...
+        - [**AZIMUT**](https://www.salon-azimut.com/){target=_blank} : site officiel du salon les ==**25-27 janvier 2024**==. Pour préparer ta visite au salon Azimut découvre le [**Kit de l'élève de Terminale**](./pdf/Azimut_kit_terminale.pdf){target=_blank}. 
+        - [**SUP'ARMOR**](https://www.suparmor.fr/){target=_blank} : l'équivalent d'Azimut dans le 22 du ==**14-15-16 décembre 2023**==.
+        - [**STUDYRAMA**](https://www.studyrama.com/){target=_blank} : dates des prochains salons étudiants...
     === "CONCOURS"
         - [**EMSLB**](https://service-sante-des-armees.uniformesdefrance.com/secours-militaire-ssa-dates-concours-emsbl-esa-eppa-medecin-infirmier.php){target=_blank} : dates des concours pour l'entrée en Ecoles Militaires de Santé de Lyon-Bron. [**Voir fiche**](./pdf/Fiche_conditions_acce%CC%80s_concours_ESA_2023.pdf) conditions d'accès au concours de médecin ou pharmacien militaire. 
         - [**EMSLB - infirmier**](https://www.emslb.defense.gouv.fr/nous-rejoindre-concours/concours-eppa){target=_blank} : devenir infirmier militaire  en intégrant les écoles militaires de santé Lyon-Bron. [**Voir la plaquette**](./pdf/EMSLB_Plaquette_infirmier_militaire.pdf){target=_blank}

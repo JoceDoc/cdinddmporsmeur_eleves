@@ -16,22 +16,15 @@
     ??? "**Fête de la science - Faites des sciences - 16/10/2023**"   
 
     ??? "**Jeunes en librairie**"
-    ![Jeunes en librairie](./images/expositions/JLB_affiche.png "Affiche"){width=20% align=right}
-    Les élèves de 2nde AEPA et 2nde MRC ont participé cette année au programme ==**« Jeunes en Librairie »**==, projet d’éducation artistique et culturelle autour des professionnels du livre et de la librairie.
+    Les élèves de Term EPC ET AEPE participent cette année au programme ==**« Jeunes en Librairie »**==, projet d’éducation artistique et culturelle autour des professionnels du livre et de la librairie.
  
-    Dans ce cadre, ils ont rencontré, plusieurs fois, Cathy de la ==**librairie Dialogues-Morlaix**==, partenaire du projet, au lycée d'abord, puis à la librairie. Les 2ndes MRC ont ainsi pu découvrir le circuit du livre, de la commande à la mise en rayon. Les 2ndes AEPA, quant à eux, ont apprécié le fonds littérature jeunesse et glaner quelques précieux conseils pour apprendre à conter des histoires aux plus petits. Des visites très appréciées par les élèves ! 
-  
-    A l'occasion d'une deuxième visite, les élèves ont pu dépenser en achat de livres, le chèque de 30 euros dont ils bénéficiaient en tant que participants au projet "Jeunes en librairie".
+    Dans ce cadre, ils ont recontré Yuna de la ==**librairie Dialogues-Morlaix**==, partenaire du projet, au lycée d'abord, et visiteront prochainement la librairie. Dans le cadre du projet ils bénéficieront également d'un chèque livre de 20 € pour acheter les livres de leur choix à la librairie.
+   
+    Des rencontres avec l'autrice ==**Louise Delgado**== et l'auteur ==**Guillaume Le Cornec**== sont programmées en 2024.
     
-    Des ==**rencontres très intéressantes avec des auteurs et autrices**== ont eu lieu en 2023 : Luc Blanvillain, le 21 mars, Louise Delgado le 12 avril et Nathalie Bernard le 4 mai.
     
-    Dans le cadre du projet, les élèves de 2nde AEPA ont également participé au [**prix des embouquineurs - 2023**](https://www.lagalerne.com/dossiers/le-prix-des-embouquineurs-2022-2023/){target=_blank}.
-    
-    ![Jeunes en librairie](./images/expositions/JLB_librairie02.jpg "Visite Dialogues"){width=35% align=right}
-    ![Jeunes en librairie](./images/expositions/JLB_librairie01.jpg "Visite Dialogues"){width=20% align=right}
-    ![Jeunes en librairie](./images/expositions/Visite_cathy.jpg "Rencontre au CDI"){width=35% align=right}
-
-    ![Jeunes en librairie](./images/expositions/JLB_affiche_eleves.jpg "Avis des élèves"){width=65% align=right}
+    ![Jeunes en librairie](./images/expositions/yuna_cdi_epc.jpg "Yuna au CDI avec Term EPC"){width=35% align=right}
+    ![Jeunes en librairie](./images/expositions/Yuna_cdi_aepe.jpg "Yuna au CDI avec Term AEPE"){width=35% align=right}
   
 
 
@@ -49,16 +42,7 @@
 
     [![Neven Le Goff](./images/expositions/Concours_eloquence_Neven.jpg "Neven, vainqueur du concours"){width=25% align=left}](https://www.letelegramme.fr/finistere/morlaix/neven-le-goff-eleve-a-notre-dame-du-mur-le-porsmeur-a-morlaix-remporte-le-concours-d-eloquence-de-son-lycee-13-02-2023-13278707.php){target=_blank}
 
-??? "**Arts plastiques**"
-    ![Arts_plastiques](./images/expositions/Arts_plastiques_01.jpeg "01"){width=25% align=left}
-    ![Arts_plastiques](./images/expositions/Arts_plastiques_02_Ambre_Frerejacques.jpeg "02"){width=25% align=left}
-    ![Arts_plastiques](./images/expositions/Arts_plastiques_04.jpeg "04"){width=25% align=left}
-    ![Arts_plastiques](./images/expositions/Arts_plastiques_05.jpeg "05"){width=25% align=left}
-    ![Arts_plastiques](./images/expositions/Arts_plastiques_07.jpeg "07"){width=25% align=left}
-    ![Arts_plastiques](./images/expositions/Arts_plastiques_06.jpeg "06"){width=25% align=left}
-    ![Arts_plastiques](./images/expositions/Arts_plastiques_08_Lila-Fetsch.jpeg "08"){width=25% align=left}
-
-    
+   
 ??? "**Option Arts plastiques**"
     ![Arts_plastiques](./images/expositions/Option_03.jpg "Otion_03"){width=25% align=left}
     ![Arts_plastiques](./images/expositions/Option_05.jpg "Otion_05"){width=25% align=left}
