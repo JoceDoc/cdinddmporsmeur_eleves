@@ -110,6 +110,7 @@ ___
         - [**ISFFEL**](https://www.isffel.fr/){target=_blank} : chercher sa formation en alternance sur le site de l'Institut Supérieur de Formation. 
         - [**Les compagnons du devoir**](https://www.compagnons-du-devoir.com/){target=_blank} : journées portes ouvertes les ==**20-21 janvier et 23 mars 2024**==.
         [![**Compagnons du devoir**](./images/orientation/Flyer_jpo_compagnons.jpg "Flyers_jpo"){width=50%}](https://www.compagnons-du-devoir.com/){target=_blank}
+        [![**FOROMAP*](./images/orientation/2024_Foromap_affiche.jpg "affiche_foromap"){width=50%}](https://foromap29.fr/){target=_blank}
     === "VIE ETUDIANTE"
         - [==**Guide de la vie étudiante - 2023**==](https://www.enseignementsup-recherche.gouv.fr/fr/guide-etudiant-2023){target=_blank}
         - [**Vie étudiante : Infos, services, FAQ**](https://www.etudiant.gouv.fr/fr){target=_blank}
