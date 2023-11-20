@@ -32,7 +32,11 @@
 
         L'[**Association Film&Culture - Brest**](https://www.film-et-culture.fr/){target=_blank} intervient au lycée pour des ateliers de lecture de l'image et des circuits.
         
-        Ci-dessous, la programmation de l'année.
+        **Les films présentés cette année** (==*Cliquez sur l'affiche pour accéder à la fiche sur le film*==) :
+
+        [![Illusions_perdues](./images/culture/illusions_perdues.jpg "Illusions perdues"){width=20%}](./pdf/Illusions_perdues_fiche_film_et_culture.pdf){target=_blank}
+        
+        **Ci-dessous, les films présentés en 2022-2023** :
 
         [![Greenbook](./images/culture/greenbook.jpg "Greenbook"){width=20%}](./pdf/Green_book.pdf){target=_blank}
         [![La couleur de la victoire](./images/culture/la_couleur_de_la_victoire.jpg "La couleur de la victoire"){width=19%}](./pdf/La_Couleur_de_la_victoire.pdf){target=_blank}
