@@ -10,19 +10,31 @@
 
 ## Expositions et projets
 
-???info "**Expositions en cours**"
-    ??? "**Conférence contre la peine de mort - le 27/11/2023**"
+??? "**Conférence contre la peine de mort - le 27/11/2023**"
     
-    ??? "**Fête de la science - Faites des sciences - 16/10/2023**"   
+    ==**VILLES POUR LA VIE, VILLES CONTRE LA PEINE DE MORT**==
 
-    ??? "**Jeunes en librairie**"
+    [![Antoinette Chahine](./images/expositions/Antoinette-Chahine.png "Antoinette Chahine"){width=25% align=left}](__){target=_blank}   
+    
+    Le ==**30 novembre**==, est la journée mondiale « des villes pour la vie, villes contre la peine de mort ». Cette date marque la Commémoration annuelle de la première abolition de la peine de mort par un Etat, le Grand Duché de Toscane, le 30 novembre 1786.
+    
+    Chaque 30 novembre, cette commémoration a pour objectif d'affirmer la valeur de la vie et de s'opposer à la peine de mort. Les « villes [engagées] villes pour la vie, villes contre la peine de mort » partout à travers le monde, s’illuminent pour dire à l'unisson ==**« Non à la peine de mort ! »**==. 
+
+    Ce 30 novembre, la ville de Morlaix fêtera ses dix ans d’engagement et recevra, à cette occasion, à la mairie ==**Antoinette Chahine**==. Lors de son passage dans notre région, à l’invitation de trois associations, Amnesty international, l’ACAT et la Ligue des droits de l’homme, Mme Chahine rencontrera les élèves de plusieurs lycées de la région pour leur expliquer pourquoi elle sillonne aujourd'hui le monde pour témoigner, défendre les droits humains et militer contre l'injustice, la torture et la peine de mort. 
+    
+    Pour notre lycée la conférence aura lieu : ==**Lundi 27/11/2023 de 10h -12h**==
+
+   
+
+
+??? "**Jeunes en librairie 2023-2024**"
+    
     Les élèves de Term EPC ET AEPE participent cette année au programme ==**« Jeunes en Librairie »**==, projet d’éducation artistique et culturelle autour des professionnels du livre et de la librairie.
  
-    Dans ce cadre, ils ont recontré Yuna de la ==**librairie Dialogues-Morlaix**==, partenaire du projet, au lycée d'abord, et visiteront prochainement la librairie. Dans le cadre du projet ils bénéficieront également d'un chèque livre de 20 € pour acheter les livres de leur choix à la librairie.
+    Dans ce cadre, ils ont recontré Yuna de la ==**librairie Dialogues-Morlaix**==, venue leur rendre visite au lycée, et ils visiteront prochainement la librairie partenaire du projet. Ils bénéficieront également d'un chèque livre de 20 € pour acheter les livres de leur choix à la librairie.
    
     Des rencontres avec l'autrice ==**Louise Delgado**== et l'auteur ==**Guillaume Le Cornec**== sont programmées en 2024.
-    
-    
+        
     ![Jeunes en librairie](./images/expositions/yuna_cdi_epc.jpg "Yuna au CDI avec Term EPC"){width=35% align=right}
     ![Jeunes en librairie](./images/expositions/Yuna_cdi_aepe.jpg "Yuna au CDI avec Term AEPE"){width=35% align=right}
   
@@ -30,13 +42,11 @@
 
 ## Nos élèves ont du talent
 ??? "**Concours d'éloquence**"
-    Cinq élèves du LGT sous la responsabilité de Mme Gamard (enseignante d'Histoire-Géographie et de la spécialité HGGSP) ont organisé la deuxième édition du concours d'éloquence. Après les sessions éliminatoires de décembre et janvier, la finale du concours s'est déroulée vendredi 10 février à l’amphithéâtre du collège Saint-Augustin. 
+    Une dizaine d'élèves se sont inscrits pour participer à la troisième édition du concours d'éloquence.
     
-    « Le rêve » était le sujet imposé. Qualité du texte, éloquence et argumentation étaient les critères pris en compte par le jury.
+    Le 1er tour aura lieu le 7 décembre, pour désigner ceux qui poursuivront l'aventure jusqu'à la demi-finale.
     
-    Un grand BRAVO à Neven qui a convaincu et ému jury et public par sa sincérité, son naturel et aussi la justesse de son propos !
-    
-    *Ci-dessous, les finalistes en compagnie de Mme Gamard et Neven, vainqueur du concours.* 
+    *Ci-dessous, les finalistes de l'édition 2023, en compagnie de Mme Gamard et Neven, vainqueur du concours l'année dernière.* 
     
     ![Les finalistes](./images/expositions/Concours_eloquence_finalistes.jpg "Les finalistes du concours"){width=45% align=left}
 
@@ -44,14 +54,11 @@
 
    
 ??? "**Option Arts plastiques**"
-    ![Arts_plastiques](./images/expositions/Option_03.jpg "Otion_03"){width=25% align=left}
-    ![Arts_plastiques](./images/expositions/Option_05.jpg "Otion_05"){width=25% align=left}
-    ![Arts_plastiques](./images/expositions/Option_06.jpg "Otion_06"){width=25% align=left}
-    ![Arts_plastiques](./images/expositions/Option_01.jpg "Otion_01"){width=25% align=left}
-    ![Arts_plastiques](./images/expositions/Option_02.jpg "Otion_02"){width=25% align=left}
+    ![Arts_plastiques](./images/expositions/option_margot_bouchez.JPG "Margot Bouchez"){width=25% align=left}
+    ![Arts_plastiques](./images/expositions/IMG_0708.JPG "Otion_02"){width=25% align=left}
+    ![Arts_plastiques](./images/expositions/IMG_0709.JPG "Otion_03"){width=25% align=left}
+    ![Arts_plastiques](./images/expositions/IMG_0707.JPG "Otion_01"){width=25% align=left}
     
-    ![Arts_plastiques](./images/expositions/Option_07.jpg "Otion_07"){width=35% align=left}
-
 
 ## Nouveautés
 
