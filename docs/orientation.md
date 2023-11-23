@@ -18,6 +18,11 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
 
 
 ## Actualités
+???+ info "**Nuit de l'orientation - 24 novembre 2023**"
+    [![**Nuit de l'orientation**](./images/orientation/flyer_nuit_de_lorientation_2023.jpg "Flyer_nuit_orientation"){width=35%}](./images/orientation/flyer_nuit_de_lorientation_2023.pdf){target=_blank} 
+
+    Retrouvez les dates des [**nuits de l'orientation**](https://www.bretagne.cci.fr/formation/s-orienter/nuits-de-l-orientation-2019){target=_blank}  en Bretagne.
+
 ???+ info "**Les soirées d'AZIMUT**"
     Comment se repérer parmi les diplômes de l’enseignement supérieur ? 
     
@@ -26,7 +31,7 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
     [![**Réunion d'information**](./images/orientation/Azimut_information_2023.jpg "Flyer_azimut"){width=50%}](https://www.salon-azimut.com/){target=_blank} 
     
 
-???+ attention "**Immersions - Journées découvertes dans le supérieur**"
+??? attention "**Immersions - Journées découvertes dans le supérieur**"
 
     Voir ci-dessous dans la rubrique 
     
@@ -43,8 +48,6 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
 
     <u>**L’objectif :**</u> renforcer l’attractivité du secteur et promouvoir les filières et métiers de l’industrie auprès des collégiens, lycéens, apprentis ou toute personne en recherche d’emploi.
 
-   
-        
 ??? info "**Au fil de la presse...**"
     - [**Le Télégramme - 30/12/2022**](https://www.letelegramme.fr/finistere/morlaix/a-23-ans-il-est-regisseur-dans-une-salle-mythique-loan-peron-de-plougonven-aux-coulisses-de-l-olympia-30-12-2022-13250759.php){target=_blank} : À 23 ans, il est régisseur « dans une salle mythique » : Loan Péron, de Plougonven, aux coulisses de l’Olympia. Bravo à cet ancien élève du lycée.
     - [**Le Télégramme - 14/09/2022**](https://www.letelegramme.fr/finistere/morlaix/gwenael-morel-l-atout-drone-des-pompiers-finisteriens-14-09-2022-13178211.php){target=_blank} : Gwenaël Morel, l'atout drone des pompiers finistériens"

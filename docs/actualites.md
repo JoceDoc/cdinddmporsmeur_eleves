@@ -14,18 +14,20 @@
     
     ==**VILLES POUR LA VIE, VILLES CONTRE LA PEINE DE MORT**==
 
-    [![Antoinette Chahine](./images/expositions/Antoinette-Chahine.png "Antoinette Chahine"){width=25% align=left}](__){target=_blank}   
+    ![Antoinette Chahine](./images/expositions/Antoinette-Chahine.png "Antoinette Chahine"){width=35% align=left}  
     
-    Le ==**30 novembre**==, est la journée mondiale « des villes pour la vie, villes contre la peine de mort ». Cette date marque la Commémoration annuelle de la première abolition de la peine de mort par un Etat, le Grand Duché de Toscane, le 30 novembre 1786.
+    Le ==**30 novembre**==, est la journée mondiale des ==**"Villes pour la vie, villes contre la peine de mort"**==. Cette date marque la Commémoration annuelle de la première abolition de la peine de mort par un Etat, le Grand Duché de Toscane, le 30 novembre 1786.
     
     Chaque 30 novembre, cette commémoration a pour objectif d'affirmer la valeur de la vie et de s'opposer à la peine de mort. Les « villes [engagées] villes pour la vie, villes contre la peine de mort » partout à travers le monde, s’illuminent pour dire à l'unisson ==**« Non à la peine de mort ! »**==. 
 
-    Ce 30 novembre, la ville de Morlaix fêtera ses dix ans d’engagement et recevra, à cette occasion, à la mairie ==**Antoinette Chahine**==. Lors de son passage dans notre région, à l’invitation de trois associations, Amnesty international, l’ACAT et la Ligue des droits de l’homme, Mme Chahine rencontrera les élèves de plusieurs lycées de la région pour leur expliquer pourquoi elle sillonne aujourd'hui le monde pour témoigner, défendre les droits humains et militer contre l'injustice, la torture et la peine de mort. 
+    Ce 30 novembre, la ville de Morlaix fêtera ses dix ans d’engagement et recevra, à cette occasion, à la mairie ==**Antoinette Chahine**==. Lors de son passage dans notre région, à l’invitation de trois associations, [**Amnesty international**](https://www.amnesty.fr/){target=_blank}, l’[**ACAT**](https://www.acatfrance.fr/){target=_blank} et la [**Ligue des droits de l’homme**](https://www.ldh-france.org/){target=_blank}, Mme Chahine rencontrera les élèves de plusieurs lycées de la région pour leur expliquer pourquoi elle sillonne aujourd'hui le monde pour témoigner, défendre les droits humains et militer contre l'injustice, la torture et la peine de mort. 
     
     Pour notre lycée la conférence aura lieu : ==**Lundi 27/11/2023 de 10h -12h**==
 
-   
-
+    En préparation de la rencontre avec Antoinette Chahine, des lycéens ont participé au CDI à un ==**atelier d’écriture**==, conduit par Michel Bras, écrivain public. L’objectif était d’écrire des lettres à des prisonniers condamnés à mort, dont les associations suivent actuellement la situation dans différents pays. 
+    
+    ![Atelier d'écriture](./images/expositions/atelier_ecriture_dgemc.jpg "DGEMC_atelier d'écriture"){width=45% align=right}
+    ![Exposition](./images/expositions/Exposition_conf_peine_mort.jpg "Exposition_atelier d'écriture"){width=45% align=right}
 
 ??? "**Jeunes en librairie 2023-2024**"
     
@@ -44,9 +46,9 @@
 ??? "**Concours d'éloquence**"
     Une dizaine d'élèves se sont inscrits pour participer à la troisième édition du concours d'éloquence.
     
-    Le 1er tour aura lieu le 7 décembre, pour désigner ceux qui poursuivront l'aventure jusqu'à la demi-finale.
+    Le 1er tour aura lieu le 7 décembre, pour désigner ceux qui poursuivront l'aventure vers la demi-finale.
     
-    *Ci-dessous, les finalistes de l'édition 2023, en compagnie de Mme Gamard et Neven, vainqueur du concours l'année dernière.* 
+    *Ci-dessous, les finalistes de l'édition 2023, en compagnie de Mme Gamard et de Neven, vainqueur du concours l'année dernière.* 
     
     ![Les finalistes](./images/expositions/Concours_eloquence_finalistes.jpg "Les finalistes du concours"){width=45% align=left}
 
@@ -54,10 +56,16 @@
 
    
 ??? "**Option Arts plastiques**"
-    ![Arts_plastiques](./images/expositions/option_margot_bouchez.JPG "Margot Bouchez"){width=25% align=left}
-    ![Arts_plastiques](./images/expositions/IMG_0708.JPG "Otion_02"){width=25% align=left}
-    ![Arts_plastiques](./images/expositions/IMG_0709.JPG "Otion_03"){width=25% align=left}
-    ![Arts_plastiques](./images/expositions/IMG_0707.JPG "Otion_01"){width=25% align=left}
+    En novembre et décembre, Les élèves de l'==**option Arts plastiques**== vous proposent de découvrir leurs travaux au CDI.
+
+    ==**« DE LA COULEUR AVANT TOUTE CHOSE »**== : Exposition des PEINTURES des 1ères & Terminales
+
+    ==**« DESSINER : VOIR / PENSER / SAVOIR »**== : Exposition des DESSINS des Secondes
+    
+    ![Arts_plastiques](./images/expositions/option_Margot_Bouchez.JPG "Margot Bouchez"){width=25% align=left}
+    ![Arts_plastiques](./images/expositions/option_Ninon_Caraes_TSTMG.JPG" Ninon Caraes"){width=25% align=left}
+    ![Arts_plastiques](./images/expositions/option_Roxanne_Sylla_TG1.JPG "Roxane Sylla"){width=25% align=left}
+    ![Arts_plastiques](./images/expositions/option_Lea_Bellec_TG1.JPG "Léa Bellec"){width=25% align=left}
     
 
 ## Nouveautés
