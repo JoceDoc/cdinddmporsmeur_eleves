@@ -46,7 +46,7 @@
 ??? "**Concours d'éloquence**"
     Une dizaine d'élèves se sont inscrits pour participer à la troisième édition du concours d'éloquence.
     
-    Le 1er tour aura lieu le 7 décembre, pour désigner ceux qui poursuivront l'aventure vers la demi-finale.
+    Le 1er tour aura lieu le ==**7 décembre**==, pour désigner ceux qui poursuivront l'aventure vers la demi-finale.
     
     *Ci-dessous, les finalistes de l'édition 2023, en compagnie de Mme Gamard et de Neven, vainqueur du concours l'année dernière.* 
     
