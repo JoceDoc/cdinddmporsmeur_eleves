@@ -44,7 +44,7 @@
 
 ## Nos élèves ont du talent
 ??? "**Concours d'éloquence**"
-    Une dizaine d'élèves se sont inscrits pour participer à la troisième édition du concours d'éloquence.
+    Une dizaine d'élèves se sont inscrits pour participer à la troisième édition du ==**concours d'éloquence**==.
     
     Le 1er tour aura lieu le ==**7 décembre**==, pour désigner ceux qui poursuivront l'aventure vers la demi-finale.
     
