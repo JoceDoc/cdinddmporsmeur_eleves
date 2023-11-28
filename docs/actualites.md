@@ -63,7 +63,7 @@
     ==**« DESSINER : VOIR / PENSER / SAVOIR »**== : Exposition des DESSINS des Secondes
     
     ![Arts_plastiques](./images/expositions/option_Ninon_Caraes_TSTMG.JPG "Ninon Caraes"){width=25% align=left}
-    ![Arts_plastiques](./images/expositions/option_Margot_Bouchez.JPG "Margot Bouchez"){width=25% align=left}
+    ![Arts_plastiques](./images/expositions/option_Margot_Bouchez_1G1.JPG "Margot Bouchez"){width=25% align=left}
     ![Arts_plastiques](./images/expositions/option_Roxanne_Sylla_TG1.JPG "Roxane Sylla"){width=25% align=left}
     ![Arts_plastiques](./images/expositions/option_Lea_Bellec_TG1.JPG "Léa Bellec"){width=25% align=left}
     
