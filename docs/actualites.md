@@ -62,8 +62,8 @@
 
     ==**« DESSINER : VOIR / PENSER / SAVOIR »**== : Exposition des DESSINS des Secondes
     
+    ![Arts_plastiques](./images/expositions/option_Ninon_Caraes_TSTMG.JPG "Ninon Caraes"){width=25% align=left}
     ![Arts_plastiques](./images/expositions/option_Margot_Bouchez.JPG "Margot Bouchez"){width=25% align=left}
-    ![Arts_plastiques](./images/expositions/option_Ninon_Caraes_TSTMG.JPG" Ninon Caraes"){width=25% align=left}
     ![Arts_plastiques](./images/expositions/option_Roxanne_Sylla_TG1.JPG "Roxane Sylla"){width=25% align=left}
     ![Arts_plastiques](./images/expositions/option_Lea_Bellec_TG1.JPG "Léa Bellec"){width=25% align=left}
     
@@ -79,6 +79,7 @@
     
     [![01NET](./images/abonnements/11_novembre_2023/01NET_02_novembre_2023_1009.JPG "01NET, 11 novembre 2023, n°1009"){width=20%}](./images/abonnements/11_novembre_2023/01NET_02_novembre_2023_1009.pdf){target=_blank}
     [![01NET](./images/abonnements/11_novembre_2023/01NET_15_novembre_2023_1010.JPG "01NET, 15 novembre 2023, n°1010"){width=20%}](./images/abonnements/11_novembre_2023/01NET_15_novembre_2023_1010.pdf){target=_blank}
+    [![Aide-soignante](./images/abonnements/11_novembre_2023/Aide-soignante_novembre_2023_251.JPG "Aide-soignante, novembre 2023, n°251"){width=20%}](./images/abonnements/11_novembre_2023/Aide-soignante_novembre_2023_251.pdf){target=_blank}
     [![Alternatives Economiques](./images/abonnements/11_novembre_2023/Alternatives_economiques_novembre_2023_440.JPG "Alternatives Economiques, novembre 2023, n°440"){width=20%}](./images/abonnements/11_novembre_2023/Alternatives_economiques_novemvre_2023_440.pdf){target=_blank}
     [![Ca m'intéresse](./images/abonnements/11_novembre_2023/Ca_m_interesse_novembre_2023_513.JPG "Ca m'intéresse, novembre 2023, 513"){width=20%}](./images/abonnements/11_novembre_2023/Ca_m_interesse_novembre_2023_513.pdf){target=_blank}
     [![Courrier international](./images/abonnements/11_novembre_2023/Courrier_international_02_novembre_2023_1722.JPG "Courrier international, 02 novembre 2023, 1722"){width=20%}](./images/abonnements/11_novembre_2023/Courrier_international_02_novembre_2023_1722.pdf){target=_blank}
