@@ -18,7 +18,20 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
 
 
 ## Actualités
-???+ info "**Nuit de l'orientation - 24 novembre 2023**"
+???+ info "**Portes ouvertes spéciales CPEG scientifique - La Croix Rouge**"
+    Afin de permettre aux élèves de Terminale Générale de découvrir les ==**Classes Préparatoires aux Grandes Ecoles scientifiques PTSI-PT**==, le lycée La Croix Rouge propose une rencontre :
+
+    ==**SAMEDI 2 DECEMBRE 2023 (Matinée « Préparons la Prépa »)**==
+
+    Au programme, une présentation de la CPGE PTSI-PT, un temps d’échanges avec l’équipe pédagogique et la découverte du Campus.  
+    
+    *Plus d'informations en cliquant sur l'affiche, ci-dessous.*
+
+    [![**CPEG Scientifique**](./images/orientation/CPGE_PO_20231202.jpg"Flyer_nuit_orientation"){width=35%}](https://www.lacroixrouge-brest.fr/){target=_blank} .
+
+
+    
+???+ info "**Nuit de l'orientation - novembre 2023**"
     [![**Nuit de l'orientation**](./images/orientation/flyer_nuit_de_lorientation_2023.jpg "Flyer_nuit_orientation"){width=35%}](./images/orientation/flyer_nuit_de_lorientation_2023.pdf){target=_blank} 
 
     Retrouvez les dates des [**nuits de l'orientation**](https://www.bretagne.cci.fr/formation/s-orienter/nuits-de-l-orientation-2019){target=_blank}  en Bretagne.
@@ -26,7 +39,7 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
 ???+ info "**Les soirées d'AZIMUT**"
     Comment se repérer parmi les diplômes de l’enseignement supérieur ? 
     
-    ==**Dates des rencontres ci-dessous.**==
+    ==**Dates des rencontres, ci-dessous.**==
     
     [![**Réunion d'information**](./images/orientation/Azimut_information_2023.jpg "Flyer_azimut"){width=50%}](https://www.salon-azimut.com/){target=_blank} 
     
@@ -275,6 +288,7 @@ ___
         - [**Marine Nationale**](https://www.lamarinerecrute.fr/){target=_blank} : En 2022, la marine recrute **4000 jeunes femmes et hommes**, rejoignez l’équipage...
         - [**ENSM**](https://www.supmaritime.fr/){target=_blank} : Ecole Nationale Supérieure Maritime - [**Dates et inscriptions**](https://www.supmaritime.fr/jpo-ensm-2023/){target=_blank} aux journées portes ouvertes par site (Le Havre - Marseille - Nantes - Saint-Malo).
         
+        [![Forum_des _armées](./images/orientation/CIRFA_chateaulin_affiche.png "Affiche"){width=25%}](https://finisterejob.fr/evenements/2023-11-25/a-la-rencontre-des-professionnelles-des-forces-armees_656462595e10cd79ae16ea85){target=_blank}
         [![Forum_Métiers_aéronautique](./images/orientation/Forum_metiers_aeronautique_BAN_Landivisiau_20230331.jpg "Affiche"){width=25%}](https://www.eventbrite.fr/e/billets-forum-des-metiers-de-laeronautique-navale-438995967757){target=_blank}
         [![**AIR actualités"**](./images/orientation/Air_actualites_20221101_couverture.jpg "Couverture_air_actualités"){width=25%}](./pdf/Air_actualites_20221101.pdf){target=_blank}
         [![**EFSOAA"**](./images/orientation/brochure-efsoaa-page-001.jpg "EFSOAA"){width=25%}](./pdf/brochure-efsoaa.pdf){target=_blank}
