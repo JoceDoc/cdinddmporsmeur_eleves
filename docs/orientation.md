@@ -181,9 +181,11 @@ ___
         - [**Ensemble des ressources de la DGESIP**](https://services.dgesip.fr/T454/S743/ressources){target=_blank} : Direction Générale de l'Enseignement Supérieur et de l'Insertion
         - [**Témoignages d'étudiants**](https://www.onisep.fr/Choisir-mes-etudes/ma-premiere-annee-en){target=_blank} : Série web, ma première année en...
     === "FORUM EN LIGNE"
-        - [**FORUM EN LIGNE**](https://padlet.com/cdinddmporsmeur/forum_en_ligne_2022){target=_blank} 
         
-            Le ==**Forum en ligne**== débute le lundi 13 novembre.
+        **Prochain RDV du** [**FORUM EN LIGNE**](https://padlet.com/cdinddmporsmeur/forum_en_ligne_2022){target=_blank} 
+        
+        **Lundi 04 décembre : ==BUT Génie Biologique==**
+
                         
     === "PARCOURSUP"
         [![**PARCOURSUP"**](./images/orientation/parcoursup.png "Page d'accueil PARCOURSUP"){width=20%}](https://www.parcoursup.fr/index.php?desc=){target=_blank}
