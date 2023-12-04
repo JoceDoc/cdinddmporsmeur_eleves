@@ -26,7 +26,7 @@ ___
 ???+ question "S'organiser"
     - [**Apprendre à travailler**](./pdf/Méthodologie_Apprendre_a_travailler.pdf){target=_blank}
     - [**Apprendre efficacement**](https://apprendre-reviser-memoriser.fr/category/revisions-bac-brevet-examens-concours/){target=_blank}
-    - **D'autres exemples de cartes mentales** [**ici**](https://www.ebsi.umontreal.ca/jetrouve/projet/cartes_m/galerie.htm){target=_blank}
+    - **D'autres exemples de cartes mentales** [**ICI**](https://www.ebsi.umontreal.ca/jetrouve/projet/cartes_m/galerie.htm){target=_blank}
     
     ![carte mentale](./images/00-carte_mentale_tutoriel.jpg "Carte mentale"){center=80%}
         
@@ -44,7 +44,8 @@ ___
     *Les **manuels scolaires** fourmillent de ==**conseils**== et ==**fiches méthodes**== pour améliorer sa rédaction et répondre aux exigences des différents exercices du baccalauréat (commentaires, dissertations, études de documents...) dans les différentes disciplines.*
         
 ??? question "Chercher des informations"
-    - [**Base documentaire PMB du lycée**](https://ecmorlaix.basecdi.fr/pmb/opac_css/index.php){target=_blank}
+    ==**BASE DOCUMENTAIRE DU CDI**== [![**PMB"**](./images/logo_PMB.png "Portail PMB"){width=10%}](https://ecmorlaix.basecdi.fr/pmb/opac_css/index.php){target=_blank}
+
     - [**Les types de documents**](http://www1.univ-ag.fr/buag/cours/LS1-web/co/ls1_2_1.html){target=_blank}
     - [**Se repérer dans le classement**](http://www1.univ-ag.fr/buag/cours/LS1-web/co/ls1_2_2.html){target=_blank}
     - [**Chercher pour trouver**](https://www.ebsi.umontreal.ca/jetrouve/biblio/index.htm){target=_blank}
@@ -59,8 +60,9 @@ ___
     - [**Réaliser une affiche**](./pdf/Méthodologie_Réaliser une affiche.pdf){target=_blank} 
     - [**Réaliser un panneau**](./pdf/Méthodologie_Réaliser un panneau.pdf){target=_blank}
     - [**Réaliser un diaporama**](./pdf/Méthodologie_Réaliser un diaporama.pdf){target=_blank}
+    - [**Réaliser une frise chronologique**](http://www.frisechronos.fr/){target=_blanck}
     - [**PREZI - tutoriel**](https://prezi.com/r9ju2zs5ki65/guide-prezi-en-francais/){target=_blank}
-    - [**Citer ses sources**](http://www1.univ-ag.fr/buag/cours/LS1-web/co/Module_LICENCE1_6.html){target=_blank} : fiche synthèse [**ici**](./pdf/Méthodologie_Citer ses sources bibliographiques.pdf){target=_blank}
+    - [**CITER SES SOURCES**](http://www1.univ-ag.fr/buag/cours/LS1-web/co/Module_LICENCE1_6.html){target=_blank} : fiche synthèse [**ici**](./pdf/Méthodologie_Citer ses sources bibliographiques.pdf){target=_blank}
   
 
 ??? info "Ressources diverses"

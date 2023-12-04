@@ -22,7 +22,7 @@ vous donner des conseils de lecture...***
 ***Jocelyne Coz***   *Professeure-documentaliste*
 
 -------
-==**BASE DOCUMENTAIRE DU CDI**== [![**PMB"**](./images/logo_PMB.png "Portail PMB"){width=15%}](https://ecmorlaix.basecdi.fr/pmb/opac_css/index.php){target=_blank}
+==**BASE DOCUMENTAIRE DU CDI**== [![**PMB"**](./images/logo_PMB.png "Portail PMB"){width=10%}](https://ecmorlaix.basecdi.fr/pmb/opac_css/index.php){target=_blank}
 
 
 ## Site du CDI
