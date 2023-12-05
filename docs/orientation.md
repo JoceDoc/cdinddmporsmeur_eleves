@@ -14,8 +14,6 @@ L'actualité de l'orientation au lycée et dans la région, les ==**sites incont
 
 N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==**parcours avenir**== et les autres parcours (santé, citoyen, artistique et culturel) dans votre dossier ==**FOLIOS**==.
 
-    
-
 
 ## Actualités
 ???+ info "**Portes ouvertes spéciales CPEG scientifique - La Croix Rouge**"
@@ -31,12 +29,12 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
 
 
     
-???+ info "**Nuit de l'orientation - novembre 2023**"
+??? info "**Nuit de l'orientation - novembre 2023**"
     [![**Nuit de l'orientation**](./images/orientation/flyer_nuit_de_lorientation_2023.jpg "Flyer_nuit_orientation"){width=35%}](./images/orientation/flyer_nuit_de_lorientation_2023.pdf){target=_blank} 
 
     Retrouvez les dates des [**nuits de l'orientation**](https://www.bretagne.cci.fr/formation/s-orienter/nuits-de-l-orientation-2019){target=_blank}  en Bretagne.
 
-???+ info "**Les soirées d'AZIMUT**"
+??? info "**Les soirées d'AZIMUT**"
     Comment se repérer parmi les diplômes de l’enseignement supérieur ? 
     
     ==**Dates des rencontres, ci-dessous.**==
