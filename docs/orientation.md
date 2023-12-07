@@ -177,12 +177,12 @@ ___
         - [**Quelles études après le BAC**](https://www.onisep.fr/Choisir-mes-etudes/apres-le-bac/quelles-etudes-apres-le-bac){target=_blank} : étude courtes, longues, licence, BUT, BTS, écoles spécialisée... découvrez toutes les possibilités qui s'offrent à vous.
         - [**Quelle école après le BAC ?**](https://www.ipesup.fr/){target=_blank} : IPESUP, préparations aux examens et concours de l’enseignement supérieur.
         - [**Ensemble des ressources de la DGESIP**](https://services.dgesip.fr/T454/S743/ressources){target=_blank} : Direction Générale de l'Enseignement Supérieur et de l'Insertion
-        - [**Témoignages d'étudiants**](https://www.onisep.fr/Choisir-mes-etudes/ma-premiere-annee-en){target=_blank} : Série web, ma première année en...
+        - [**Témoignages d'étudiants**](https://www.onisep.fr/formation/apres-le-bac-les-etudes-superieures/ma-premiere-annee-en){target=_blank} : Série web, ma première année en...
     === "FORUM EN LIGNE"
         
         **Prochain RDV du** [**FORUM EN LIGNE**](https://padlet.com/cdinddmporsmeur/forum_en_ligne_2022){target=_blank} 
         
-        **Lundi 04 décembre : ==BUT Génie Biologique==**
+        **Lundi 11 décembre : ==BUT Techniques de commercialisation==**
 
                         
     === "PARCOURSUP"
