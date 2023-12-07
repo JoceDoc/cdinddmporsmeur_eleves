@@ -24,8 +24,10 @@ ___
 ## Méthodologie pour tous
 
 ???+ question "S'organiser"
-    - [**Apprendre à travailler**](./pdf/Méthodologie_Apprendre_a_travailler.pdf){target=_blank}
-    - [**Apprendre efficacement**](https://apprendre-reviser-memoriser.fr/category/revisions-bac-brevet-examens-concours/){target=_blank}
+    - [**Apprendre à travailler**](./pdf/Méthodologie_Apprendre_a_travailler.pdf){target=_blank} : 5 principes de base pour bien travailler chez soi.
+    - [**Apprendre, réviser, mémoriser**](https://apprendre-reviser-memoriser.fr/category/revisions-bac-brevet-examens-concours/){target=_blank} : ressources et outils pour réviser et étudier efficacement.
+    - [**Réviser ses cours**](https://www.youtube.com/watch?v=Vs-JhDQ7fJY&t=36s){target=_blank} : 12 astuces en vidéo.
+    - [**Faire des fiches**](https://www.youtube.com/watch?v=jNxUN3-E8_c&t=189s){target=_blank} : vidéo conseil.
     - **D'autres exemples de cartes mentales** [**ICI**](https://www.ebsi.umontreal.ca/jetrouve/projet/cartes_m/galerie.htm){target=_blank}
     
     ![carte mentale](./images/00-carte_mentale_tutoriel.jpg "Carte mentale"){center=80%}
@@ -50,9 +52,10 @@ ___
     - [**Se repérer dans le classement**](http://www1.univ-ag.fr/buag/cours/LS1-web/co/ls1_2_2.html){target=_blank}
     - [**Chercher pour trouver**](https://www.ebsi.umontreal.ca/jetrouve/biblio/index.htm){target=_blank}
     - [**Vérifier une information sur Internet**](https://fr.wikihow.com/v%C3%A9rifier-l%E2%80%99information-sur-internet){target=_blank}
-    - [**Prendre des notes**](./pdf/Méthodologie_Prendre des notes.pdf){target=_blank}
     - [**Elaborer une problématique**](./pdf/Fiche_intercdi_problematique.pdf){target=_blank}
-    
+    - [**Prendre des notes**](./pdf/Méthodologie_Prendre des notes.pdf){target=_blank} : Voir la [**VIDEO**](https://www.youtube.com/watch?v=mcbkR9mXKus&t=9s){target=_blank} de conseils pour s'améliorer et s'entraîner.
+        
+        
 
 ??? question "Présenter le résultat de ses recherches, fiches outils et conseils..."
     - [**Faire un exposé**](./pdf/Méthodologie_Faire un exposé.pdf){target=_blank}
