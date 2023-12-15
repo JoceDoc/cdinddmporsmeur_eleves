@@ -77,10 +77,38 @@
    
 ??? "**Kiosque du mois** :newspaper:"
     
-    [![01NET](./images/abonnements/11_novembre_2023/01NET_02_novembre_2023_1009.JPG "01NET, 11 novembre 2023, n°1009"){width=20%}](./images/abonnements/11_novembre_2023/01NET_02_novembre_2023_1009.pdf){target=_blank}
+    [![01NET](./images/abonnements/12_decembre_2023/01NET_29_novembre_2023_1011.jpg "01NET, 29 novembre 2023, n°1011"){width=20%}](./images/abonnements/12_decembre_2023/01NET_29_novembre_2023_1011.pdf){target=_blank}
+    [![Aide-soignante](./images/abonnements/11_novembre_2023/Aide-soignante_novembre_2023_251.JPG "Aide-soignante, novembre 2023, n°251"){width=20%}](./images/abonnements/11_novembre_2023/Aide-soignante_novembre_2023_251.pdf){target=_blank}
+    [![Alternatives Economiques](./images/abonnements/12_decembre_2023/Alternatives_economiques_decembre_2023_441.jpg "Alternatives Economiques, décembre 2023, n°441"){width=20%}](./images/abonnements/12_decembre_2023/Alternatives_economiques_decembre_2023_441.pdf){target=_blank}
+    [![Ca m'intéresse](./images/abonnements/12_decembre_2023/Ca_m_interesse_decembre_2023_514.jpg "Ca m'intéresse, décembre 2023, 514"){width=20%}](./images/abonnements/12_decembre_2023/Ca_m_interesse_decembre_2023_514.pdf){target=_blank}
+    [![Courrier international](./images/abonnements/12_decembre_2023/Courrier_international_07_decembre_2023_1727.jpg "Courrier international, 07 décembre 2023, 1727"){width=20%}](./images/abonnements/12_decembre_2023/Courrier_international_07_decembre_2023_1727.pdf){target=_blank}
+    [![Documentation photographique](./images/abonnements/12_decembre_2023/Documentation_photographique_decembre_2023_8156.jpg "Documentation photographique, décembre 2023, 8156"){width=20%}](./images/abonnements/12_decembre_2023/Documentation_photographique_decembre_2023_8156.pdf){target=_blank}
+    [![Lire](./images/abonnements/10_octobre_2023/Lire_magazine_octobre_2023_523.JPG "Lire, octobre 2023, n°523"){width=20%}](./images/abonnements/10_octobre_2023/Lire_magazine_octobre_2023_523.pdf){target=_blank}
+    [![Philosophie magazine](./images/abonnements/12_decembre_2023/Philosophie_magazine_decembre_2023_175.jpg "Philosophie magazine, décembre 2023, 175"){width=20%}](./images/abonnements/12_decembre_2023/Philosophie_magazine_decembre_2023_175.pdf){target=_blank}
+    [![Phosphore](./images/abonnements/12_decembre_2023/Phosphore_01_decembre_2023_565.jpg "Phosphore, 1er décembre 2023, 565"){width=20%}](./images/abonnements/12_decembre_2023/Phosphore_01_decembre_2023_565.pdf){target=_blank}
+    [![Phosphore](./images/abonnements/12_decembre_2023/Phosphore_15_decembre_2023_566.jpg "Phosphore, 15 décembre 2023, 566"){width=20%}](./images/abonnements/12_decembre_2023/Phosphore_15_decembre_2023_566.pdf){target=_blank}
+    [![Pour l'éco](./images/abonnements/12_decembre_2023/Pour_l_eco_decembre_2023_57.jpg "Pour l'éco, décembre 2023, 57"){width=20%}](./images/abonnements/12_decembre_2023/Pour_l_eco_decembre_2023_57.pdf){target=_blank}
+    [![Que choisir](./images/abonnements/12_decembre_2023/Que_choisir_decembre_2023_630.jpg "Que choisir, décembre 2023, 630"){width=20%}](./images/abonnements/12_decembre_2023/Que_choisir_decembre_2023_630.pdf){target=_blank}
+    [![Que choisir santé](./images/abonnements/12_decembre_2023/Que_choisir_sante_decembre_2023_188_1.jpg "Que choisir santé, décembre 2023, 188_1"){width=20%}](./images/abonnements/12_decembre_2023/Que_choisir_sante_decembre_2023_188_1.pdf){target=_blank}
+    [![Que choisir santé](./images/abonnements/12_decembre_2023/Que_choisir_sante_decembre_2023_188_2.jpg "Que choisir santé, décembre 2023, 188_2"){width=20%}](./images/abonnements/12_decembre_2023/Que_choisir_sante_decembre_2023_188_2.pdf){target=_blank}
+    [![Science et Vie](./images/abonnements/12_decembre_2023/Science_et_vie_decembre_2023_1275.jpg "Science et Vie, décembre 2023, n°1275"){width=20%}](./images/abonnements/12_decembre_2023/Science_et_vie_decembre_2023_1275.pdf){target=_blank}
+    [![Science et Vie](./images/abonnements/11_novembre_2023/Science_et_vie_novembre_2023_310HS.JPG "Science et Vie, novembre 2023, n°310HS"){width=20%}](./images/abonnements/11_novembre_2023/Science_et_vie_novembre_2023_310HS.pdf){target=_blank}
+    [![Science et Vie Junior](./images/abonnements/12_decembre_2023/Science_et_vie_junior_decembre_2023_411.jpg "Science et Vie Junior, décembre 2023, n°411"){width=20%}](./images/abonnements/12_decembre_2023/Science_et_vie_junior_decembre_2023_411.pdf){target=_blank}
+    [![Science et Vie Junior](./images/abonnements/11_novembre_2023/Science_et_vie_junior_novembre_2023_162HS.JPG "Science et Vie Junior, novembre 2023, n°162HS"){width=20%}](./images/abonnements/11_novembre_2023/Science_et_vie_junior_novembre_2023_162HS.pdf){target=_blank}
+    [![Sciences et avenir](./images/abonnements/12_decembre_2023/Sciences_et_avenir_decembre_2023_922.jpg "Sciences et avenir, déécembre 2023, n°922"){width=20%}](./images/abonnements/12_decembre_2023/Sciences_et_avenir_decembre_2023_922.pdf){target=_blank}
+    [![Sciences humaines](./images/abonnements/12_decembre_2023/Sciences_humaines_decembre_2023_364.jpg "Sciences humaines, décembre 2023, n°364"){width=20%}](./images/abonnements/12_decembre_2023/Sciences_humaines_decembre_2023_364.pdf){target=_blank}
+    [![Sciences humaines - grands dossiers](./images/abonnements/12_decembre_2023/Sciences_humaines_grands_dossiers_decembre_2023_73HS.jpg "Sciences humaines Les grands dossiers, décembre 2023, n°73HS"){width=20%}](./images/abonnements/12_decembre_2023/Sciences_humaines_grands_dossiers_decembre_2023_73HS.pdf){target=_blank}
+    [![Sport et vie](./images/abonnements/11_novembre_2023/Sport_et_vie_novembre-decembre_2023_201.JPG "Sport et Vie, novembre-décembre 2023, n°201"){width=20%}](./images/abonnements/11_novembre_2023/Sport_et_vie_novembre-decembre_2023_201.pdf){target=_blank}
+    [![Virgule](./images/abonnements/12_decembre_2023/Virgule_decembre_2023_223.jpg "Virgule, décembre 2023, n°223"){width=20%}](./images/abonnements/12_decembre_2023/Virgule_decembre_2023_223.pdf){target=_blank} 
+
+
+
+??? "**Kiosque du mois dernier** :newspaper:"       
+
+     [![01NET](./images/abonnements/11_novembre_2023/01NET_02_novembre_2023_1009.JPG "01NET, 11 novembre 2023, n°1009"){width=20%}](./images/abonnements/11_novembre_2023/01NET_02_novembre_2023_1009.pdf){target=_blank}
     [![01NET](./images/abonnements/11_novembre_2023/01NET_15_novembre_2023_1010.JPG "01NET, 15 novembre 2023, n°1010"){width=20%}](./images/abonnements/11_novembre_2023/01NET_15_novembre_2023_1010.pdf){target=_blank}
     [![Aide-soignante](./images/abonnements/11_novembre_2023/Aide-soignante_novembre_2023_251.JPG "Aide-soignante, novembre 2023, n°251"){width=20%}](./images/abonnements/11_novembre_2023/Aide-soignante_novembre_2023_251.pdf){target=_blank}
-    [![Alternatives Economiques](./images/abonnements/11_novembre_2023/Alternatives_economiques_novembre_2023_440.JPG "Alternatives Economiques, novembre 2023, n°440"){width=20%}](./images/abonnements/11_novembre_2023/Alternatives_economiques_novemvre_2023_440.pdf){target=_blank}
+    [![Alternatives Economiques](./images/abonnements/11_novembre_2023/Alternatives_economiques_novembre_2023_440.JPG "Alternatives Economiques, novembre 2023, n°440"){width=20%}](./images/abonnements/11_novembre_2023/Alternatives_economiques_novembre_2023_440.pdf){target=_blank}
     [![Ca m'intéresse](./images/abonnements/11_novembre_2023/Ca_m_interesse_novembre_2023_513.JPG "Ca m'intéresse, novembre 2023, 513"){width=20%}](./images/abonnements/11_novembre_2023/Ca_m_interesse_novembre_2023_513.pdf){target=_blank}
     [![Courrier international](./images/abonnements/11_novembre_2023/Courrier_international_02_novembre_2023_1722.JPG "Courrier international, 02 novembre 2023, 1722"){width=20%}](./images/abonnements/11_novembre_2023/Courrier_international_02_novembre_2023_1722.pdf){target=_blank}
     [![Courrier international](./images/abonnements/11_novembre_2023/Courrier_international_09_novembre_2023_1723.JPG "Courrier international, 09 novembre 2023, 1723"){width=20%}](./images/abonnements/11_novembre_2023/Courrier_international_09_novembre_2023_1723.pdf){target=_blank}
@@ -94,7 +122,7 @@
     [![Pour l'éco](./images/abonnements/11_novembre_2023/Pour_l_eco_novembre_2023_56.JPG "Pour l'éco, novembre 2023, 56"){width=20%}](./images/abonnements/11_novembre_2023/Pour_l_eco_novembre_2023_56.pdf){target=_blank}
     [![Que choisir](./images/abonnements/11_novembre_2023/Que_choisir_novembre_2023_629.JPG "Que choisir, novembre 2023, 629"){width=20%}](./images/abonnements/11_novembre_2023/Que_choisir_novembre_2023_629.pdf){target=_blank}
     [![Que choisir santé](./images/abonnements/11_novembre_2023/Que_choisir_sante_novembre_2023_187.JPG "Que choisir santé, novembre 2023, 187"){width=20%}](./images/abonnements/11_novembre_2023/Que_choisir_sante_novembre_2023_187.pdf){target=_blank}
-    [![Science et Vie](./images/abonnements/11_novembre_2023/Science_et_vie_novembre_2023_1274.JPG "Science et Vie, novembre 2023, n°127"){width=20%}](./images/abonnements/11_novembre_2023/Science_et_vie_novembre_2023_1274.pdf){target=_blank}
+    [![Science et Vie](./images/abonnements/11_novembre_2023/Science_et_vie_novembre_2023_1274.JPG "Science et Vie, novembre 2023, n°1274"){width=20%}](./images/abonnements/11_novembre_2023/Science_et_vie_novembre_2023_1274.pdf){target=_blank}
     [![Science et Vie](./images/abonnements/11_novembre_2023/Science_et_vie_novembre_2023_310HS.JPG "Science et Vie, novembre 2023, n°310HS"){width=20%}](./images/abonnements/11_novembre_2023/Science_et_vie_novembre_2023_310HS.pdf){target=_blank}
     [![Science et Vie Junior](./images/abonnements/11_novembre_2023/Science_et_vie_junior_novembre_2023_410.JPG "Science et Vie Junior, novembre 2023, n°410"){width=20%}](./images/abonnements/11_novembre_2023/Science_et_vie_junior_novembre_2023_410.pdf){target=_blank}
     [![Science et Vie Junior](./images/abonnements/11_novembre_2023/Science_et_vie_junior_novembre_2023_162HS.JPG "Science et Vie Junior, novembre 2023, n°162HS"){width=20%}](./images/abonnements/11_novembre_2023/Science_et_vie_junior_novembre_2023_162HS.pdf){target=_blank}
@@ -105,37 +133,6 @@
     [![Sport et vie](./images/abonnements/11_novembre_2023/Sport_et_vie_novembre-decembre_2023_201.JPG "Sport et Vie, novembre-décembre 2023, n°201"){width=20%}](./images/abonnements/11_novembre_2023/Sport_et_vie_novembre-decembre_2023_201.pdf){target=_blank}
     [![Virgule](./images/abonnements/11_novembre_2023/Virgule_novembre_2023_222.JPG "Virgule, novembre 2023, n°222"){width=20%}](./images/abonnements/11_novembre_2023/Virgule_novembre_2023_222.pdf){target=_blank} 
 
-
-
-??? "**Kiosque du mois dernier** :newspaper:"       
-
-    [![01NET](./images/abonnements/10_octobre_2023/01NET_04_octobre_2023_1007.JPG "01NET, 04 octobre 2023, n°1007"){width=20%}](./images/abonnements/10_octobre_2023/01NET_04_octobre_2023_1007.pdf){target=_blank}
-    [![01NET](./images/abonnements/10_octobre_2023/01NET_18_octobre_2023_1008.JPG "01NET, 18 octobre 2023, n°1008"){width=20%}](./images/abonnements/10_octobre_2023/01NET_18_octobre_2023_1008.pdf){target=_blank}
-    [![Aide-soignante](./images/abonnements/10_octobre_2023/Aide-soignante_octobre_2023_250.JPG "Aide-soignante, octobre 2023, n°250"){width=20%}](./images/abonnements/10_octobre_2023/Aide-soignante_octobre_2023_250.pdf){target=_blank}
-    [![Alternatives Economiques](./images/abonnements/10_octobre_2023/Alternatives_economiques_octobre_2023_439.JPG "Alternatives Economiques, octobre 2023, n°439"){width=20%}](./images/abonnements/10_octobre_2023/Alternatives_economiques_octobre_2023_439.pdf){target=_blank}
-    [![Ca m'intéresse](./images/abonnements/10_octobre_2023/Ca_m_interesse_octobre_2023_512.JPG "Ca m'intéresse, octobre 2023, 512"){width=20%}](./images/abonnements/10_octobre_2023/Ca_m_interesse_octobre_2023_512.pdf){target=_blank}
-    [![Courrier international](./images/abonnements/10_octobre_2023/Courrier_international_28_septembre_2023_1717.JPG "Courrier international, 28 septembre 2023, 1717"){width=20%}](./images/abonnements/10_octobre_2023/Courrier_international_28_septembre_2023_1717.pdf){target=_blank}
-    [![Courrier international](./images/abonnements/10_octobre_2023/Courrier_international_05_octobre_2023_1718.JPG "Courrier international, 05 octobre 2023, 1718"){width=20%}](./images/abonnements/10_octobre_2023/Courrier_international_05_octobre_2023_1718.pdf){target=_blank}
-    [![Courrier international](./images/abonnements/10_octobre_2023/Courrier_international_12_octobre_2023_1719.JPG "Courrier international, 12 octobre 2023, 1719"){width=20%}](./images/abonnements/10_octobre_2023/Courrier_international_12_octobre_2023_1719.pdf){target=_blank}
-    [![Documentation photographique](./images/abonnements/10_octobre_2023/Documentation_photographique_octobre_2023_8154.JPG "Documentation photographique, octobre 2023, 8154"){width=20%}](./images/abonnements/10_octobre_2023/Documentation_photographique_octobre_2023_8154.pdf){target=_blank}
-    [![Journal animation](./images/abonnements/09_septembre_2023/Journal_animation_septembre-octobre_2023_241.JPG "Journal animation, septembre-octobre 2023, 241"){width=20%}](./images/abonnements/09_septembre_2023/Journal_animation_septembre-octobre_2023_241.pdf){target=_blank}
-    [![Lire](./images/abonnements/10_octobre_2023/Lire_magazine_octobre_2023_523.JPG "Lire, octobre 2023, n°523"){width=20%}](./images/abonnements/10_octobre_2023/Lire_magazine_octobre_2023_523.pdf){target=_blank}
-    [![Philosophie magazine](./images/abonnements/10_octobre_2023/Philosophie_magazine_octobre_2023_173.JPG "Philosophie magazine, octobre 2023, 173"){width=20%}](./images/abonnements/10_octobre_2023/Philosophie_magazine_octobre_2023_173.pdf){target=_blank}
-    [![Phosphore](./images/abonnements/10_octobre_2023/Phosphore_1er_octobre_2023_561.JPG "Phosphore, 1er octobre 2023, 559"){width=20%}](./images/abonnements/10_octobre_2023/Phosphore_1er_octobre_2023_561.pdf){target=_blank}
-    [![Phosphore](./images/abonnements/10_octobre_2023/Phosphore_15_octobre_2023_562.JPG "Phosphore, 15 octobre 2023, 562"){width=20%}](./images/abonnements/10_octobre_2023/Phosphore_15_octobre_2023_562.pdf){target=_blank}
-    [![Pour l'éco](./images/abonnements/10_octobre_2023/Pour_l_eco_octobre_2023_55.JPG "Pour l'éco, octobre 2023, 55"){width=20%}](./images/abonnements/10_octobre_2023/Pour_l_eco_octobre_2023_55.pdf){target=_blank}
-    [![Que choisir](./images/abonnements/10_octobre_2023/Que_choisir_octobre_2023_628.JPG "Que choisir, octobre 2023, 628"){width=20%}](./images/abonnements/10_octobre_2023/Que_choisir_octobre_2023_628.pdf){target=_blank}
-    [![Que choisir santé](./images/abonnements/10_octobre_2023/Que_choisir_sante_octobre_2023_186.JPG "Que choisir santé, octobre 2023, 186"){width=20%}](./images/abonnements/10_octobre_2023/Que_choisir_sante_octobre_2023_186.pdf){target=_blank}
-    [![Science et Vie](./images/abonnements/10_octobre_2023/Science_et_vie_octobre_2023_1273.JPG "Science et Vie, octobre 2023, n°1273"){width=20%}](./images/abonnements/10_octobre_2023/Science_et_vie_octobre_2023_1273.pdf){target=_blank}
-    [![Science et Vie](./images/abonnements/09_septembre_2023/Science_et_vie_septembre_2023_309HS.JPG "Science et Vie, septembre 2023, n°309HS"){width=20%}](./images/abonnements/09_septembre_2023/Science_et_vie_septembre_2023_309HS.pdf){target=_blank}
-    [![Science et Vie Junior](./images/abonnements/10_octobre_2023/Science_et_vie_junior_octobre_2023_409.JPG "Science et Vie Junior, octobre 2023, n°409"){width=20%}](./images/abonnements/10_octobre_2023/Science_et_vie_junior_octobre_2023_409.pdf){target=_blank}
-    [![Science et Vie Junior](./images/abonnements/09_septembre_2023/Science_et_vie_junior_septembre_2023_161HS.JPG "Science et Vie Junior, septembre 2023, n°161HS"){width=20%}](./images/abonnements/09_septembre_2023/Science_et_vie_junior_septembre_2023_161HS.pdf){target=_blank}
-    [![Sciences et avenir](./images/abonnements/10_octobre_2023/Sciences_et_avenir_octobre_2023_920.JPG "Sciences et avenir, octobre 2023, n°920"){width=20%}](./images/abonnements/10_octobre_2023/Sciences_et_avenir_octobre_2023_920.pdf){target=_blank}
-    [![Sciences et avenir](./images/abonnements/10_octobre_2023/Sciences_et_avenir_octobre-decembre_2023_215HS.JPG "Sciences et avenir, octobre-décembre 2023, n°215HS"){width=20%}](./images/abonnements/10_octobre_2023/Sciences_et_avenir_octobre-decembre_2023_215HS.pdf){target=_blank}
-    [![Sciences humaines](./images/abonnements/10_octobre_2023/Sciences_humaines_octobre_2023_362.JPG "Sciences humaines, octobre 2023, n°362"){width=20%}](./images/abonnements/10_octobre_2023/Sciences_humaines_octobre_2023_362.pdf){target=_blank}
-    [![Sciences humaines](./images/abonnements/10_octobre_2023/Sciences_humaines_Grands_dossiers_septembre_2023_72HS.JPG "Sciences humaines-Grands dossiers, septembre 2023, n°72HS"){width=20%}](./images/abonnements/10_octobre_2023/Sciences_humaines_Grands_dossiers_septembre_2023_72HS.pdf){target=_blank}
-    [![Sport et vie](./images/abonnements/09_septembre_2023/Sport_et_vie_septembre-octobre_2023_200.JPG "Sport et Vie, septembre-octobre 2023, n°200"){width=20%}](./images/abonnements/09_septembre_2023/Sport_et_vie_septembre-octobre_2023_200.pdf){target=_blank}
-    [![Virgule](./images/abonnements/10_octobre_2023/Virgule_octobre_2023_221.JPG "Virgule, octobre 2023, n°221"){width=20%}](./images/abonnements/10_octobre_2023/Virgule_octobre_2023_221.pdf){target=_blank} 
 
 ??? "**Kiosque des langues vivantes** :gb: :de: :es: :it: :cn:"
     
@@ -150,6 +147,7 @@
     [![I love English world](./images/abonnements/langues/IloveEnglishWorld_septembre_2023_363.JPG "I love English World, septembre 2023, n°363"){width=20%}](./images/abonnements/langues/IloveEnglishWorld_septembre_2023_363.pdf){target=_blank}
     [![I love English world](./images/abonnements/langues/IloveEnglishWorld_octobre_2023_364.JPG "I love English World, octobre 2023, n°364"){width=20%}](./images/abonnements/langues/IloveEnglishWorld_octobre_2023_364.pdf){target=_blank}
     [![I love English world](./images/abonnements/langues/ILoveEnglishWorld_novembre_2023_365.JPG "I love English World, novembre 2023, n°365"){width=20%}](./images/abonnements/langues/ILoveEnglishWorld_novembre_2023_365.pdf){target=_blank}
+    [![I love English world](./images/abonnements/langues/ILoveEnglishWorld_decembre_2023_366.jpg "I love English World, décembre 2023, n°366"){width=20%}](./images/abonnements/langues/ILoveEnglishWorld_decembre_2023_366.pdf){target=_blank}
     
     ??? Example ":de: **Allemand** :de:"
     [![Vocable Allemand](./images/abonnements/langues/Vocable_allemand_janvier_2023_874.jpg "Vocable Allemand, janvier 2023, n°874"){width=20%}](./images/abonnements/langues/Vocable_allemand_janvier_2023_874.pdf){target=_blank}
@@ -163,6 +161,7 @@
     [![Vocable Allemand](./images/abonnements/langues/Vocable_allemand_septembre_2023_882.JPG "Vocable Allemand, septembre 2023, n°882"){width=20%}](./images/abonnements/langues/Vocable_allemand_septembre_2023_882.pdf){target=_blank}
     [![Vocable Allemand](./images/abonnements/langues/Vocable_allemand_octobre_2023_883.JPG "Vocable Allemand, octobre 2023, n°883"){width=20%}](./images/abonnements/langues/Vocable_allemand_octobre_2023_883.pdf){target=_blank}
     [![Vocable Allemand](./images/abonnements/langues/Vocable_allemand_novembre_2023_884.JPG "Vocable Allemand, novembre 2023, n°884"){width=20%}](./images/abonnements/langues/Vocable_allemand_novembre_2023_884.pdf){target=_blank}
+    [![Vocable Allemand](./images/abonnements/langues/Vocable_allemand_decembre_2023_885.jpg "Vocable Allemand, décembre 2023, n°885"){width=20%}](./images/abonnements/langues/Vocable_allemand_decembre_2023_885.pdf){target=_blank}
     
     
     ??? Example ":es: **Espagnol** :es:"
@@ -177,6 +176,7 @@
     [![Vocable Espagnol](./images/abonnements/langues/Vocable_espagnol_septembre_2023_875.JPG "Vocable Espagnol, septembre 2023, n°875"){width=20%}](./images/abonnements/langues/Vocable_espagnol_septembre_2023_875.pdf){target=_blank}
     [![Vocable Espagnol](./images/abonnements/langues/Vocable_espagnol_octobre_2023_876.JPG "Vocable Espagnol, octobre 2023, n°876"){width=20%}](./images/abonnements/langues/Vocable_espagnol_octobre_2023_876.pdf){target=_blank}
     [![Vocable Espagnol](./images/abonnements/langues/Vocable_espagnol_novembre_2023_877.JPG "Vocable Espagnol, novembre 2023, n°877"){width=20%}](./images/abonnements/langues/Vocable_espagnol_novembre_2023_877.pdf){target=_blank}
+    [![Vocable Espagnol](./images/abonnements/langues/Vocable_espagnol_decembre_2023_878.jpg "Vocable Espagnol, décembre 2023, n°878"){width=20%}](./images/abonnements/langues/Vocable_allemand_decembre_2023_885.pdf){target=_blank}
 
     
 

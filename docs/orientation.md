@@ -16,31 +16,10 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
 
 
 ## Actualités
-???+ info "**Portes ouvertes spéciales CPEG scientifique - La Croix Rouge**"
-    Afin de permettre aux élèves de Terminale Générale de découvrir les ==**Classes Préparatoires aux Grandes Ecoles scientifiques PTSI-PT**==, le lycée La Croix Rouge propose une rencontre :
 
-    ==**SAMEDI 2 DECEMBRE 2023 (Matinée « Préparons la Prépa »)**==
+???+ info "**Ouverture CIO Brest-Landerneau - Vacances de Noël**"
+    [![**CIO Brest**](./images/orientation/Info_CIO_permanence_parcoursup.jpg){width=35%}](https://www.cio-brest.ac-rennes.fr/){target=_blank} .
 
-    Au programme, une présentation de la CPGE PTSI-PT, un temps d’échanges avec l’équipe pédagogique et la découverte du Campus.  
-    
-    *Plus d'informations en cliquant sur l'affiche, ci-dessous.*
-
-    [![**CPEG Scientifique**](./images/orientation/CPGE_PO_20231202.jpg"Flyer_nuit_orientation"){width=35%}](https://www.lacroixrouge-brest.fr/){target=_blank} .
-
-
-    
-??? info "**Nuit de l'orientation - novembre 2023**"
-    [![**Nuit de l'orientation**](./images/orientation/flyer_nuit_de_lorientation_2023.jpg "Flyer_nuit_orientation"){width=35%}](./images/orientation/flyer_nuit_de_lorientation_2023.pdf){target=_blank} 
-
-    Retrouvez les dates des [**nuits de l'orientation**](https://www.bretagne.cci.fr/formation/s-orienter/nuits-de-l-orientation-2019){target=_blank}  en Bretagne.
-
-??? info "**Les soirées d'AZIMUT**"
-    Comment se repérer parmi les diplômes de l’enseignement supérieur ? 
-    
-    ==**Dates des rencontres, ci-dessous.**==
-    
-    [![**Réunion d'information**](./images/orientation/Azimut_information_2023.jpg "Flyer_azimut"){width=50%}](https://www.salon-azimut.com/){target=_blank} 
-    
 
 ??? attention "**Immersions - Journées découvertes dans le supérieur**"
 
@@ -50,19 +29,11 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
 
     * [**IUT**](https://cdi-lycee.ecmorlaix.fr/orientation/#but){target=_blank}
 
-???+ info "**Semaine de l'industrie**"
-
-    Pilotée par la Direction générale des Entreprises, la ==**Semaine de l’industrie**== contribue à changer le regard du grand public et des jeunes sur l’industrie et ses métiers au travers d’événements organisés partout en France.
-
-    En Bretagne, la prochaine édition aura lieu du ==**16 novembre au 3 décembre 2023**== et est pilotée par [**AJIR Bretagne**](https://www.ajir-industrie.bzh/){target=_blank}. 
-    Découvrez tous les événements en [**Bretagne**](https://www.semaine-industrie-bretagne.fr/){target=_blank} et au [**niveau national**](https://www.semaine-industrie.gouv.fr/){target=_blank}.
-
-    <u>**L’objectif :**</u> renforcer l’attractivité du secteur et promouvoir les filières et métiers de l’industrie auprès des collégiens, lycéens, apprentis ou toute personne en recherche d’emploi.
 
 ??? info "**Au fil de la presse...**"
     - [**Le Télégramme - 30/12/2022**](https://www.letelegramme.fr/finistere/morlaix/a-23-ans-il-est-regisseur-dans-une-salle-mythique-loan-peron-de-plougonven-aux-coulisses-de-l-olympia-30-12-2022-13250759.php){target=_blank} : À 23 ans, il est régisseur « dans une salle mythique » : Loan Péron, de Plougonven, aux coulisses de l’Olympia. Bravo à cet ancien élève du lycée.
     - [**Le Télégramme - 14/09/2022**](https://www.letelegramme.fr/finistere/morlaix/gwenael-morel-l-atout-drone-des-pompiers-finisteriens-14-09-2022-13178211.php){target=_blank} : Gwenaël Morel, l'atout drone des pompiers finistériens"
-    - [**Ouest-france - 24/05/2022**](https://www.ouest-france.fr/bretagne/morlaix-29600/dans-le-pays-de-morlaix-comme-ailleurs-tous-les-metiers-sont-en-tension-6a181b20-db6e-11ec-84fd-0d1f31a3fa84){target=_blank} : Dans le pays de Morlaix comme ailleurs , "tous les métiers sont en tension"...
+
 
 ??? info "**Un espace au service de l'emploi**"
     - [**L'Espace métiers**](https://www.brest.fr/travailler-entreprendre/emploi-insertion/des-evenements-et-un-espace-au-service-de-lemploi-a-brest-1768.html){target=_blank} : un lieu pour s'informer à Brest métropole...
@@ -75,42 +46,39 @@ ___
 ???+ "Pour tous"
     === "INCONTOURNABLES"
         - [**Réussir au lycée et APRES...**](https://www.education.gouv.fr/reussir-au-lycee/2021-2022-bien-preparer-son-bac-et-son-entree-dans-le-superieur-326326){target=_blank}
+        - [**Construire ses PROJETS D'AVENIR au lycée**](https://lycee-avenirs.onisep.fr/){target=_blank} 
         - [**ONISEP**](https://www.onisep.fr/){target=_blank} : Éditeur public, l'Onisep produit et diffuse toute l'information sur les formations et les métiers.
-        - [**Orientation pour tous**](https://www.orientation-pour-tous.fr/){target=_blank} : pour ne rien manquer de l'actualité de l'orientation, découvrir des informations sur les métiers, les études par région...
+        - [**Orientation pour tous**](https://www.orientation-pour-tous.fr/){target=_blank} : recherche par formations et par régions.
         - [**1001 orientation**](https://1001orientations.fr/){target=_blank} : 1001 conseils, 1001 parcours pour choisir sa voie...
-        - [**L'Etudiant**](https://www.letudiant.fr/orientation.html){target=_blank} : les outils pour réussir son orientation, des tests en ligne pour affiner sa réflexion sur l'orientation, le service de coaching du site de l'Etudiant...
+        - [**L'Etudiant**](https://www.letudiant.fr/orientation.html){target=_blank} : des outils pour réussir son orientation, des tests en ligne pour affiner sa réflexion sur l'orientation, le service de coaching du site de l'Etudiant...
         - [**Quelles spécialités pour quelles études ?**](https://www.letudiant.fr/lycee/specialites-bac-general/article/reforme-lycee-quelles-specialites-pour-quelles-etudes.html){target=_blank} : les spécialités recommandées par type de formation ou par domaine d'études...
-        - [**Témoignages**](https://www.onisep.fr/Choisir-mes-etudes/ma-premiere-annee-en){target=_blank} : ma première année en... CAP, BAC PRO, BAC TECHNO, diplôme du sport, du paramédical, DUT/BUT, classe préparatoire, DN MADE, licence...
         - [**THOTIS - Le média étudiant**](https://thotismedia.com/){target=_blank} : découvrir les formations et trouver sa voie - Affiner son projet en contactant des étudiants - Se renseigner sur Parcoursup. 
         - [**MOOC**](https://www.mooc-orientation.fr/){target=_blank} : suivre les **MOOC** de l'orientation pour choisir son avenir...
         - [**SNU**](https://www.education.gouv.fr/le-service-national-universel-snu-jeunesse-engagee-5381){target=_blank} : présentation du **Service National Universel** et accès au [**portail**](https://www.snu.gouv.fr/){target=_blank} pour s'inscrire.
     === "GUIDES"
         Tous les [**guides IDEO**](https://ideo.bretagne.bzh/publications){target=_blank} pour l'aide à l'orientation.
     
-        -[![**Guide "Que faire après la 3e ?"**](./images/orientation/IDEO_2022_que_faire_apres_la_3e.png "Que faire après la 3e"){width=20%}](./pdf/IDEO_2022_que_faire_apres_la_3e.pdf){target=_blank}
-        -[![**Guide "Que faire après le BAC ?"**](./images/orientation/IDEO_Apres_BAC_2022-2023.jpg "Que faire après le BAC"){width=20%}](./pdf/IDEO_Apres_BAC_2022-2023.pdf){target=_blank}
-        -[![**Guide "Entrer dans le SUP 2022**](./images/orientation/Entrer_dans_le_sup_2022.jpg "Entrer dans le SUP 2022"){width=20%}](./pdf/GUIDE_ENTRER_DANS_LE_SUP_2022.pdf){target=_blank}
+        -[![**Guide "Que faire après la 3e ?"**](./images/orientation/IDEO_2023_que_faire_après_la_3e.jpg "Que faire après la 3e"){width=20%}](./images/orientation/IDEO_2023_que_faire_après_la_3e.pdf){target=_blank}
+        -[![**Guide "Que faire après le BAC ?"**](./images/orientation/IDEO_2023_que_faire_après_le_bac.jpg "Que faire après le BAC"){width=20%}](./images/orientation/IDEO_2023_que_faire_après_le_bac.pdf){target=_blank}
+        -[![**Guide "Entrer dans le SUP 2023**](./images/orientation/Guide_entrer_dans_le_SUP_2023.jpg "Entrer dans le SUP 2023"){width=20%}](../images/orientation/Guide_entrer_dans_le_SUP_2023.pdf){target=_blank}
     === "QUIZ"
-        - [**Quiz de l'ONISEP**](https://www.onisep.fr/decouvrir-les-metiers/les-quiz-de-l-onisep/){target=_blank} :
+        - [**QUIZ de l'ONISEP**](https://www.onisep.fr/decouvrir-les-metiers/les-quiz-de-l-onisep/){target=_blank} :
 
             [==**1-**==](https://www.onisep.fr/decouvrir-les-metiers/les-quiz-de-l-onisep/Quiz-Quels-metiers-selon-mes-gouts){target=_blank} Des métiers selon mes goûts
 
-            [==**2-**==](https://www.onisep.fr/decouvrir-les-metiers/Quels-metiers-demain/quels-metiers-demain/Quiz-Quels-metiers-demain){target=_blank} Quels métiers pour demain ?
+            [==**2-**==](https://www.onisep.fr/metier/les-quiz-de-l-onisep/quiz-quels-metiers-demain){target=_blank} Quels métiers demain ?
 
             [==**3-**==](https://www.onisep.fr/cap-vers-l-emploi/alternance/quiz-apprentissage){target=_blank} Quiz apprentissage 
 
-            [==**4-**==](https://www.onisep.fr/decouvrir-les-metiers/les-quiz-de-l-onisep/vrai-faux-sur-la-voie-pro){target=_blank} Vrai/faux sur la voie professionnelle
+            [==**4-**==](https://www.onisep.fr/metier/les-quiz-de-l-onisep/quiz-etudes-superieures){target=_blank} Quelles études supérieures ?
+            
+            [==**5**==](https://www.onisep.fr/decouvrir-les-metiers/les-quiz-de-l-onisep/Quiz-secteurs){target=_blank} Quiz secteurs.
 
-            [==**5-**==](https://www.onisep.fr/decouvrir-les-metiers/les-quiz-de-l-onisep/quiz-etudes){target=_blank} Quiz études 
+            [==**6**==](https://www.onisep.fr/metier/les-quiz-de-l-onisep/egalite-filles-garcons/quiz-egalite-filles-garcons){target=_blank} Quiz égalité filles-garçons.
 
-            [==**6-**==](https://www.onisep.fr/decouvrir-les-metiers/les-quiz-de-l-onisep/Quiz-secteurs){target=_blank} Quiz secteurs
-
-            [==**7-**==](https://www.onisep.fr/equipes-educatives/egalite-filles-garcons/quiz-egalite-filles-garcons){target=_blank} Quiz égalité filles-garçons
-
-            [==**8-**==](https://www.onisep.fr/Choisir-mes-etudes/apres-le-bac/Conseils-et-strategies-d-etudes/quiz-universite-les-vraies-fausses-idees-sur-la-fac){target=_blank} Vraies-fausses idées sur la fac
+            [==**7-**==](https://www.onisep.fr/metier/les-quiz-de-l-onisep/quiz-universite){target=_blank} Vraies-fausses idées sur la FAC.
 
         - [**Quels métiers pour moi ?**](https://www.onisep.fr/Media/Multimedia/Quiz-de-positionnement/quiz-quels-metiers-pour-moi){target=_blank} : quiz pour trouver des exemples de métiers qui vous correspondent. (*Onisep*)
-        - [**Quelles études après le BAC ?**](https://m.onisep.fr/Media/Multimedia/Quiz-de-positionnement/quelles-etudes-apres-le-bac){target=_blank} : quiz numérique pour appréhender les différentes formations après le BAC. (*Onisep*)
         - [**Tests d'orientation**](https://test-orientation.studyrama.com/){target=_blank} : pour mieux se connaître et découvrir des pistes pour mon avenir. (*Studyrama*)
         - [**Quel métier est fait pour moi ?**](https://www.letudiant.fr/test/metiers/orientation/pour-quels-metiers-etes-vous-fait.html){target=_blank} : pour trouver sa voie, son futur métier et construire son projet professionnel. (*LEtudiant*)
         
@@ -120,7 +88,7 @@ ___
         - [**L'Etudiant**](https://www.letudiant.fr/etudes/alternance.html){target=_blank} : dossier sur l'alternance (Ecoles, formations, entreprises, offres...)
         - [**AREP29**](https://www.arep29.fr/){target=_blank} : CFA et centre de formation continue à Brest (CAP, BTS et Bac+3 en alternance, formation continue des salariés d'établissements...)
         - [**Chambre des métiers et de l'artisanat**](https://www.artisanat.fr/){target=_blank}
-        - [**IBEP-Morlaix**](https://www.ibepformation.fr/formation/formation-adulte/morlaix/){target=_blank} : Institut Breton d'éducation permanent.
+        - [**IBEP-Morlaix**](https://www.ibepformation.fr/formation/formation-adulte/morlaix/){target=_blank} : toutes les formations professionnelles sur Morlaix.
         - [**ISFFEL**](https://www.isffel.fr/){target=_blank} : chercher sa formation en alternance sur le site de l'Institut Supérieur de Formation. 
         - [**Les compagnons du devoir**](https://www.compagnons-du-devoir.com/){target=_blank} : journées portes ouvertes les ==**20-21 janvier et 23 mars 2024**==.
         [![**Compagnons du devoir**](./images/orientation/Flyer_jpo_compagnons.jpg "Flyers_jpo"){width=50%}](https://www.compagnons-du-devoir.com/){target=_blank}
@@ -132,7 +100,6 @@ ___
         - [**Jeunes.gouv.fr**](https://jeunes.gouv.fr/){target=_blank}
         - [**CROUS**](https://trouverunlogement.lescrous.fr/){target=_blank} et [**CROUS Bretagne**](https://www.crous-rennes.fr/){target=_blank}
         - [**Mes services étudiants**](https://www.messervices.etudiant.gouv.fr/envole/){target=_blank}
-        - [**Dossier "vie étudiante"**](https://www.onisep.fr/Choisir-mes-etudes/Apres-le-bac/La-vie-etudiante){target=_blank} du site de l'ONISEP.
         - [**Etudes, vie étudiante et handicap**](https://www.univ-brest.fr/deve/menu/vie_etudiante/Handiversit%C3%A9/HANDIVERSITE){target=_blank}: **Handiversité** dispositif d’accompagnement spécifique de l'UBO.
     === "MOBILITE"
         - [**ERASMUS+**](https://info.erasmusplus.fr){target_blank}
@@ -144,7 +111,7 @@ ___
 ??? "SECONDE"
     === "RESSOURCES"
         - [**Horizons21**](https://www.horizons21.fr/){target=_blank} : pour simuler des combinaisons de spécialités et découvrir des pespectives de formations et des métiers.
-        - [**Secondes/Premières 2022-2023**](https://www.secondes-premieres2022-2023.fr/){target=_blank} : les étapes pour construire mon avenir au lycée.
+        - [**MODULE AVENIRS LYCEE**](https://lycee-avenirs.onisep.fr/){target=_blank} : les étapes pour construire mon avenir au lycée.
         - [**Quelles spécialités choisir pour le BAC?**](https://www.letudiant.fr/lycee/simulateur-de-specialites.html){target=_blank}
     === "CHOISIR UN METIER"
         - [**Selon mes goûts**](https://www.onisep.fr/decouvrir-les-metiers/Des-metiers-selon-mes-gouts){target=_blank}
@@ -157,10 +124,7 @@ ___
     === "RESSOURCES"
         - [**Réussir au lycée**](https://www.education.gouv.fr/reussir-au-lycee/choisir-ses-enseignements-de-specialite-au-lycee-pour-preparer-ses-etudes-superieures-325475){target=_blank} : le choix des spécialités.
         - [**Horizons21**](https://www.horizons21.fr/){target=_blank} : pour simuler des combinaisons de spécialités et découvrir des pespectives de formations et des métiers. 
-        - [**Secondes/Premières 2022-2023**](https://www.secondes-premieres2022-2023.fr/){target=_blank} : les étapes pour construire mon avenir au lycée...
-        - [**Terminales 2022-2023**](https://www.terminales2022-2023.fr/){target=_blank} : ...et après le lycée.
-        - [**Quelles études après le BAC**](https://www.onisep.fr/Choisir-mes-etudes/apres-le-bac/quelles-etudes-apres-le-bac){target=_blank} : étude courtes longues, licence, BUT, BTS, écoles spécialisée... découvrez toutes les possibilités qui s'offrent à vous.
-        - [**Témoignages d'étudiants**](https://www.onisep.fr/Choisir-mes-etudes/ma-premiere-annee-en){target=_blank} : Série web, ma première année en...
+        - [**MODULE AVENIRS LYCEE**](https://lycee-avenirs.onisep.fr/){target=_blank} : les étapes pour construire mon avenir au lycée.
     === "CHOISIR UN METIER"
         - [**Selon mes goûts**](https://www.onisep.fr/decouvrir-les-metiers/Des-metiers-selon-mes-gouts){target=_blank}
         - [**Par centre d'intérêts**](https://www.orientation-pour-tous.fr/tutoriel/decouvrir-les-metiers/je-veux-decouvrir-des-metiers-en-fonction-de-mes-centres-d-interet/article/les-metiers-par-centre-d-interet){target=_blank}
@@ -173,8 +137,8 @@ ___
 ### Niveau Tle
 ??? "TERMINALE"
     === "RESSOURCES"
-        - [**Terminales 2022-2023**](https://www.terminales2022-2023.fr/){target=_blank}
-        - [**Quelles études après le BAC**](https://www.onisep.fr/Choisir-mes-etudes/apres-le-bac/quelles-etudes-apres-le-bac){target=_blank} : étude courtes, longues, licence, BUT, BTS, écoles spécialisée... découvrez toutes les possibilités qui s'offrent à vous.
+        - [**MODULE AVENIRS LYCEE**](https://lycee-avenirs.onisep.fr/){target=_blank} : les étapes pour construire mon avenir au lycée.
+        - [**Quelles études après le BAC**](https://www.onisep.fr/formation#apres-le-bac-les-etudes-superieures){target=_blank} : étude courtes, longues, licence, BUT, BTS, écoles spécialisée... découvrez toutes les possibilités qui s'offrent à vous.
         - [**Quelle école après le BAC ?**](https://www.ipesup.fr/){target=_blank} : IPESUP, préparations aux examens et concours de l’enseignement supérieur.
         - [**Ensemble des ressources de la DGESIP**](https://services.dgesip.fr/T454/S743/ressources){target=_blank} : Direction Générale de l'Enseignement Supérieur et de l'Insertion
         - [**Témoignages d'étudiants**](https://www.onisep.fr/formation/apres-le-bac-les-etudes-superieures/ma-premiere-annee-en){target=_blank} : Série web, ma première année en...
@@ -182,13 +146,13 @@ ___
         
         **Prochain RDV du** [**FORUM EN LIGNE**](https://padlet.com/cdinddmporsmeur/forum_en_ligne_2022){target=_blank} 
         
-        **Lundi 11 décembre : ==BUT Techniques de commercialisation==**
+        **Lundi 18 décembre : ==DN MADE==**
 
                         
     === "PARCOURSUP"
         [![**PARCOURSUP"**](./images/orientation/parcoursup.png "Page d'accueil PARCOURSUP"){width=20%}](https://www.parcoursup.fr/index.php?desc=){target=_blank}
         
-        - [**Vidéo PARCOURSUP - Comment choisir une formation ?**](https://youtu.be/WJzf3wRqcWo){target=_blank}
+
     === "PO - IMMERSIONS"
         
         ==*ATTENTION : Les informations présentées ci-dessous concernent l'année 2022-2023.
@@ -250,7 +214,6 @@ ___
 
     === "PARCOURSUP"    
         - [**PARCOURSUP - Site officiel**](https://www.parcoursup.fr/index.php?desc=){target=_blank}
-        - [**Vidéo PARCOURSUP - Comment choisir une formation ?**](https://youtu.be/WJzf3wRqcWo){target=_blank}
     === "PO - IMMERSIONS"
         - [**ITES**](./pdf/Affiche_Portes-Ouvertes-ITES-18-19-nov-2022.pdf){target=_blank} : [**calendrier**](./pdf/JPO-ITES-Programme_2022-2023.pdf){target=_blank} des portes ouvertes de l'[**Institut de formation au travail Educatif et Social**](https://www.ites-formation.com/){target=_blank}.
         - [**BTS SP3S**](https://www.lycee-campostal-gouarec.com/A-VOS-AGENDAS-MINI-STAGE-DECOUVERTE-BTS-SP3S){target=_blank} : mini-stages découverte  ==jeudi 19 janvier 2023 (9h45 à 16h)== (*Rostrenen - Gouarec 22*)
@@ -269,12 +232,20 @@ ___
         - [**APETICA**](https://www.apecita.com/){target=_blank} : spécialiste de l'emploi en agriculture, agroalimentaire et environnement.
         - [**Métiers et formations dans l'agriculture**](https://www.onisep.fr/decouvrir-les-metiers/des-metiers-par-secteur/agriculture){target=_blank} (*Sources : Onisep*)
 
-
 ___ 
 ### Architecture - Construction - Travaux publics
 ??? "Liens utiles"
     === "ARCHITECTURE"
         - [**ENSAB**](https://www.rennes.archi.fr/){target=_blank} : Ecole Nationale Supérieure d'Architecture de Bretagne.
+
+??? info "**Semaine de l'industrie**"
+
+    Pilotée par la Direction générale des Entreprises, la ==**Semaine de l’industrie**== contribue à changer le regard du grand public et des jeunes sur l’industrie et ses métiers au travers d’événements organisés partout en France.
+
+    En Bretagne, la prochaine édition aura lieu du ==**16 novembre au 3 décembre 2023**== et est pilotée par [**AJIR Bretagne**](https://www.ajir-industrie.bzh/){target=_blank}. 
+    Découvrez tous les événements en [**Bretagne**](https://www.semaine-industrie-bretagne.fr/){target=_blank} et au [**niveau national**](https://www.semaine-industrie.gouv.fr/){target=_blank}.
+
+    <u>**L’objectif :**</u> renforcer l’attractivité du secteur et promouvoir les filières et métiers de l’industrie auprès des collégiens, lycéens, apprentis ou toute personne en recherche d’emploi.
 
 ___ 
 ### Armée - Sécurité
