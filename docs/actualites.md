@@ -35,7 +35,7 @@
  
     Dans ce cadre, ils ont recontré Yuna de la ==**librairie Dialogues-Morlaix**==, venue leur rendre visite au lycée, et ils visiteront prochainement la librairie partenaire du projet. Ils bénéficieront également d'un chèque livre de 20 € pour acheter les livres de leur choix à la librairie.
    
-    Des rencontres avec l'autrice ==**Louise Delgado**== et l'auteur ==**Guillaume Le Cornec**== sont programmées en 2024.
+    Une rencontre avec l'autrice ==**Louise Delgado**== est programmée en 2024.
         
     ![Jeunes en librairie](./images/expositions/yuna_cdi_epc.jpg "Yuna au CDI avec Term EPC"){width=35% align=right}
     ![Jeunes en librairie](./images/expositions/Yuna_cdi_aepe.jpg "Yuna au CDI avec Term AEPE"){width=35% align=right}
@@ -78,10 +78,13 @@
 ??? "**Kiosque du mois** :newspaper:"
     
     [![01NET](./images/abonnements/12_decembre_2023/01NET_29_novembre_2023_1011.jpg "01NET, 29 novembre 2023, n°1011"){width=20%}](./images/abonnements/12_decembre_2023/01NET_29_novembre_2023_1011.pdf){target=_blank}
-    [![Aide-soignante](./images/abonnements/11_novembre_2023/Aide-soignante_novembre_2023_251.JPG "Aide-soignante, novembre 2023, n°251"){width=20%}](./images/abonnements/11_novembre_2023/Aide-soignante_novembre_2023_251.pdf){target=_blank}
+    [![01NET](./images/abonnements/12_decembre_2023/01NET_13_decembre_2023_1012.jpg "01NET, 13 décembre 2023, n°1012"){width=20%}](./images/abonnements/12_decembre_2023/01NET_13_decembre_2023_1012.pdf){target=_blank}
+    [![Aide-soignante](./images/abonnements/12_decembre_2023/Aide-soignante_decembre_2023_252.jpg "Aide-soignante, décembre 2023, n°252"){width=20%}](./images/abonnements/12_decembre_2023/Aide-soignante_decembre_2023_252.pdf){target=_blank}
     [![Alternatives Economiques](./images/abonnements/12_decembre_2023/Alternatives_economiques_decembre_2023_441.jpg "Alternatives Economiques, décembre 2023, n°441"){width=20%}](./images/abonnements/12_decembre_2023/Alternatives_economiques_decembre_2023_441.pdf){target=_blank}
     [![Ca m'intéresse](./images/abonnements/12_decembre_2023/Ca_m_interesse_decembre_2023_514.jpg "Ca m'intéresse, décembre 2023, 514"){width=20%}](./images/abonnements/12_decembre_2023/Ca_m_interesse_decembre_2023_514.pdf){target=_blank}
+    [![Courrier ados](./images/abonnements/12_decembre_2023/Courrier_ado_14_decembre_2023_1728-1729-1730.jpg "Courrier ados, 14 décembre 2023, 1729-1729-1730"){width=20%}](./images/abonnements/12_decembre_2023/Courrier_ado_14_decembre_2023_1728-1729-1730.pdf){target=_blank}
     [![Courrier international](./images/abonnements/12_decembre_2023/Courrier_international_07_decembre_2023_1727.jpg "Courrier international, 07 décembre 2023, 1727"){width=20%}](./images/abonnements/12_decembre_2023/Courrier_international_07_decembre_2023_1727.pdf){target=_blank}
+    [![Courrier international](./images/abonnements/12_decembre_2023/Courrier_international_14_decembre_2023_1728-1729-1730.jpg "Courrier international, 14 décembre 2023, 1728-1729-1730"){width=20%}](./images/abonnements/12_decembre_2023/Courrier_international_14_decembre_2023_1728-1729-1730.pdf){target=_blank}
     [![Documentation photographique](./images/abonnements/12_decembre_2023/Documentation_photographique_decembre_2023_8156.jpg "Documentation photographique, décembre 2023, 8156"){width=20%}](./images/abonnements/12_decembre_2023/Documentation_photographique_decembre_2023_8156.pdf){target=_blank}
     [![Lire](./images/abonnements/10_octobre_2023/Lire_magazine_octobre_2023_523.JPG "Lire, octobre 2023, n°523"){width=20%}](./images/abonnements/10_octobre_2023/Lire_magazine_octobre_2023_523.pdf){target=_blank}
     [![Philosophie magazine](./images/abonnements/12_decembre_2023/Philosophie_magazine_decembre_2023_175.jpg "Philosophie magazine, décembre 2023, 175"){width=20%}](./images/abonnements/12_decembre_2023/Philosophie_magazine_decembre_2023_175.pdf){target=_blank}
@@ -95,10 +98,11 @@
     [![Science et Vie](./images/abonnements/11_novembre_2023/Science_et_vie_novembre_2023_310HS.JPG "Science et Vie, novembre 2023, n°310HS"){width=20%}](./images/abonnements/11_novembre_2023/Science_et_vie_novembre_2023_310HS.pdf){target=_blank}
     [![Science et Vie Junior](./images/abonnements/12_decembre_2023/Science_et_vie_junior_decembre_2023_411.jpg "Science et Vie Junior, décembre 2023, n°411"){width=20%}](./images/abonnements/12_decembre_2023/Science_et_vie_junior_decembre_2023_411.pdf){target=_blank}
     [![Science et Vie Junior](./images/abonnements/11_novembre_2023/Science_et_vie_junior_novembre_2023_162HS.JPG "Science et Vie Junior, novembre 2023, n°162HS"){width=20%}](./images/abonnements/11_novembre_2023/Science_et_vie_junior_novembre_2023_162HS.pdf){target=_blank}
-    [![Sciences et avenir](./images/abonnements/12_decembre_2023/Sciences_et_avenir_decembre_2023_922.jpg "Sciences et avenir, déécembre 2023, n°922"){width=20%}](./images/abonnements/12_decembre_2023/Sciences_et_avenir_decembre_2023_922.pdf){target=_blank}
+    [![Sciences et avenir](./images/abonnements/12_decembre_2023/Sciences_et_avenir_decembre_2023_922.jpg "Sciences et avenir, décembre 2023, n°922"){width=20%}](./images/abonnements/12_decembre_2023/Sciences_et_avenir_decembre_2023_922.pdf){target=_blank}
     [![Sciences humaines](./images/abonnements/12_decembre_2023/Sciences_humaines_decembre_2023_364.jpg "Sciences humaines, décembre 2023, n°364"){width=20%}](./images/abonnements/12_decembre_2023/Sciences_humaines_decembre_2023_364.pdf){target=_blank}
     [![Sciences humaines - grands dossiers](./images/abonnements/12_decembre_2023/Sciences_humaines_grands_dossiers_decembre_2023_73HS.jpg "Sciences humaines Les grands dossiers, décembre 2023, n°73HS"){width=20%}](./images/abonnements/12_decembre_2023/Sciences_humaines_grands_dossiers_decembre_2023_73HS.pdf){target=_blank}
     [![Sport et vie](./images/abonnements/11_novembre_2023/Sport_et_vie_novembre-decembre_2023_201.JPG "Sport et Vie, novembre-décembre 2023, n°201"){width=20%}](./images/abonnements/11_novembre_2023/Sport_et_vie_novembre-decembre_2023_201.pdf){target=_blank}
+    [![Sport et vie](./images/abonnements/12_decembre_2023/Sport_et_vie_decembre_2023_59HS.jpg "Sport et Vie, décembre 2023, n°59HS"){width=20%}](./images/abonnements/12_decembre_2023/Sport_et_vie_decembre_2023_59HS.pdf){target=_blank}
     [![Virgule](./images/abonnements/12_decembre_2023/Virgule_decembre_2023_223.jpg "Virgule, décembre 2023, n°223"){width=20%}](./images/abonnements/12_decembre_2023/Virgule_decembre_2023_223.pdf){target=_blank} 
 
 

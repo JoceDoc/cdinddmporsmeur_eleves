@@ -60,7 +60,7 @@ ___
     
         -[![**Guide "Que faire après la 3e ?"**](./images/orientation/IDEO_2023_que_faire_après_la_3e.jpg "Que faire après la 3e"){width=20%}](./images/orientation/IDEO_2023_que_faire_après_la_3e.pdf){target=_blank}
         -[![**Guide "Que faire après le BAC ?"**](./images/orientation/IDEO_2023_que_faire_après_le_bac.jpg "Que faire après le BAC"){width=20%}](./images/orientation/IDEO_2023_que_faire_après_le_bac.pdf){target=_blank}
-        -[![**Guide "Entrer dans le SUP 2023**](./images/orientation/Guide_entrer_dans_le_SUP_2023.jpg "Entrer dans le SUP 2023"){width=20%}](../images/orientation/Guide_entrer_dans_le_SUP_2023.pdf){target=_blank}
+        -[![**Guide Entrer dans le SUP 2023**](./images/orientation/Guide_entrer_dans_le_SUP_2023.jpg "Entrer dans le SUP 2023"){width=20%}](../images/orientation/Guide_entrer_dans_le_SUP_2023.pdf){target=_blank}
     === "QUIZ"
         - [**QUIZ de l'ONISEP**](https://www.onisep.fr/decouvrir-les-metiers/les-quiz-de-l-onisep/){target=_blank} :
 
