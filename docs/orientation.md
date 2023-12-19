@@ -42,8 +42,8 @@ ___
 ## RESSOURCES  
 
 ___ 
-### Pour tous
-???+ "Pour tous"
+### Pour TOUS
+???+ "Pour TOUS"
     === "INCONTOURNABLES"
         - [**Réussir au lycée et APRES...**](https://www.education.gouv.fr/reussir-au-lycee/2021-2022-bien-preparer-son-bac-et-son-entree-dans-le-superieur-326326){target=_blank}
         - [**Construire ses PROJETS D'AVENIR au lycée**](https://lycee-avenirs.onisep.fr/){target=_blank} 
@@ -51,7 +51,6 @@ ___
         - [**Orientation pour tous**](https://www.orientation-pour-tous.fr/){target=_blank} : recherche par formations et par régions.
         - [**1001 orientation**](https://1001orientations.fr/){target=_blank} : 1001 conseils, 1001 parcours pour choisir sa voie...
         - [**L'Etudiant**](https://www.letudiant.fr/orientation.html){target=_blank} : des outils pour réussir son orientation, des tests en ligne pour affiner sa réflexion sur l'orientation, le service de coaching du site de l'Etudiant...
-        - [**Quelles spécialités pour quelles études ?**](https://www.letudiant.fr/lycee/specialites-bac-general/article/reforme-lycee-quelles-specialites-pour-quelles-etudes.html){target=_blank} : les spécialités recommandées par type de formation ou par domaine d'études...
         - [**THOTIS - Le média étudiant**](https://thotismedia.com/){target=_blank} : découvrir les formations et trouver sa voie - Affiner son projet en contactant des étudiants - Se renseigner sur Parcoursup. 
         - [**MOOC**](https://www.mooc-orientation.fr/){target=_blank} : suivre les **MOOC** de l'orientation pour choisir son avenir...
         - [**SNU**](https://www.education.gouv.fr/le-service-national-universel-snu-jeunesse-engagee-5381){target=_blank} : présentation du **Service National Universel** et accès au [**portail**](https://www.snu.gouv.fr/){target=_blank} pour s'inscrire.
@@ -105,19 +104,28 @@ ___
         - [**ERASMUS+**](https://info.erasmusplus.fr){target_blank}
         - [**Etudions à l'étranger**](https://www.etudionsaletranger.fr/){target=_blank}
         - [**Easylangues**](https://www.centre-easylangues.com/){target=_blank} : trouver un job ou un stage à l'étranger...
-
+___ 
+### SPECIALITES
+??? "Enseignements de SPECIALITE"
+    === "DECOUVRIR et CHOISIR"
+        - [**Les spécialités du BAC**](https://www.education.gouv.fr/reussir-au-lycee/choisir-ses-enseignements-de-specialite-au-lycee-pour-preparer-ses-etudes-superieures-325475){target=_blank} : calendrier, conseils, témoignages d'étudiants, attendus Parcoursup...
+        - [**Programmes et attendus des 13 spécialités ?**](https://www.studyrama.com/formations/diplomes/bac/les-programmes-et-attendus-des-12-specialites){target=_blank} (*Studyrama*)
+        - [**SIMULATEUR**](https://www.letudiant.fr/lycee/simulateur-de-specialites.html){target=_blank} (*L'Etudiant*)
+    === "ET APRES..."
+        - [**Quelles spécialités pour quelles études ?**](https://www.letudiant.fr/lycee/specialites-bac-general/article/reforme-lycee-quelles-specialites-pour-quelles-etudes.html){target=_blank} : les spécialités recommandées par type de formation ou par domaine d'études.
+        
 ___ 
 ### Niveau 2nde
 ??? "SECONDE"
     === "RESSOURCES"
         - [**Horizons21**](https://www.horizons21.fr/){target=_blank} : pour simuler des combinaisons de spécialités et découvrir des pespectives de formations et des métiers.
         - [**MODULE AVENIRS LYCEE**](https://lycee-avenirs.onisep.fr/){target=_blank} : les étapes pour construire mon avenir au lycée.
-        - [**Quelles spécialités choisir pour le BAC?**](https://www.letudiant.fr/lycee/simulateur-de-specialites.html){target=_blank}
     === "CHOISIR UN METIER"
         - [**Selon mes goûts**](https://www.onisep.fr/decouvrir-les-metiers/Des-metiers-selon-mes-gouts){target=_blank}
         - [**Par centre d'intérêts**](https://www.orientation-pour-tous.fr/tutoriel/decouvrir-les-metiers/je-veux-decouvrir-des-metiers-en-fonction-de-mes-centres-d-interet/article/les-metiers-par-centre-d-interet){target=_blank}
         - [**Par secteur ou domaine**](https://www.onisep.fr/decouvrir-les-metiers#Des-metiers-par-secteur){target=_blank}
-
+    === "QUELLES SPECIALITES CHOISIR ?"
+        Pour choisir les spécialités du BAC, reportez-vous à la rubrique [**SPECIALITES**](https://cdi-lycee.ecmorlaix.fr/orientation//#specialites){target=_blank} plus haut.
 ___ 
 ### Niveau 1re
 ??? "PREMIERE"
@@ -125,14 +133,19 @@ ___
         - [**Réussir au lycée**](https://www.education.gouv.fr/reussir-au-lycee/choisir-ses-enseignements-de-specialite-au-lycee-pour-preparer-ses-etudes-superieures-325475){target=_blank} : le choix des spécialités.
         - [**Horizons21**](https://www.horizons21.fr/){target=_blank} : pour simuler des combinaisons de spécialités et découvrir des pespectives de formations et des métiers. 
         - [**MODULE AVENIRS LYCEE**](https://lycee-avenirs.onisep.fr/){target=_blank} : les étapes pour construire mon avenir au lycée.
+    === "SPECIALITES"
+        - [**Quelle spécialité abandonner ?**](https://www.letudiant.fr/lycee/premiere/premiere-comment-choisir-la-specialite-a-abandonner.html){target=_blank}
+        
+        Reportez-vous aussi à la rubrique [**SPECIALITES**](https://cdi-lycee.ecmorlaix.fr/orientation//#specialites){target=_blank} plus haut.
     === "CHOISIR UN METIER"
         - [**Selon mes goûts**](https://www.onisep.fr/decouvrir-les-metiers/Des-metiers-selon-mes-gouts){target=_blank}
         - [**Par centre d'intérêts**](https://www.orientation-pour-tous.fr/tutoriel/decouvrir-les-metiers/je-veux-decouvrir-des-metiers-en-fonction-de-mes-centres-d-interet/article/les-metiers-par-centre-d-interet){target=_blank}
         - [**Par secteur ou domaine**](https://www.onisep.fr/decouvrir-les-metiers#Des-metiers-par-secteur){target=_blank}
     === "SALONS - FORUMS"
         - [**Salons - Forums de l'orientation**](https://www.onisep.fr/recherche?text=SALONS%20FORUMS){target=_blank} : comment préparer sa visite à un salon ?
-        - [**Azimut**](https://www.salon-azimut.com/){target=_blank} : site officiel du salon les ==**19-21 janvier 2023**==. Pour préparer ta visite au salon Azimut découvre le [**Kit de l'élève de 1ère**](./pdf/Azimut_kit_1ere.pdf){target=_blank}.
-
+        - [**AZIMUT**](https://www.salon-azimut.com/){target=_blank} : site officiel du salon les ==**25-27 janvier 2024**==.
+        - [**SUP'ARMOR**](https://www.suparmor.fr/){target=_blank} : l'équivalent d'Azimut dans le 22 du ==**14-15-16 décembre 2023**==.
+        - [**STUDYRAMA**](https://www.studyrama.com/){target=_blank} : dates des prochains salons étudiants...
 ___ 
 ### Niveau Tle
 ??? "TERMINALE"
@@ -155,49 +168,50 @@ ___
 
     === "PO - IMMERSIONS"
         
-        ==*ATTENTION : Les informations présentées ci-dessous concernent l'année 2022-2023.
-        Elles seront prochainement mises à jour.*==
+        * [**PORTES OUVERTES DU SUPERIEUR - 2023/2024 - Accéder au moteur de recherche**](https://www.onisep.fr/orientation/l-enseignement-superieur/les-journees-portes-ouvertes-2023-2024-dans-l-enseignement-superieur){target=_blank}
+
+      
+        * [**Catalogue IDEO des IMMERSIONS - Bretagne**](https://www.linscription.com/pro/catalogue-immersion-brio-ideo-actions-pour-lyceens.php){target=_blank}
         
-        - [**PORTES OUVERTES DU SUPERIEUR - Académie de Rennes**](./pdf/JPO_superieur_2023_Ac_Rennes_ONISEP_Bretagne_20230110.pdf){target=_blank}
-        - [**PORTES OUVERTES DU SUPERIEUR - National**](https://www.onisep.fr/Choisir-mes-etudes/apres-le-bac/les-journees-portes-ouvertes-2022-2023-dans-l-enseignement-superieur){target=_blank}
-        - [**Catalogue IDEO des IMMERSIONS - Bretagne**](https://www.linscription.com/pro/catalogue-immersion-brio-ideo-actions-pour-lyceens.php){target=_blank}
-        - [**Printemps de l'orientation**](https://www.education.gouv.fr/reussir-au-lycee/le-printemps-de-l-orientation-327179){target=_blank} : ==20, 21 et 22 mars 2023==
+        * [**Printemps de l'orientation**](https://printempsorientation.onisep.fr/){target=_blank}
         
+        ==*ATTENTION : Certaines dates ou informations présentées ci-dessous peuvent ne pas être à jour.*==
+
+
         ???+ info "BTS"
-            - [**BTS - Lycée Chaptal - Quimper**](https://www.lycee-chaptal.fr/actualite/les-podcasts-des-bts-sp3s-1-ere-annee/){target=_blank} : ==04 février 2023 - 9h30-16h30==. 
-                [**7 BTS à découvrir**](./pdf/Lycee_Chaptal_PO_post-bac.pdf){target=_blank} : [**Bioqualité**](https://www.lycee-chaptal.fr/bts-bioqualite/){target=_blank} - 
-                [**Diététique**](https://www.lycee-chaptal.fr/nos-formations/enseignement-superieur/bts-dietetique/){target=_blank}  - [**ESF**](https://www.lycee-chaptal.fr/nos-formations/enseignement-superieur/bts-esf/){target=_blank} - [**Collaborateur juriste notarial**](https://www.lycee-chaptal.fr/nos-formations/enseignement-superieur/bts-notariat/){target=_blank} - [**SAM (Support à l'action managériale)**](https://www.lycee-chaptal.fr/nos-formations/enseignement-superieur/bts-sam/){target=_blank} - [**SIO (Services informatiques aux organisations)**](https://www.lycee-chaptal.fr/nos-formations/enseignement-superieur/bts-sio/){target=_blank} - [**SP3S (Services et Prestations des Secteurs Sanitaire et Social)**](https://www.lycee-chaptal.fr/nos-formations/enseignement-superieur/bts-sp3s/){target=_blank}
-            - [**Lycée Mongazon**](https://www.mongazon.org/){target=_blank} présentation des BTS du pôle santé (BTS Podo orthésiste - BTS Prothésiste orthésiste - CP Orthopédiste orthésiste) lors des portes ouvertes les ==13 et 14 janvier 2023== (*Angers - 49*)
-            - [**BTS Audiovisuel**](http://www.btsaudiovisuelsfnd.fr/){target=_blank} : journées portes-ouvertes  ==vendredi 9 Décembre 2022 (17h00 à 20h00)== et ==samedi 10 Décembre (10h00 à 15h00)== (*Lesneven - 29*)
-            - [**BTS SIO**](http://www.saint-louis29.net/wp-content/uploads/2023/01/plaquette-BTS-22-23.pdf){target=_blank} : journées portes-ouvertes  ==vendredi 3 mars 2023 (17h00 à 19h00)== et ==samedi 4 mars (9h00 à 12h00)== (*Chateaulin - 29*)
-            - [**BTS SP3S**](https://www.lycee-campostal-gouarec.com/A-VOS-AGENDAS-MINI-STAGE-DECOUVERTE-BTS-SP3S){target=_blank} : mini-stages découverte  ==jeudi 19 janvier 2023 (9h45 à 16h)== (*Rostrenen - Gouarec 22*)
-            - [**Lycée Le Sage**](https://www.lycee-lesage.fr/La-formation/5/brevet-de-technicien-superieur){target=_blank} : BTS commerce international - BTS Comptabilité et gestion - BTS Systèmes numériques option électronique et communication ==Vendredi 3 février 2023 de 17h30 à 20h30==  et ==Samedi 4 février 2023 de 9h à 12h30== (*Vannes - 56*)
-            - [**BTS CI**](https://www.lekreisker.fr/accueil-lycee-notre-dame-du-kreisker/nos-formations/bts-commerce-international/){target=_blank} (Commerce International): portes ouvertes ==vendredi 10 mars 2023 (17h à 20h)== et ==samedi 11 mars (9h à 13h)== préinscriptions et modalités d'inscriptions. (*Saint-Pol-de-Léon - 29*)
+            - [**Lycée Chaptal - Quimper**](https://www.lycee-chaptal.fr/){target=_blank} : [**BTS Bioqualité**](https://www.lycee-chaptal.fr/bts-bioqualite/){target=_blank} - 
+                [**BTS Diététique**](https://www.lycee-chaptal.fr/nos-formations/enseignement-superieur/bts-dietetique/){target=_blank}  - [**BTS ESF**](https://www.lycee-chaptal.fr/nos-formations/enseignement-superieur/bts-esf/){target=_blank} - [**BTS Collaborateur juriste notarial**](https://www.lycee-chaptal.fr/nos-formations/enseignement-superieur/bts-notariat/){target=_blank} - [**BTS SAM (Support à l'action managériale)**](https://www.lycee-chaptal.fr/nos-formations/enseignement-superieur/bts-sam/){target=_blank} - [**BTS SIO (Services informatiques aux organisations)**](https://www.lycee-chaptal.fr/nos-formations/enseignement-superieur/bts-sio/){target=_blank} - [**BTS SP3S (Services et Prestations des Secteurs Sanitaire et Social)**](https://www.lycee-chaptal.fr/nos-formations/enseignement-superieur/bts-sp3s/){target=_blank}
+            - [**Lycée Mongazon**](https://www.mongazon.org/){target=_blank} présentation des BTS du pôle santé (BTS Podo orthésiste - BTS Prothésiste orthésiste - CP Orthopédiste orthésiste) lors des portes ouvertes les ==12/01 et 13/01 2024== (*Angers - 49*)
+            - [**BTS Audiovisuel**](http://www.btsaudiovisuelsfnd.fr/){target=_blank} (*Lesneven - 29*)
+            - [**BTS SIO**](http://www.saint-louis29.net){target=_blank} : journées portes-ouvertes  ==vendredi 16/02/2024 (17h00 à 19h00)== et ==samedi 17/02/2024 (9h00 à 12h00)== (*Chateaulin - 29*)
+            - [**BTS SP3S**](https://www.lycee-campostal-gouarec.com/A-VOS-AGENDAS-MINI-STAGE-DECOUVERTE-BTS-SP3S){target=_blank} : mini-stages découverte  ==vendredi 26/01/2024 (17h30 - 20h)== (*Rostrenen - Gouarec 22*)
+            - [**Lycée Le Sage**](https://lycee-lesage.fr/formations/#bts){target=_blank} : BTS Commerce International - BTS Comptabilité et Gestion - BTS CIEL (*Vannes - 56*)
+            - [**BTS CI**](https://www.lekreisker.fr/accueil-lycee-notre-dame-du-kreisker/nos-formations/bts-commerce-international/){target=_blank} (Commerce International): portes ouvertes ==vendredi 16 février 2024 (17h à 19h30)== et ==samedi 17 février 2024 (9h30 à 12h30)== (*Saint-Pol-de-Léon - 29*)
 
 
         ???+ info "IUT"
-            - ==**IUT Brest-Morlaix**== : demi-journées d'immersion pour les lycéens de terminale en Génie Biologique (GB), Génie Mécanique et Productique (GMP) et Gestion Administrative et Commerciale (GACO). [**Inscription obligatoire sur weezent**](https://www.iut-brest.fr/evenements/journees-dimmersion-des-lyceens-a-liut/){target=_blank}. 
-            - ==**Matinales de l'orientation**== : à l'IUT de Saint-Nazaire ==mercredi 30 novembre==. [**Formulaire d'inscription**](https://questionnaires.univ-nantes.fr/index.php/573826?newtest=Y&lang=fr){target=_blank}.
+            - [**IUT Brest-Morlaix**](https://www.iut-brest.fr/){target=_blank} : demi-journées d'immersion pour les lycéens de terminale en Génie Biologique (GB), Génie Mécanique et Productique (GMP) et Gestion Administrative et Commerciale (GACO). **Inscription obligatoire sur le site**. 
+        
+            
         
         ???+ info "PREPA - CPEG"
-            - [**CPGE PTSI-PT**](./pdf/Campus_LaSalle_CPGES_2022.pdf){target=_blank} : ==samedi 3 décembre 2022 - 9h-12h==. [**La Croix Rouge/La Salle - Brest**](https://www.lacroixrouge-brest.fr/ecoles-formations/enseignement-superieur/prepas-scientifiques-aux-grandes-ecoles-ptsi-pt/){target=_blank} 
+            - [**La Croix Rouge/La Salle - Brest**](https://www.lacroixrouge-brest.fr/ecoles-formations/enseignement-superieur/prepas-scientifiques-aux-grandes-ecoles-ptsi-pt/){target=_blank} 
             
             - [**Faire sa PREPA au Lycée Chateaubriand**](https://lycee-chateaubriand.live/){target=_blank} : visioconférence  ==mercredi 11 janvier 2023 (de 19h à 21h)== et portes ouvertes ==Vendredi 3 février 2023 (de 16h à 19h)== présentation du **CPES** (Cycle  Pluridisciplinaire d‘Etudes Supérieures Sciences Environnement et Société) et ==samedi 4 février 2023 (de 9h à 13h)== **CPGE** (classes préparatoires aux grandes écoles)(*Rennes - 35*)
         
         ???+ info "UNIVERSITES"
-            - ==**UBO - CAP'AVENIR**== : toutes les informations pour vous inscrire aux prochaines [**immersions**](https://www.univ-brest.fr/cap-avenir/menu/Bloc-Lyceen/Inscriptions-individuelles-Continuum){target=_blank} en février 2023.
+            - ==**UBO - CAP'AVENIR**== : inscriptions à partir de mi-janvier 2024 pour de nouvelles [**immersions**](https://www.univ-brest.fr/cap-avenir/fr/page/immersion-individuelle-lubo){target=_blank} pendant les vacances de février.
             - ==**UCO Guingamp**== : événements à venir de l'[**UCO**](https://guingamp.uco.fr/fr/fr/actualites-guingamp){target=_blank} prochaines [**immersions**](https://guingamp.uco.fr/fr/publication/testez-l-universite-grace-aux-journees-decouvertes){target=_blank} en février.
         
         ???+ info "ECOLES SPECIALISEES"
-            - [**IFPS**](https://www.ifps-brest.bzh/){target=_blank} : l'Institut de Formation des Professionnels de santé (IFPS) du CHU e Brest  réunit instituts paramédicaux et écoles spécialisées proposant des formations iniitales et continues à Brest et Carhaix.
-            - [**ITES**](./pdf/Affiche_Portes-Ouvertes-ITES-18-19-nov-2022.pdf){target=_blank} : [**calendrier**](./pdf/JPO-ITES-Programme_2022-2023.pdf){target=_blank} des portes ouvertes de l'[**Institut de formation au travail Educatif et Social**](https://www.ites-formation.com/){target=_blank}.
+            - [**ITES**](https://www.ites-formation.com/salons-et-forums-2023-2024/){target=_blank} : rendez-vous de l'[**Institut de formation au travail Educatif et Social**](https://www.ites-formation.com/){target=_blank} dans les salons et forums.
     === "SALONS - FORUMS"
         - [**Salons - Forums de l'orientation**](https://www.onisep.fr/recherche?text=SALONS%20FORUMS){target=_blank} : comment préparer sa visite à un salon ?
-        - [**AZIMUT**](https://www.salon-azimut.com/){target=_blank} : site officiel du salon les ==**25-27 janvier 2024**==. Pour préparer ta visite au salon Azimut découvre le [**Kit de l'élève de Terminale**](./pdf/Azimut_kit_terminale.pdf){target=_blank}. 
+        - [**AZIMUT**](https://www.salon-azimut.com/){target=_blank} : site officiel du salon les ==**25-27 janvier 2024**==.
         - [**SUP'ARMOR**](https://www.suparmor.fr/){target=_blank} : l'équivalent d'Azimut dans le 22 du ==**14-15-16 décembre 2023**==.
         - [**STUDYRAMA**](https://www.studyrama.com/){target=_blank} : dates des prochains salons étudiants...
     === "CONCOURS"
-        - [**EMSLB**](https://service-sante-des-armees.uniformesdefrance.com/secours-militaire-ssa-dates-concours-emsbl-esa-eppa-medecin-infirmier.php){target=_blank} : dates des concours pour l'entrée en Ecoles Militaires de Santé de Lyon-Bron. [**Voir fiche**](./pdf/Fiche_conditions_acce%CC%80s_concours_ESA_2023.pdf) conditions d'accès au concours de médecin ou pharmacien militaire. 
+        - [**EMSLB**](https://uniformesdefrance.com/actualites-site-dates-concours-metiers-uniforme-ouverts-inscriptions-postes-vacants.php){target=_blank} : dates des concours pour l'entrée en Ecoles Militaires de Santé de Lyon-Bron. 
         - [**EMSLB - infirmier**](https://www.emslb.defense.gouv.fr/nous-rejoindre-concours/concours-eppa){target=_blank} : devenir infirmier militaire  en intégrant les écoles militaires de santé Lyon-Bron. [**Voir la plaquette**](./pdf/EMSLB_Plaquette_infirmier_militaire.pdf){target=_blank}
         - [**IPESUP**](https://www.ipesup.fr/){target=_blank} : préparation aux concours des filères sélectives telles que Sciences PO, ENA, HEC, SESAME, ACCES, ALPHA, AVENIR, GEIPI/POLYTECH, MATH SUP, MATH SPE, DSCG, CELSA...
     === "STMG"  
@@ -219,9 +233,7 @@ ___
         - [**BTS SP3S**](https://www.lycee-campostal-gouarec.com/A-VOS-AGENDAS-MINI-STAGE-DECOUVERTE-BTS-SP3S){target=_blank} : mini-stages découverte  ==jeudi 19 janvier 2023 (9h45 à 16h)== (*Rostrenen - Gouarec 22*)
     === "SALONS - FORUMS"
         - [**Salons - Forums de l'orientation**]https://www.onisep.fr/recherche?text=SALONS%20FORUMS){target=_blank} : comment préparer sa visite à un salon ?
-        - [**Azimut**](https://www.salon-azimut.com/){target=_blank} : site officiel du salon les ==**19-21 janvier 2023**== et pour préparer ta visite au salon Azimut : 
-            * [**Kit de l'élève de 1ère**](./pdf/Azimut_kit_1ere.pdf){target=_blank} 
-            * [**Kit de l'élève de Terminale**](./pdf/Azimut_kit_terminale.pdf){target=_blank} 
+        - [**Azimut**](https://www.salon-azimut.com/){target=_blank} : site officiel du salon les ==**25 au 27/01/2024**== 
 ___ 
 ## DOMAINES
 
