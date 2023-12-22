@@ -17,7 +17,12 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
 
 ## Actualités
 
-???+ info "**Ouverture CIO Brest-Landerneau - Vacances de Noël**"
+???+ info "**Ouverture de PARCOURSUP - Mercredi 20 décembre**"
+    [![**PARCOURSUP**](./images/orientation/parcoursup.png){width=35%}](https://www.parcoursup.gouv.fr/){target=_blank}
+
+    Les [nouvelles fonctionnalités](https://www.education.gouv.fr/ouverture-du-site-d-information-parcoursup-2024-380373){target=_blank} sont présentées sur le site du Ministère de l'Education Nationale et de la jeunesse.  
+
+??? info "**Ouverture CIO Brest-Landerneau - Vacances de Noël**"
     [![**CIO Brest**](./images/orientation/Info_CIO_permanence_parcoursup.jpg){width=35%}](https://www.cio-brest.ac-rennes.fr/){target=_blank} .
 
 
