@@ -283,8 +283,14 @@ ___
     === "SECURITE"
         - [**Devenir gendarme**](https://www.devenir-gendarme.fr/){target=_blank}
         - [**Devenir policier**](https://www.devenirpolicier.fr/){target=_blank}
+    === "CONCOURS"
+        [**Concours des Ecoles Militaires de Santé Lyon-Bron**](https://www.emslb.defense.gouv.fr/nous-rejoindre-concours){target=_blank} 
+        
+        [**Modalités d'inscription sur Cyclades**](./images/orientation/ESA_PJ_01_Fiche_conditions_acces_concours_2024.pdf "Médecin militaire").
+        
+        [![**Concours Médecin militaire**](./images/orientation/ESA_Fiche_Medecin_OSC_Page_1.jpg "Médecin militaire_1"){width=25%}](./images/orientation/ESA_Fiche_Medecin_militaire.pdf){target=_blank}
+        [![**Concours pharmacien militaire**](./images/orientation/ESA_Fiche_Pharmacien_EMSLB_3_Page_1.jpg "Pharmacien militaire_"){width=25%}](./images/orientation/ESA_Fiche_Pharmacien_militaire.pdf){target=_blank}
 
-___ 
 ### Arts - Artisanat - Culture
 ??? "Liens utiles"
     === "ARTS"
