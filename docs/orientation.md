@@ -164,7 +164,9 @@ ___
         
         **Prochain RDV du** [**FORUM EN LIGNE**](https://padlet.com/cdinddmporsmeur/forum_en_ligne_2022){target=_blank} 
         
-        **Lundi 18 décembre : ==DN MADE==**
+        **Lundi 15 janvier : ==INSA==** 
+        
+        Plus d'informations sur le site du [Groupe INSA](https://www.groupe-insa.fr/){target=blank}.
 
                         
     === "PARCOURSUP"
