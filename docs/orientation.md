@@ -22,9 +22,6 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
 
     Les [nouvelles fonctionnalités](https://www.education.gouv.fr/ouverture-du-site-d-information-parcoursup-2024-380373){target=_blank} sont présentées sur le site du Ministère de l'Education Nationale et de la jeunesse.  
 
-??? info "**Ouverture CIO Brest-Landerneau - Vacances de Noël**"
-    [![**CIO Brest**](./images/orientation/Info_CIO_permanence_parcoursup.jpg){width=35%}](https://www.cio-brest.ac-rennes.fr/){target=_blank} .
-
 
 ??? attention "**Immersions - Journées découvertes dans le supérieur**"
 
@@ -484,11 +481,10 @@ ___
     
         ==**Dates d'immersions et liens pour s'inscrire pour les vacances de la Toussaint**== sur le site de l'UBO.
     === "UCO Brest-Guingamp"
-        [![UCO-Guingamp](./images/orientation/Programme_journees_Decouvertes_Octobre%202023_GUINGAMP-page-001.jpg "Guingamp"){width=30%}](https://guingamp.uco.fr/fr){target=_blank} 
-
-        Accédez au site de l'UCO Bretagne Nord en cliquant sur l'affiche et au programme des journées découvertes pour l'[**UCO de Brest**](./images/orientation/Programme_JD_octobre_2023_Brest_UCO.pdf){target=_blank} ou de l'[**UCO de Guingamp**](./images/orientation/Programme_JD_octobre_2023_Guingamp_UCO.pdf){target=_blank}.
         
-        Complétez le [**Formulaire pour choisir vos cours**](https://forms.office.com/pages/responsepage.aspx?id=gQWqPAeCVEaEOorw19tTeZ68V_hJsdlAqkgQ7OkuHG1URElEODEyWk9aWVdXOTZHMzlWOEwxNVUzMy4u){target=_blank} du 23 au 27 octobre.
+        L'actualité de l'[**UCO**](https://www.uco.fr/fr/actualites-uco){target=_blank} Université Catholique de l'Ouest : portes ouvertes, immersions...
+        
+        Du ==**26 février au 1er mars**==, testez l'université grâce aux journées découvertes de l'[**UCO de Guingamp**](https://guingamp.uco.fr/fr/publication/testez-l-universite-grace-aux-journees-decouvertes){target=_blank}. Complétez le [**Formulaire**](https://forms.office.com/pages/responsepage.aspx?id=gQWqPAeCVEaEOorw19tTeZ68V_hJsdlAqkgQ7OkuHG1UOTVKQTlMNkdaUkJFRDVYRE03TlNON1NYOC4u&origin=lprLink){target=_blank} pour vous inscrire.
 
     
 ??? "Liens utiles pour l'université"
