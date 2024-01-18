@@ -17,6 +17,10 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
 
 ## Actualités
 
+???+ info "**Visioconférence Ecole Nationale Supérieure de Chimie  - Rennes - 20 janvier**"
+    [![**VISIO de ENSCR**](./images/orientation/2024_ENSCR_Rennes_visio.jpg){width=35%}](https://www.ensc-rennes.fr/accedez-aux-visioconferences/){target=_blank}
+
+
 ???+ info "**Ouverture de PARCOURSUP - Mercredi 20 décembre**"
     [![**PARCOURSUP**](./images/orientation/parcoursup.png){width=35%}](https://www.parcoursup.gouv.fr/){target=_blank}
 
