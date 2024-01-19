@@ -131,7 +131,7 @@ ___
         - [**Par centre d'intérêts**](https://www.orientation-pour-tous.fr/tutoriel/decouvrir-les-metiers/je-veux-decouvrir-des-metiers-en-fonction-de-mes-centres-d-interet/article/les-metiers-par-centre-d-interet){target=_blank}
         - [**Par secteur ou domaine**](https://www.onisep.fr/decouvrir-les-metiers#Des-metiers-par-secteur){target=_blank}
     === "QUELLES SPECIALITES CHOISIR ?"
-        Pour choisir les spécialités du BAC, reportez-vous à la rubrique [**SPECIALITES**](https://cdi-lycee.ecmorlaix.fr/orientation//#specialites){target=_blank} plus haut.
+        Pour choisir les spécialités du BAC, reportez-vous à la rubrique [**SPECIALITES**](https://cdi-lycee.ecmorlaix.fr/orientation/#specialites){target=_blank} plus haut.
 ___ 
 ### Niveau 1re
 ??? "PREMIERE"
