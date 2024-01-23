@@ -65,7 +65,7 @@ ___
     
         -[![**Guide "Que faire après la 3e ?"**](./images/orientation/IDEO_2023_que_faire_après_la_3e.jpg "Que faire après la 3e"){width=20%}](./images/orientation/IDEO_2023_que_faire_après_la_3e.pdf){target=_blank}
         -[![**Guide "Que faire après le BAC ?"**](./images/orientation/IDEO_2023_que_faire_après_le_bac.jpg "Que faire après le BAC"){width=20%}](./images/orientation/IDEO_2023_que_faire_après_le_bac.pdf){target=_blank}
-        -[![**Guide Entrer dans le SUP 2023**](./images/orientation/Guide_entrer_dans_le_SUP_2023.jpg "Entrer dans le SUP 2023"){width=20%}](../images/orientation/Guide_entrer_dans_le_SUP_2023.pdf){target=_blank}
+        -[![**Guide Entrer dans le SUP 2023**](./images/orientation/Guide_entrer_dans_le_SUP_2023.jpg "Entrer dans le SUP 2023"){width=20%}](./images/orientation/Guide_entrer_dans_le_SUP_2023.pdf){target=_blank}
     === "QUIZ"
         - [**QUIZ de l'ONISEP**](https://www.onisep.fr/decouvrir-les-metiers/les-quiz-de-l-onisep/){target=_blank} :
 
@@ -237,10 +237,9 @@ ___
     === "PARCOURSUP"    
         - [**PARCOURSUP - Site officiel**](https://www.parcoursup.fr/index.php?desc=){target=_blank}
     === "PO - IMMERSIONS"
-        - [**ITES**](./pdf/Affiche_Portes-Ouvertes-ITES-18-19-nov-2022.pdf){target=_blank} : [**calendrier**](./pdf/JPO-ITES-Programme_2022-2023.pdf){target=_blank} des portes ouvertes de l'[**Institut de formation au travail Educatif et Social**](https://www.ites-formation.com/){target=_blank}.
-        - [**BTS SP3S**](https://www.lycee-campostal-gouarec.com/A-VOS-AGENDAS-MINI-STAGE-DECOUVERTE-BTS-SP3S){target=_blank} : mini-stages découverte  ==jeudi 19 janvier 2023 (9h45 à 16h)== (*Rostrenen - Gouarec 22*)
+        - [**BTS SP3S**](https://www.lycee-campostal-gouarec.com/A-VOS-AGENDAS-MINI-STAGE-DECOUVERTE-BTS-SP3S){target=_blank} : mini-stages découverte  ==mardi 20 février - jeudi 14 mars 2024 (9h à 16h30)== (*Rostrenen - Gouarec 22*)
     === "SALONS - FORUMS"
-        - [**Salons - Forums de l'orientation**]https://www.onisep.fr/recherche?text=SALONS%20FORUMS){target=_blank} : comment préparer sa visite à un salon ?
+        - [**Salons - Forums de l'orientation**](https://www.onisep.fr/recherche?text=SALONS%20FORUMS){target=_blank} : comment préparer sa visite à un salon ?
         - [**Azimut**](https://www.salon-azimut.com/){target=_blank} : site officiel du salon les ==**25 au 27/01/2024**== 
 ___ 
 ## DOMAINES
@@ -272,7 +271,7 @@ ___
 ??? "Liens utiles"
     === "ARMEE"
         - [**Armée de l'air**](https://devenir-aviateur.fr/){target=_blank} : devenir aviateur.
-        - [**EETAA**](https://eetaa722.fr/){target=_blank} : Ecole d'Enseignement Technique de l'Armée de l'Air et de l'Espace. Avis de recrutement d'élèves en [**1ère **](./pdf/EETAA_20230123_avis_recrutement_premiere.pdf){target=_blank} et [**terminale**](./pdf/EETAA_20230123_avis_recrutement_terminale.pdf){target=-blank}.
+        - [**EETAA**](https://eetaa722.fr/){target=_blank} : Ecole d'Enseignement Technique de l'Armée de l'Air et de l'Espace. Avis de recrutement d'élèves en [**1ère**](./pdf/EETAA_20230123_avis_recrutement_premiere.pdf){target=_blank} et [**terminale**](./pdf/EETAA_20230123_avis_recrutement_terminale.pdf){target=-blank}.
         - [**Forum des métiers de l'aéronautique**](https://www.eventbrite.fr/e/billets-forum-des-metiers-de-laeronautique-navale-179481121867){target=_blank} : le **31 mars 2023** à la base aéronavale de Landivisiau.
         - [**Armée de terre**](https://www.sengager.fr/){target=_blank} : **117 spécialités** dans **16 domaines d'activité**.
         - [**CIRFA**](https://www.sengager.fr/ou-nous-rencontrer?xtor=SEC-229-GOO-[24018634367]-[353506367]-g-[cirfa]&ds_rl=1210417&gclid=EAIaIQobChMI6PzavM2g7QIV_P3VCh1GLQ1eEAAYASAAEgK7z_D_BwE){target=_blank} : L'armée de terre recrute et forme **16000 postes**. Vous trouverez ici les centres de recrutement.
@@ -325,6 +324,9 @@ ___
         - [**Droit et justice**](https://www.onisep.fr/decouvrir-les-metiers/des-metiers-par-secteur/droit-et-justice){target=_blank} : métiers, emploi et formations dans le droit et la justice. (*Sources : Onisep*)
     === "ECONOMIE - GESTION"
         - [**Comptabilité -  Gestion - Ressources humaines**](https://www.onisep.fr/decouvrir-les-metiers/des-metiers-par-secteur/comptabilite-gestion-ressources-humaines){target=_blank} : métiers et emploi dans le secteur. (*Sources : Onisep*)
+    === "DATES à RETENIR"
+        - Forum des métiers du droit : [**UBO - Pôle de Quimper**](https://www.univ-brest.fr/pole-quimper/fr/actualite/forum-des-metiers-du-droit){target=_blank} - ==**samedi 27 janvier 2024 - 9h**==
+        - Forum des métiers du droit : [**Faculté de droit économie gestion**](https://www.univ-brest.fr/faculte-droit-economie-gestion-aes/fr/actualite/forum-des-metiers-du-droit){target=_blank} - ==**samedi 17 février 2024 - 10h**==
 
 ### Energies - Environnement
 ??? "Liens utiles"
@@ -359,6 +361,7 @@ ___
         - [**ICO**](https://ico.asso.fr/){target=_blank} : Institut et Campus d'Optique.
         - [**IFEC**](https://www.ifec.net/){target=_blank} : Institut Franco-Européen de Chiropraxie.
         - [**ISO**](https://www.iso.fr/){target=_blank} : Institut Supérieur d'Optique.
+        - [**ISRP**](https://www.isrp.fr/){target=_blank} : Institut Supérieur de Rééducation Psychomotrice. (Paris - Marseille - Vichy - Metz)
         - [**Etiopathie**](https://www.etiopathie.com/){target=_blank} : Institut Français d'Ethiopathie.
         - [**PASS ou L.AS**](https://pass-sante.com/){target=_blank} : que maîtriser pour réussir sa rentrée en [**PASS**](https://www.letudiant.fr/etudes/medecine-sante/ce-qu-il-faut-maitriser-pour-reussir-sa-rentree-en-pass-1.html){target=_blank}.
         - [**Appareillage médical**](https://www.youtube.com/watch?v=b2T9387AzkY){target=_blank} : enseignement supérieur santé du [**Lycée Mongazon**](https://www.mongazon.org/){target=_blank} (BTS Podo orthésiste - BTS Prothésiste orthésiste - CP Orthopédiste orthésiste) (*Angers - 49*)
@@ -385,21 +388,22 @@ ___
         - [**Les BTS**](https://www.onisep.fr/Choisir-mes-etudes/apres-le-bac/organisation-des-etudes-superieures/Les-BTS){target=_blank} : organisation des études, poursuite d'études. (*Sources : Onisep*)
         - [**Liste des BTS**](https://www.letudiant.fr/etudes/bts.html){target=_blank} : tout savoir sur le BTS et accéder à la liste des BTS par domaine.(*Sources : L'étudiant*)
     === "ACTUALITES - PO"
-        [![Lycée CHAPTAL](./images/orientation/Chaptal_affiche_PO.jpg "Affiche"){width=25%}](https://www.lycee-chaptal.fr/nos-formations/enseignement-superieur/){target=_blank}
+        [![Lycée CHAPTAL](./images/orientation/BTS_chaptal_PO_2024.jpg "Affiche"){width=25%}](https://www.lycee-chaptal.fr/nos-formations/enseignement-superieur/){target=_blank}
         [![Lycée Lammenais](./images/orientation/Lammenais_BTS_MCO_mini-stages.jpg "Affiche"){width=25%}](https://www.lycee-lamennais.fr/parcours-services-au-entreprises/){target=_blank}
         [![Lycée ND Le Menimur](./images/orientation/IFAS_%20ND_Le_Menimur_PO.jpg "Affiche"){width=25%}](https://www.ndlm56.bzh/ifas/){target=_blank}
     === "ECOLES"
         - [**Les 2 Rives**](https://les-2-rives.fr/enseignement-superieur/){target=_blank} : BTS Conseiller de Clientèle - BTS Assurance - BTS CRSA (Conception et réalisation de systèmes automatiques). (*Landerneau - 29*)
         - [**Campus de Pouillé**](https://www.campus-pouille.com/){target=_blank} : BTS dans le domaine de la nature, du vivant et de l'environnement. (*Angers - 49*)
-        - [**Chaptal**](https://www.lycee-chaptal.fr/nos-formations/enseignement-superieur/){target=_blank} : BTS Bioqualité - Diététique - ESF - Collaborateur-juriste - SAM - SIO - SP3S - DECESF) (*Quimper - 29*)
+        - [**Chaptal**](https://www.lycee-chaptal.fr/nos-formations/enseignement-superieur/){target=_blank} : BTS Bioqualité - Diététique - ESF - Collaborateur-juriste - SAM - SIO - SP3S - DECESF (*Quimper - 29*)
         - [**Fénelon**](https://www.fenelonsup.org/formations/brevet-technicien-superieur-economie-sociale-familiale/){target=_blank} : BTS EFS (Economie Familiale et Sociales). (*Brest - 29*)
         - [**Jules Lesven**](https://www.lycee-jules-lesven.org/formations-593-0-0-0.html){target=_blank} : BTS CG (Comptabilité Gestion) - BTS PI (Professions Immobilières) - BTS CI (Commerce International) - BTS G PME (Gestion de la PME) - BTS MMV (Métiers de la Mode et du Vêtement). (*Brest - 29*)
         - [**Lammenais**](https://www.lycee-lamennais.fr/parcours-services-au-entreprises/){target=_blank} : BTS MCO (*Ploërmel - 56*)
-        - [**Notre-Dame-de-Guingamp**](https://www.notredameguingamp.fr/superieur/bts-me-metiers-de-leau/){target=_blank} : BTS Métiers de l'eau (*Guingamp - 22*)
+        - [**Notre-Dame-de-Guingamp**](https://www.notredameguingamp.fr/superieur/bts-me-metiers-de-leau/){target=_blank} : BTS Métiers de l'eau (*Guingamp - 22*) - Témoignage [**vidéo**](https://www.dropbox.com/scl/fi/5s8svigqtn2ruce5ftjp4/IMG_1947.MOV?rlkey=eraphbq37bb551ecvr1r3i16f&dl=0){target=_blank} d'un ancien étudiant. D'autres informations sur [**instagram**](https://www.instagram.com/bts_meguingamp/){target=_blank}.
         - [**Notre-Dame Le Ménimur**](https://www.ndlm56.bzh/pole-sup-notre-dame/){target=_blank} : BTS SP3S - ESF - DECESF - L3PRO APS - Licence 3 Gestion des Organisations du champ de l'Economie sociale et solidaire (en apprentissage) (*Vannes - Saint Avé - 56*)
         - [**Le Paraclet**](https://www.leparaclet.org/formations-quimper/enseignement-superieur/bts-management-en-hotellerie-restauration/){target=_blank} : BTS Management en hôtellerie restauration (*Quimper - 29*)
         - [**Rosa Parks**](https://www.lp-rosaparks-rostrenen.ac-rennes.fr/spip.php?article273){target=_blank} : BTS MOS (Management Opérationnel de la Sécurité) [**Fiche de présentation**](./pdf/fiche_bts_mos.pdf){target=_blank} (*Rostrenen - 22*)
         - [**Saint-Louis**](http://www.saint-louis29.net/wp-content/uploads/2023/01/plaquette-BTS-22-23.pdf){target=_blank} : BTS SIO (Services Informatiques aux Organisations) (*Chateaulin - 29*)
+        - [**Sainte-Thérèse**](https://www.sainte-therese-quimper.org/bts-sam-enseignement-superieur/){target=_blank} : BTS SAM (Support à l'action manageriale) (*Quimper - 29*)
 ___ 
 ### BUT
 ??? "Journées découvertes"
@@ -458,18 +462,19 @@ ___
         - [**Puissance ALPHA**](https://www.puissance-alpha.fr/){target=_blank} : les 18 grandes écoles d'ingénieurs du groupe, modalités d'admission.
     === "ECOLES"
         - [**CPE Lyon**](https://www.cpe.fr/){target=_blank} : Ecole d'Ingénieurs en Chimie et Sciences du Numérique (*Lyon - 69*).
-        - [**ENSC Rennes**](https://www.ensc-rennes.fr/){target=_blank} : Ecole Nationale Supérieure de Chimie - [Visioconférence](https://www.ensc-rennes.fr/admission-en-cpi-visioconferences-supplementaires-en-mars/){target=_blank} ==**samedi 21 janvier 2023**== et ==**mercredi 1er mars**==. (*Rennes - 35*)
+        - [**ENSC Rennes**](https://www.ensc-rennes.fr/){target=_blank} : Ecole Nationale Supérieure de Chimie - Portes ouvertes ==**samedi 10 février 2024 - 9h-17h**==. (*Rennes - 35*)
         - [**EPITA**](https://www.epita.fr/){target=_blank} : Ecole des ingénieurs en intelligence informatique.
         - [**ESGT**](https://www.esgt.cnam.fr/presentation/){target=_blank} : École Supérieure d'Ingénieurs Géomètres et Topographes. Plaquette  [**ESGT**](./pdf/ESGT_plaquette_ecole.pdf){target=_blank} - Présentation du cycle [**ingénieur**](./pdf/ESGT_cycle_ingenieur.pdf){target=_blank} spécialité géomètre et du cycle [**préparatoire**](./pdf/ESGT_cycle_preparatoire_integre.pdf){target=_blank} (*Le Man - 72*).
         - [**ESIGELEC**](https://www.esigelec.fr/fr){target=_blank} : Ecole d'Ingénieurs généralistes (*Saint-Étienne-du-Rouvray - 76*).
         - [**ESME**](https://www.esme.fr/){target=_blank} : les ingénieurs qui transforment le monde (numérique, robotique et IA et transition énergétique).
         - [**ESEO**](https://eseo.fr/){target=_blank} : Ecole d'Ingénieurs généralistes des technologies de la transformation numérique et électronique (*Angers - 49 ; Paris-Vélizy - 78 ; Dijon - 21*).
         - [**ESTACA**](https://www.estaca.fr/){target=_blank} : Ecole d'Ingénieurs dans le domaine des transports (aéronautique - automobile - ferroviaire - spatial - naval) (*Talence - 33 ; Laval - 53 ; Saint-Quentin-en-Yvelines - 78*).
-        - [**ICAM**](https://www.icam.fr/){target=_blank} : Ecoles d'Ingénieurs généralistes.
+        - [**ICAM**](https://www.icam.fr/){target=_blank} : Ecoles d'Ingénieurs généralistes. [**Formulaire**](https://www.icam.fr/inscription-journee-immersion/){target=_blank} journées d'immersion.
         - [**INSA**](https://www.insa-rennes.fr/){target=_blank} : Institut National des Sciences Appliquées (*Rennes - 35*).
         - [**IPSA**](https://www.ipsa.fr/){target=_blank} : École d'ingénieurs de l'air, de l'espace et de la mobilité durable (*Paris - Toulouse*).
         - [**ISAE-SUPAERO**](https://www.isae-supaero.fr/fr/){target=_blank} : Leader mondial de l’enseignement supérieur dans le domaine de l’ingénierie aérospatiale  (*Toulouse - 31*)
         - [**ISEN**](https://www.isen.fr/){target=_blank} : Formations d'ingénieurs dans le numérique.
+        - [**ONIRIS - VetAgroBio Nantes**](https://www.oniris-nantes.fr/){target=_blank} : Formations techniciens supérieurs dans l'industrie agroalimentaire pour devenir ingénieur ou vétérinaire.
         - [**SUP'BIOTECH**](https://www.supbiotech.fr/){target=_blank} : l'école des ingénieur·e·s en Biotechnologies.
         - [**UNGE**](https://www.unge.net/index.php){target=_blank} : Union Nationale des Géomètres-Experts.
     === "IngénieurEs"
@@ -495,12 +500,15 @@ ___
     === "PRESENTATION"
         - [**Pourquoi choisir la Fac ?**](https://www.letudiant.fr/etudes/fac/universite-les-10-bonnes-raisons-de-choisir-la-fac.html){target=_blank} (*Sources : L'Etudiant*).
     === "CAMPUS"
+        - [**CNRS Sorbonne Université**](https://www.sb-roscoff.fr/){target=_blank} : Station biologique de Roscoff / CNRS-Sorbonne.
         - [**ICR**](https://www.icrennes.org/){target=_blank} : Institut Catholique de Rennes.
         - [**RENNES1**](https://www.univ-rennes1.fr/){target=_blank} : Université de Rennes1.
         - [**RENNES2**](https://www.univ-rennes2.fr/){target=_blank} : Université de Rennes2.
-        - [**CNRS Sorbonne Université**](https://www.sb-roscoff.fr/){target=_blank} : Station biologique de Roscoff / CNRS-Sorbonne.
         - [**UBO**](https://nouveau.univ-brest.fr/fr){target=_blank} : Université de Bretagne Occidentale.
-        - [**UCO**](https://www.uco.fr/fr){target=_blank} : Université Catholique de l'Ouest. Licences professionnelles à découvrir :
+        - [**UBS**](https://www.univ-ubs.fr/fr/index.html){target=_blank} : Université Bretagne Sud.
+        - [**UCO**](https://www.uco.fr/fr){target=_blank} : Université Catholique de l'Ouest. 
+            
+            <u>*Licences professionnelles à découvrir :*</u>
             
             - [**Sciences  et technologies - Ingénierie des produits et process - Cosmétiques/Alimentation Santé**](./pdf/UCO_bretagne_nord_Fiche_Formation_Sciences_et_Technologies.pdf){target=_blank} 
                 
@@ -510,11 +518,8 @@ ___
         - [**UTC**](https://www.utc.fr/){target=_blank} : Université de Technologie de Compiègne.
     === "JOURNEES DECOUVERTES"
         
-        
 
-
-
-![Schéma des études supérieures](./images/Schema-des-etudes-superieures-2020-2021.png "info-bulle"){width=90%}  
+![Schéma des études supérieures](./images/orientation/Schema_etudes_superieures_2023-2024.png "Schema_etudes"){width=90%}  
   
 
 

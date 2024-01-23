@@ -10,6 +10,17 @@
 
 ## Expositions et projets
 
+??? "**Café Philo - le 19/01/2024**"
+    ![Affiche](./images/expositions/20240119_Cafe_philo_affiche.JPG "Café Philo"){width=15% align=left}
+
+    Des élèves de **1ère et terminale du LGT et du LP** ont répondu à l'invitation des enseignantes de la discipline et de la documentaliste, ce vendredi pour discuter philosophie. Le thème du premier rendez-vous "Y a-t-il des bons et des méchants ?" a suscité des débats intéressants.
+
+    ==**Le prochain rendez-vous du café philo est prévu le vendredi 16 février**==. ***N''hésitez pas à nous rejoindre...***
+
+    ![Groupe](./images/expositions/20240119_Cafe_philo_02.jpg "Café Philo"){width=45% align=left}
+    ![Groupe](./images/expositions/20240119_Cafe_philo_03.jpg "Café Philo"){width=45% align=left}
+
+
 ??? "**Conférence contre la peine de mort - le 27/11/2023**"
     
     ==**VILLES POUR LA VIE, VILLES CONTRE LA PEINE DE MORT**==
@@ -83,9 +94,10 @@
     [![Ca m'intéresse](./images/abonnements/01_janvier_2024/Ca_m_interesse_janvier_2024_515.jpg "Ca m'intéresse, janvier 2024, 515"){width=20%}](./images/abonnements/01_janvier_2024/Ca_m_interesse_janvier_2024_515.pdf){target=_blank}
     [![Courrier international](./images/abonnements/01_janvier_2024/Courrier_international_04_janvier_2024_1731.jpg "Courrier international, 04 janvier 2024, 1731"){width=20%}](./images/abonnements/01_janvier_2024/Courrier_international_04_janvier_2024_1731.pdf){target=_blank}
     [![Courrier international](./images/abonnements/01_janvier_2024/Courrier_international_11_janvier_2024_1732.jpg "Courrier international, 11 janvier 2024, 1732"){width=20%}](./images/abonnements/01_janvier_2024/Courrier_international_11_janvier_2024_1732.pdf){target=_blank}
+    [![Courrier international](./images/abonnements/01_janvier_2024/Courrier_international_18_janvier_2024_1733.jpg "Courrier international, 18 janvier 2024, 1733"){width=20%}](./images/abonnements/01_janvier_2024/Courrier_international_18_janvier_2024_1733.pdf){target=_blank}
     [![Documentation photographique](./images/abonnements/12_decembre_2023/Documentation_photographique_decembre_2023_8156.jpg "Documentation photographique, décembre 2023, 8156"){width=20%}](./images/abonnements/12_decembre_2023/Documentation_photographique_decembre_2023_8156.pdf){target=_blank}
     [![Lire](./images/abonnements/01_janvier_2024/Lire_magazine_decembre_2023_525.jpg "Lire, décembre 2023 - janvier 2024, n°525"){width=20%}](./images/abonnements/01_janvier_2024/Lire_magazine_decembre_2023_525.pdf){target=_blank}
-    [![Philosophie magazine](./images/abonnements/12_decembre_2023/Philosophie_magazine_decembre_2023_175.jpg "Philosophie magazine, décembre 2023, 175"){width=20%}](./images/abonnements/12_decembre_2023/Philosophie_magazine_decembre_2023_175.pdf){target=_blank}
+    [![Philosophie magazine](./images/abonnements/12_decembre_2023/Philosophie_magazine_decembre_2023_175.jpg "Philosophie magazine, décembre 2023-janvier 2024, 175"){width=20%}](./images/abonnements/12_decembre_2023/Philosophie_magazine_decembre_2023_175.pdf){target=_blank}
     [![Phosphore](./images/abonnements/01_janvier_2024/Phosphore_01_janvier_2024_567.jpg "Phosphore, 1er janvier 2024, 567"){width=20%}](./images/abonnements/01_janvier_2024/Phosphore_01_janvier_2024_567.pdf){target=_blank}
     [![Phosphore](./images/abonnements/01_janvier_2024/Phosphore_15_janvier_2024_568.jpg "Phosphore, 15 janvier 202, 568"){width=20%}](./images/abonnements/01_janvier_2024/Phosphore_15_janvier_2024_568.pdf){target=_blank}
     [![Pour l'éco](./images/abonnements/12_decembre_2023/Pour_l_eco_decembre_2023_57.jpg "Pour l'éco, décembre 2023, 57"){width=20%}](./images/abonnements/12_decembre_2023/Pour_l_eco_decembre_2023_57.pdf){target=_blank}
