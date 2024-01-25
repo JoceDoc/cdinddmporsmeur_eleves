@@ -165,9 +165,9 @@ ___
         
         **Prochain RDV du** [**FORUM EN LIGNE**](https://padlet.com/cdinddmporsmeur/forum_en_ligne_2022){target=_blank} 
         
-        **Lundi 15 janvier : ==INSA==** 
+        **Lundi 29 janvier : ==ENSAB==** 
         
-        Plus d'informations sur le site du [Groupe INSA](https://www.groupe-insa.fr/){target=blank}.
+        Plus d'informations sur le site du [ENSAB](https://www.rennes.archi.fr/){target=blank}.
 
                         
     === "PARCOURSUP"
