@@ -1,25 +1,25 @@
 
-
-![Affiche](./images/actualites/Midis_de_l_info.png "Midis de l'INFO"){width=45% align=left}
-
-
-
 ???+ example inline end "Actualités ECA.M"
        
     [![logo ECAM](./images/logo_ecam.jpg "Actualités Lycée"){width=90% align=right}](https://www.ecmorlaix.fr/actualites/){target=_blank}
 
 
+
+![Affiche](./images/actualites/Midis_de_l_info.png "Midis de l'INFO"){width=35% align=right}
+
+
+
 ## Expositions et projets
 
 ??? "**Café PHILO**"
-    ![Affiche](./images/expositions/20240119_Cafe_philo_affiche.JPG "Café Philo"){width=15% align=left}
+    ![Affiche](./images/expositions/20240119_Cafe_philo_affiche.JPG "Café Philo"){width=35% align=left}
 
-    Des élèves de **1ère et terminale du LGT et du LP** ont répondu à l'invitation des enseignantes de la discipline et de la documentaliste, ce vendredi pour discuter philosophie. Le thème du premier rendez-vous "Y a-t-il des bons et des méchants ?" a suscité des débats intéressants.
+    Des élèves de **1ère et terminale du LGT et du LP** ont répondu à l'invitation des enseignantes de la discipline et de la documentaliste, ==**vendredi 19 janvier**== pour discuter philosophie. Le thème du premier rendez-vous ***"Y a-t-il des bons et des méchants ?"*** a suscité des débats intéressants.
 
-    ==**Le prochain rendez-vous du café philo est prévu le vendredi 16 février**==. ***N''hésitez pas à nous rejoindre...***
+    ==**Le prochain rendez-vous du café philo est prévu le vendredi 16 février**==. ***N'hésitez pas à nous rejoindre...***
 
-    ![Groupe](./images/expositions/20240119_Cafe_philo_02.jpg "Café Philo"){width=45% align=left}
-    ![Groupe](./images/expositions/20240119_Cafe_philo_03.jpg "Café Philo"){width=45% align=left}
+    ![Groupe](./images/expositions/20240119_Cafe_philo_02.jpg "Café Philo"){width=75% align=left}
+    ![Groupe](./images/expositions/20240119_Cafe_philo_03.jpg "Café Philo"){width=75% align=left}
 
 
 ??? "**Conférence contre la peine de mort - le 27/11/2023**"
@@ -38,8 +38,8 @@
 
     En préparation de la rencontre avec Antoinette Chahine, des lycéens ont participé au CDI à un ==**atelier d’écriture**==, conduit par Michel Bras, écrivain public. L’objectif était d’écrire des lettres à des prisonniers condamnés à mort, dont les associations suivent actuellement la situation dans différents pays. 
     
-    ![Atelier d'écriture](./images/expositions/atelier_ecriture_dgemc.jpg "DGEMC_atelier d'écriture"){width=45% align=right}
-    ![Exposition](./images/expositions/Exposition_conf_peine_mort.jpg "Exposition_atelier d'écriture"){width=45% align=right}
+    ![Atelier d'écriture](./images/expositions/atelier_ecriture_dgemc.jpg "DGEMC_atelier d'écriture"){width=75% align=right}
+    ![Exposition](./images/expositions/Exposition_conf_peine_mort.jpg "Exposition_atelier d'écriture"){width=75% align=right}
 
 ??? "**Jeunes en librairie 2023-2024**"
     
@@ -49,8 +49,8 @@
    
     Une rencontre avec l'autrice ==**Louise Delgado**== est programmée en 2024.
         
-    ![Jeunes en librairie](./images/expositions/yuna_cdi_epc.jpg "Yuna au CDI avec Term EPC"){width=35% align=right}
-    ![Jeunes en librairie](./images/expositions/Yuna_cdi_aepe.jpg "Yuna au CDI avec Term AEPE"){width=35% align=right}
+    ![Jeunes en librairie](./images/expositions/yuna_cdi_epc.jpg "Yuna au CDI avec Term EPC"){width=75% align=right}
+    ![Jeunes en librairie](./images/expositions/Yuna_cdi_aepe.jpg "Yuna au CDI avec Term AEPE"){width=75% align=right}
   
 
 
@@ -70,14 +70,14 @@
 ??? "**Option Arts plastiques**"
     En novembre et décembre, Les élèves de l'==**option Arts plastiques**== vous proposent de découvrir leurs travaux au CDI.
 
-    ==**« DE LA COULEUR AVANT TOUTE CHOSE »**== : Exposition des PEINTURES des 1ères & Terminales
+    ==**DE LA COULEUR AVANT TOUTE CHOSE**== : Exposition des PEINTURES des 1ères & Terminales
 
-    ==**« DESSINER : VOIR / PENSER / SAVOIR »**== : Exposition des DESSINS des Secondes
+    ==**DESSINER : VOIR / PENSER / SAVOIR**== : Exposition des DESSINS des Secondes
     
-    ![Arts_plastiques](./images/expositions/option_Ninon_Caraes_TSTMG.JPG "Ninon Caraes"){width=25% align=left}
-    ![Arts_plastiques](./images/expositions/option_Margot_Bouchez_1G1.JPG "Margot Bouchez"){width=25% align=left}
-    ![Arts_plastiques](./images/expositions/option_Roxanne_Sylla_TG1.JPG "Roxane Sylla"){width=25% align=left}
-    ![Arts_plastiques](./images/expositions/option_Lea_Bellec_TG1.JPG "Léa Bellec"){width=25% align=left}
+    ![Arts_plastiques](./images/expositions/option_Ninon_Caraes_TSTMG.JPG "Ninon Caraes"){width=75% align=left}
+    ![Arts_plastiques](./images/expositions/option_Margot_Bouchez_1G1.JPG "Margot Bouchez"){width=75% align=left}
+    ![Arts_plastiques](./images/expositions/option_Roxanne_Sylla_TG1.JPG "Roxane Sylla"){width=75% align=left}
+    ![Arts_plastiques](./images/expositions/option_Lea_Bellec_TG1.JPG "Léa Bellec"){width=75% align=left}
     
 
 ## Nouveautés
