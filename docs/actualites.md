@@ -1,7 +1,8 @@
 
 
+![Affiche](./images/actualites/Midis_de_l_info.png "Midis de l'INFO"){width=45% align=left}
 
-**Pour ne rien manquer des dernières actualités du lycée et du CDI.**
+
 
 ???+ example inline end "Actualités ECA.M"
        
@@ -10,7 +11,7 @@
 
 ## Expositions et projets
 
-??? "**Café Philo - le 19/01/2024**"
+??? "**Café PHILO**"
     ![Affiche](./images/expositions/20240119_Cafe_philo_affiche.JPG "Café Philo"){width=15% align=left}
 
     Des élèves de **1ère et terminale du LGT et du LP** ont répondu à l'invitation des enseignantes de la discipline et de la documentaliste, ce vendredi pour discuter philosophie. Le thème du premier rendez-vous "Y a-t-il des bons et des méchants ?" a suscité des débats intéressants.

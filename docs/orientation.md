@@ -17,8 +17,9 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
 
 ## Actualités
 
-???+ info "**Visioconférence Ecole Nationale Supérieure de Chimie  - Rennes - 20 janvier**"
-    [![**VISIO de ENSCR**](./images/orientation/2024_ENSCR_Rennes_visio.jpg){width=35%}](https://www.ensc-rennes.fr/accedez-aux-visioconferences/){target=_blank}
+???+ info "**Portes ouvertes**"
+    [![**PO ENSCR**](./images/orientation/2024_ENSCR_affiche_PO.jpg){width=45%}](https://www.ensc-rennes.fr/journee-portes-ouvertes-samedi-10-fevrier-2024-2/){target=_blank}
+    [![**PO Lycée Lesage**](./images/orientation/2024_LeSage-Vannes_PO.jpg){width=45%}](https://lycee-lesage.fr/){target=_blank}
 
 
 ???+ info "**Ouverture de PARCOURSUP - Mercredi 20 décembre**"
@@ -230,7 +231,6 @@ ___
 ### Voie professionnelle
 ??? "VOIE PRO"
     === "RESSOURCES"
-        - [**Vers le PADLET voie pro**](https://padlet.com/cdinddmporsmeur/LP_2020){target=_blank}
         - [**Recherche de stage, mode d'emploi**](./pdf/IDEO_Recherche_de_stage_mode_d_emploi.pdf){target=_blank}
         - [**Je choisis mon CAP**](./pdf/IDEO_2022_je_choisis_mon_CAP.pdf){target=_blank}
 
@@ -293,6 +293,7 @@ ___
         [![**Concours Médecin militaire**](./images/orientation/ESA_Fiche_Medecin_OSC_Page_1.jpg "Médecin militaire_1"){width=25%}](./images/orientation/ESA_Fiche_Medecin_militaire.pdf){target=_blank}
         [![**Concours pharmacien militaire**](./images/orientation/ESA_Fiche_Pharmacien_EMSLB_3_Page_1.jpg "Pharmacien militaire_"){width=25%}](./images/orientation/ESA_Fiche_Pharmacien_militaire.pdf){target=_blank}
 
+___ 
 ### Arts - Artisanat - Culture
 ??? "Liens utiles"
     === "ARTS"
@@ -318,6 +319,7 @@ ___
         - [**ESDES**](https://www.itcformation.com/){target=_blank} : grande école de commerce et de management, membre de la Conférence des Grandes Écoles (*lyon - Annecy*)
         - [**ITC**](https://www.itcformation.com/){target=_blank} : école supérieure de management et de commerce (*Brest - Quimper - St-Brieuc*)
 
+___ 
 ### Droit - Economie - Gestion
 ??? "Liens utiles"
     === "DROIT"
@@ -328,6 +330,7 @@ ___
         - Forum des métiers du droit : [**UBO - Pôle de Quimper**](https://www.univ-brest.fr/pole-quimper/fr/actualite/forum-des-metiers-du-droit){target=_blank} - ==**samedi 27 janvier 2024 - 9h**==
         - Forum des métiers du droit : [**Faculté de droit économie gestion**](https://www.univ-brest.fr/faculte-droit-economie-gestion-aes/fr/actualite/forum-des-metiers-du-droit){target=_blank} - ==**samedi 17 février 2024 - 10h**==
 
+___ 
 ### Energies - Environnement
 ??? "Liens utiles"
     === "ENERGIE"
@@ -335,6 +338,8 @@ ___
     === "ENVIRONNEMENT"
         - [**Environnement**](https://www.onisep.fr/decouvrir-les-metiers/des-metiers-par-secteur/environnement){target=_blank} : métiers, emploi et formations dans le secteur de l'environnement. (*Sources : Onisep*)
         - A découvrir au **Lycée Notre-Dame de Guingamp** : [**BTS Métiers de l'eau**](https://www.notredameguingamp.fr/superieur/bts-me-metiers-de-leau/){target=_blank} et [**BUT MA ME - Maintenance Avancée Parcours Métiers de l'eau**](https://www.notredameguingamp.fr/bachelor-maintenance-avancee-parcours-metiers-de-leau/){target=_blank}
+
+___ 
 ### Enseignement - Recherche
 ??? "Liens utiles"
     === "ENSEIGNEMENT"
@@ -374,15 +379,11 @@ ___
         - [**Fiches métiers**](https://www.studyrama.com/formations/fiches-metiers/sport){target=_blank} : site **Studyrama**.
         - [**IFEPSA**](https://ifepsa.uco.fr/fr){target=_blank} : Institut de Formation en Education Physique et en Sport (*Les Ponts de Cé - 49*) 
 
-
 ___ 
 ## FORMATIONS
-
 ___ 
 ### BTS
-
-    
-
+ 
 ??? "Liens utiles"
     === "PRESENTATION"
         - [**Les BTS**](https://www.onisep.fr/Choisir-mes-etudes/apres-le-bac/organisation-des-etudes-superieures/Les-BTS){target=_blank} : organisation des études, poursuite d'études. (*Sources : Onisep*)
@@ -462,7 +463,7 @@ ___
         - [**Puissance ALPHA**](https://www.puissance-alpha.fr/){target=_blank} : les 18 grandes écoles d'ingénieurs du groupe, modalités d'admission.
     === "ECOLES"
         - [**CPE Lyon**](https://www.cpe.fr/){target=_blank} : Ecole d'Ingénieurs en Chimie et Sciences du Numérique (*Lyon - 69*).
-        - [**ENSC Rennes**](https://www.ensc-rennes.fr/){target=_blank} : Ecole Nationale Supérieure de Chimie - Portes ouvertes ==**samedi 10 février 2024 - 9h-17h**==. (*Rennes - 35*)
+        - [**ENSCR Rennes**](https://www.ensc-rennes.fr/){target=_blank} : Ecole Nationale Supérieure de Chimie de Rennes- Portes ouvertes ==**samedi 10 février 2024 - 9h-17h**==. (*Rennes - 35*)
         - [**EPITA**](https://www.epita.fr/){target=_blank} : Ecole des ingénieurs en intelligence informatique.
         - [**ESGT**](https://www.esgt.cnam.fr/presentation/){target=_blank} : École Supérieure d'Ingénieurs Géomètres et Topographes. Plaquette  [**ESGT**](./pdf/ESGT_plaquette_ecole.pdf){target=_blank} - Présentation du cycle [**ingénieur**](./pdf/ESGT_cycle_ingenieur.pdf){target=_blank} spécialité géomètre et du cycle [**préparatoire**](./pdf/ESGT_cycle_preparatoire_integre.pdf){target=_blank} (*Le Man - 72*).
         - [**ESIGELEC**](https://www.esigelec.fr/fr){target=_blank} : Ecole d'Ingénieurs généralistes (*Saint-Étienne-du-Rouvray - 76*).
