@@ -90,7 +90,7 @@
 ??? "**Kiosque du mois** :newspaper:"
     
     [![01NET](./images/abonnements/01_janvier_2024/01NET_10_janvier_2024_1014.jpg "01NET, 10 janvier 2024, n°1014"){width=20%}](./images/abonnements/01_janvier_2024/01NET_10_janvier_2024_1014.pdf){target=_blank}
-    [![Aide-soignante](./images/abonnements/12_decembre_2023/Aide-soignante_decembre_2023_252.jpg "Aide-soignante, décembre 2023, n°252"){width=20%}](./images/abonnements/12_decembre_2023/Aide-soignante_decembre_2023_252.pdf){target=_blank}
+    [![Aide-soignante](./images/abonnements/01_janvier_2024/Aide-soignante_janvier_2024_253.jpg "Aide-soignante, janvier 2024, n°253"){width=20%}](./images/abonnements/01_janvier_2024/Aide-soignante_janvier_2024_253.pdf){target=_blank}
     [![Alternatives Economiques](./images/abonnements/01_janvier_2024/Alternatives_économiques_janvier_2024_128HS.jpg "Alternatives Economiques, janvier 2024, n°128HS"){width=20%}](./images/abonnements/01_janvier_2024/Alternatives_économiques_janvier_2024_128HS.pdf){target=_blank}
     [![Ca m'intéresse](./images/abonnements/01_janvier_2024/Ca_m_interesse_janvier_2024_515.jpg "Ca m'intéresse, janvier 2024, 515"){width=20%}](./images/abonnements/01_janvier_2024/Ca_m_interesse_janvier_2024_515.pdf){target=_blank}
     [![Courrier international](./images/abonnements/01_janvier_2024/Courrier_international_04_janvier_2024_1731.jpg "Courrier international, 04 janvier 2024, 1731"){width=20%}](./images/abonnements/01_janvier_2024/Courrier_international_04_janvier_2024_1731.pdf){target=_blank}
