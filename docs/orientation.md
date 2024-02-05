@@ -18,14 +18,18 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
 ## Actualités
 
 ???+ info "**Portes ouvertes**"
-    [![**PO ENSCR**](./images/orientation/2024_ENSCR_affiche_PO.jpg){width=45%}](https://www.ensc-rennes.fr/journee-portes-ouvertes-samedi-10-fevrier-2024-2/){target=_blank}
-    [![**PO Lycée Lesage**](./images/orientation/2024_LeSage-Vannes_PO.jpg){width=45%}](https://lycee-lesage.fr/){target=_blank}
-
+    [![**PO ENSCR**](./images/orientation/2024_ENSCR_affiche_PO.jpg){width=40%}](https://www.ensc-rennes.fr/journee-portes-ouvertes-samedi-10-fevrier-2024-2/){target=_blank}
+    [![**PO Lycée Lesage**](./images/orientation/2024_LeSage-Vannes_PO.jpg){width=40%}](https://lycee-lesage.fr/){target=_blank}
+    [![**PO ASKORIA**](./images/orientation/2024_Askoria_flyer_bachelor_morlaix.jpg){width=35%}](https://www.askoria.eu/evenement/portes-ouvertes-morlaix/){target=_blank}
+    [![**PO ASKORIA**](./images/orientation/2024_Askoria_PO_flyer.jpg){width=60%}](https://www.askoria.eu/portes-ouvertes-des-campus-des-solidarites-programme-2023-2024/){target=_blank}
+    [![**PO UBO**](./images/orientation/2024_UBO_Brest-quimper-Morlaix.png){width=40%}](https://www.univ-brest.fr/fr/page/portes-ouvertes){target=_blank}
+    
+    
 
 ???+ info "**Ouverture de PARCOURSUP - Mercredi 20 décembre**"
     [![**PARCOURSUP**](./images/orientation/parcoursup.png){width=35%}](https://www.parcoursup.gouv.fr/){target=_blank}
 
-    Les [nouvelles fonctionnalités](https://www.education.gouv.fr/ouverture-du-site-d-information-parcoursup-2024-380373){target=_blank} sont présentées sur le site du Ministère de l'Education Nationale et de la jeunesse.  
+    Les [**nouvelles fonctionnalités**](https://www.education.gouv.fr/ouverture-du-site-d-information-parcoursup-2024-380373){target=_blank} sont présentées sur le site du Ministère de l'Education Nationale et de la jeunesse.  
 
 
 ??? attention "**Immersions - Journées découvertes dans le supérieur**"
@@ -168,7 +172,9 @@ ___
         
         **Lundi 29 janvier : ==ENSAB==** 
         
-        Plus d'informations sur le site du [ENSAB](https://www.rennes.archi.fr/){target=blank}.
+        Plus d'informations sur le site du [**ENSAB**](https://www.rennes.archi.fr/){target=blank}.
+
+        [**BRIO**](https://www.linscription.com/pro/activite.php?P1=169699){target=_blank} propose des visios express avec un étudiant ambassadeur, le jeudi de 18h à 18h30, à partir du 8 février : découvrez les formations concernées. 
 
                         
     === "PARCOURSUP"
