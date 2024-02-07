@@ -284,7 +284,7 @@ ___
         - [**Marine Nationale**](https://www.lamarinerecrute.fr/){target=_blank} : En 2022, la marine recrute **4000 jeunes femmes et hommes**, rejoignez l’équipage...
         - [**ENSM**](https://www.supmaritime.fr/){target=_blank} : Ecole Nationale Supérieure Maritime - [**Dates et inscriptions**](https://www.supmaritime.fr/jpo-ensm-2023/){target=_blank} aux journées portes ouvertes par site (Le Havre - Marseille - Nantes - Saint-Malo).
         
-        [![Forum_des _armées](./images/orientation/CIRFA_chateaulin_affiche.png "Affiche"){width=25%}](https://finisterejob.fr/evenements/2023-11-25/a-la-rencontre-des-professionnelles-des-forces-armees_656462595e10cd79ae16ea85){target=_blank}
+        [![Forum_des _armées](./images/orientation/2024_AAE-1.jpg "Affiche"){width=25%}](https://devenir-aviateur.fr/){target=_blank}
         [![Forum_Métiers_aéronautique](./images/orientation/Forum_metiers_aeronautique_BAN_Landivisiau_20230331.jpg "Affiche"){width=25%}](https://www.eventbrite.fr/e/billets-forum-des-metiers-de-laeronautique-navale-438995967757){target=_blank}
         [![**AIR actualités"**](./images/orientation/Air_actualites_20221101_couverture.jpg "Couverture_air_actualités"){width=25%}](./pdf/Air_actualites_20221101.pdf){target=_blank}
         [![**EFSOAA"**](./images/orientation/brochure-efsoaa-page-001.jpg "EFSOAA"){width=25%}](./pdf/brochure-efsoaa.pdf){target=_blank}
@@ -467,6 +467,8 @@ ___
         - [**GEIPI POLYTECH**](https://www.geipi-polytech.org/){target=_blank} : concours d'entrée commun à 35 écoles d'ingénieurs publiques. 
         - [**IPESUP**](https://www.ipesup.fr/){target=_blank} : prépa concours AVENIR - PUISSANCE ALPHA - GEPI POLYTECH.
         - [**Puissance ALPHA**](https://www.puissance-alpha.fr/){target=_blank} : les 18 grandes écoles d'ingénieurs du groupe, modalités d'admission.
+
+         [![**Concours ENM**](./images/orientation/2024_ITM_meteo_france.jpg "Concours Ecole Nationale de Météorologie"){width=25%}](https://meteofrance.fr/enm/admission){target=_blank}
     === "ECOLES"
         - [**CPE Lyon**](https://www.cpe.fr/){target=_blank} : Ecole d'Ingénieurs en Chimie et Sciences du Numérique (*Lyon - 69*).
         - [**ENSCR Rennes**](https://www.ensc-rennes.fr/){target=_blank} : Ecole Nationale Supérieure de Chimie de Rennes- Portes ouvertes ==**samedi 10 février 2024 - 9h-17h**==. (*Rennes - 35*)
