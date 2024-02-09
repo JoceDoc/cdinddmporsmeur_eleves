@@ -397,7 +397,7 @@ ___
 ___
 #### Physique Chimie
 
-???+ "**2023-2024 :Année de la physique**"
+???+ "**2023-2024 : Année de la physique**"
     [![**logo**](./images/pedagogie/logo_annee_physique.png "Page d'accueil année de la physique"){width=45%}](https://anneedelaphysique.cnrs.fr/){target=_blank} 
 ??? "Programmes"
     Sur le site [**Eduscol**](https://eduscol.education.fr/1648/programmes-et-ressources-en-physique-chimie-voie-gt){target=_blank}
