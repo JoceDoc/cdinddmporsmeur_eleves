@@ -285,7 +285,7 @@ ___
         - [**ENSM**](https://www.supmaritime.fr/){target=_blank} : Ecole Nationale Supérieure Maritime - [**Dates et inscriptions**](https://www.supmaritime.fr/jpo-ensm-2023/){target=_blank} aux journées portes ouvertes par site (Le Havre - Marseille - Nantes - Saint-Malo).
         
         [![Forum_des _armées](./images/orientation/2024_AAE-1.jpg "Affiche"){width=25%}](https://devenir-aviateur.fr/){target=_blank}
-        [![Recrutement_EETAAE](./images/orientation/EETAAE_recrutement_2024.jpg "Affiche"){width=25%}](https://eetaa722.fr/){target=_blank}
+        [![Recrutement_EETAAE](./images/orientation/EETAAE_recrutement_2024.jpg "Affiche"){width=40%}](https://eetaa722.fr/){target=_blank}
         [![Forum_Métiers_aéronautique](./images/orientation/Forum_metiers_aeronautique_BAN_Landivisiau_20230331.jpg "Affiche"){width=25%}](https://www.eventbrite.fr/e/billets-forum-des-metiers-de-laeronautique-navale-438995967757){target=_blank}
         [![**AIR actualités"**](./images/orientation/Air_actualites_20221101_couverture.jpg "Couverture_air_actualités"){width=25%}](./pdf/Air_actualites_20221101.pdf){target=_blank}
         [![**EFSOAA"**](./images/orientation/brochure-efsoaa-page-001.jpg "EFSOAA"){width=25%}](./pdf/brochure-efsoaa.pdf){target=_blank}
