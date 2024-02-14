@@ -35,6 +35,16 @@
         **Les films présentés cette année** (==*Cliquez sur l'affiche pour accéder à la fiche sur le film*==) :
 
         [![Illusions_perdues](./images/culture/illusions_perdues.jpg "Illusions perdues"){width=20%}](./pdf/Illusions_perdues_fiche_film_et_culture.pdf){target=_blank}
+        [![Woman at war](./images/culture/woman_at_war.jpg "Woman at war"){width=19%}](./pdf/){target=_blank}
+         [![Je verrai toujours vos visages](./images/culture/je_verrai_toujours_vos_visages.jpg "Je verrai toujours vos visages"){width=19%}](./pdf/Je_verrai_toujours_vos_visages.pdf){target=_blank}
+
+        [![Le discours d'un roi](./images/culture/discours_d_un_roi.jpg "Le discours d'un roi"){width=19%}](./pdf/){target=_blank}
+        [![Un triomphe](./images/culture/un-triomphe.jpeg "un triomphe"){width=19%}](./pdf/){target=_blank}
+        [![La couleur de la victoire](./images/culture/la_couleur_de_la_victoire.jpg "La couleur de la victoire"){width=19%}](./pdf/La_Couleur_de_la_victoire.pdf){target=_blank}
+        [![Les trois mousquetaires](./images/culture/trois_mousquetaires.jpg "Les trois mousquetaires"){width=19%}](./pdf/){target=_blank}
+       
+
+
         
         **Ci-dessous, les films présentés en 2022-2023** :
 
