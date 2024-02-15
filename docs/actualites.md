@@ -39,9 +39,9 @@
 
     Ce 30 novembre, la ville de Morlaix fêtera ses dix ans d’engagement et recevra, à cette occasion, à la mairie ==**Antoinette Chahine**==. Lors de son passage dans notre région, à l’invitation de trois associations, [**Amnesty international**](https://www.amnesty.fr/){target=_blank}, l’[**ACAT**](https://www.acatfrance.fr/){target=_blank} et la [**Ligue des droits de l’homme**](https://www.ldh-france.org/){target=_blank}, Mme Chahine rencontrera les élèves de plusieurs lycées de la région pour leur expliquer pourquoi elle sillonne aujourd'hui le monde pour témoigner, défendre les droits humains et militer contre l'injustice, la torture et la peine de mort. 
     
-    Pour notre lycée la conférence aura lieu : ==**Lundi 27/11/2023 de 10h -12h**==
+    Pour notre lycée la conférence a eu lieu : ==**Lundi 27/11/2023 de 10h -12h**==
 
-    En préparation de la rencontre avec Antoinette Chahine, des lycéens ont participé au CDI à un ==**atelier d’écriture**==, conduit par Michel Bras, écrivain public. L’objectif était d’écrire des lettres à des prisonniers condamnés à mort, dont les associations suivent actuellement la situation dans différents pays. 
+    En préparation de la rencontre avec Antoinette Chahine, des lycéens avaient participé au CDI à un ==**atelier d’écriture**==, conduit par Michel Bras, écrivain public. L’objectif était d’écrire des lettres à des prisonniers condamnés à mort, dont les associations suivent actuellement la situation dans différents pays. 
     
     ![Atelier d'écriture](./images/expositions/atelier_ecriture_dgemc.jpg "DGEMC_atelier d'écriture"){width=75% align=right}
     ![Exposition](./images/expositions/Exposition_conf_peine_mort.jpg "Exposition_atelier d'écriture"){width=75% align=right}

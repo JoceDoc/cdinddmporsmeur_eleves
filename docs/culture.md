@@ -34,29 +34,46 @@
         
         **Les films présentés cette année** (==*Cliquez sur l'affiche pour accéder à la fiche sur le film*==) :
 
-        [![Illusions_perdues](./images/culture/illusions_perdues.jpg "Illusions perdues"){width=20%}](./pdf/Illusions_perdues_fiche_film_et_culture.pdf){target=_blank}
-        [![Woman at war](./images/culture/woman_at_war.jpg "Woman at war"){width=19%}](./pdf/){target=_blank}
-         [![Je verrai toujours vos visages](./images/culture/je_verrai_toujours_vos_visages.jpg "Je verrai toujours vos visages"){width=19%}](./pdf/Je_verrai_toujours_vos_visages.pdf){target=_blank}
+        [![Illusions_perdues](./images/culture/FC_illusions_perdues.jpg "Illusions perdues"){width=20%}](./pdf/Illusions_perdues_fiche_film_et_culture.pdf){target=_blank}
+        [![Woman at war](./images/culture/FC_woman_at_war.jpg "Woman at war"){width=19%}](./pdf/){target=_blank}
+         [![Je verrai toujours vos visages](./images/culture/FC_je_verrai_toujours_vos_visages.jpg "Je verrai toujours vos visages"){width=19%}](./pdf/Je_verrai_toujours_vos_visages.pdf){target=_blank}
 
-        [![Le discours d'un roi](./images/culture/discours_d_un_roi.jpg "Le discours d'un roi"){width=19%}](./pdf/){target=_blank}
-        [![Un triomphe](./images/culture/un-triomphe.jpeg "un triomphe"){width=19%}](./pdf/){target=_blank}
-        [![La couleur de la victoire](./images/culture/la_couleur_de_la_victoire.jpg "La couleur de la victoire"){width=19%}](./pdf/La_Couleur_de_la_victoire.pdf){target=_blank}
-        [![Les trois mousquetaires](./images/culture/trois_mousquetaires.jpg "Les trois mousquetaires"){width=19%}](./pdf/){target=_blank}
+        [![Le discours d'un roi](./images/culture/FC_discours_d_un_roi.jpg "Le discours d'un roi"){width=19%}](./pdf/){target=_blank}
+        [![Un triomphe](./images/culture/FC_un-triomphe.jpeg "un triomphe"){width=19%}](./pdf/){target=_blank}
+        [![La couleur de la victoire](./images/culture/FC_la_couleur_de_la_victoire.jpg "La couleur de la victoire"){width=19%}](./pdf/La_Couleur_de_la_victoire.pdf){target=_blank}
+        [![Les trois mousquetaires](./images/culture/FC_trois_mousquetaires.jpg "Les trois mousquetaires"){width=19%}](./pdf/){target=_blank}
        
 
 
         
         **Ci-dessous, les films présentés en 2022-2023** :
 
-        [![Greenbook](./images/culture/greenbook.jpg "Greenbook"){width=20%}](./pdf/Green_book.pdf){target=_blank}
-        [![La couleur de la victoire](./images/culture/la_couleur_de_la_victoire.jpg "La couleur de la victoire"){width=19%}](./pdf/La_Couleur_de_la_victoire.pdf){target=_blank}
-        [![1917](./images/culture/1917.jpg "1917"){width=20%}](./pdf/1917.pdf){target=_blank}
-        [![Compagnons](./images/culture/compagnons.jpg "Compagnons"){width=20%}](./pdf/Compagnons.pdf){target=_blank}
+        [![Greenbook](./images/culture/FC_greenbook.jpg "Greenbook"){width=20%}](./pdf/Green_book.pdf){target=_blank}
+        [![La couleur de la victoire](./images/culture/FC_la_couleur_de_la_victoire.jpg "La couleur de la victoire"){width=19%}](./pdf/La_Couleur_de_la_victoire.pdf){target=_blank}
+        [![1917](./images/culture/FC_1917.jpg "1917"){width=20%}](./pdf/1917.pdf){target=_blank}
+        [![Compagnons](./images/culture/FC_compagnons.jpg "Compagnons"){width=20%}](./pdf/Compagnons.pdf){target=_blank}
         
 
 
     === "THEATRE"
         La proximité du [**Théâtre du Pays de Morlaix**](https://www.theatre-du-pays-de-morlaix.fr/){target=_blank} permet d'offrir aux élèves la possibilité d'assister à des représentations d'oeuvres de spectacle vivant.
+
+        **Saison 2023-2024** :
+
+        [![**A la renverse**](./images/culture/TPMX_2023-2024_A_la_renverse.jpg "A la renverse - Vendredi 17 novembre - 10h"){width=28%}](https://www.theatre-du-pays-de-morlaix.fr/A-la-renverse.html){target=_blank}
+        [![**37, Cielskaïa**](./images/culture/TPMX_2023-2024_37_cielskaia.jpg "37, Cielskaïa - Jeudi 21 novembre - 20h"){width=28%}](https://www.theatre-du-pays-de-morlaix.fr/37-Cielskaia.html){target=_blank}
+        [![**Normalito**](./images/culture/TPMX_2023-2024_normalito.jpg "Normalito - Jeudi 30 novembre - 14h"){width=28%}](https://www.theatre-du-pays-de-morlaix.fr/Normalito.html){target=_blank}
+        [![**Peter Pan**](./images/culture/TPMX_2023-2024_peter_pan.jpg "Peter Pan - Jeudi 21 décembre - 14h"){width=28%}](https://www.theatre-du-pays-de-morlaix.fr/Peter-Pan.html){target=_blank}
+        [![**Fahrenheit 451**](./images/culture/TPMX_2023-2024_fahrenheit_451.jpg "Fahrenheit 451 - vendredi 02 février - 10h"){width=28%}](https://www.theatre-du-pays-de-morlaix.fr/Fahrenheit-451.html){target=_blank}
+        [![**A la ligne**](./images/culture/TPMX_2023-2024_a_la_ligne.jpg "A la ligne - jeudi 15 février - 20h"){width=28%}](https://www.theatre-du-pays-de-morlaix.fr/A-la-ligne.html){target=_blank}
+        [![**Mes parents**](./images/culture/TPMX_2023-2024_mes_parents.jpg "Mes parents - jeudi 21 mars - 14h"){width=28%}](https://www.theatre-du-pays-de-morlaix.fr/Mes-parents.html){target=_blank}
+
+
+
+
+
+       
+        **Les spectacles découverts en 2022-2023** :
 
         [![**Monte-Cristo**](./images/culture/monte_cristo_01.jpg "Monte-Cristo - Jeudi 9 février - 14h"){width=28%}](https://www.theatre-du-pays-de-morlaix.fr/Monte-Cristo.html){target=_blank}
         [![**La petite messe solennelle**](./images/culture/la_petite_messe_solennelle_01.jpg "La petite messe solennelle - vendredi 10 mars - 20h "){width=28%}](https://www.theatre-du-pays-de-morlaix.fr/La-Petite-Messe-solennelle-559.html){target=_blank}
@@ -89,25 +106,20 @@
 
     
     === "JEUNES EN LIBRAIRIE"
-        Les élèves de 2nde AEPA et MRC participent au projet régional [**Jeunes en librairie**](https://daac.ac-rennes.fr/spip.php?article2268){target=_blank} qui a pour ambition de sensibiliser les élèves à l’ensemble de la chaîne du livre. 
-        Les élèves se sont vu accorder un crédit de 30 € à utiliser à la [**Librairie Dialogues Morlaix**](https://www.dialoguesmorlaix.com/){target=_blank} partenaire de l'opération.
-
-        Dans le cadre de ce projet les élèves de 2nde AEPA participent au [**Prix des Embouquineurs 2023**](https://www.lagalerne.com/dossiers/4-3e-1/){target=_blank}.
+            
+        Les élèves de Term EPC ET AEPE participent cette année au programme [**Jeunes en librairie**](https://daac.ac-rennes.fr/spip.php?article2268){target=_blank}, projet d’éducation artistique et culturelle autour des professionnels du livre et de la librairie.
+ 
+        Dans ce cadre, ils ont recontré Yuna de la [**Librairie Dialogues Morlaix**](https://www.dialoguesmorlaix.com/){target=_blank}, venue leur rendre visite au lycée, et ils visiteront prochainement la librairie partenaire du projet. Ils bénéficieront également d'un chèque livre de 20 € pour acheter les livres de leur choix à la librairie.
+   
+        Une rencontre avec l'autrice ==**Louise Delgado**== a eu lieu le 24 janvier.
         
-        Les élèves des deux classes ont aussi eu la chance de rencontrer des auteurs et autrices :
+        ![Jeunes en librairie](./images/culture/yuna_cdi_epc.jpg "Yuna au CDI avec Term EPC"){width=45% align=right}
+        ![Jeunes en librairie](./images/culture/Yuna_cdi_aepe.jpg "Yuna au CDI avec Term AEPE"){width=45% align=right}
+        ![Jeunes en librairie](./images/culture/JLB_2023-2024_rencontre_Louise_delgado_01.jpg "Louise avec les Term AEPE"){width=45% align=right}
+        ![Jeunes en librairie](./images/culture/JLB_2023-2024_rencontre_Louise_delgado_02.JPG "Louise avec les Term EPC"){width=45% align=right}
 
-        * [**Luc Blanvillain**](https://www.letelegramme.fr/livres/a-lire/luc-blanvillain-j-ai-beaucoup-pense-a-claude-chabrol-quand-j-ai-ecrit-ce-livre-25-09-2022-13185904.php){target=_blank}, **le 21 mars**, dont le dernier livre <u>*Pas de Souci*</u> a été salué par la critique. 
         
-        * [**Louise Delgado**](https://www.librinova.com/auteur/louise-delgado){target=_blank}, **le 12 avril**. L'autrice a fait paraître en 2022 son premier roman, <u>*Les derniers gardiens*</u> en auto-édition.
-
-        * [**Nathalie Bernard**](https://www.youtube.com/watch?v=Rij2_mdk3uM){target=_blank}, **le 4 mai**, pour présenter son projet d'écriture.
-
-        [![Luc Blanvillain](./images/culture/Luc_Blanvillain_un_auteur_dans_mon_lycee.jpg "Luc Blanvillain - 21 mars 2023"){width=20% align=left}](https://www.letelegramme.fr/livres/a-lire/luc-blanvillain-j-ai-beaucoup-pense-a-claude-chabrol-quand-j-ai-ecrit-ce-livre-25-09-2022-13185904.php){target=_blank}
-
-        [![Louise Delgado](./images/culture/Louise_Delgado_avec_les_lyceens.jpg "Louise Delgado - 12 avril 2023"){width=45% align=left}](https://www.librinova.com/auteur/louise-delgado){target=_blank}
-
-
-
+        
 
 ## La culture à Morlaix
 
