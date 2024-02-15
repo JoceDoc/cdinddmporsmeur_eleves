@@ -46,18 +46,6 @@
     ![Atelier d'écriture](./images/expositions/atelier_ecriture_dgemc.jpg "DGEMC_atelier d'écriture"){width=75% align=right}
     ![Exposition](./images/expositions/Exposition_conf_peine_mort.jpg "Exposition_atelier d'écriture"){width=75% align=right}
 
-??? "**Jeunes en librairie 2023-2024**"
-    
-    Les élèves de Term EPC ET AEPE participent cette année au programme ==**« Jeunes en Librairie »**==, projet d’éducation artistique et culturelle autour des professionnels du livre et de la librairie.
- 
-    Dans ce cadre, ils ont recontré Yuna de la ==**librairie Dialogues-Morlaix**==, venue leur rendre visite au lycée, et ils visiteront prochainement la librairie partenaire du projet. Ils bénéficieront également d'un chèque livre de 20 € pour acheter les livres de leur choix à la librairie.
-   
-    Une rencontre avec l'autrice ==**Louise Delgado**== est programmée en 2024.
-        
-    ![Jeunes en librairie](./images/expositions/yuna_cdi_epc.jpg "Yuna au CDI avec Term EPC"){width=75% align=right}
-    ![Jeunes en librairie](./images/expositions/Yuna_cdi_aepe.jpg "Yuna au CDI avec Term AEPE"){width=75% align=right}
-  
-
 
 ## Nos élèves ont du talent
 ??? "**Concours d'éloquence**"
