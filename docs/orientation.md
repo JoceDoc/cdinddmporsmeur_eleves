@@ -304,8 +304,13 @@ ___
 ### Arts - Artisanat - Culture
 ??? "Liens utiles"
     === "ARTS"
-        - [**CREAPOLE**](https://www.creapole.fr/){target=_blank} eécole de désign (*Paris*).
+        - [**Etudes d'art**](https://www.onisep.fr/publications/dossier/les-etudes-d-art){target=_blank} (*ONISEP*)
+        - [**Ecoles d'art**](https://www.onisep.fr/formation/les-principaux-domaines-de-formation/les-ecoles-d-art){target=_blank} (*ONISEP*)
+        - [**CREAPOLE**](https://www.creapole.fr/){target=_blank} Ecole de désign (*Paris*).
     === "THEATRE"
+        - [**Etudes Arts du spectacle**](http://www.ecoles-arts.com/domaine/arts-du-spectacle/){target=_blank} (*ONISEP*)
+        - [**Ecoles du spectacle**](https://www.onisep.fr/formation/les-principaux-domaines-de-formation/les-ecoles-d-art/les-ecoles-du-spectacle){target=_blank} (*ONISEP*)
+        - [**Ecoles et formations**](https://www.letudiant.fr/etudes/secteurs/arts-du-spectacle.html){target=_blank} (*L'Etudiant*)
         - [**Option études théâtrales**](https://lycee-de-cornouaille-quimper.ac-rennes.fr/spip.php?article1306){target=_blank} au Lycée de Cornouailles à Quimper.
 
 ___ 
