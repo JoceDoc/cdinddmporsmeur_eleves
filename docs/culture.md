@@ -38,10 +38,10 @@
         [![Woman at war](./images/culture/FC_woman_at_war.jpg "Woman at war"){width=19%}](./pdf/){target=_blank}
          [![Je verrai toujours vos visages](./images/culture/FC_je_verrai_toujours_vos_visages.jpg "Je verrai toujours vos visages"){width=19%}](./pdf/Je_verrai_toujours_vos_visages.pdf){target=_blank}
 
-        [![Le discours d'un roi](./images/culture/FC_discours_d_un_roi.jpg "Le discours d'un roi"){width=19%}](./pdf/){target=_blank}
-        [![Un triomphe](./images/culture/FC_un-triomphe.jpeg "un triomphe"){width=19%}](./pdf/){target=_blank}
+        [![Le discours d'un roi](./images/culture/FC_discours_d_un_roi.jpg "Le discours d'un roi"){width=19%}](./pdf/Le_discours_d_un_roi.pdf){target=_blank}
+        [![Un triomphe](./images/culture/FC_un-triomphe.jpeg "un triomphe"){width=19%}](./pdf/Un_triomphe.pdf){target=_blank}
         [![La couleur de la victoire](./images/culture/FC_la_couleur_de_la_victoire.jpg "La couleur de la victoire"){width=19%}](./pdf/La_Couleur_de_la_victoire.pdf){target=_blank}
-        [![Les trois mousquetaires](./images/culture/FC_trois_mousquetaires.jpg "Les trois mousquetaires"){width=19%}](./pdf/){target=_blank}
+        [![Les trois mousquetaires](./images/culture/FC_trois_mousquetaires.jpg "Les trois mousquetaires"){width=19%}](./pdf/Trois_mousquetaires.pdf){target=_blank}
        
 
 
