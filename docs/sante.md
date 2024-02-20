@@ -52,7 +52,7 @@
 
     ??? "Guides et astuces"
 
-        50 petites astuces pour manger mieux et bouger plus [**ici**](https://www.mangerbouger.fr/l-essentiel/guides-et-documents){target=_blank}
+        50 petites astuces pour manger mieux et bouger plus [**ICI**](https://www.mangerbouger.fr/l-essentiel/guides-et-documents){target=_blank}
 
     
 

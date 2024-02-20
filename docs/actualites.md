@@ -83,7 +83,7 @@
 ??? "**Kiosque du mois** :newspaper:"
     
     [![01NET](./images/abonnements/02_fevrier_2024/01NET_07_fevrier_2024_1016.jpg "01NET, 07 février 2024, n°1016"){width=20%}](./images/abonnements/02_fevrier_2024/01NET_07_fevrier_2024_1016.pdf){target=_blank}
-    [![Aide-soignante](./images/abonnements/01_janvier_2024/Aide-soignante_janvier_2024_253.jpg "Aide-soignante, janvier 2024, n°253"){width=20%}](./images/abonnements/01_janvier_2024/Aide-soignante_janvier_2024_253.pdf){target=_blank}
+    [![Aide-soignante](./images/abonnements/02_fevrier_2024/Aide-soignante_fevrier_2024_254.jpg "Aide-soignante, février 2024, n°254"){width=20%}](./images/abonnements/02_fevrier_2024/Aide-soignante_fevrier_2024_254.pdf){target=_blank}
     [![Alternatives Economiques](./images/abonnements/02_fevrier_2024/Alternatives_economiques_fevrier_2024_443.jpg "Alternatives Economiques, février 2024, n°443"){width=20%}](./images/abonnements/02_fevrier_2024/Alternatives_economiques_fevrier_2024_443.pdf){target=_blank}
     [![Ca m'intéresse](./images/abonnements/02_fevrier_2024/Ca_m_interesse_fevrier_2024_516.jpg "Ca m'intéresse, février 2024, 516"){width=20%}](./images/abonnements/02_fevrier_2024/Ca_m_interesse_fevrier_2024_516.pdf){target=_blank}
     [![Courrier international](./images/abonnements/02_fevrier_2024/Courrier_international_25_janvier_2024_1734.jpg "Courrier international, 25 janvier 2024, 1734"){width=20%}](./images/abonnements/02_fevrier_2024/Courrier_international_25_janvier_2024_1734.pdf){target=_blank}
@@ -210,6 +210,7 @@
     [![Cahiers pédagogiques](./images/abonnements/enseignants/Cahiers_pedagogiques_novembre_2023_588.JPG "Cahiers pédagogiques, novembre 2023, n°588"){width=20%}](./images/abonnements/enseignants/Cahiers_pedagogiques_novembre_2023_588.pdf){target=_blank}
     [![Cahiers pédagogiques](./images/abonnements/enseignants/Cahiers_pedagogiques_decembre_2023_589.jpg "Cahiers pédagogiques, décembre 2023, n°589"){width=20%}](./images/abonnements/enseignants/Cahiers_pedagogiques_decembre_2023_589.pdf){target=_blank}
     [![Cahiers pédagogiques](./images/abonnements/enseignants/Cahiers_pedagogiques_janvier_2024_590.jpg "Cahiers pédagogiques, janvier 2024, n°590"){width=20%}](./images/abonnements/enseignants/Cahiers_pedagogiques_janvier_2024_590.pdf){target=_blank}
+    [![Cahiers pédagogiques](./images/abonnements/enseignants/Cahiers_pedagogiques_fevrier_2024_591.jpg "Cahiers pédagogiques, février 2024, n°591"){width=20%}](./images/abonnements/enseignants/Cahiers_pedagogiques_fevrier_2024_591.pdf){target=_blank}
 
     ??? Example "**InterCDI**"
     [![InterCDI](./images/abonnements/enseignants/Intercdi_septembre-octobre_2022_298.jpg "InterCDI, septembre-octobre 2022, n°298"){width=20%}](./images/abonnements/enseignants/Intercdi_septembre-octobre_2022_298.pdf){target=_blank}

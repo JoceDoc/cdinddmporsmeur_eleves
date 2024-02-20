@@ -35,8 +35,8 @@
         **Les films présentés cette année** (==*Cliquez sur l'affiche pour accéder à la fiche sur le film*==) :
 
         [![Illusions_perdues](./images/culture/FC_illusions_perdues.jpg "Illusions perdues"){width=20%}](./pdf/Illusions_perdues_fiche_film_et_culture.pdf){target=_blank}
-        [![Woman at war](./images/culture/FC_woman_at_war.jpg "Woman at war"){width=19%}](./pdf/){target=_blank}
-         [![Je verrai toujours vos visages](./images/culture/FC_je_verrai_toujours_vos_visages.jpg "Je verrai toujours vos visages"){width=19%}](./pdf/Je_verrai_toujours_vos_visages.pdf){target=_blank}
+        [![Woman at war](./images/culture/FC_woman_at_war.jpg "Woman at war"){width=19%}](./pdf/Woman_at_war.pdf){target=_blank}
+        [![Je verrai toujours vos visages](./images/culture/FC_je_verrai_toujours_vos_visages.jpg "Je verrai toujours vos visages"){width=19%}](./pdf/Je_verrai_toujours_vos_visages.pdf){target=_blank}
 
         [![Le discours d'un roi](./images/culture/FC_discours_d_un_roi.jpg "Le discours d'un roi"){width=19%}](./pdf/Le_discours_d_un_roi.pdf){target=_blank}
         [![Un triomphe](./images/culture/FC_un-triomphe.jpeg "un triomphe"){width=19%}](./pdf/Un_triomphe.pdf){target=_blank}
