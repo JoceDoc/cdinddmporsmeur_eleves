@@ -224,7 +224,7 @@ ___
         - [**EMSLB - infirmier**](https://www.emslb.defense.gouv.fr/nous-rejoindre-concours/concours-eppa){target=_blank} : devenir infirmier militaire  en intégrant les écoles militaires de santé Lyon-Bron. [**Voir la plaquette**](./pdf/EMSLB_Plaquette_infirmier_militaire.pdf){target=_blank}
         - [**IPESUP**](https://www.ipesup.fr/){target=_blank} : préparation aux concours des filères sélectives telles que Sciences PO, ENA, HEC, SESAME, ACCES, ALPHA, AVENIR, GEIPI/POLYTECH, MATH SUP, MATH SPE, DSCG, CELSA...
     === "STMG"  
-        - [**Que faire après un BAC STMG ?**](https://www.onisep.fr/Choisir-mes-etudes/Apres-le-bac/Que-faire-apres-le-bac/Apres-un-bac-techno/Que-faire-apres-le-bac-STMG){target=_blank}
+        - [**Que faire après un BAC STMG ?**](https://www.onisep.fr/formation/apres-le-bac-les-etudes-superieures/apres-un-bac-techno/que-faire-apres-le-bac-stmg){target=_blank}
 
 
 ___ 
