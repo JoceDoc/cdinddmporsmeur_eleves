@@ -17,10 +17,7 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
 
 ## Actualités
 
-???+ info "**Visio - ENSCR - Mercredi 28 février**"
-    [![**ENSCR"**](./images/orientation/2024_ENSC_Rennes_affiche.jpg "Visio_ENSCR"){width=45%}](https://www.ensc-rennes.fr/accedez-aux-visioconferences/){target=_blank}
-
-???+ info "**PARCOURSUP - Etape en cours du 17 janvier au 14 mars**"
+???+ info "**PARCOURSUP - Du 14 mars au 3 avril : je complète mon dossier et je confirme mes voeux **"
     [![**PARCOURSUP**](./images/orientation/parcoursup.png){width=35%}](https://www.parcoursup.gouv.fr/){target=_blank}
 
     Les [**nouvelles fonctionnalités**](https://www.education.gouv.fr/ouverture-du-site-d-information-parcoursup-2024-380373){target=_blank} à découvrir sur le site du Ministère de l'Education Nationale et de la jeunesse.

@@ -18,6 +18,7 @@
 ___
 
 ## Actualité des disciplines
+[![**Semaine des mathématiques**](./images/pedagogie/semaine-des-math-2024.jpg "Semaine_des_mathématiques"){width=55%}](https://www.education.gouv.fr/la-semaine-des-mathematiques-7241){target=_blank} 
 [![**logo**](./images/pedagogie/logo_annee_physique.png "Page d'accueil année de la physique"){width=45%}](https://anneedelaphysique.cnrs.fr/){target=_blank} 
 [![**PRINTEMPS DES POETES**](./images/pedagogie/affiche_printemps_des_poetes_2024.jpg){width=30%}](https://www.printempsdespoetes.com/Edition2024){target=_blank}
 [![**Journée de l'Europe**](./images/pedagogie/journee_europe_20230509.jpg){width=45%}](https://www.clemi.fr/fr/evenements/toutes-les-actualites/actualite/news/detail/News/9-mai-journee-de-leurope-et-leducation-aux-medias-et-a-linformation.html){target=_blank}
@@ -34,14 +35,14 @@ ___
     ![carte mentale](./images/00-carte_mentale_tutoriel.jpg "Carte mentale"){center=80%}
         
 ??? question "Améliorer sa rédaction"   
-    === "**Dictionnaires**"
+    === "**DICTIONNAIRES**"
         - [**Dictionnaire LE ROBERT**](https://dictionnaire.lerobert.com/guide?utm_source=2023_LE_ROBERT_EDUC&utm_campaign=ROBE_202310_DICO_EN_LIGNE&utm_medium=email){target=_blank} : grammaire, orthographe, conjugaison, lexique, style, typographie...
         - [**La langue française**](https://www.lalanguefrancaise.com/){target=_blank} : s'entraîner à la dictée, quiz d'orthographe de la semaine, mot du jour, mots croisés du jour...
-    === "**Orthographe**"
+    === "**ORTHOGRAPHE**"
         - [**Question d'orthographe**](https://www.projet-voltaire.fr/regles-orthographe/){target=_blank} : les règles d'orthographe du quotidien expliquées sur le site du projet Voltaire.
-    === "**Conjugaison**"
+    === "**CONJUGAISON**"
         - [**Toute la conjugaison**](https://www.toutelaconjugaison.com/){target=_blank} : les verbes les plus conjugués, des exercices pour s'entraîner, des cours sur les temps verbaux et les modes.
-    === "**Rédaction**"
+    === "**REDACTION**"
         - [**Argumenter**](https://www.assistancescolaire.com/eleve/2nde/francais/reviser-le-cours/2_f401){target=_blank} : explications, conseils, et méthode...
     
     *Les **manuels scolaires** fourmillent de ==**conseils**== et ==**fiches méthodes**== pour améliorer sa rédaction et répondre aux exigences des différents exercices du baccalauréat (commentaires, dissertations, études de documents...) dans les différentes disciplines.*
