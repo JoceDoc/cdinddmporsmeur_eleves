@@ -109,7 +109,7 @@
             
         Les élèves de Term EPC ET AEPE participent cette année au programme [**Jeunes en librairie**](https://daac.ac-rennes.fr/spip.php?article2268){target=_blank}, projet d’éducation artistique et culturelle autour des professionnels du livre et de la librairie.
  
-        Dans ce cadre, ils ont recontré Yuna de la [**Librairie Dialogues Morlaix**](https://www.dialoguesmorlaix.com/){target=_blank}, venue leur rendre visite au lycée, et ont visité la librairie partenaire du projet. Ils bénéficieront d'un chèque livre de 20 € pour acheter les livres de leur choix à la librairie, en mars.
+        Dans ce cadre, ils ont rencontré Yuna de la [**Librairie Dialogues Morlaix**](https://www.dialoguesmorlaix.com/){target=_blank}, venue leur rendre visite au lycée, et ont visité la librairie partenaire du projet. Ils bénéficieront d'un chèque livre de 20 € pour acheter les livres de leur choix à la librairie, en mars.
    
         Une rencontre avec l'autrice [**Louise Delgado**](https://www.librinova.com/auteur/louise-delgado){target=_blank} a eu lieu le 24 janvier.
         
