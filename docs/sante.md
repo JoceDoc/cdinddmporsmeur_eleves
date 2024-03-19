@@ -22,7 +22,7 @@
     
     <u>Au programme :</u>
 
-    ==**Ateliers sportifs**== : string -mélange de zumba et d'aérobic-, salsa, biathlon-laser, step, et autres sports d'adresse ou de combat comme l'escrime et la boxe française...
+    ==**Ateliers sportifs**== : string (mélange de zumba et d'aérobic), salsa, biathlon-laser, step, et autres sports d'adresse ou de combat comme l'escrime et la boxe française...
     
     ==**Rencontres et échanges avec des professionnels**== : des kinésithérapeuthes, sophrologues et un diététicien venus les sensibiliser aux bienfaits de l'exercice physique et d'une alimentation équilibrée.
     
