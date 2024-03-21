@@ -22,6 +22,9 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
 
     Les [**nouvelles fonctionnalités**](https://www.education.gouv.fr/ouverture-du-site-d-information-parcoursup-2024-380373){target=_blank} à découvrir sur le site du Ministère de l'Education Nationale et de la jeunesse.
 
+???+ info "**FORUM**"
+
+    -[![**Forum des métiers du numérique ?"**](./images/orientation/2024_Forum_Métiers_Numérique_IUT_Saint-Malo.jpg "Forum Métiers du numérique"){width=45%}](https://iut-stmalo.univ-rennes.fr/forum-des-metiers-du-numerique-2024){target=_blank}
 
 ??? attention "**Immersions - Journées découvertes dans le supérieur**"
 
