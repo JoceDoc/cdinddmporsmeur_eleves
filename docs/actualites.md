@@ -10,18 +10,23 @@
 
 ## Expositions et projets
 
-???+ "**CAFE PHILO**"
-    ![Affiche](./images/expositions/20240222_affiche_café_philo_03.jpg "Café Philo"){width=75% align=left}
-
-    ==***Prochain RDV du CAFE PHILO vendredi 29 mars***== 
+???+ "**CAFE PHILO** ==***Prochain RDV***== "
+      
+    ==***N'hésitez pas à nous rejoindre...***==
     
-    Après ***"Y a-t-il des bons et des méchants ?"***  et ***"Comment prendre la bonne décision***.
+    Après : 
     
-    Nous nous demanderons : **==Que peut-on opposer à la violence ?==**
+    - ***Y a-t-il des bons et des méchants ?***
+    
+    - ***"Comment prendre la bonne décision ?***
+    
+    - ***Que peut-on opposer à la violence ?***
 
+    Nous nous demanderons :
 
-    ***N'hésitez pas à nous rejoindre...***
-
+    ![Affiche](./images/actualites/20240412_affiche_café_philo.png "Café Philo"){width=75% align=left}
+  
+       
     ![Groupe](./images/expositions/20240119_Cafe_philo_02.jpg "Café Philo"){width=75% align=left}
     ![Groupe](./images/expositions/20240119_Cafe_philo_03.jpg "Café Philo"){width=75% align=left}
 
@@ -48,15 +53,12 @@
 
 ## Nos élèves ont du talent
 ??? "**Concours d'éloquence**"
-    Une dizaine d'élèves se sont inscrits pour participer à la troisième édition du ==**concours d'éloquence**==.
-    
-    Le 1er tour aura lieu le ==**7 décembre**==, pour désigner ceux qui poursuivront l'aventure vers la demi-finale.
-    
-    *Ci-dessous, les finalistes de l'édition 2023, en compagnie de Mme Gamard et de Neven, vainqueur du concours l'année dernière.* 
-    
-    ![Les finalistes](./images/expositions/Concours_eloquence_finalistes.jpg "Les finalistes du concours"){width=45% align=left}
+    La finale du concours d'éoquence s'est déroulée ==**vendredi 29 mars**==. les trois finalistes devaient présenter un discours sur le thème du "secret", puis répondre à une question d'improvisation tirée au sort. 
 
-    [![Neven Le Goff](./images/expositions/Concours_eloquence_Neven.jpg "Neven, vainqueur du concours"){width=25% align=left}](https://www.letelegramme.fr/finistere/morlaix/neven-le-goff-eleve-a-notre-dame-du-mur-le-porsmeur-a-morlaix-remporte-le-concours-d-eloquence-de-son-lycee-13-02-2023-13278707.php){target=_blank}
+    C'est Inès (au centre) qui a remporté la finale, devant Maden et Salomé. Bravo à eux trois !
+    
+    ![Les finalistes](./images/actualites/Concours_eloquence_finale_02.jpg "Les finalistes du concours"){width=75% align=left}
+   
 
    
 ??? "**Option Arts plastiques**"
@@ -86,31 +88,25 @@
     [![Alternatives Economiques](./images/abonnements/03_mars_2024/Alternatives_economiques_mars_2024_444.jpg "Alternatives Economiques, mars 2024, n°444"){width=20%}](./images/abonnements/03_mars_2024/Alternatives_economiques_mars_2024_444.pdf){target=_blank}
     [![Ca m'intéresse](./images/abonnements/03_mars_2024/Ca_m_interesse_mars_2024_577.jpg "Ca m'intéresse, mars 2024, n°517"){width=20%}](./images/abonnements/03_mars_2024/Ca_m_interesse_mars_2024_577.pdf){target=_blank}
     [![Courrier international](./images/abonnements/04_avril_2024/Courrier_international_avril-mai_2024_100HS.jpg "Courrier international, avril-mai 2024, n°100HS"){width=20%}](./images/abonnements/04_avril_2024/Courrier_international_avril-mai_2024_100HS.pdf){target=_blank}
-    
-    
-    [![Courrier international](./images/abonnements/03_mars_2024/Courrier_international_07_mars_2024_1740.jpg "Courrier international, 07 mars 2024, n°1740"){width=20%}](./images/abonnements/03_mars_2024/Courrier_international_07_mars_2024_1740.pdf){target=_blank}
-    [![Courrier international](./images/abonnements/03_mars_2024/Courrier_international_14_mars_2024_1741.jpg "Courrier international, 14 mars 2024, n°1741"){width=20%}](./images/abonnements/03_mars_2024/Courrier_international_14_mars_2024_1741.pdf){target=_blank}
     [![Documentation photographique](./images/abonnements/03_mars_2024/Documentation_photographique_mars_2024_8158.jpg "Documentation photographique, mars 2024, n°8158"){width=20%}](./images/abonnements/03_mars_2024/Documentation_photographique_mars_2024_8158.pdf){target=_blank}
     [![Journal_animation](./images/abonnements/03_mars_2024/Journal_animation_mars-avril_2024_244.jpg "Journal de l'animation, mars-avril 2024, n°244"){width=20%}](./images/abonnements/03_mars_2024/Journal_animation_mars-avril_2024_244.pdf){target=_blank}
-    [![Lire](./images/abonnements/03_mars_2024/Lire_magazine_mars_2024_527.jpg "Lire, mars 2024, n°527"){width=20%}](./images/abonnements/03_mars_2024/Lire_magazine_mars_2024_527.pdf){target=_blank}
-    [![Philosophie magazine](./images/abonnements/03_mars_2024/Philosophie_magazine_mars_2024_177.jpg "Philosophie magazine, mars 2024, n°177"){width=20%}](./images/abonnements/03_mars_2024/Philosophie_magazine_mars_2024_177.pdf){target=_blank}
-    [![Phosphore](./images/abonnements/03_mars_2024/Phosphore_1er_mars_2024_571.jpg "Phosphore, 1er mars 2024, n°571"){width=20%}](./images/abonnements/03_mars_2024/Phosphore_1er_mars_2024_571.pdf){target=_blank}
-    [![Phosphore](./images/abonnements/03_mars_2024/Phosphore_15_mars_2024_572.jpg "Phosphore, 15 mars 2024, n°572"){width=20%}](./images/abonnements/03_mars_2024/Phosphore_15_mars_2024_572.pdf){target=_blank}
-    [![Pour l'éco](./images/abonnements/03_mars_2024/Pour_l_eco_mars_2024_59.jpg "Pour l'éco, mars 2023, n°59"){width=20%}](./images/abonnements/03_mars_2024/Pour_l_eco_mars_2024_59.pdf){target=_blank}
-    [![Que choisir](./images/abonnements/03_mars_2024/Que_choisir_mars_2024_633.jpg "Que choisir, mars 2024, n°633"){width=20%}](./images/abonnements/03_mars_2024/Que_choisir_mars_2024_633.pdf){target=_blank}
-    [![Que choisir santé](./images/abonnements/03_mars_2024/Que_choisir_sante_mars_2024_191.jpg "Que choisir santé, mars 2024, n°191"){width=20%}](./images/abonnements/03_mars_2024/Que_choisir_sante_mars_2024_191.pdf){target=_blank}
-    [![Science et Vie](./images/abonnements/03_mars_2024/Science_et_vie_mars_2024_1278.jpg "Science et Vie, mars 2024, n°1278"){width=20%}](./images/abonnements/03_mars_2024/Science_et_vie_mars_2024_1278.pdf){target=_blank}
-    [![Science et Vie Junior](./images/abonnements/03_mars_2024/Science_et_vie_junior_mars_2024_414.jpg "Science et Vie Junior, mars 2024, n°414"){width=20%}](./images/abonnements/03_mars_2024/Science_et_vie_junior_mars_2024_414.pdf){target=_blank}
-    [![Science et Vie Junior](./images/abonnements/03_mars_2024/Science_et_vie_junior_mars_2024_164HS.jpg "Science et Vie Junior, mars 2024, n°164HS"){width=20%}](./images/abonnements/03_mars_2024/Science_et_vie_junior_mars_2024_164HS.pdf){target=_blank}
-    [![Sciences et avenir](./images/abonnements/03_mars_2024/Sciences_et_avenir_mars_2024_925.jpg "Sciences et avenir, mars 2024, n°925"){width=20%}](./images/abonnements/03_mars_2024/Sciences_et_avenir_mars_2024_925.pdf){target=_blank}
-    [![Sciences et avenir](./images/abonnements/01_janvier_2024/Sciences_et_avenir_janvier_2024_216HS.jpg "Sciences et avenir, janvier 2024, n°216HS"){width=20%}](./images/abonnements/01_janvier_2024/Sciences_et_avenir_janvier_2024_216HS.pdf){target=_blank}
-    [![Sciences humaines](./images/abonnements/03_mars_2024/Sciences_humaines_mars_2024_366.jpg "Sciences humaines, mars 2024, n°366"){width=20%}](./images/abonnements/03_mars_2024/Sciences_humaines_mars_2024_366.pdf){target=_blank}
+    [![Lire](./images/abonnements/04_avril_2024/Lire_magazine_avril_2024_528.JPG "Lire, avril 2024, n°528"){width=20%}](./images/abonnements/04_avril_2024/Lire_magazine_avril_2024_528.pdf){target=_blank}
+    [![Philosophie magazine](./images/abonnements/04_avril_2024/Philosophie_magazine_avril_2024_178.jpg "Philosophie magazine, avril 2024, n°178"){width=20%}](./images/abonnements/04_avril_2024/Philosophie_magazine_avril_2024_178.pdf){target=_blank}
+    [![Phosphore](./images/abonnements/04_avril_2024/Phosphore_01_avril_2024_573.jpg "Phosphore, 1er avril 2024, n°573"){width=20%}](./images/abonnements/04_avril_2024/Phosphore_01_avril_2024_573.pdf){target=_blank}
+    [![Phosphore](./images/abonnements/04_avril_2024/Phosphore_15_avril_2024_574.jpg "Phosphore, 15 avril 2024, n°574"){width=20%}](./images/abonnements/04_avril_2024/Phosphore_15_avril_2024_574.pdf){target=_blank}
+    [![Pour l'éco](./images/abonnements/04_avril_2024/Pour_l_eco_avril_2024_60.jpg "Pour l'éco, avril 2023, n°60"){width=20%}](./images/abonnements/04_avril_2024/Pour_l_eco_avril_2024_60.pdf){target=_blank}
+    [![Que choisir](./images/abonnements/04_avril_2024/Que_choisir_avril_2024_634.jpg "Que choisir, avril 2024, n°634"){width=20%}](./images/abonnements/04_avril_2024/Que_choisir_avril_2024_634.pdf){target=_blank}
+    [![Que choisir santé](./images/abonnements/04_avril_2024/Que_choisir_sante_avril_2024_192.jpg "Que choisir santé, avril 2024, n°192"){width=20%}](./images/abonnements/04_avril_2024/Que_choisir_sante_avril_2024_192.pdf){target=_blank}
+    [![Science et Vie](./images/abonnements/04_avril_2024/Science_et_vie_avril_2024_1279.jpg "Science et Vie, avril 2024, n°1279"){width=20%}](./images/abonnements/04_avril_2024/Science_et_vie_avril_2024_1279.pdf){target=_blank}
+    [![Sciences et avenir](./images/abonnements/04_avril_2024/Sciences_et_avenir_avril_2024_926.jpg "Sciences et avenir, avril 2024, n°926"){width=20%}](./images/abonnements/04_avril_2024/Sciences_et_avenir_avril_2024_926.pdf){target=_blank}
+    [![Sciences et avenir](./images/abonnements/04_avril_2024/Sciences_et_avenir_avril-juin_2024_217HS.jpg "Sciences et avenir, avril-juin 2024, n°217HS"){width=20%}](./images/abonnements/04_avril_2024/Sciences_et_avenir_avril-juin_2024_217HS.pdf){target=_blank}
+    [![Sciences humaines](./images/abonnements/04_avril_2024/Sciences_humaines_avril_2024_367.jpg "Sciences humaines, avril 2024, n°367"){width=20%}](./images/abonnements/04_avril_2024/Sciences_humaines_avril_2024_367.pdf){target=_blank}
     [![Sciences humaines - grands dossiers](./images/abonnements/03_mars_2024/Sciences_humaines_les_grands_dossiers_mars-avril_2024_74.jpg "Sciences humaines - Les grands dossiers, mars-avril 2024, n°74HS"){width=20%}](./images/abonnements/03_mars_2024/Sciences_humaines_les_grands_dossiers_mars-avril_2024_74.pdf){target=_blank}
     [![Sport et vie](./images/abonnements/03_mars_2024/Sport_et_vie_mars-avril_2024_203.jpg "Sport et Vie, mars-avril 2024, n°203"){width=20%}](./images/abonnements/03_mars_2024/Sport_et_vie_mars-avril_2024_203.pdf){target=_blank}
     [![Sport et vie](./images/abonnements/12_decembre_2023/Sport_et_vie_decembre_2023_59HS.jpg "Sport et Vie, décembre 2023, n°59HS"){width=20%}](./images/abonnements/12_decembre_2023/Sport_et_vie_decembre_2023_59HS.pdf){target=_blank}
     [![Tangente](./images/abonnements/03_mars_2024/Tangente_mars_2024_216.jpg "Tangente, mars 2024, n°216"){width=20%}](./images/abonnements/03_mars_2024/Tangente_mars_2024_216.pdf){target=_blank}
     [![Tangente](./images/abonnements/03_mars_2024/Tangente_mars_2024_89HS.jpg "Tangente, mars 2024, n°89HS"){width=20%}](./images/abonnements/03_mars_2024/Tangente_mars_2024_89HS.pdf){target=_blank}
-    [![Virgule](./images/abonnements/03_mars_2024/Virgule_mars_2024_226.jpg "Virgule, mars 2024, n°226"){width=20%}](./images/abonnements/03_mars_2024/Virgule_mars_2024_226.pdf){target=_blank} 
+    [![Virgule](./images/abonnements/04_avril_2024/Virgule_avril_2024_227.jpg "Virgule, avril 2024, n°227"){width=20%}](./images/abonnements/04_avril_2024/Virgule_avril_2024_227.pdf){target=_blank} 
 
 
 ??? "**Kiosque du mois dernier** :newspaper:"       
