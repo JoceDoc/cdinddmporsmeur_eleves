@@ -84,9 +84,12 @@
 ??? "**Kiosque du mois** :newspaper:"
     
     [![01NET](./images/abonnements/04_avril_2024/01NET_03_avril_2024_1020.jpg "01NET, 03 avril 2024, n°1020"){width=20%}](./images/abonnements/04_avril_2024/01NET_03_avril_2024_1020.pdf){target=_blank}
-    [![Aide-soignante](./images/abonnements/03_mars_2024/Aide-soignante_mars_2027_255.jpg "Aide-soignante, mars 2024, n°255"){width=20%}](./images/abonnements/03_mars_2024/Aide-soignante_mars_2027_255.pdf){target=_blank}
-    [![Alternatives Economiques](./images/abonnements/03_mars_2024/Alternatives_economiques_mars_2024_444.jpg "Alternatives Economiques, mars 2024, n°444"){width=20%}](./images/abonnements/03_mars_2024/Alternatives_economiques_mars_2024_444.pdf){target=_blank}
+    [![Aide-soignante](./images/abonnements/04_avril_2024/Aide-soignante_avril_2024_256.jpg "Aide-soignante, avril 2024, n°256"){width=20%}](./images/abonnements/04_avril_2024/Aide-soignante_avril_2024_256.pdf){target=_blank}
+    [![Alternatives Economiques](./images/abonnements/04_avril_2024/Alternatives_economiques_avril_2024_445.jpg "Alternatives Economiques, avril 2024, n°445"){width=20%}](./images/abonnements/04_avril_2024/Alternatives_economiques_avril_2024_445.pdf){target=_blank}
+    [![Alternatives Economiques](./images/abonnements/04_avril_2024/Alternatives_economiques_avril_2024_129HS.jpg "Alternatives Economiques, avril 2024, n°129HS"){width=20%}](./images/abonnements/04_avril_2024/Alternatives_economiques_avril_2024_129HS.pdf){target=_blank}
     [![Ca m'intéresse](./images/abonnements/03_mars_2024/Ca_m_interesse_mars_2024_577.jpg "Ca m'intéresse, mars 2024, n°517"){width=20%}](./images/abonnements/03_mars_2024/Ca_m_interesse_mars_2024_577.pdf){target=_blank}
+    [![Courrier international](./images/abonnements/04_avril_2024/Courrier_international_04_avril_2024_1744.jpg "Courrier international, 04 avril 2024, n°1744"){width=20%}](./images/abonnements/04_avril_2024/Courrier_international_04_avril_2024_1744.pdf){target=_blank}
+    [![Courrier international](./images/abonnements/04_avril_2024/Courrier_international_11_avril_2024_1745.jpg "Courrier international, 11 avril 2024, n°1745"){width=20%}](./images/abonnements/04_avril_2024/Courrier_international_11_avril_2024_1745.pdf){target=_blank}
     [![Courrier international](./images/abonnements/04_avril_2024/Courrier_international_avril-mai_2024_100HS.jpg "Courrier international, avril-mai 2024, n°100HS"){width=20%}](./images/abonnements/04_avril_2024/Courrier_international_avril-mai_2024_100HS.pdf){target=_blank}
     [![Documentation photographique](./images/abonnements/03_mars_2024/Documentation_photographique_mars_2024_8158.jpg "Documentation photographique, mars 2024, n°8158"){width=20%}](./images/abonnements/03_mars_2024/Documentation_photographique_mars_2024_8158.pdf){target=_blank}
     [![Journal_animation](./images/abonnements/03_mars_2024/Journal_animation_mars-avril_2024_244.jpg "Journal de l'animation, mars-avril 2024, n°244"){width=20%}](./images/abonnements/03_mars_2024/Journal_animation_mars-avril_2024_244.pdf){target=_blank}
@@ -235,14 +238,12 @@
     [![NRP Lycée](./images/abonnements/enseignants/NRP_lycee_decembre_2022_101.jpg "NRP Lycée, décembre 2022, n°101"){width=20%}](./images/abonnements/enseignants/NRP_lycee_decembre_2022_101.pdf){target=_blank}
     [![NRP Lycée](./images/abonnements/enseignants/NRP_lycee_mars_2023_102.jpg "NRP Lycée, mars 2023, n°102"){width=20%}](./images/abonnements/enseignants/NRP_lycee_mars_2023_102.pdf){target=_blank}
     [![NRP Lycée](./images/abonnements/enseignants/NRP_lycee_juin_2023_103.jpg "NRP Lycée, juin 2023, n°103"){width=20%}](./images/abonnements/enseignants/NRP_lycee_juin_2023_103.pdf){target=_blank}
+    [![NRP Lycée](./images/abonnements/enseignants/NRP_lycee_septembre_2023_104.JPG "NRP Lycée, septembre 2023, n°104"){width=20%}](./images/abonnements/enseignants/NRP_lycee_septembre_2023_104.pdf){target=_blank}
+    [![NRP Lycée](./images/abonnements/enseignants/NRP_Lycee_decembre_2023_105.jpg "NRP Lycée, décembre 2023, n°105"){width=20%}](./images/abonnements/enseignants/NRP_Lycee_decembre_2023_105.pdf){target=_blank}
+    [![NRP Lycée](./images/abonnements/enseignants/NRP_Lycee_mars_2024_106.jpg "NRP Lycée, mars 2023, n°106"){width=20%}](./images/abonnements/enseignants/NRP_Lycee_mars_2024_106.pdf){target=_blank}
 
 
 ### **Orientation**
-??? "**Dans la presse** :newspaper:"
-    ![Le Monde Campus](./images/kiosqueonisep/Campus_20220210.jpg "Le Monde Campus, 10 février 2022"){width=20%}
-    ![Le Monde Campus](./images/kiosqueonisep/Campus_20220217.jpg "Le Monde Campus, 17 février 2022"){width=20%}
-    [![Guide des métiers](./images/kiosqueonisep/Guide des métiers_Phosphore_2021-2022.jpg "Guide des métiers. Phosphore. 2021-2022"){width=20%}](./images/kiosqueonisep/Guide des métiers_Phosphore_2021-2022_sommaire.pdf){target=_blank}
-
 ???+ "**Kiosque ONISEP**"
     Notices des dernières nouveautés à retrouver sur le [**Portail PMB**](https://ecmorlaix.basecdi.fr/pmb/opac_css/index.php?lvl=cmspage&pageid=4&id_article=62){target=_blank}.
 
