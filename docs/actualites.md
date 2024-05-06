@@ -12,21 +12,22 @@
 
 ???+ "**CAFE PHILO** ==***Prochain RDV***== "
       
-    ==***N'hésitez pas à nous rejoindre...***==
+    ***N'hésitez pas à nous rejoindre...***
     
-    Après : 
+    ==**A NOTER : A partir du vendredi 17 mai, le RDV devient hebdomadaire.**==
     
+    <u>**Sujets précédents : **</u>
+ 
     - ***Y a-t-il des bons et des méchants ?***
     
-    - ***"Comment prendre la bonne décision ?***
+    - ***Comment prendre la bonne décision ?***
     
     - ***Que peut-on opposer à la violence ?***
 
-    Nous nous demanderons :
+    - ***Comment cultiver la bonne humeur ?***
 
-    ![Affiche](./images/actualites/20240412_affiche_café_philo.png "Café Philo"){width=75% align=left}
-  
-       
+    ![Affiche](./images/actualites/20240517_affiche_café_philo.png "Café Philo"){width=75% align=left}
+      
     ![Groupe](./images/expositions/20240119_Cafe_philo_02.jpg "Café Philo"){width=75% align=left}
     ![Groupe](./images/expositions/20240119_Cafe_philo_03.jpg "Café Philo"){width=75% align=left}
 
