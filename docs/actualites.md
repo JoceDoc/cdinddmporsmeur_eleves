@@ -14,7 +14,7 @@
       
     ***N'hésitez pas à nous rejoindre...***
     
-    ==**A NOTER : A partir du vendredi 17 mai, le RDV devient hebdomadaire.**==
+    ==**RDV hebdomadaire vendredi 24 mai**==
     
     <u>**Sujets précédents : **</u>
  
@@ -26,7 +26,10 @@
 
     - ***Comment cultiver la bonne humeur ?***
 
-    ![Affiche](./images/actualites/20240517_affiche_café_philo.png "Café Philo"){width=75% align=left}
+    - ***Peut-on échapper à la peur ?***
+
+
+    ![Affiche](./images/actualites/20240524_affiche_Café_philo.jpg "Café Philo"){width=75% align=left}
       
     ![Groupe](./images/expositions/20240119_Cafe_philo_02.jpg "Café Philo"){width=75% align=left}
     ![Groupe](./images/expositions/20240119_Cafe_philo_03.jpg "Café Philo"){width=75% align=left}
@@ -84,13 +87,44 @@
    
 ??? "**Kiosque du mois** :newspaper:"
     
+    [![01NET](./images/abonnements/05_mai_2024/01NET_02_mai_2024_1022.jpg "01NET, 03 avril 2024, n°1022"){width=20%}](./images/abonnements/05_mai_2024/01NET_02_mai_2024_1022.pdf){target=_blank}
+    [![Aide-soignante](./images/abonnements/04_avril_2024/Aide-soignante_avril_2024_256.jpg "Aide-soignante, avril 2024, n°256"){width=20%}](./images/abonnements/04_avril_2024/Aide-soignante_avril_2024_256.pdf){target=_blank}
+    [![Alternatives Economiques](./images/abonnements/05_mai_2024/Alternatives_economiques_mai_2024_446.jpg "Alternatives Economiques, mai 2024, n°446"){width=20%}](./images/abonnements/05_mai_2024/Alternatives_economiques_mai_2024_446.pdf){target=_blank}
+    [![Alternatives Economiques](./images/abonnements/04_avril_2024/Alternatives_economiques_avril_2024_129HS.jpg "Alternatives Economiques, avril 2024, n°129HS"){width=20%}](./images/abonnements/04_avril_2024/Alternatives_economiques_avril_2024_129HS.pdf){target=_blank}
+    [![Ca m'intéresse](./images/abonnements/05_mai_2024/Ca_m_interesse_mai_2024_519.jpg "Ca m'intéresse, mai 2024, n°519"){width=20%}](./images/abonnements/05_mai_2024/Ca_m_interesse_mai_2024_519.pdf){target=_blank}
+    [![Courrier international](./images/abonnements/05_mai_2024/Courrier_international_02_mai_2024_1748-1749.jpg "Courrier international, 02 mai 2024, n°1748-1749"){width=20%}](./images/abonnements/05_mai_2024/Courrier_international_02_mai_2024_1748-1749.pdf){target=_blank}
+    [![Journal_animation](./images/abonnements/05_mai_2024/Journal_animation_mai_2024_245.jpg "Journal de l'animation, mai 2024, n°245"){width=20%}](./images/abonnements/05_mai_2024/Journal_animation_mai_2024_245.pdf){target=_blank}
+    [![Lire](./images/abonnements/04_avril_2024/Lire_magazine_avril_2024_528.JPG "Lire, avril 2024, n°528"){width=20%}](./images/abonnements/04_avril_2024/Lire_magazine_avril_2024_528.pdf){target=_blank}
+    [![Philosophie magazine](./images/abonnements/05_mai_2024/Philosophie_magazine_mai_2024_179.jpg "Philosophie magazine, mai 2024, n°179"){width=20%}](./images/abonnements/05_mai_2024/Philosophie_magazine_mai_2024_179.pdf){target=_blank}
+    [![Phosphore](./images/abonnements/05_mai_2024/Phosphore_01_mai_2024_575.jpg "Phosphore, 1er mai 2024, n°575"){width=20%}](./images/abonnements/05_mai_2024/Phosphore_01_mai_2024_575.pdf){target=_blank}
+    [![Phosphore](./images/abonnements/05_mai_2024/Phosphore_15_mai_2024_576.jpg "Phosphore, 15 mai 2024, n°576"){width=20%}](./images/abonnements/05_mai_2024/Phosphore_15_mai_2024_576.pdf){target=_blank}
+    [![Pour l'éco](./images/abonnements/05_mai_2024/Pour_l_eco_mai_2024_61.jpg "Pour l'éco, mai 2023, n°61"){width=20%}](./images/abonnements/05_mai_2024/Pour_l_eco_mai_2024_61.pdf){target=_blank}
+    [![Que choisir](./images/abonnements/05_mai_2024/Que_choisir_mai_2024_635.jpg "Que choisir, mai 2024, n°635"){width=20%}](./images/abonnements/05_mai_2024/Que_choisir_mai_2024_635.pdf){target=_blank}
+    [![Que choisir santé](./images/abonnements/05_mai_2024/Que_choisir_sante_mai_2024_193.jpg "Que choisir santé, mai 2024, n°193"){width=20%}](./images/abonnements/05_mai_2024/Que_choisir_sante_mai_2024_193.pdf){target=_blank}
+    [![Science et Vie](./images/abonnements/05_mai_2024/Science_et_vie_mai_2024_1280.jpg "Science et Vie, mai 2024, n°1280"){width=20%}](./images/abonnements/05_mai_2024/Science_et_vie_mai_2024_1280.pdf){target=_blank}
+    [![Sciences et avenir](./images/abonnements/05_mai_2024/Sciences_et_avenir_mai_2024_927.jpg "Sciences et avenir, mai 2024, n°927"){width=20%}](./images/abonnements/05_mai_2024/Sciences_et_avenir_mai_2024_927.pdf){target=_blank}
+    [![Sciences et avenir](./images/abonnements/04_avril_2024/Sciences_et_avenir_avril-juin_2024_217HS.jpg "Sciences et avenir, avril-juin 2024, n°217HS"){width=20%}](./images/abonnements/04_avril_2024/Sciences_et_avenir_avril-juin_2024_217HS.pdf){target=_blank}
+    [![Sciences humaines](./images/abonnements/05_mai_2024/Sciences_humaines_mai_2024_368.jpg "Sciences humaines, mai 2024, n°368){width=20%}](./images/abonnements/05_mai_2024/Sciences_humaines_mai_2024_368.pdf){target=_blank}
+    [![Sciences humaines - grands dossiers](./images/abonnements/03_mars_2024/Sciences_humaines_les_grands_dossiers_mars-avril_2024_74.jpg "Sciences humaines - Les grands dossiers, mars-avril 2024, n°74HS"){width=20%}](./images/abonnements/03_mars_2024/Sciences_humaines_les_grands_dossiers_mars-avril_2024_74.pdf){target=_blank}
+    [![Sport et vie](./images/abonnements/05_mai_2024/Sport_et_vie_mai-juin_2024_204.jpg "Sport et Vie, mai-juin 2024, n°204"){width=20%}](./images/abonnements/05_mai_2024/Sport_et_vie_mai-juin_2024_204.pdf){target=_blank}
+    [![Sport et vie](./images/abonnements/12_decembre_2023/Sport_et_vie_decembre_2023_59HS.jpg "Sport et Vie, décembre 2023, n°59HS"){width=20%}](./images/abonnements/12_decembre_2023/Sport_et_vie_decembre_2023_59HS.pdf){target=_blank}
+    [![Tangente](./images/abonnements/05_mai_2024/Tangente_mai-juin_2024_217.jpg "Tangente, mai-juin 2024, n°217"){width=20%}](./images/abonnements/05_mai_2024/Tangente_mai-juin_2024_217.pdf){target=_blank}
+    [![Tangente](./images/abonnements/03_mars_2024/Tangente_mars_2024_89HS.jpg "Tangente, mars 2024, n°89HS"){width=20%}](./images/abonnements/03_mars_2024/Tangente_mars_2024_89HS.pdf){target=_blank}
+    [![Virgule](./images/abonnements/05_mai_2024/Virgule_mai_2024_228.jpg "Virgule, mai 2024, n°228"){width=20%}](./images/abonnements/05_mai_2024/Virgule_mai_2024_228.pdf){target=_blank} 
+
+
+??? "**Kiosque du mois dernier** :newspaper:"       
+    
     [![01NET](./images/abonnements/04_avril_2024/01NET_03_avril_2024_1020.jpg "01NET, 03 avril 2024, n°1020"){width=20%}](./images/abonnements/04_avril_2024/01NET_03_avril_2024_1020.pdf){target=_blank}
+    [![01NET](./images/abonnements/04_avril_2024/01NET_17_avril_2024_1021.jpg "01NET, 17 avril 2024, n°1020"){width=20%}](./images/abonnements/04_avril_2024/01NET_17_avril_2024_1021.pdf){target=_blank}
     [![Aide-soignante](./images/abonnements/04_avril_2024/Aide-soignante_avril_2024_256.jpg "Aide-soignante, avril 2024, n°256"){width=20%}](./images/abonnements/04_avril_2024/Aide-soignante_avril_2024_256.pdf){target=_blank}
     [![Alternatives Economiques](./images/abonnements/04_avril_2024/Alternatives_economiques_avril_2024_445.jpg "Alternatives Economiques, avril 2024, n°445"){width=20%}](./images/abonnements/04_avril_2024/Alternatives_economiques_avril_2024_445.pdf){target=_blank}
     [![Alternatives Economiques](./images/abonnements/04_avril_2024/Alternatives_economiques_avril_2024_129HS.jpg "Alternatives Economiques, avril 2024, n°129HS"){width=20%}](./images/abonnements/04_avril_2024/Alternatives_economiques_avril_2024_129HS.pdf){target=_blank}
-    [![Ca m'intéresse](./images/abonnements/03_mars_2024/Ca_m_interesse_mars_2024_577.jpg "Ca m'intéresse, mars 2024, n°517"){width=20%}](./images/abonnements/03_mars_2024/Ca_m_interesse_mars_2024_577.pdf){target=_blank}
+    [![Ca m'intéresse](./images/abonnements/04_avril_2024/Ca_m_interesse_avril_2024_518.jpg "Ca m'intéresse, avril mars 2024, n°518"){width=20%}](./images/abonnements/04_avril_2024/Ca_m_interesse_avril_2024_518.pdf){target=_blank}
     [![Courrier international](./images/abonnements/04_avril_2024/Courrier_international_04_avril_2024_1744.jpg "Courrier international, 04 avril 2024, n°1744"){width=20%}](./images/abonnements/04_avril_2024/Courrier_international_04_avril_2024_1744.pdf){target=_blank}
     [![Courrier international](./images/abonnements/04_avril_2024/Courrier_international_11_avril_2024_1745.jpg "Courrier international, 11 avril 2024, n°1745"){width=20%}](./images/abonnements/04_avril_2024/Courrier_international_11_avril_2024_1745.pdf){target=_blank}
+    [![Courrier international](./images/abonnements/04_avril_2024/Courrier_international_18_avril_2024_1746.jpg "Courrier international, 18 avril 2024, n°1746"){width=20%}](./images/abonnements/04_avril_2024/Courrier_international_18_avril_2024_1746.pdf){target=_blank}
+    [![Courrier international](./images/abonnements/04_avril_2024/Courrier_international_25_avril_2024_1747.jpg "Courrier international, 25 avril 2024, n°1747"){width=20%}](./images/abonnements/04_avril_2024/Courrier_international_25_avril_2024_1747.pdf){target=_blank}
     [![Courrier international](./images/abonnements/04_avril_2024/Courrier_international_avril-mai_2024_100HS.jpg "Courrier international, avril-mai 2024, n°100HS"){width=20%}](./images/abonnements/04_avril_2024/Courrier_international_avril-mai_2024_100HS.pdf){target=_blank}
     [![Documentation photographique](./images/abonnements/03_mars_2024/Documentation_photographique_mars_2024_8158.jpg "Documentation photographique, mars 2024, n°8158"){width=20%}](./images/abonnements/03_mars_2024/Documentation_photographique_mars_2024_8158.pdf){target=_blank}
     [![Journal_animation](./images/abonnements/03_mars_2024/Journal_animation_mars-avril_2024_244.jpg "Journal de l'animation, mars-avril 2024, n°244"){width=20%}](./images/abonnements/03_mars_2024/Journal_animation_mars-avril_2024_244.pdf){target=_blank}
@@ -110,44 +144,7 @@
     [![Sport et vie](./images/abonnements/12_decembre_2023/Sport_et_vie_decembre_2023_59HS.jpg "Sport et Vie, décembre 2023, n°59HS"){width=20%}](./images/abonnements/12_decembre_2023/Sport_et_vie_decembre_2023_59HS.pdf){target=_blank}
     [![Tangente](./images/abonnements/03_mars_2024/Tangente_mars_2024_216.jpg "Tangente, mars 2024, n°216"){width=20%}](./images/abonnements/03_mars_2024/Tangente_mars_2024_216.pdf){target=_blank}
     [![Tangente](./images/abonnements/03_mars_2024/Tangente_mars_2024_89HS.jpg "Tangente, mars 2024, n°89HS"){width=20%}](./images/abonnements/03_mars_2024/Tangente_mars_2024_89HS.pdf){target=_blank}
-    [![Virgule](./images/abonnements/04_avril_2024/Virgule_avril_2024_227.jpg "Virgule, avril 2024, n°227"){width=20%}](./images/abonnements/04_avril_2024/Virgule_avril_2024_227.pdf){target=_blank} 
-
-
-??? "**Kiosque du mois dernier** :newspaper:"       
-    
-    [![01NET](./images/abonnements/03_mars_2024/01NET_06_mars_2024_1018.jpg "01NET, 06 mars 2024, n°1018"){width=20%}](./images/abonnements/03_mars_2024/01NET_06_mars_2024_1018.pdf){target=_blank}
-    [![01NET](./images/abonnements/03_mars_2024/01NET_20_mars_2024_1019.jpg "01NET, 20 mars 2024, n°1019"){width=20%}](./images/abonnements/03_mars_2024/01NET_20_mars_2024_1019.pdf){target=_blank}
-    [![Aide-soignante](./images/abonnements/03_mars_2024/Aide-soignante_mars_2027_255.jpg "Aide-soignante, mars 2024, n°255"){width=20%}](./images/abonnements/03_mars_2024/Aide-soignante_mars_2027_255.pdf){target=_blank}
-    [![Alternatives Economiques](./images/abonnements/04_avril_2024/Alternatives_economiques_avril_2024_445.jpg "Alternatives Economiques, avril 2024, n°445"){width=20%}](./images/abonnements/04_avril_2024/Alternatives_economiques_avril_2024_445.pdf){target=_blank}
-    [![Ca m'intéresse](./images/abonnements/04_avril_2024/Ca_m_interesse_avril_2024_518.jpg "Ca m'intéresse, avril 2024, n°518"){width=20%}](./images/abonnements/04_avril_2024/Ca_m_interesse_avril_2024_518.pdf){target=_blank}
-    [![Courrier international](./images/abonnements/03_mars_2024/Courrier_international_29_fevrier_2024_1739.jpg "Courrier international, 29 février 2024, n°1739"){width=20%}](./images/abonnements/03_mars_2024/Courrier_international_29_fevrier_2024_1739.pdf){target=_blank}
-    [![Courrier international](./images/abonnements/03_mars_2024/Courrier_international_07_mars_2024_1740.jpg "Courrier international, 07 mars 2024, n°1740"){width=20%}](./images/abonnements/03_mars_2024/Courrier_international_07_mars_2024_1740.pdf){target=_blank}
-    [![Courrier international](./images/abonnements/03_mars_2024/Courrier_international_14_mars_2024_1741.jpg "Courrier international, 14 mars 2024, n°1741"){width=20%}](./images/abonnements/03_mars_2024/Courrier_international_14_mars_2024_1741.pdf){target=_blank}
-    [![Courrier international](./images/abonnements/03_mars_2024/Courrier_international_21_mars_2024_1742.jpg "Courrier international, 21 mars 2024, n°1742"){width=20%}](./images/abonnements/03_mars_2024/Courrier_international_14_mars_2024_1741.pdf){target=_blank}
-    [![Courrier international](./images/abonnements/03_mars_2024/Courrier_international_28_mars_2024_1743.jpg "Courrier international, 28 mars 2024, n°1743"){width=20%}](./images/abonnements/03_mars_2024/Courrier_international_28_mars_2024_1743.pdf){target=_blank}
-    [![Documentation photographique](./images/abonnements/03_mars_2024/Documentation_photographique_mars_2024_8158.jpg "Documentation photographique, mars 2024, n°8158"){width=20%}](./images/abonnements/03_mars_2024/Documentation_photographique_mars_2024_8158.pdf){target=_blank}
-    [![Journal_animation](./images/abonnements/03_mars_2024/Journal_animation_mars-avril_2024_244.jpg "Journal de l'animation, mars-avril 2024, n°244"){width=20%}](./images/abonnements/03_mars_2024/Journal_animation_mars-avril_2024_244.pdf){target=_blank}
-    [![Lire](./images/abonnements/03_mars_2024/Lire_magazine_mars_2024_527.jpg "Lire, mars 2024, n°527"){width=20%}](./images/abonnements/03_mars_2024/Lire_magazine_mars_2024_527.pdf){target=_blank}
-    [![Philosophie magazine](./images/abonnements/03_mars_2024/Philosophie_magazine_mars_2024_177.jpg "Philosophie magazine, mars 2024, n°177"){width=20%}](./images/abonnements/03_mars_2024/Philosophie_magazine_mars_2024_177.pdf){target=_blank}
-    [![Phosphore](./images/abonnements/03_mars_2024/Phosphore_1er_mars_2024_571.jpg "Phosphore, 1er mars 2024, n°571"){width=20%}](./images/abonnements/03_mars_2024/Phosphore_1er_mars_2024_571.pdf){target=_blank}
-    [![Phosphore](./images/abonnements/03_mars_2024/Phosphore_15_mars_2024_572.jpg "Phosphore, 15 mars 2024, n°572"){width=20%}](./images/abonnements/03_mars_2024/Phosphore_15_mars_2024_572.pdf){target=_blank}
-    [![Pour l'éco](./images/abonnements/03_mars_2024/Pour_l_eco_mars_2024_59.jpg "Pour l'éco, mars 2023, n°59"){width=20%}](./images/abonnements/03_mars_2024/Pour_l_eco_mars_2024_59.pdf){target=_blank}
-    [![Que choisir](./images/abonnements/03_mars_2024/Que_choisir_mars_2024_633.jpg "Que choisir, mars 2024, n°633"){width=20%}](./images/abonnements/03_mars_2024/Que_choisir_mars_2024_633.pdf){target=_blank}
-    [![Que choisir santé](./images/abonnements/03_mars_2024/Que_choisir_sante_mars_2024_191.jpg "Que choisir santé, mars 2024, n°191"){width=20%}](./images/abonnements/03_mars_2024/Que_choisir_sante_mars_2024_191.pdf){target=_blank}
-    [![Science et Vie](./images/abonnements/03_mars_2024/Science_et_vie_mars_2024_1278.jpg "Science et Vie, mars 2024, n°1278"){width=20%}](./images/abonnements/03_mars_2024/Science_et_vie_mars_2024_1278.pdf){target=_blank}
-    [![Science et Vie Junior](./images/abonnements/03_mars_2024/Science_et_vie_junior_mars_2024_414.jpg "Science et Vie Junior, mars 2024, n°414"){width=20%}](./images/abonnements/03_mars_2024/Science_et_vie_junior_mars_2024_414.pdf){target=_blank}
-    [![Science et Vie Junior](./images/abonnements/03_mars_2024/Science_et_vie_junior_mars_2024_164HS.jpg "Science et Vie Junior, mars 2024, n°164HS"){width=20%}](./images/abonnements/03_mars_2024/Science_et_vie_junior_mars_2024_164HS.pdf){target=_blank}
-    [![Sciences et avenir](./images/abonnements/03_mars_2024/Sciences_et_avenir_mars_2024_925.jpg "Sciences et avenir, mars 2024, n°925"){width=20%}](./images/abonnements/03_mars_2024/Sciences_et_avenir_mars_2024_925.pdf){target=_blank}
-    [![Sciences et avenir](./images/abonnements/01_janvier_2024/Sciences_et_avenir_janvier_2024_216HS.jpg "Sciences et avenir, janvier 2024, n°216HS"){width=20%}](./images/abonnements/01_janvier_2024/Sciences_et_avenir_janvier_2024_216HS.pdf){target=_blank}
-    [![Sciences humaines](./images/abonnements/03_mars_2024/Sciences_humaines_mars_2024_366.jpg "Sciences humaines, mars 2024, n°366"){width=20%}](./images/abonnements/03_mars_2024/Sciences_humaines_mars_2024_366.pdf){target=_blank}
-    [![Sciences humaines - grands dossiers](./images/abonnements/03_mars_2024/Sciences_humaines_les_grands_dossiers_mars-avril_2024_74.jpg "Sciences humaines - Les grands dossiers, mars-avril 2024, n°74HS"){width=20%}](./images/abonnements/03_mars_2024/Sciences_humaines_les_grands_dossiers_mars-avril_2024_74.pdf){target=_blank}
-    [![Sport et vie](./images/abonnements/03_mars_2024/Sport_et_vie_mars-avril_2024_203.jpg "Sport et Vie, mars-avril 2024, n°203"){width=20%}](./images/abonnements/03_mars_2024/Sport_et_vie_mars-avril_2024_203.pdf){target=_blank}
-    [![Sport et vie](./images/abonnements/12_decembre_2023/Sport_et_vie_decembre_2023_59HS.jpg "Sport et Vie, décembre 2023, n°59HS"){width=20%}](./images/abonnements/12_decembre_2023/Sport_et_vie_decembre_2023_59HS.pdf){target=_blank}
-    [![Tangente](./images/abonnements/03_mars_2024/Tangente_mars_2024_216.jpg "Tangente, mars 2024, n°216"){width=20%}](./images/abonnements/03_mars_2024/Tangente_mars_2024_216.pdf){target=_blank}
-    [![Tangente](./images/abonnements/03_mars_2024/Tangente_mars_2024_89HS.jpg "Tangente, mars 2024, n°89HS"){width=20%}](./images/abonnements/03_mars_2024/Tangente_mars_2024_89HS.pdf){target=_blank}
-    [![Virgule](./images/abonnements/03_mars_2024/Virgule_mars_2024_226.jpg "Virgule, mars 2024, n°226"){width=20%}](./images/abonnements/03_mars_2024/Virgule_mars_2024_226.pdf){target=_blank} 
-
-
+    [![Virgule](./images/abonnements/04_avril_2024/Virgule_avril_2024_227.jpg "Virgule, avril 2024, n°227"){width=20%}](./images/abonnements/04_avril_2024/Virgule_avril_2024_227.pdf){target=_blank}     
     
 ??? "**Kiosque des langues vivantes** :gb: :de: :es: :it: :cn:"
     
@@ -167,6 +164,7 @@
     [![I love English world](./images/abonnements/langues/ILoveEnglishWorld_fevrier_2024_368.jpg "I love English World, février 2024, n°368"){width=20%}](./images/abonnements/langues/ILoveEnglishWorld_fevrier_2024_368.pdf){target=_blank}
     [![I love English world](./images/abonnements/langues/ILoveEnglishWorld_mars_2024_369.jpg "I love English World, mars 2024, n°369"){width=20%}](./images/abonnements/langues/ILoveEnglishWorld_mars_2024_369.pdf){target=_blank}
     [![I love English world](./images/abonnements/langues/ILoveEnglishWorld_avril_2024_370.jpg "I love English World, avril 2024, n°370"){width=20%}](./images/abonnements/langues/ILoveEnglishWorld_avril_2024_370.pdf){target=_blank}
+    [![I love English world](./images/abonnements/langues/ILoveEnglishWorld_mai_2024_371.jpg "I love English World, mai 2024, n°37"){width=20%}](./images/abonnements/langues/ILoveEnglishWorld_mai_2024_371.pdf){target=_blank}
     
     ??? Example ":de: **Allemand** :de:"
     [![Vocable Allemand](./images/abonnements/langues/Vocable_allemand_janvier_2023_874.jpg "Vocable Allemand, janvier 2023, n°874"){width=20%}](./images/abonnements/langues/Vocable_allemand_janvier_2023_874.pdf){target=_blank}
@@ -185,6 +183,7 @@
     [![Vocable Allemand](./images/abonnements/langues/Vocable_allemand_fevrier_2024_887.jpg"Vocable Allemand, février 2024, n°887"){width=20%}](./images/abonnements/langues/Vocable_allemand_fevrier_2024_887.pdf){target=_blank}
     [![Vocable Allemand](./images/abonnements/langues/Vocable_allemand_mars_2024_888.jpg "Vocable Allemand, mars 2024, n°888"){width=20%}](./images/abonnements/langues/Vocable_allemand_mars_2024_888.pdf){target=_blank}
     [![Vocable Allemand](./images/abonnements/langues/Vocable_allemand_avril_2024_889.jpg "Vocable Allemand, avril 2024, n°889"){width=20%}](./images/abonnements/langues/Vocable_allemand_avril_2024_889.pdf){target=_blank}
+    [![Vocable Allemand](./images/abonnements/langues/Vocable_allemand_mai_2024_890.jpg "Vocable Allemand, mai 2024, n°890"){width=20%}](./images/abonnements/langues/Vocable_allemand_mai_2024_890.pdf){target=_blank}
     
     ??? Example ":es: **Espagnol** :es:"
     [![Vocable Espagnol](./images/abonnements/langues/Vocable_espagnol_janvier_2023_867.jpg "Vocable Espagnol, janvier 2023, n°867"){width=20%}](./images/abonnements/langues/Vocable_espagnol_janvier_2023_867.pdf){target=_blank}
@@ -203,6 +202,7 @@
     [![Vocable Espagnol](./images/abonnements/langues/Vocable_espagnol_fevrier_2024_880.jpg "Vocable Espagnol, février 2024, n°880"){width=20%}](./images/abonnements/langues/Vocable_espagnol_fevrier_2024_880.pdf){target=_blank}
     [![Vocable Espagnol](./images/abonnements/langues/Vocable_espagnol_mars_2024_881.jpg "Vocable Espagnol, mars 2024, n°881"){width=20%}](./images/abonnements/langues/Vocable_espagnol_mars_2024_881.pdf){target=_blank}
     [![Vocable Espagnol](./images/abonnements/langues/Vocable_espagnol_avril_2024_882.jpg "Vocable Espagnol, avril 2024, n°882"){width=20%}](./images/abonnements/langues/Vocable_espagnol_avril_2024_882.pdf){target=_blank}
+    [![Vocable Espagnol](./images/abonnements/langues/Vocable_espagnol_mai_2024_883.jpg "Vocable Espagnol, mai 2024, n°883"){width=20%}](./images/abonnements/langues/Vocable_espagnol_mai_2024_883.pdf){target=_blank}
 
 
 ??? "**Pour les enseignants**"
@@ -225,6 +225,7 @@
     [![Cahiers pédagogiques](./images/abonnements/enseignants/Cahiers_pedagogiques_janvier_2024_590.jpg "Cahiers pédagogiques, janvier 2024, n°590"){width=20%}](./images/abonnements/enseignants/Cahiers_pedagogiques_janvier_2024_590.pdf){target=_blank}
     [![Cahiers pédagogiques](./images/abonnements/enseignants/Cahiers_pedagogiques_fevrier_2024_591.jpg "Cahiers pédagogiques, février 2024, n°591"){width=20%}](./images/abonnements/enseignants/Cahiers_pedagogiques_fevrier_2024_591.pdf){target=_blank}
     [![Cahiers pédagogiques](./images/abonnements/enseignants/Cahiers_pedagogiques_avril_2024_592.jpg "Cahiers pédagogiques, avril 2024, n°592"){width=20%}](./images/abonnements/enseignants/Cahiers_pedagogiques_avril_2024_592.pdf){target=_blank}
+    [![Cahiers pédagogiques](./images/abonnements/enseignants/Cahiers_pedagogiques_mai_2024_593.jpg "Cahiers pédagogiques, mai 2024, n°593"){width=20%}](./images/abonnements/enseignants/Cahiers_pedagogiques_mai_2024_593.pdf){target=_blank}
 
     ??? Example "**InterCDI**"
     [![InterCDI](./images/abonnements/enseignants/Intercdi_septembre-octobre_2022_298.jpg "InterCDI, septembre-octobre 2022, n°298"){width=20%}](./images/abonnements/enseignants/Intercdi_septembre-octobre_2022_298.pdf){target=_blank}
