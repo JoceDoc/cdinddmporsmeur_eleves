@@ -13,9 +13,7 @@
 ???+ "**CAFE PHILO** ==***Prochain RDV***== "
       
     ***N'hésitez pas à nous rejoindre...***
-    
-    ==**RDV hebdomadaire vendredi 24 mai**==
-    
+         
     <u>**Sujets précédents : **</u>
  
     - ***Y a-t-il des bons et des méchants ?***
@@ -28,8 +26,10 @@
 
     - ***Peut-on échapper à la peur ?***
 
+    - ***Y a-t-il de la beauté en tout ?***
 
-    ![Affiche](./images/actualites/20240524_affiche_Café_philo.jpg "Café Philo"){width=75% align=left}
+
+    ![Affiche](./images/expositions/20240531_Café_philo_affiche.jpg "Café Philo"){width=75% align=left}
       
     ![Groupe](./images/expositions/20240119_Cafe_philo_02.jpg "Café Philo"){width=75% align=left}
     ![Groupe](./images/expositions/20240119_Cafe_philo_03.jpg "Café Philo"){width=75% align=left}
@@ -87,12 +87,14 @@
    
 ??? "**Kiosque du mois** :newspaper:"
     
-    [![01NET](./images/abonnements/05_mai_2024/01NET_02_mai_2024_1022.jpg "01NET, 03 avril 2024, n°1022"){width=20%}](./images/abonnements/05_mai_2024/01NET_02_mai_2024_1022.pdf){target=_blank}
+    [![01NET](./images/abonnements/05_mai_2024/01NET_02_mai_2024_1022.jpg "01NET, 02 mai 2024, n°1022"){width=20%}](./images/abonnements/05_mai_2024/01NET_02_mai_2024_1022.pdf){target=_blank}
+    [![01NET](./images/abonnements/05_mai_2024/01NET_22_mai_2024_1023.jpg "01NET, 22 mai 2024, n°1023"){width=20%}](./images/abonnements/05_mai_2024/01NET_22_mai_2024_1023.pdf){target=_blank}
     [![Aide-soignante](./images/abonnements/04_avril_2024/Aide-soignante_avril_2024_256.jpg "Aide-soignante, avril 2024, n°256"){width=20%}](./images/abonnements/04_avril_2024/Aide-soignante_avril_2024_256.pdf){target=_blank}
     [![Alternatives Economiques](./images/abonnements/05_mai_2024/Alternatives_economiques_mai_2024_446.jpg "Alternatives Economiques, mai 2024, n°446"){width=20%}](./images/abonnements/05_mai_2024/Alternatives_economiques_mai_2024_446.pdf){target=_blank}
     [![Alternatives Economiques](./images/abonnements/04_avril_2024/Alternatives_economiques_avril_2024_129HS.jpg "Alternatives Economiques, avril 2024, n°129HS"){width=20%}](./images/abonnements/04_avril_2024/Alternatives_economiques_avril_2024_129HS.pdf){target=_blank}
     [![Ca m'intéresse](./images/abonnements/05_mai_2024/Ca_m_interesse_mai_2024_519.jpg "Ca m'intéresse, mai 2024, n°519"){width=20%}](./images/abonnements/05_mai_2024/Ca_m_interesse_mai_2024_519.pdf){target=_blank}
     [![Courrier international](./images/abonnements/05_mai_2024/Courrier_international_02_mai_2024_1748-1749.jpg "Courrier international, 02 mai 2024, n°1748-1749"){width=20%}](./images/abonnements/05_mai_2024/Courrier_international_02_mai_2024_1748-1749.pdf){target=_blank}
+    [![Documentation photographique](./images/abonnements/05_mai_2024/Documentation_photographique_mai_2024_8159.jpg "Documentation photographique, mai 2024, n°8159"){width=20%}](./images/abonnements/05_mai_2024/Documentation_photographique_mai_2024_8159.pdf){target=_blank}
     [![Journal_animation](./images/abonnements/05_mai_2024/Journal_animation_mai_2024_245.jpg "Journal de l'animation, mai 2024, n°245"){width=20%}](./images/abonnements/05_mai_2024/Journal_animation_mai_2024_245.pdf){target=_blank}
     [![Lire](./images/abonnements/04_avril_2024/Lire_magazine_avril_2024_528.JPG "Lire, avril 2024, n°528"){width=20%}](./images/abonnements/04_avril_2024/Lire_magazine_avril_2024_528.pdf){target=_blank}
     [![Philosophie magazine](./images/abonnements/05_mai_2024/Philosophie_magazine_mai_2024_179.jpg "Philosophie magazine, mai 2024, n°179"){width=20%}](./images/abonnements/05_mai_2024/Philosophie_magazine_mai_2024_179.pdf){target=_blank}
