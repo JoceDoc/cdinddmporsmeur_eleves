@@ -29,7 +29,7 @@
     - ***Y a-t-il de la beauté en tout ?***
 
 
-    ![Affiche](./images/expositions/20240531_Café_philo_affiche.jpg "Café Philo"){width=75% align=left}
+    ![Affiche](./images/expositions/20240531_Café_philo_affiche_03.jpg "Café Philo"){width=75% align=left}
       
     ![Groupe](./images/expositions/20240119_Cafe_philo_02.jpg "Café Philo"){width=75% align=left}
     ![Groupe](./images/expositions/20240119_Cafe_philo_03.jpg "Café Philo"){width=75% align=left}
