@@ -374,11 +374,7 @@ ___
             - [**Mme NUNEZ**](https://dnunez-gua.github.io/Maths_Terminales/){target=_blank} : Spécialité Mathématiques (Terminale) -  Option Maths expertes.
             - [**M. MADEC**](https://ericecmorlaix.github.io/SNT-2GT4_2022-2023/){target=_blank} : SNT seconde générale
 
-        ??? tip "Ressources pour la "Semaine des Mathématiques""
-            ==**Semaine des mathématiques - Du 6 au 15 mars 2023**== : l'occasion de renforcer l'attractivité des mathématiques.
-    
-            - [**Guide officiel**](https://eduscol.education.fr/document/46258/download){target=_blank} de l´édition 2023 sur le thème ==**"Les Maths à la carte"**==.
-            - [**Les défis possibles**](https://www.mathsenvie.fr/semaine-des-mathematiques-2023-avec-mths-en-vie-une-semaine-a-la-carte/){target=_blank} par niveau, les modalités du concours...
+        
           
 ___
 #### NSI

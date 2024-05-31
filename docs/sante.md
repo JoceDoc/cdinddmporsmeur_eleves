@@ -17,28 +17,22 @@
 ![Logo](./images/parcours_sante/Bougeons_ensemble_2023.jpg "Affiche 2023"){width=25% align=right}
     
 
-???+ info "**Bougeons ensemble - Edition 2023**"
-    ==**Mardi 23 mai**==, M. Derrien, enseignant d'EPS, plusieurs enseignants et l'association ==**Bougeons ensemble**== organisaient une ==**journée entièrement dédiée au sport**== pour le niveau seconde du lycée. 
+???+ info "**Bougeons ensemble - Edition 2024**"
+    ==**Mardi 28 mai**==, 3ème édition de la journée ==**Bougeons ensemble**== pour sensibiliser les élèves de seconde aux bienfaits de l'exercice physique, d'une alimentation équilibrée pour lutter contre la sédentarité. 
     
     <u>Au programme :</u>
 
-    ==**Ateliers sportifs**== : string (mélange de zumba et d'aérobic), salsa, biathlon-laser, step, et autres sports d'adresse ou de combat comme l'escrime et la boxe française...
-    
-    ==**Rencontres et échanges avec des professionnels**== : des kinésithérapeuthes, sophrologues et un diététicien venus les sensibiliser aux bienfaits de l'exercice physique et d'une alimentation équilibrée.
-    
-    ==**Conférence**== : pour clôturer la journée, Yannick Guillodo, médecin du sport a insisté sur l'intérêt d'avoir un mode de vie actif, de lutter contre la sédentarité et de limiter son usage du téléphone portable...
-    
-    Les élèves étaient d'ailleurs conviés à "décrocher" de leur portable pendant cette journée, puisque celui-ci n'était pas autorisé pendant les ateliers.
+    ==**Ateliers sportifs**, **rencontres et échanges avec des professionnels**== (kinésithérapeuthe, sophrologue, diététicien) , exposition sur le thème "sport et science" : ==***Pourquoi est-on penché dans les virages ?***==
+
 
 
     
     ??? "**Photos souvenirs**"
 
-        ![Bougeons ensemble](./images/parcours_sante/Bougeons_ensemble/Souvenirs_1.jpg "01"){width=65% align=left}
-        ![Bougeons ensemble](./images/parcours_sante/Bougeons_ensemble/Souvenirs_2.jpg "02"){width=70% align=left}
-        ![Bougeons ensemble](./images/parcours_sante/Bougeons_ensemble/Souvenirs_3.jpg "03"){width=70% align=left}
-        ![Bougeons ensemble](./images/parcours_sante/Bougeons_ensemble/Souvenirs_4.jpg "04"){width=70% align=left}
-        ![Bougeons ensemble](./images/parcours_sante/Bougeons_ensemble/Souvenirs_5.jpg "05"){width=70% align=left}
+        ![Bougeons ensemble](./images/parcours_sante/Bougeons_ensemble/Bongeons_ensemble_2024_01.jpg "01"){width=65% align=left}
+        ![Bougeons ensemble](./images/parcours_sante/Bougeons_ensemble/Bongeons_ensemble_2024_02.jpg "02"){width=70% align=left}
+        ![Bougeons ensemble](./images/parcours_sante/Bougeons_ensemble/Bongeons_ensemble_2024_04.jpg "04"){width=70% align=left}
+        ![Bougeons ensemble](./images/parcours_sante/Bougeons_ensemble/Bongeons_ensemble_2024_05.jpg "05"){width=70% align=left}
         
 
         
