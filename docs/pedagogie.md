@@ -363,10 +363,11 @@ ___
 
 ??? "Ressources" 
     - [**Spécialité Maths**](http://specialite-maths.fr/){target=_blank}
-    - [**M@th_et_tiques**](https://www.maths-et-tiques.fr/index.php/cours-maths){target=_blank}
+    - [**M@th_et_tiques**](https://www.maths-et-tiques.fr/index.php/cours-maths){target=_blank} : cours et exercices de maths par niveau du collège au lycée.
+    - [**Ma@ths en-vie**](https://www.mathsenvie.fr/?p=10530){target=_blank} : les mathématiques du quotidien. Activités de la maternelle au lycée...
     - [**Méthode Math**](https://www.methodemaths.fr/){target=_blank}
     - [**Kahn Academy**](https://fr.khanacademy.org/){target=_blank} : Cours en mathématiques...
-    - [**Ma@ths en-vie**](https://www.mathsenvie.fr/?p=10530){target=_blank} : Une façon originale d’aborder les mathématiques : motivante, concrète et en lien avec le quotidien des élèves. Activités de la maternelle au lycée...
+    - [**LearningApps**](https://learningapps.org/index.php?category=2&subcategory=2700&s=){target=_blank} : Applications en mathématiques...
     - [**Podcast - France Culture**](https://www.franceculture.fr/theme/mathematiques){target=_blank}
     - [**Annales**](https://www.annales2maths.com/){target=_blank}
 
