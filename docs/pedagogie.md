@@ -429,7 +429,7 @@ ___
         - [**Melchior**](https://www.melchior.fr/){target=_blank} : site de ressources en SES proposées par des enseignants de SES en partenariat avec l'éducation nationale.
         - [**Pour les SES**](http://www.ses.ac-versailles.fr/){target=_blank} : site de l'académie de Versailles.
         - [**Sujets de BAC**](http://www.ses.ac-versailles.fr/prgs_2019/bac/sujets_term/sujets_term.html){target=_blank} : sujets du BAC de la spécialité SES.
-        - [**Autres ressources**](http://ses.ens-lyon.fr/){target=_blank} en Sciences Economiques et Sociales.
+        - [**Ressources thématiques**](http://ses.ens-lyon.fr/){target=_blank} en Sciences Economiques et Sociales.
         - [**Pour l'Eco**](https://www.pourleco.com/){target=_blank} : le site de la revue.
 
 ___

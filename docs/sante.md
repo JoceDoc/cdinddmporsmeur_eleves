@@ -81,7 +81,7 @@
         D'autres jeux et quizz sur l'[**ONAPS**](https://onaps.fr/jeux-et-quizz/){target=_blank} : Observatoire National de l'Activité Physique et de la Sédentarité.
 
 ## Sommeil
-??? attention "Le sommeil, un allier santé"
+??? attention "Le sommeil, un allié santé"
     Une bonne hygiène du sommeil est indispensable et contribue à préserver la santé.
     Le sommeil possède plusieurs fonctions particulières, indissociables de l'état de veille et mettant en jeu de nombreux mécanismes physiologiques : sécrétions hormonales, régénération cellulaire (peau, muscle…), mémorisation etc. Dormir permet ainsi une récupération physique, psychologique et intellectuelle…
 
@@ -102,9 +102,6 @@
     
 
  
-
-
-
 ## Vie affective et sexuelle
 
 ??? info "Des sites pour s'informer"
