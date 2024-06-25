@@ -85,7 +85,7 @@
 ??? "**Kiosque du mois** :newspaper:"
     
     [![01NET](./images/abonnements/06_juin_2024/01NET_05_juin_2024_1024.jpg "01NET, 05 mai 2024, n°1024"){width=20%}](./images/abonnements/06_juin_2024/01NET_05_juin_2024_1024.pdf){target=_blank}
-    [![Aide-soignante](./images/abonnements/05_mai_2024/Aide-soignante_mai_2024_257.jpg "Aide-soignante, mai 2024, n°257"){width=20%}](./images/abonnements/05_mai_2024/Aide-soignante_mai_2024_257.pdf){target=_blank}
+    [![Aide-soignante](./images/abonnements/06_juin_2024/Aide-soignante_juin_2024_258.jpg "Aide-soignante, juin 2024, n°258"){width=20%}](./images/abonnements/06_juin_2024/Aide-soignante_juin_2024_258.pdf){target=_blank}
     [![Alternatives Economiques](./images/abonnements/06_juin_2024/Alternatives_economiques_juin_2024_447.jpg "Alternatives Economiques, juin 2024, n°447"){width=20%}](./images/abonnements/06_juin_2024/Alternatives_economiques_juin_2024_447.pdf){target=_blank}
     [![Ca m'intéresse](./images/abonnements/05_mai_2024/Ca_m_interesse_mai_2024_519.jpg "Ca m'intéresse, mai 2024, n°519"){width=20%}](./images/abonnements/05_mai_2024/Ca_m_interesse_mai_2024_519.pdf){target=_blank}
     [![Courrier international](./images/abonnements/06_juin_2024/Courrier_international_06_juin_2024_1753.jpg "Courrier international, 06 juin 2024, n°1753"){width=20%}](./images/abonnements/06_juin_2024/Courrier_international_06_juin_2024_1753.pdf){target=_blank}
@@ -105,7 +105,7 @@
     [![Sciences et avenir](./images/abonnements/06_juin_2024/Sciences_et_avenir_juin_2024_928.jpg "Sciences et avenir, juin 2024, n°928"){width=20%}](./images/abonnements/06_juin_2024/Sciences_et_avenir_juin_2024_928.pdf){target=_blank}
     [![Sciences et avenir](./images/abonnements/04_avril_2024/Sciences_et_avenir_avril-juin_2024_217HS.jpg "Sciences et avenir, avril-juin 2024, n°217HS"){width=20%}](./images/abonnements/04_avril_2024/Sciences_et_avenir_avril-juin_2024_217HS.pdf){target=_blank}
     [![Sciences humaines](./images/abonnements/06_juin_2024/Sciences_humaines_juin_2024_369.jpg "Sciences humaines, juin 2024, n°369"){width=20%}](./images/abonnements/06_juin_2024/Sciences_humaines_juin_2024_369.pdf){target=_blank}
-    [![Sciences humaines - grands dossiers](./images/abonnements/03_mars_2024/Sciences_humaines_les_grands_dossiers_mars-avril_2024_74.jpg "Sciences humaines - Les grands dossiers, mars-avril 2024, n°74HS"){width=20%}](./images/abonnements/03_mars_2024/Sciences_humaines_les_grands_dossiers_mars-avril_2024_74.pdf){target=_blank}
+    [![Sciences humaines - grands dossiers](./images/abonnements/06_juin_2024/Sciences_humaines_grands_dossiers_juin_2024_75.jpg "Sciences humaines - Les grands dossiers, juin 2024, n°75HS"){width=20%}](./images/abonnements/06_juin_2024/Sciences_humaines_grands_dossiers_juin_2024_75.pdf){target=_blank}
     [![Sport et vie](./images/abonnements/05_mai_2024/Sport_et_vie_mai-juin_2024_204.jpg "Sport et Vie, mai-juin 2024, n°204"){width=20%}](./images/abonnements/05_mai_2024/Sport_et_vie_mai-juin_2024_204.pdf){target=_blank}
     [![Sport et vie](./images/abonnements/12_decembre_2023/Sport_et_vie_decembre_2023_59HS.jpg "Sport et Vie, décembre 2023, n°59HS"){width=20%}](./images/abonnements/12_decembre_2023/Sport_et_vie_decembre_2023_59HS.pdf){target=_blank}
     [![Tangente](./images/abonnements/05_mai_2024/Tangente_mai-juin_2024_217.jpg "Tangente, mai-juin 2024, n°217"){width=20%}](./images/abonnements/05_mai_2024/Tangente_mai-juin_2024_217.pdf){target=_blank}
