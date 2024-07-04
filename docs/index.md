@@ -62,7 +62,7 @@ Informations accessibles depuis ce site :
 
 ### Planning
 
-Les plannings hebdomadaires des séances pédagogiques sont affichés le vendredi soir, pour la semaine à venir, sur les portes d'entrée du ==**CDI**==, ainsi que des salles ==**INFO 1**== et ==**INFO 2**==.
+Les plannings hebdomadaires des séances pédagogiques sont affichés le vendredi soir, pour la semaine à venir, sur les portes d'entrée du ==**CDI**==, ainsi que de la salle ==**INFO 1**== et du ==**BOX CDI**==.
 
 Ci-dessous les heures d'ouverture du CDI.
 
