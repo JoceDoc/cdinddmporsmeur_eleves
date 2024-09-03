@@ -18,10 +18,7 @@
 ___
 
 ## Actualité des disciplines
-[![**Semaine des mathématiques**](./images/pedagogie/semaine-des-math-2024.jpg "Semaine_des_mathématiques"){width=55%}](https://www.education.gouv.fr/la-semaine-des-mathematiques-7241){target=_blank} 
-[![**logo**](./images/pedagogie/logo_annee_physique.png "Page d'accueil année de la physique"){width=45%}](https://anneedelaphysique.cnrs.fr/){target=_blank} 
-[![**PRINTEMPS DES POETES**](./images/pedagogie/affiche_printemps_des_poetes_2024.jpg){width=30%}](https://www.printempsdespoetes.com/Edition2024){target=_blank}
-[![**Journée de l'Europe**](./images/pedagogie/journee_europe_20230509.jpg){width=45%}](https://www.clemi.fr/fr/evenements/toutes-les-actualites/actualite/news/detail/News/9-mai-journee-de-leurope-et-leducation-aux-medias-et-a-linformation.html){target=_blank}
+
 
 ## Méthodologie pour tous
 
@@ -190,45 +187,31 @@ ___
     
     L’objectif est de les guider dans leurs choix d'orientation, en leur proposant soit des modules de découverte variés où ils pourront exprimer leurs talents, soit des activités liées à une discipline spécifique, ou encore des outils pour les aider à surmonter des difficultés identifiées.
     === "**PROJETS LONGS** (*27 semaines*)"
-        * Sciences et laboratoire : Faire des sciences dans le cadre d’une enquête policière
-    
-        * Journal du lycée : Ecrire à la façon d’un journaliste
-     
-        * Maths expertes : Les maths, j’adore, je veux devenir un expert
-    
-        * Création et innovation technologique : des idées plein la tête pour des projets concrets
-    
-        * Lecture à voix haute : concours "Si on lisait à voix haute" (*Lumni - La Grande Librairie*)
-    
-        * Atelier d'écriture : pour les écrivains en herbes
-    
-        * Management et Gestion : Créer ma propre entreprise
-         
-        * Soutien maths (3)
 
-        * Projet TARA
+        * Sciences et laboratoire : Faire des sciences dans le cadre d’une enquête policière
+        
+        * Création et innovation technologique - Sciences de l'ingénieur
+    
+        * La lecture à voix haute... dans tous ses états
+    
+        * Atelier d'écriture partagée
+    
+        * Management et Gestion
+         
 
     === "PROJETS COURTS (*9 semaines*)"
-    
-        * Soutien mathématiques (1)
+             
+        * Soutien français
 
-        * Soutien mathématiques (2)
-        
-        * Soutien français : pour reprendre les bases en début d'année
-
-        * AP CARE
-        
+        * Soutien maths
+     
         * Initiation aux sciences de l'ingénieur
         
         * Initiation au management et à la gestion
-        
-        * Projet DIAPOSON
-
-        * AP ORAL
-    
+           
         * Sciences et laboratoire : répondre à des questions scientifiques par l'expérience
         
-        * Infos-Presse-Médias: s'informer et développer son esprit critique
+        * Questions de science ou de société... en débat(s)
 
    
 ___

@@ -17,24 +17,6 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
 
 ## Actualités
 
-???+ info "**PARCOURSUP - Du 14 mars au 3 avril : je complète mon dossier et je confirme mes voeux **"
-    [![**PARCOURSUP**](./images/orientation/parcoursup.png){width=35%}](https://www.parcoursup.gouv.fr/){target=_blank}
-
-    Les [**nouvelles fonctionnalités**](https://www.education.gouv.fr/ouverture-du-site-d-information-parcoursup-2024-380373){target=_blank} à découvrir sur le site du Ministère de l'Education Nationale et de la jeunesse.
-
-???+ info "**FORUM**"
-
-    -[![**Forum des métiers du numérique ?"**](./images/orientation/2024_Forum_Métiers_Numérique_IUT_Saint-Malo.jpg "Forum Métiers du numérique"){width=45%}](https://iut-stmalo.univ-rennes.fr/forum-des-metiers-du-numerique-2024){target=_blank}
-
-??? attention "**Immersions - Journées découvertes dans le supérieur**"
-
-    Voir ci-dessous dans la rubrique 
-    
-    * [**Universités**](https://cdi-lycee.ecmorlaix.fr/orientation/#universites){target=_blank}
-
-    * [**IUT**](https://cdi-lycee.ecmorlaix.fr/orientation/#but){target=_blank}
-
-
 ??? info "**Au fil de la presse...**"
     - [**Le Télégramme - 30/12/2022**](https://www.letelegramme.fr/finistere/morlaix/a-23-ans-il-est-regisseur-dans-une-salle-mythique-loan-peron-de-plougonven-aux-coulisses-de-l-olympia-30-12-2022-13250759.php){target=_blank} : À 23 ans, il est régisseur « dans une salle mythique » : Loan Péron, de Plougonven, aux coulisses de l’Olympia. Bravo à cet ancien élève du lycée.
     - [**Le Télégramme - 14/09/2022**](https://www.letelegramme.fr/finistere/morlaix/gwenael-morel-l-atout-drone-des-pompiers-finisteriens-14-09-2022-13178211.php){target=_blank} : Gwenaël Morel, l'atout drone des pompiers finistériens"

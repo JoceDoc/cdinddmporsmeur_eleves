@@ -146,13 +146,7 @@ La [**ville de Morlaix**](https://www.ville.morlaix.fr/VIVRE-A-MORLAIX/Culture-L
     === "EXPOSITIONS - CONFERENCES"
         ???+ info "**L'Espace des sciences**"
      
-            Le [**Programme**](https://www.espace-sciences.org/morlaix/programme){target=_blank} du mois de l'[**Espace des sciences**](https://www.espace-sciences.org/morlaix){target=_blank} : 
-    
-            * Astronomie de l'étrange : ==**mardi 29 mars**==.
-    
-            * ADN environnemental : ==**mercredi 5 avril**==.
-    
-            * Les scientifiques dans l'espace public : ==**mercredi 10 mai**==.
+            Le [**Programme**](https://www.espace-sciences.org/morlaix/programme){target=_blank} du mois de l'[**Espace des sciences**](https://www.espace-sciences.org/morlaix){target=_blank} 
         
             Collection [**Les Mardis de l'Espace des sciences **](https://www.espace-sciences.org/conferences/conferenciers){target=_blank} (Les Champs libres - Rennes)
 
