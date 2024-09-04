@@ -19,6 +19,7 @@ ___
 
 ## Actualité des disciplines
 
+![**Fête de la science"**](./images/pedagogie/Affiche_Fête_de_la_science_2024.jpg "Fête de la science"){width=65%}
 
 ## Méthodologie pour tous
 
