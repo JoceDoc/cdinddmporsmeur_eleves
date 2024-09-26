@@ -4,14 +4,12 @@
     [![logo ECAM](./images/logo_ecam.jpg "Actualités Lycée"){width=90% align=right}](https://www.ecmorlaix.fr/actualites/){target=_blank}
 
 
-![Affiche](./images/actualites/Midis_de_l_info.png "Midis de l'INFO"){width=25% align=right}
-
-
 
 ## Expositions et projets
 
-???+ "**CAFE PHILO** ==<u>**RETOUR PROCHAIN DU CAFE PHILO**</u>=="
-       
+???+ "**CAFE PHILO** ==<u>**1er RDV de l'année mardi 24/09/2024**</u>=="
+    ![Café philo](./images/actualites/20240924_CAFE_PHILO_affiche.png "café philo"){width=50% align=left}
+
     ![Groupe](./images/expositions/20240119_Cafe_philo.jpg "Café Philo"){width=75% align=left}
     ![Groupe](./images/expositions/20240607_Cafe_philo.jpg "Café Philo-20240607"){width=75% align=left}
 
@@ -147,6 +145,7 @@
     [![Vocable Allemand](./images/abonnements/langues/Vocable_allemand_juin_2024_891.jpg "Vocable Allemand, juin 2024, n°891"){width=20%}](./images/abonnements/langues/Vocable_allemand_juin_2024_891.pdf){target=_blank}
     [![Vocable Allemand](./images/abonnements/langues/Vocable_allemand_2024_07_892.jpg "Vocable Allemand, juillet 2024, n°892"){width=20%}](./images/abonnements/langues/Vocable_allemand_2024_07_892.pdf){target=_blank}
     [![Vocable Allemand](./images/abonnements/langues/Vocable_allemand_2024_08_893.jpg "Vocable Allemand, août 2024, n°893"){width=20%}](./images/abonnements/langues/Vocable_allemand_2024_08_893.pdf){target=_blank}
+    [![Vocable Allemand](./images/abonnements/langues/Vocable_allemand_2024_09_894.jpg "Vocable Allemand, septembre 2024, n°894"){width=20%}](./images/abonnements/langues/Vocable_allemand_2024_09_894.pdf){target=_blank}
 
     
     ??? Example ":es: **Espagnol** :es:"
@@ -158,6 +157,8 @@
     [![Vocable Espagnol](./images/abonnements/langues/Vocable_espagnol_juin_2024_884.jpg "Vocable Espagnol, juin 2024, n°884"){width=20%}](./images/abonnements/langues/Vocable_espagnol_juin_2024_884.pdf){target=_blank}
     [![Vocable Espagnol](./images/abonnements/langues/Vocable_espagnol_2024_07_885.jpg "Vocable Espagnol, juillet 2024, n°885"){width=20%}](./images/abonnements/langues/Vocable_espagnol_2024_07_885.pdf){target=_blank}
     [![Vocable Espagnol](./images/abonnements/langues/Vocable_espagnol_2024_08_886.jpg "Vocable Espagnol, août 2024, n°886"){width=20%}](./images/abonnements/langues/Vocable_espagnol_2024_08_886.pdf){target=_blank}
+    [![Vocable Espagnol](./images/abonnements/langues/Vocable_espagnol_2024_09_887.jpg "Vocable Espagnol, septembre 2024, n°887"){width=20%}](./images/abonnements/langues/Vocable_espagnol_2024_09_887.pdf){target=_blank}
+    
 
 
 

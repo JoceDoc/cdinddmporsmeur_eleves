@@ -80,7 +80,7 @@ ___
 
 ___
 ## EMI Médias et Information
-??? question "**Pourquoi et comment s'informer** ?" 
+??? question "**Pourquoi et comment s'informer ?**" 
     
     * S'informer pour comprendre le monde
     
@@ -150,9 +150,9 @@ ___
 ___
 
 ??? info "**Concours de critique**"
-    En octobre et novembre, les élèves de 1G1 et 1G2, participent au [**concours de critique littéraire**](https://www.bruitdelire.org/concours-de-critique-litteraire/){target=_blank} organisé par la Région Bretagne en partenariat avec le Rectorat de Rennes et l’association ==**"Bruit de lire"**==. L’objectif pour les élèves est de rédiger une critique sur l’un des romans de la sélection en lice pour le ==**Prix Goncourt des Lycéens**==.
+    En octobre et novembre, les élèves de 1G2 et 1G3, participent au [**concours du Prix de la plume lycéenne**](https://www.bruitdelire.org/concours-de-critique-litteraire/){target=_blank} organisé par la Région Bretagne en partenariat avec le Rectorat de Rennes et l’association ==**"Bruit de lire"**==. L’objectif est de développer l'intérêt des lycéens pour la littérature contemporaine, stimuler leur capacité à émettre un jugement critique sur l’un des romans de la sélection en lice pour le ==**Prix Goncourt des Lycéens**==, et confronter leur point de vue avec celui d'autres lecteurs.
     
-    En apprenant à exprimer leur pensée et à argumenter, les lycéens avancent vers l'autonomie. Au-delà du « j’aime » / « je n’aime pas », ils apprennent à formuler une appréciation personnelle sur l’œuvre choisie et à justifier leur avis. En s’exerçant à ce genre particulier, les élèves développent de véritables compétences d’argumentation.
+    En apprenant à exprimer leur pensée et à argumenter, les lycéens avancent vers l'autonomie. Au-delà du « j’aime » / « je n’aime pas », ils apprennent à formuler une appréciation personnelle sur l’œuvre choisie et à justifier leur avis. Les élèves développent ainsi de véritables compétences d’argumentation.
     
     ???+ "**Autres ressources**"
         * [**L'Académie Goncourt**](https://www.academiegoncourt.com/home){target=_blank}
