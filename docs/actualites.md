@@ -7,8 +7,8 @@
 
 ## Expositions et projets
 
-???+ "**CAFE PHILO** ==<u>**1er RDV de l'année mardi 24/09/2024**</u>=="
-    ![Café philo](./images/actualites/20240924_CAFE_PHILO_affiche.png "café philo"){width=50% align=left}
+???+ "**CAFE PHILO** ==<u>**RDV mardi 08/10/2024**</u>=="
+    ![Café philo](./images/actualites/20241008_Café_philo_affiche.png "café philo"){width=70% align=left}
 
     ![Groupe](./images/expositions/20240119_Cafe_philo.jpg "Café Philo"){width=75% align=left}
     ![Groupe](./images/expositions/20240607_Cafe_philo.jpg "Café Philo-20240607"){width=75% align=left}
