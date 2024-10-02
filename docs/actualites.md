@@ -76,6 +76,8 @@
     [![Lire](./images/abonnements/09_septembre_2024/Lire_magazine_2024_09_533.jpg "Lire, septembre 2024, n°533"){width=20%}](./images/abonnements/09_septembre_2024/Lire_magazine_2024_09_533.pdf){target=_blank}
     [![Philosophie magazine](./images/abonnements/09_septembre_2024/Philosophie_magazine_2024_09_182.jpg "Philosophie magazine, septembre 2024, n°181"){width=20%}](./images/abonnements/09_septembre_2024/Philosophie_magazine_2024_09_182.pdf){target=_blank}
     [![Phosphore](./images/abonnements/09_septembre_2024/Phosphore_20240901_581.jpg "Phosphore, 1er septembre 2024, n°581"){width=20%}](./images/abonnements/09_septembre_2024/Phosphore_20240901_581.pdf){target=_blank}
+    [![Phosphore](./images/abonnements/09_septembre_2024/Phosphore_2024_09_582.jpg "Phosphore, 15 septembre 2024, n°582"){width=20%}](./images/abonnements/09_septembre_2024/Phosphore_2024_09_582.pdf){target=_blank}
+    [![Point de vente](./images/abonnements/09_septembre_2024/Point_de_vente_2024_09_1329.jpg "Point de vente, septembre 2024, n°1329"){width=20%}](./images/abonnements/09_septembre_2024/Point_de_vente_2024_09_1329.pdf){target=_blank}
     [![Que choisir](./images/abonnements/09_septembre_2024/Que_choisir_2024_09_638.jpg "Que choisir, septembre 2024, n°638"){width=20%}](./images/abonnements/09_septembre_2024/Que_choisir_2024_09_638.pdf){target=_blank}
     [![Que choisir santé](./images/abonnements/09_septembre_2024/Que_chosir_sante_2024_09_196.jpg "Que choisir santé, septembre 2024, n°196"){width=20%}](./images/abonnements/09_septembre_2024/Que_chosir_sante_2024_09_196.pdf){target=_blank}
     [![Science et Vie](./images/abonnements/09_septembre_2024/Science_et_vie_2024_09_1284.jpg "Science et Vie, septembre 2024, n°1284"){width=20%}](./images/abonnements/09_septembre_2024/Science_et_vie_2024_09_1284.pdf){target=_blank}
@@ -85,9 +87,10 @@
     [![Sciences et avenir](./images/abonnements/09_septembre_2024/Sciences_et_avenir_2024_09_931.jpg "Sciences et avenir, septembre 2024, n°931"){width=20%}](./images/abonnements/09_septembre_2024/Sciences_et_avenir_2024_09_931.pdf){target=_blank}
     [![Sciences humaines](./images/abonnements/09_septembre_2024/Sciences_humaines%20_2024_09_371.jpg "Sciences humaines, septembre 2024, n°371"){width=20%}](./images/abonnements/09_septembre_2024/Sciences_humaines%20_2024_09_371.pdf){target=_blank}
     [![Sciences humaines - grands dossiers](./images/abonnements/09_septembre_2024/Sciences_humaines_grands_dossiers_2024_09_76HS.jpg "Sciences humaines - Les grands dossiers, septembre 2024, n°76HS"){width=20%}](./images/abonnements/09_septembre_2024/Sciences_humaines_grands_dossiers_2024_09_76HS.pdf){target=_blank}
-    [![Sport et vie](./images/abonnements/05_mai_2024/Sport_et_vie_mai-juin_2024_204.jpg "Sport et Vie, mai-juin 2024, n°204"){width=20%}](./images/abonnements/05_mai_2024/Sport_et_vie_mai-juin_2024_204.pdf){target=_blank}
-    [![Tangente](./images/abonnements/05_mai_2024/Tangente_mai-juin_2024_217.jpg "Tangente, mai-juin 2024, n°217"){width=20%}](./images/abonnements/05_mai_2024/Tangente_mai-juin_2024_217.pdf){target=_blank}
-    [![Tangente](./images/abonnements/06_juin_2024/Tangente_juin_2024_90HS.jpg "Tangente, juin 2024, n°90HS"){width=20%}](./images/abonnements/06_juin_2024/Tangente_juin_2024_90HS.pdf){target=_blank}
+    [![Sciences Ouest](./images/abonnements/09_septembre_2024/Sciences-ouest_2024_09_421.jpg "Sciences ouest, septembre 2024, n°421"){width=20%}](./images/abonnements/09_septembre_2024/Sciences-ouest_2024_09_421.pdf){target=_blank}
+    [![Sport et vie](./images/abonnements/09_septembre_2024/Sport_et_vie_2024_09_206.jpg "Sport et Vie, septembre 2024, n°206"){width=20%}](./images/abonnements/09_septembre_2024/Sport_et_vie_2024_09_206.pdf){target=_blank}
+    [![Tangente](./images/abonnements/09_septembre_2024/Tangente_2024_09_219.jpg "Tangente, septembre 2024, n°219"){width=20%}](./images/abonnements/09_septembre_2024/Tangente_2024_09_219.pdf){target=_blank}
+    [![Tangente](./images/abonnements/09_septembre_2024/Tangente_2024_09_91HS.jpg "Tangente, septembre 2024, n°91HS"){width=20%}](./images/abonnements/09_septembre_2024/Tangente_2024_09_91HS.pdf){target=_blank}
     [![Virgule](./images/abonnements/09_septembre_2024/Virgule_2024_09_231.jpg "Virgule, septembre 2024, n°231"){width=20%}](./images/abonnements/09_septembre_2024/Virgule_2024_09_231.pdf){target=_blank} 
 
 
