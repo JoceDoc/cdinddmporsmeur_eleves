@@ -17,6 +17,10 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
 
 ## Actualités
 
+??? info "**IMMERSIONS - PORTES OUVERTES**"
+    -[![**UCO BREST"**](./images/orientation/BREST_Programme_journees_decouvertes_octobre_2024-1.jpg "Journées découvertes- UCO"){width=30%}](./images/orientation/BREST_Programme_journees_decouvertes_octobre_2024.pdf){target=_blank}
+    -[![**UCO GUINGAMP"**](./images/orientation/GUINGAMP_Programme_journees_decouvertes_octobre_2024.jpg "Journées découvertes - UCO GUINGAMP"){width=30%}](./images/orientation/GUINGAMP_Programme_journees_decouvertes_octobre_2024.pdf){target=_blank}
+    [![**UCO**](./images/orientation/Affiche_journees_decouvertes_octobre_2024.jpg "Journées découvertes- Inscriptions UCO BREST"){width=30%}](https://forms.office.com/pages/responsepage.aspx?id=gQWqPAeCVEaEOorw19tTeZ68V_hJsdlAqkgQ7OkuHG1UMFUxWjFNS1pERlU1VVhOMkEwU0xTMDRTTC4u&origin=QRCode&qrcodeorigin=presentation&route=shorturl){target=_blank} 
 ??? info "**Au fil de la presse...**"
     - [**Le Télégramme - 30/12/2022**](https://www.letelegramme.fr/finistere/morlaix/a-23-ans-il-est-regisseur-dans-une-salle-mythique-loan-peron-de-plougonven-aux-coulisses-de-l-olympia-30-12-2022-13250759.php){target=_blank} : À 23 ans, il est régisseur « dans une salle mythique » : Loan Péron, de Plougonven, aux coulisses de l’Olympia. Bravo à cet ancien élève du lycée.
     - [**Le Télégramme - 14/09/2022**](https://www.letelegramme.fr/finistere/morlaix/gwenael-morel-l-atout-drone-des-pompiers-finisteriens-14-09-2022-13178211.php){target=_blank} : Gwenaël Morel, l'atout drone des pompiers finistériens"
@@ -243,7 +247,7 @@ ___
 
     Pilotée par la Direction générale des Entreprises, la ==**Semaine de l’industrie**== contribue à changer le regard du grand public et des jeunes sur l’industrie et ses métiers au travers d’événements organisés partout en France.
 
-    En Bretagne, la prochaine édition aura lieu du ==**16 novembre au 3 décembre 2023**== et est pilotée par [**AJIR Bretagne**](https://www.ajir-industrie.bzh/){target=_blank}. 
+    En Bretagne, la prochaine édition aura lieu du ==**18 au 30 novembre 2024**== et est pilotée par [**AJIR Bretagne**](https://www.ajir-industrie.bzh/){target=_blank}. 
     Découvrez tous les événements en [**Bretagne**](https://www.semaine-industrie-bretagne.fr/){target=_blank} et au [**niveau national**](https://www.semaine-industrie.gouv.fr/){target=_blank}.
 
     <u>**L’objectif :**</u> renforcer l’attractivité du secteur et promouvoir les filières et métiers de l’industrie auprès des collégiens, lycéens, apprentis ou toute personne en recherche d’emploi.
@@ -313,9 +317,7 @@ ___
         - [**Droit et justice**](https://www.onisep.fr/decouvrir-les-metiers/des-metiers-par-secteur/droit-et-justice){target=_blank} : métiers, emploi et formations dans le droit et la justice. (*Sources : Onisep*)
     === "ECONOMIE - GESTION"
         - [**Comptabilité -  Gestion - Ressources humaines**](https://www.onisep.fr/decouvrir-les-metiers/des-metiers-par-secteur/comptabilite-gestion-ressources-humaines){target=_blank} : métiers et emploi dans le secteur. (*Sources : Onisep*)
-    === "DATES à RETENIR"
-        - Forum des métiers du droit : [**UBO - Pôle de Quimper**](https://www.univ-brest.fr/pole-quimper/fr/actualite/forum-des-metiers-du-droit){target=_blank} - ==**samedi 27 janvier 2024 - 9h**==
-        - Forum des métiers du droit : [**Faculté de droit économie gestion**](https://www.univ-brest.fr/faculte-droit-economie-gestion-aes/fr/actualite/forum-des-metiers-du-droit){target=_blank} - ==**samedi 17 février 2024 - 10h**==
+   
 
 ___ 
 ### Energies - Environnement
@@ -349,7 +351,7 @@ ___
     === "COMMUN"
         - [**IRSS**](https://www.irss.fr/){target=_blank} : Organisme de formation et de préparation aux métiers du sport, de la santé, de la sécurité, du social et de la petite enfance.
     === "SANTE"
-        - [**Les études de santé**](https://www.onisep.fr/Choisir-mes-etudes/apres-le-bac/principaux-domaines-d-etudes/les-etudes-de-sante){target=_blank} : Maïeutique, médecine, odontologie, pharmacie (*Sources : Onisep*)
+        - [**Les études de santé**](https://www.onisep.fr/formation/les-principaux-domaines-de-formation/les-etudes-de-sante){target=_blank} : Maïeutique, médecine, odontologie, pharmacie (*Sources : Onisep*)
         - [**ICO**](https://ico.asso.fr/){target=_blank} : Institut et Campus d'Optique.
         - [**IFEC**](https://www.ifec.net/){target=_blank} : Institut Franco-Européen de Chiropraxie.
         - [**ISO**](https://www.iso.fr/){target=_blank} : Institut Supérieur d'Optique.
@@ -375,10 +377,6 @@ ___
     === "PRESENTATION"
         - [**Les BTS**](https://www.onisep.fr/Choisir-mes-etudes/apres-le-bac/organisation-des-etudes-superieures/Les-BTS){target=_blank} : organisation des études, poursuite d'études. (*Sources : Onisep*)
         - [**Liste des BTS**](https://www.letudiant.fr/etudes/bts.html){target=_blank} : tout savoir sur le BTS et accéder à la liste des BTS par domaine.(*Sources : L'étudiant*)
-    === "ACTUALITES - PO"
-        [![Lycée CHAPTAL](./images/orientation/BTS_chaptal_PO_2024.jpg "Affiche"){width=25%}](https://www.lycee-chaptal.fr/nos-formations/enseignement-superieur/){target=_blank}
-        [![Lycée Lammenais](./images/orientation/Lammenais_BTS_MCO_mini-stages.jpg "Affiche"){width=25%}](https://www.lycee-lamennais.fr/parcours-services-au-entreprises/){target=_blank}
-        [![Lycée ND Le Menimur](./images/orientation/IFAS_%20ND_Le_Menimur_PO.jpg "Affiche"){width=25%}](https://www.ndlm56.bzh/ifas/){target=_blank}
     === "ECOLES"
         - [**Les 2 Rives**](https://les-2-rives.fr/enseignement-superieur/){target=_blank} : BTS Conseiller de Clientèle - BTS Assurance - BTS CRSA (Conception et réalisation de systèmes automatiques). (*Landerneau - 29*)
         - [**Campus de Pouillé**](https://www.campus-pouille.com/){target=_blank} : BTS dans le domaine de la nature, du vivant et de l'environnement. (*Angers - 49*)
@@ -394,10 +392,7 @@ ___
         - [**Sainte-Thérèse**](https://www.sainte-therese-quimper.org/bts-sam-enseignement-superieur/){target=_blank} : BTS SAM (Support à l'action manageriale) (*Quimper - 29*)
 ___ 
 ### BUT
-??? "Journées découvertes"
-    === "**IUT Brest-Morlaix**"
-        Modalités et formulaires d'inscription pour les journées d'immersion à l'[**IUT de Brest**](https://www.iut-brest.fr/evenements/journees-dimmersion-des-lyceens-a-liut/){target=_blank} à partir de début novembre. 
-    
+  
 ??? "Liens utiles"
     === "PRESENTATION"
         - [**BACHELORS**](https://www.onisep.fr/Choisir-mes-etudes/apres-le-bac/Conseils-et-strategies-d-etudes/Quelle-reconnaissance-pour-les-diplomes-du-superieur/les-bachelors){target=_blank} : Quelle reconnaissance pour les diplômes du supérieur ? (*Sources : Onisep*)
@@ -407,7 +402,6 @@ ___
         - [**Les IUT vers le BUT**](https://www.iut.fr/le-but-et-ses-specialites/){target=_blank}
         - [**Les 24 spécialités de BUT**](https://www.iut.fr/bachelor-universitaire-de-technologie/){target=_blank}
     === "OU SE FORMER ?"
-        - [**IUT de Bretagne**](http://www.bretagne.iut.fr/les-iut-de-bretagne/presentation.html){target=_blank}
         - [**IUT Brest-Morlaix**](https://www.iut-brest.fr/){target=_blank}
         - [**IUT Lannion-Rennes1**](https://iut-lannion.univ-rennes1.fr/){target=_blank}
         - [**IUT St-Brieuc-Rennes1**](https://iut-stbrieuc.univ-rennes1.fr/){target=_blank}
@@ -417,10 +411,10 @@ ___
 ### CPEG
 ??? "Liens utiles"
     === "PRESENTATION"
-        - [**La PREPA**](https://www.onisep.fr/Choisir-mes-etudes/apres-le-bac/organisation-des-etudes-superieures/Les-classes-preparatoires-aux-grandes-ecoles-CPGE){target=_blank} : Comment ça marche ? Pourquoi faire une classe préparatoire ? Les différentes classes préparatoires. (*Sources : Onisep*)
+        - [**La PREPA**](https://www.onisep.fr/formation/apres-le-bac-les-etudes-superieures/les-principales-filieres-d-etudes-superieures/les-cpge-classes-preparatoires-aux-grandes-ecoles/les-etudes-en-classes-preparatoires){target=_blank} : Comment ça marche ? Pourquoi faire une classe préparatoire ? Les différentes classes préparatoires. (*Sources : Onisep*)
         - [**Lycée La Pérouse-Kérichen**](https://lycee-la-perouse-kerichen-brest.ac-rennes.fr/spip.php?rubrique273){target=_blank} : Pourquoi faire une Prépa ?(*Brest*)
     === "ECONOMIQUE ET SOCIALE"
-        - [**Quelle Prépa choisir ?**](https://www.onisep.fr/Choisir-mes-etudes/apres-le-bac/organisation-des-etudes-superieures/CPGE-FILIERES/Les-prepas-economiques-et-commerciales){target=_blank} : ECG (Economique et commerciale générale) - ECT (Economique et Commerciale Technologique) - D1 (Droit, économie, management)- D2 (Economie et gestion). (*Sources : Onisep*)
+        - [**Quelle Prépa choisir ?**](https://www.onisep.fr/formation/apres-le-bac-les-etudes-superieures/les-principales-filieres-d-etudes-superieures/les-cpge-classes-preparatoires-aux-grandes-ecoles/les-prepas-economiques-et-commerciales){target=_blank} : ECG (Economique et commerciale générale) - ECT (Economique et Commerciale Technologique) - D1 (Droit, économie, management)- D2 (Economie et gestion). (*Sources : Onisep*)
     === "LITTERAIRE"
         - [**ENS**](https://www.ens.psl.eu/une-formation-d-exception/admission-concours/concours-voie-cpge/concours-voie-cpge-lettres){target=_blank} : Concours Lettres (concours A/L) et Sciences sociales (concours B/L).
         - [**Prépa littéraire**](https://www.prepalitteraire.fr/#){target=_blank} : le site des classes préparatoires littéraires.
@@ -437,7 +431,7 @@ ___
 ### Ecoles de commerce
 ??? "Liens utiles"
     === "PRESENTATION"
-        - [**Ecoles de commerce**](https://www.onisep.fr/Choisir-mes-etudes/apres-le-bac/principaux-domaines-d-etudes/Les-ecoles-de-commerce){target=_blank} : Pour quel profil ? Comment choisir son école ? (*Sources : Onisep*)
+        - [**Ecoles de commerce**](https://www.onisep.fr/formation/les-principaux-domaines-de-formation/les-ecoles-de-commerce){target=_blank} : Pour quel profil ? Comment choisir son école ? (*Sources : Onisep*)
         - [**Les Ecoles de commerce**](https://www.letudiant.fr/etudes/ecole-de-commerce.html){target=_blank} : Quelles sont les spécificités des études en écoles de commerce ? A quels métiers préparent-elles ? Quels sont les critères pour choisir ? Comment intégrer une école ? Comment préparer les concours ? (*Sources : L'Etudiant*)
 ___ 
 ### Ecoles d'ingénieurs
@@ -452,7 +446,7 @@ ___
          [![**Concours ENM**](./images/orientation/2024_ITM_meteo_france.jpg "Concours Ecole Nationale de Météorologie"){width=25%}](https://meteofrance.fr/enm/admission){target=_blank}
     === "ECOLES"
         - [**CPE Lyon**](https://www.cpe.fr/){target=_blank} : Ecole d'Ingénieurs en Chimie et Sciences du Numérique (*Lyon - 69*).
-        - [**ENSCR Rennes**](https://www.ensc-rennes.fr/){target=_blank} : Ecole Nationale Supérieure de Chimie de Rennes- Portes ouvertes ==**samedi 10 février 2024 - 9h-17h**==. (*Rennes - 35*)
+        - [**ENSCR Rennes**](https://www.ensc-rennes.fr/){target=_blank} : Ecole Nationale Supérieure de Chimie de Rennes (*Rennes - 35*)
         - [**EPITA**](https://www.epita.fr/){target=_blank} : Ecole des ingénieurs en intelligence informatique.
         - [**ESGT**](https://www.esgt.cnam.fr/presentation/){target=_blank} : École Supérieure d'Ingénieurs Géomètres et Topographes. Plaquette  [**ESGT**](./pdf/ESGT_plaquette_ecole.pdf){target=_blank} - Présentation du cycle [**ingénieur**](./pdf/ESGT_cycle_ingenieur.pdf){target=_blank} spécialité géomètre et du cycle [**préparatoire**](./pdf/ESGT_cycle_preparatoire_integre.pdf){target=_blank} (*Le Man - 72*).
         - [**ESIGELEC**](https://www.esigelec.fr/fr){target=_blank} : Ecole d'Ingénieurs généralistes (*Saint-Étienne-du-Rouvray - 76*).
