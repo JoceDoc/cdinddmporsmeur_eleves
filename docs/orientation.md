@@ -5,7 +5,7 @@
     [![**PARCOURSUP"**](./images/orientation/parcoursup.png "Page d'accueil PARCOURSUP"){width=90%}](https://www.parcoursup.fr/index.php?desc=){target=_blank}
     
     * [**CIO Morlaix**](https://www.ac-rennes.fr/cio-morlaix){target=_blank}
-    * [**Villes voisines**](https://demarchesadministratives.fr/cio-information-orientation/morlaix-29600){target=_blank}
+    * [**CIO Région Bretagne**](https://demarchesadministratives.fr/cio-information-orientation/morlaix-29600){target=_blank}
     * [**Démarches administratives**](https://demarchesadministratives.fr/demarches/categorie/formation-recherche-demploi/etudier-en-france){target=_blank}
     * [**Vie associative**](https://www.ville.morlaix.fr/VIVRE-A-MORLAIX/Vie-associative){target=_blank}
 
@@ -18,9 +18,10 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
 ## Actualités
 
 ??? info "**IMMERSIONS - PORTES OUVERTES**"
-    -[![**UCO BREST"**](./images/orientation/BREST_Programme_journees_decouvertes_octobre_2024-1.jpg "Journées découvertes- UCO"){width=30%}](./images/orientation/BREST_Programme_journees_decouvertes_octobre_2024.pdf){target=_blank}
-    -[![**UCO GUINGAMP"**](./images/orientation/GUINGAMP_Programme_journees_decouvertes_octobre_2024.jpg "Journées découvertes - UCO GUINGAMP"){width=30%}](./images/orientation/GUINGAMP_Programme_journees_decouvertes_octobre_2024.pdf){target=_blank}
-    [![**UCO**](./images/orientation/Affiche_journees_decouvertes_octobre_2024.jpg "Journées découvertes- Inscriptions UCO BREST"){width=30%}](https://forms.office.com/pages/responsepage.aspx?id=gQWqPAeCVEaEOorw19tTeZ68V_hJsdlAqkgQ7OkuHG1UMFUxWjFNS1pERlU1VVhOMkEwU0xTMDRTTC4u&origin=QRCode&qrcodeorigin=presentation&route=shorturl){target=_blank} 
+    -[![**UCO BREST"**](./images/orientation/BREST_Programme_journees_decouvertes_octobre_2024-1.jpg "Programme des journées découvertes- UCO"){width=35%}](./images/orientation/BREST_Programme_journees_decouvertes_octobre_2024.pdf){target=_blank}
+    -[![**QR UCO BREST**](./images/orientation/Affiche_journees_decouvertes_octobre_2024.jpg "Journées découvertes- Inscriptions UCO BREST"){width=35%}](https://forms.office.com/pages/responsepage.aspx?id=gQWqPAeCVEaEOorw19tTeZ68V_hJsdlAqkgQ7OkuHG1UMFUxWjFNS1pERlU1VVhOMkEwU0xTMDRTTC4u&origin=QRCode&qrcodeorigin=presentation&route=shorturl){target=_blank}
+    -[![**UCO GUINGAMP"**](./images/orientation/GUINGAMP_Programme_journees_decouvertes_octobre_2024.jpg "Programme des journées découvertes - UCO GUINGAMP"){width=35%}](./images/orientation/GUINGAMP_Programme_journees_decouvertes_octobre_2024.pdf){target=_blank}
+    -[![**QR UCO GUINGAMP**](./images/orientation/Affiche_journees_decouvertes_octobre_2024.jpg "Journées découvertes- Inscriptions UCO GUINGAMP"){width=35%}](https://forms.office.com/pages/responsepage.aspx?id=gQWqPAeCVEaEOorw19tTeZ68V_hJsdlAqkgQ7OkuHG1URVdIVEMyVlRRVTRSMVZMSEhRQ0w0VzhCRy4u&origin=QRCode&qrcodeorigin=presentation&route=shorturl){target=_blank} 
 ??? info "**Au fil de la presse...**"
     - [**Le Télégramme - 30/12/2022**](https://www.letelegramme.fr/finistere/morlaix/a-23-ans-il-est-regisseur-dans-une-salle-mythique-loan-peron-de-plougonven-aux-coulisses-de-l-olympia-30-12-2022-13250759.php){target=_blank} : À 23 ans, il est régisseur « dans une salle mythique » : Loan Péron, de Plougonven, aux coulisses de l’Olympia. Bravo à cet ancien élève du lycée.
     - [**Le Télégramme - 14/09/2022**](https://www.letelegramme.fr/finistere/morlaix/gwenael-morel-l-atout-drone-des-pompiers-finisteriens-14-09-2022-13178211.php){target=_blank} : Gwenaël Morel, l'atout drone des pompiers finistériens"
