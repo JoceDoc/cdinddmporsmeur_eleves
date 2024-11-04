@@ -7,8 +7,8 @@
 
 ## Expositions et projets
 
-???+ "**CAFE PHILO** ==<u>**RDV mardi 08/10/2024**</u>=="
-    ![Café philo](./images/actualites/20241008_Café_philo_affiche.png "café philo"){width=70% align=left}
+???+ "**CAFE PHILO** ==<u>**RDV mardi 12/11/2024**</u>=="
+    ![Café philo](./images/actualites/20241112_Café_philo_affiche_liberté.png "café philo"){width=70% align=left}
 
     
 ??? "**Conférence contre la peine de mort - le 27/11/2023**"
