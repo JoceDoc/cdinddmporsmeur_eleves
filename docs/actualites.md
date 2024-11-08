@@ -51,6 +51,7 @@
    
 ??? "**Kiosque du mois** :newspaper:"
     
+    [![Aide-soignante](./images/abonnements/10_octobre_2024/Aide-soignante_2024_10_260.jpg "Aide-soignante, octobre 2024, n°260"){width=20%}](./images/abonnements/10_octobre_2024/Aide-soignante_2024_10_260.pdf){target=_blank}
     [![Alternatives Economiques](./images/abonnements/10_octobre_2024/Alternatives_economiques_2024_10_451.jpg "Alternatives Economiques, octobre 2024, n°451"){width=20%}](./images/abonnements/10_octobre_2024/Alternatives_economiques_2024_10_451.pdf){target=_blank}
     [![Ca m'intéresse](./images/abonnements/10_octobre_2024/Ca_m_interesse_2024_10_524.jpg "Ca m'intéresse, octobre 2024, n°524"){width=20%}](./images/abonnements/10_octobre_2024/Ca_m_interesse_2024_10_524.pdf){target=_blank}
     [![Capital](./images/abonnements/10_octobre_2024/Capital_2024_10_397.jpg "Capital, octobre 2024, n°397"){width=20%}](./images/abonnements/10_octobre_2024/Capital_2024_10_397.pdf){target=_blank}
@@ -60,7 +61,7 @@
     [![Philosophie magazine](./images/abonnements/10_octobre_2024/Philosophie_magazine_2024_10_183.jpg "Philosophie magazine, octobre 2024, n°183"){width=20%}](./images/abonnements/10_octobre_2024/Philosophie_magazine_2024_10_183.pdf){target=_blank}
     [![Phosphore](./images/abonnements/10_octobre_2024/Phosphore_20241001_583.jpg "Phosphore, 1er octobre 2024, n°583"){width=20%}](./images/abonnements/10_octobre_2024/Phosphore_20241001_583.pdf){target=_blank}
     [![Phosphore](./images/abonnements/10_octobre_2024/Phosphore_20241015_584.jpg "Phosphore, 15 octobre 2024, n°584"){width=20%}](./images/abonnements/10_octobre_2024/Phosphore_20241015_584.pdf){target=_blank}
-    [![Points de vente](./images/abonnements/10_octobre_2024/Points_de_vente_2024_1330.jpg "Points de vente, ocotbre 2024, n°1330"){width=20%}](./images/abonnements/10_octobre_2024/Points_de_vente_2024_1330.pdf){target=_blank}
+    [![Points de vente](./images/abonnements/10_octobre_2024/Points_de_vente_2024_10_1330.jpg "Points de vente, octobre 2024, n°1330"){width=20%}](./images/abonnements/10_octobre_2024/Points_de_vente_2024_10_1330.pdf){target=_blank}
     [![Que choisir](./images/abonnements/10_octobre_2024/Que_choisir_2024_10_639.jpg "Que choisir, octobre 2024, n°639"){width=20%}](./images/abonnements/10_octobre_2024/Que_choisir_2024_10_639.pdf){target=_blank}
     [![Que choisir](./images/abonnements/10_octobre_2024/Que_choisir_2024_10_176HS.jpg "Que choisir, octobre 2024, n°176HS"){width=20%}](./images/abonnements/10_octobre_2024/Que_choisir_2024_10_176HS.pdf){target=_blank}
     [![Que choisir santé](./images/abonnements/10_octobre_2024/Que_choisir_sante_2024_10_197.jpg "Que choisir santé, octobre 2024, n°197"){width=20%}](./images/abonnements/10_octobre_2024/Que_choisir_sante_2024_10_197.pdf){target=_blank}
@@ -70,7 +71,7 @@
     [![Science et Vie Junior](./images/abonnements/10_octobre_2024/Science_et_vie_junior_2024_10_168HS.jpg "Science et Vie junior, octobre 2024, n°168HS"){width=20%}](./images/abonnements/10_octobre_2024/Science_et_vie_junior_2024_10_168HS.pdf){target=_blank}
     [![Sciences et avenir](./images/abonnements/10_octobre_2024/Sciences_et_avenir_2024_10_932.jpg "Sciences et avenir, octobre 2024, n°932"){width=20%}](./images/abonnements/10_octobre_2024/Sciences_et_avenir_2024_10_932.pdf){target=_blank}
     [![Sciences et avenir](./images/abonnements/10_octobre_2024/Sciences_et_avenir_2014-10_219HS.jpg "Sciences et avenir, octobre 2024, n°219HS"){width=20%}](./images/abonnements/10_octobre_2024/Sciences_et_avenir_2014-10_219HS.pdf){target=_blank}
-    [![Sciences humaines](./images/abonnements/09_septembre_2024/Sciences_humaines%20_2024_09_371.jpg "Sciences humaines, septembre 2024, n°371"){width=20%}](./images/abonnements/09_septembre_2024/Sciences_humaines%20_2024_09_371.pdf){target=_blank}
+    [![Sciences humaines](./images/abonnements/10_octobre_2024/Sciences_humaines_2024_10_372.jpg "Sciences humaines, octobre 2024, n°372"){width=20%}](./images/abonnements/10_octobre_2024/Sciences_humaines_2024_10_372.pdf){target=_blank}
     [![Sciences humaines - grands dossiers](./images/abonnements/09_septembre_2024/Sciences_humaines_grands_dossiers_2024_09_76HS.jpg "Sciences humaines - Les grands dossiers, septembre 2024, n°76HS"){width=20%}](./images/abonnements/09_septembre_2024/Sciences_humaines_grands_dossiers_2024_09_76HS.pdf){target=_blank}
     [![Sciences Ouest](./images/abonnements/10_octobre_2024/Sciences_ouest_2024_10_422.jpg "Sciences ouest, octobre 2024, n°422"){width=20%}](./images/abonnements/10_octobre_2024/Sciences_ouest_2024_10_422.pdf){target=_blank}
     [![Sport et vie](./images/abonnements/09_septembre_2024/Sport_et_vie_2024_09_206.jpg "Sport et Vie, septembre 2024, n°206"){width=20%}](./images/abonnements/09_septembre_2024/Sport_et_vie_2024_09_206.pdf){target=_blank}

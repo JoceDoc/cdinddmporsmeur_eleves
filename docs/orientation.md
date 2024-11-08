@@ -17,11 +17,12 @@ N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==
 
 ## Actualités
 
-??? info "**IMMERSIONS - PORTES OUVERTES**"
-    -[![**UCO BREST"**](./images/orientation/BREST_Programme_journees_decouvertes_octobre_2024-1.jpg "Programme des journées découvertes- UCO"){width=35%}](./images/orientation/BREST_Programme_journees_decouvertes_octobre_2024.pdf){target=_blank}
-    -[![**QR UCO BREST**](./images/orientation/Affiche_journees_decouvertes_octobre_2024.jpg "Journées découvertes- Inscriptions UCO BREST"){width=35%}](https://forms.office.com/pages/responsepage.aspx?id=gQWqPAeCVEaEOorw19tTeZ68V_hJsdlAqkgQ7OkuHG1UMFUxWjFNS1pERlU1VVhOMkEwU0xTMDRTTC4u&origin=QRCode&qrcodeorigin=presentation&route=shorturl){target=_blank}
-    -[![**UCO GUINGAMP"**](./images/orientation/GUINGAMP_Programme_journees_decouvertes_octobre_2024.jpg "Programme des journées découvertes - UCO GUINGAMP"){width=35%}](./images/orientation/GUINGAMP_Programme_journees_decouvertes_octobre_2024.pdf){target=_blank}
-    -[![**QR UCO GUINGAMP**](./images/orientation/Affiche_journees_decouvertes_octobre_2024.jpg "Journées découvertes- Inscriptions UCO GUINGAMP"){width=35%}](https://forms.office.com/pages/responsepage.aspx?id=gQWqPAeCVEaEOorw19tTeZ68V_hJsdlAqkgQ7OkuHG1URVdIVEMyVlRRVTRSMVZMSEhRQ0w0VzhCRy4u&origin=QRCode&qrcodeorigin=presentation&route=shorturl){target=_blank} 
+???+ info "**IMMERSIONS - PORTES OUVERTES**"
+    [![**Nuit de l'orientation**](./images/orientation/20241122_flyer_programme_Nuit_orientation_2024-1.jpg "Nuit de l'orientation"){width=35%}](https://brest.fr/la-nuit-de-lorientation){target=_blank}
+    [![**PO_Guingamp**](./images/orientation/20241116_PO_Guingamp.png "Nuit de l'orientation"){width=45%}](https://www.notredameguingamp.fr/){target=_blank}
+    [![**Javouhey**](./images/orientation/2024-2025_Javouhey_SUP_inscriptions.jpg "Inscription_SUP_Javouhey"){width=55%}](https://www.javouhey-brest.fr/le-sup/){target=_blank}
+    
+    
 ??? info "**Au fil de la presse...**"
     - [**Le Télégramme - 30/12/2022**](https://www.letelegramme.fr/finistere/morlaix/a-23-ans-il-est-regisseur-dans-une-salle-mythique-loan-peron-de-plougonven-aux-coulisses-de-l-olympia-30-12-2022-13250759.php){target=_blank} : À 23 ans, il est régisseur « dans une salle mythique » : Loan Péron, de Plougonven, aux coulisses de l’Olympia. Bravo à cet ancien élève du lycée.
     - [**Le Télégramme - 14/09/2022**](https://www.letelegramme.fr/finistere/morlaix/gwenael-morel-l-atout-drone-des-pompiers-finisteriens-14-09-2022-13178211.php){target=_blank} : Gwenaël Morel, l'atout drone des pompiers finistériens"
