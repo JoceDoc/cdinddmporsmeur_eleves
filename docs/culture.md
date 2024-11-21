@@ -34,6 +34,17 @@
         
         **Les films présentés cette année** (==*Cliquez sur l'affiche pour accéder à la fiche sur le film*==) :
 
+        [![Les suffragettes](./images/culture/FC_Les_suffragettes.jpg "Les suffragettes"){width=20%}](./images/culture/FC_Les_suffragettes.pdf){target=_blank}
+        [![1917](./images/culture/FC_1917.jpg "1917"){width=20%}](./images/culture/FC_1917_00.pdf){target=_blank}
+        [![La zone d'intérêt](./images/culture/FC_La_zone_dinteret.jpg "La zone d'intérêt"){width=20%}]
+       
+        [![L'école du bout du monde](./images/culture/FC_Lecole_du_bout_monde.jpg "L'école du bout du monde"){width=19%}](./images/culture/FC_Lecole_du_bout_du_monde.pdf){target=_blank}
+        [![Je verrai toujours vos visages](./images/culture/FC_je_verrai_toujours_vos_visages.jpg "Je verrai toujours vos visages"){width=19%}](./pdf/Je_verrai_toujours_vos_visages.pdf){target=_blank}
+        [![The good lie](./images/culture/FC_The_good_lie.jpg "The good lie"){width=19%}](./images/culture/FC_The_good_lie.pdf){target=_blank}
+        [![Moi capitaine](./images/culture/FC_Moi_capitaine.jpg "Moi capitaine"){width=20%}]
+
+        **Ci-dessous, les films présentés en 2023-2024** :
+
         [![Illusions_perdues](./images/culture/FC_illusions_perdues.jpg "Illusions perdues"){width=20%}](./pdf/Illusions_perdues_fiche_film_et_culture.pdf){target=_blank}
         [![Woman at war](./images/culture/FC_woman_at_war.jpg "Woman at war"){width=19%}](./pdf/Woman_at_war.pdf){target=_blank}
         [![Je verrai toujours vos visages](./images/culture/FC_je_verrai_toujours_vos_visages.jpg "Je verrai toujours vos visages"){width=19%}](./pdf/Je_verrai_toujours_vos_visages.pdf){target=_blank}
@@ -43,18 +54,7 @@
         [![La couleur de la victoire](./images/culture/FC_la_couleur_de_la_victoire.jpg "La couleur de la victoire"){width=19%}](./pdf/La_Couleur_de_la_victoire.pdf){target=_blank}
         [![Les trois mousquetaires](./images/culture/FC_trois_mousquetaires.jpg "Les trois mousquetaires"){width=19%}](./pdf/Trois_mousquetaires.pdf){target=_blank}
        
-
-
-        
-        **Ci-dessous, les films présentés en 2022-2023** :
-
-        [![Greenbook](./images/culture/FC_greenbook.jpg "Greenbook"){width=20%}](./pdf/Green_book.pdf){target=_blank}
-        [![La couleur de la victoire](./images/culture/FC_la_couleur_de_la_victoire.jpg "La couleur de la victoire"){width=19%}](./pdf/La_Couleur_de_la_victoire.pdf){target=_blank}
-        [![1917](./images/culture/FC_1917.jpg "1917"){width=20%}](./pdf/1917.pdf){target=_blank}
-        [![Compagnons](./images/culture/FC_compagnons.jpg "Compagnons"){width=20%}](./pdf/Compagnons.pdf){target=_blank}
-        
-
-
+    
     === "THEATRE"
         La proximité du [**Théâtre du Pays de Morlaix**](https://www.theatre-du-pays-de-morlaix.fr/){target=_blank} permet d'offrir aux élèves la possibilité d'assister à des représentations d'oeuvres de spectacle vivant.
 

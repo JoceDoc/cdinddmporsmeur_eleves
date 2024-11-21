@@ -1,6 +1,5 @@
 
 ???+ example inline end "Liens utiles :"
-    [![**FOLIOS"**](./images/orientation/folios.jpg "Page d'accueil FOLIOS"){width=90%}](https://folios.onisep.fr/){target=_blank}
     [![**ONISEP"**](./images/orientation/onisep_01.png "Page d'accueil ONISEP"){width=90%}](https://www.onisep.fr/){target=_blank}
     [![**PARCOURSUP"**](./images/orientation/parcoursup.png "Page d'accueil PARCOURSUP"){width=90%}](https://www.parcoursup.fr/index.php?desc=){target=_blank}
     
@@ -12,14 +11,14 @@
 
 L'actualité de l'orientation au lycée et dans la région, les ==**sites incontournables**== pour construire son ==**parcours avenir**==, des ==**ressources par niveau**==, les ==**salons et forums**==, la ==**vie étudiante**==...
 
-N'oubliez pas de conserver vos recherches et vos réflexions concernant votre ==**parcours avenir**== et les autres parcours (santé, citoyen, artistique et culturel) dans votre dossier ==**FOLIOS**==.
-
 
 ## Actualités
 
+???+ info "**COLLOQUES**"
+    [![**Métiers d'éducateurs spécialisés*](./images/orientation/20241205_affiche_educateur_specialise_colloque.jpg "Paroles d'Educ Spé"){width=45%}](https://www.univ-brest.fr/labers/fr/actualite/12-journee-de-reflexion-paroles-deduc-spe-la-croisee-des-chemins-hier-et-aujourdhui){target=_blank}
+    
 ???+ info "**IMMERSIONS - PORTES OUVERTES**"
     [![**Nuit de l'orientation**](./images/orientation/20241122_flyer_programme_Nuit_orientation_2024-1.jpg "Nuit de l'orientation"){width=35%}](https://brest.fr/la-nuit-de-lorientation){target=_blank}
-    [![**PO_Guingamp**](./images/orientation/20241116_PO_Guingamp.png "Nuit de l'orientation"){width=45%}](https://www.notredameguingamp.fr/){target=_blank}
     [![**Javouhey**](./images/orientation/2024-2025_Javouhey_SUP_inscriptions.jpg "Inscription_SUP_Javouhey"){width=55%}](https://www.javouhey-brest.fr/le-sup/){target=_blank}
     
     
@@ -165,7 +164,7 @@ ___
 
     === "PO - IMMERSIONS"
         
-        * [**PORTES OUVERTES DU SUPERIEUR - 2023/2024 - Accéder au moteur de recherche**](https://www.onisep.fr/orientation/l-enseignement-superieur/les-journees-portes-ouvertes-2023-2024-dans-l-enseignement-superieur){target=_blank}
+        * [**PORTES OUVERTES DU SUPERIEUR - 2024/2025 - Accéder au moteur de recherche**](https://www.onisep.fr/orientation/l-enseignement-superieur/les-journees-portes-ouvertes-2023-2024-dans-l-enseignement-superieur){target=_blank}
 
       
         * [**Catalogue IDEO des IMMERSIONS - Bretagne**](https://www.linscription.com/pro/catalogue-immersion-brio-ideo-actions-pour-lyceens.php){target=_blank}
@@ -178,12 +177,12 @@ ___
         ???+ info "BTS"
             - [**Lycée Chaptal - Quimper**](https://www.lycee-chaptal.fr/){target=_blank} : [**BTS Bioqualité**](https://www.lycee-chaptal.fr/bts-bioqualite/){target=_blank} - 
                 [**BTS Diététique**](https://www.lycee-chaptal.fr/nos-formations/enseignement-superieur/bts-dietetique/){target=_blank}  - [**BTS ESF**](https://www.lycee-chaptal.fr/nos-formations/enseignement-superieur/bts-esf/){target=_blank} - [**BTS Collaborateur juriste notarial**](https://www.lycee-chaptal.fr/nos-formations/enseignement-superieur/bts-notariat/){target=_blank} - [**BTS SAM (Support à l'action managériale)**](https://www.lycee-chaptal.fr/nos-formations/enseignement-superieur/bts-sam/){target=_blank} - [**BTS SIO (Services informatiques aux organisations)**](https://www.lycee-chaptal.fr/nos-formations/enseignement-superieur/bts-sio/){target=_blank} - [**BTS SP3S (Services et Prestations des Secteurs Sanitaire et Social)**](https://www.lycee-chaptal.fr/nos-formations/enseignement-superieur/bts-sp3s/){target=_blank}
-            - [**Lycée Mongazon**](https://www.mongazon.org/){target=_blank} présentation des BTS du pôle santé (BTS Podo orthésiste - BTS Prothésiste orthésiste - CP Orthopédiste orthésiste) lors des portes ouvertes les ==12/01 et 13/01 2024== (*Angers - 49*)
+            - [**Lycée Mongazon**](https://www.mongazon.org/){target=_blank} présentation des BTS du pôle santé (BTS Podo orthésiste - BTS Prothésiste orthésiste - CP Orthopédiste orthésiste) (*Angers - 49*)
             - [**BTS Audiovisuel**](http://www.btsaudiovisuelsfnd.fr/){target=_blank} (*Lesneven - 29*)
-            - [**BTS SIO**](http://www.saint-louis29.net){target=_blank} : journées portes-ouvertes  ==vendredi 16/02/2024 (17h00 à 19h00)== et ==samedi 17/02/2024 (9h00 à 12h00)== (*Chateaulin - 29*)
-            - [**BTS SP3S**](https://www.lycee-campostal-gouarec.com/A-VOS-AGENDAS-MINI-STAGE-DECOUVERTE-BTS-SP3S){target=_blank} : mini-stages découverte  ==vendredi 26/01/2024 (17h30 - 20h)== (*Rostrenen - Gouarec 22*)
+            - [**BTS SIO**](http://www.saint-louis29.net){target=_blank} (*Chateaulin - 29*)
+            - [**BTS SP3S**](https://www.lycee-campostal-gouarec.com/A-VOS-AGENDAS-MINI-STAGE-DECOUVERTE-BTS-SP3S){target=_blank} : mini-stages découverte (*Rostrenen - Gouarec 22*)
             - [**Lycée Le Sage**](https://lycee-lesage.fr/formations/#bts){target=_blank} : BTS Commerce International - BTS Comptabilité et Gestion - BTS CIEL (*Vannes - 56*)
-            - [**BTS CI**](https://www.lekreisker.fr/accueil-lycee-notre-dame-du-kreisker/nos-formations/bts-commerce-international/){target=_blank} (Commerce International): portes ouvertes ==vendredi 16 février 2024 (17h à 19h30)== et ==samedi 17 février 2024 (9h30 à 12h30)== (*Saint-Pol-de-Léon - 29*)
+            - [**BTS CI**](https://www.lekreisker.fr/accueil-lycee-notre-dame-du-kreisker/nos-formations/bts-commerce-international/){target=_blank} (Commerce International) (*Saint-Pol-de-Léon - 29*)
 
 
         ???+ info "IUT"
@@ -192,12 +191,12 @@ ___
             
         
         ???+ info "PREPA - CPEG"
-            - [**La Croix Rouge/La Salle - Brest**](https://www.lacroixrouge-brest.fr/ecoles-formations/enseignement-superieur/prepas-scientifiques-aux-grandes-ecoles-ptsi-pt/){target=_blank} 
+            - [**La Croix Rouge/La Salle - Brest**](https://www.lacroixrouge-brest.fr/ecoles-formations/enseignement-superieur/prepas-scientifiques-aux-grandes-ecoles-ptsi-pt/){target=_blank} (*Brest - 29*)
             
-            - [**Faire sa PREPA au Lycée Chateaubriand**](https://lycee-chateaubriand.live/){target=_blank} : visioconférence  ==mercredi 11 janvier 2023 (de 19h à 21h)== et portes ouvertes ==Vendredi 3 février 2023 (de 16h à 19h)== présentation du **CPES** (Cycle  Pluridisciplinaire d‘Etudes Supérieures Sciences Environnement et Société) et ==samedi 4 février 2023 (de 9h à 13h)== **CPGE** (classes préparatoires aux grandes écoles)(*Rennes - 35*)
+            - [**Faire sa PREPA au Lycée Chateaubriand**](https://lycee-chateaubriand.live/){target=_blank} (*Rennes - 35*)
         
         ???+ info "UNIVERSITES"
-            - ==**UBO - CAP'AVENIR**== : inscriptions à partir de mi-janvier 2024 pour de nouvelles [**immersions**](https://www.univ-brest.fr/cap-avenir/fr/page/immersion-individuelle-lubo){target=_blank} pendant les vacances de février.
+            - ==**UBO - CAP'AVENIR**== : inscriptions à partir de mi-janvier 2025 pour de nouvelles [**immersions**](https://www.univ-brest.fr/cap-avenir/fr/page/immersion-individuelle-lubo){target=_blank} pendant les vacances de février.
             - ==**UCO Guingamp**== : événements à venir de l'[**UCO**](https://guingamp.uco.fr/fr/fr/actualites-guingamp){target=_blank} prochaines [**immersions**](https://guingamp.uco.fr/fr/publication/testez-l-universite-grace-aux-journees-decouvertes){target=_blank} en février.
         
         ???+ info "ECOLES SPECIALISEES"

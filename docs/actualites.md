@@ -7,30 +7,26 @@
 
 ## Expositions et projets
 
-???+ "**CAFE PHILO** ==<u>**RDV mardi 12/11/2024**</u>=="
-    ![Café philo](./images/actualites/20241112_Café_philo_affiche_liberté.png "café philo"){width=70% align=left}
+???+ "**CAFE PHILO** ==<u>**RDV mardi 03/12/2024**</u>=="
+    ![L'homme et l'animal](./images/actualites/20241112_Café_philo_affiche_liberté.png "café philo"){width=70% align=left}
 
     
-??? "**Conférence contre la peine de mort - le 27/11/2023**"
+??? "**Villes pour la vie, villes contre la peine de mort - le 29/11/2024**"
     
-    ==**VILLES POUR LA VIE, VILLES CONTRE LA PEINE DE MORT**==
+    ==**Sacco et Vanzetti**==
 
-    ![Antoinette Chahine](./images/expositions/Antoinette-Chahine.png "Antoinette Chahine"){width=35% align=left}  
+    Après la visite d'Antoinette Cahine, l'année dernière, dans le cadre de la journée mondiale des ==**"Villes pour la vie, villes contre la peine de mort"**==, plusieurs classes du lycée assisteront vendredi 29 novembre, au spectacle "Sacco et Vanzetti".
+    Cette pièce d'Alain Guyard interprétée par Yves Briens et Dominique Babillote retrace l'histoire de deux anarchistes italiens Nicola Sacco et Bartolomeo Vanzetti, qui furent accusés de hold up et de crimes et exécutés le 23 août 1927, après un simulacre de procès. Le 23 août 1977, exactement 50 ans jour pour jour après leur exécution, le gouverneur du Massachusetts, Michael Dukakis, avait absout les deux hommes, qui furent réhabilités officiellement.
     
-    Le ==**30 novembre**==, est la journée mondiale des ==**"Villes pour la vie, villes contre la peine de mort"**==. Cette date marque la Commémoration annuelle de la première abolition de la peine de mort par un Etat, le Grand Duché de Toscane, le 30 novembre 1786.
-    
+    Pour ceux qui n'ont pu assister à la représentation, vous pouvez la retourver [**ICI**](https://www.youtube.com/watch?v=knlNTig-Ino){target=_blank}
+
+    Le 30 novembre 1786 est la date qui marque la Commémoration annuelle de la première abolition de la peine de mort par un Etat, le Grand Duché de Toscane, le 30 novembre 1786.
+   
     Chaque 30 novembre, cette commémoration a pour objectif d'affirmer la valeur de la vie et de s'opposer à la peine de mort. Les « villes [engagées] villes pour la vie, villes contre la peine de mort » partout à travers le monde, s’illuminent pour dire à l'unisson ==**« Non à la peine de mort ! »**==. 
 
-    Ce 30 novembre, la ville de Morlaix fêtera ses dix ans d’engagement et recevra, à cette occasion, à la mairie ==**Antoinette Chahine**==. Lors de son passage dans notre région, à l’invitation de trois associations, [**Amnesty international**](https://www.amnesty.fr/){target=_blank}, l’[**ACAT**](https://www.acatfrance.fr/){target=_blank} et la [**Ligue des droits de l’homme**](https://www.ldh-france.org/){target=_blank}, Mme Chahine rencontrera les élèves de plusieurs lycées de la région pour leur expliquer pourquoi elle sillonne aujourd'hui le monde pour témoigner, défendre les droits humains et militer contre l'injustice, la torture et la peine de mort. 
+    Voilà 11 ans que la ville de Morlaix est engagée dans ce combat contre la peine de mort relayé par les associations, [**Amnesty international**](https://www.amnesty.fr/){target=_blank}, l’[**ACAT**](https://www.acatfrance.fr/){target=_blank} et la [**Ligue des droits de l’homme**](https://www.ldh-france.org/){target=_blank}, 
     
-    Pour notre lycée la conférence a eu lieu : ==**Lundi 27/11/2023 de 10h -12h**==
-
-    En préparation de la rencontre avec Antoinette Chahine, des lycéens avaient participé au CDI à un ==**atelier d’écriture**==, conduit par Michel Bras, écrivain public. L’objectif était d’écrire des lettres à des prisonniers condamnés à mort, dont les associations suivent actuellement la situation dans différents pays. 
-    
-    ![Atelier d'écriture](./images/expositions/atelier_ecriture_dgemc.jpg "DGEMC_atelier d'écriture"){width=45% align=right}
-    ![Exposition](./images/expositions/Exposition_conf_peine_mort.jpg "Exposition_atelier d'écriture"){width=45% align=right}
-
-
+  
 ## Nos élèves ont du talent
 ??? "**Concours d'éloquence**"
     La finale du concours d'éoquence s'est déroulée ==**vendredi 29 mars**==. les trois finalistes devaient présenter un discours sur le thème du "secret", puis répondre à une question d'improvisation tirée au sort. 
