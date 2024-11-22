@@ -15,6 +15,8 @@
     
     ==**Sacco et Vanzetti**==
 
+    ![Sacco & Vanzetti](./images/actualites/20241129_Présentation_Pièce_Sacco_et_Vanzetti.jpg "Sacco et Vanzetti"){width=35% align=right}
+    
     Après la visite d'Antoinette Cahine, l'année dernière, dans le cadre de la journée mondiale des ==**"Villes pour la vie, villes contre la peine de mort"**==, plusieurs classes du lycée assisteront vendredi 29 novembre, au spectacle "Sacco et Vanzetti".
     Cette pièce d'Alain Guyard interprétée par Yves Briens et Dominique Babillote retrace l'histoire de deux anarchistes italiens Nicola Sacco et Bartolomeo Vanzetti, qui furent accusés de hold up et de crimes et exécutés le 23 août 1927, après un simulacre de procès. Le 23 août 1977, exactement 50 ans jour pour jour après leur exécution, le gouverneur du Massachusetts, Michael Dukakis, avait absout les deux hommes, qui furent réhabilités officiellement.
     
@@ -26,17 +28,31 @@
 
     Voilà 11 ans que la ville de Morlaix est engagée dans ce combat contre la peine de mort relayé par les associations, [**Amnesty international**](https://www.amnesty.fr/){target=_blank}, l’[**ACAT**](https://www.acatfrance.fr/){target=_blank} et la [**Ligue des droits de l’homme**](https://www.ldh-france.org/){target=_blank}, 
     
+    
   
 ## Nos élèves ont du talent
 ??? "**Concours d'éloquence**"
-    La finale du concours d'éoquence s'est déroulée ==**vendredi 29 mars**==. les trois finalistes devaient présenter un discours sur le thème du "secret", puis répondre à une question d'improvisation tirée au sort. 
+    Le 1er tour du concours d'éloquence se déroulera le ==**jeudi 12 décembre**==.
 
-    C'est Inès (au centre) qui a remporté la finale, devant Maden et Salomé. Bravo à eux trois !
-    
-    ![Les finalistes](./images/actualites/Concours_eloquence_finale_02.jpg "Les finalistes du concours"){width=75% align=left}
+    Voici la liste des sujets proposés aux candidats : 
+
+    - Les oeuvres cinématographiques peuvent-elles nous rendre meilleurs ?
+
+    - Confessions d'un parapluie abandonné un jour de pluie.
+
+    - La question n'est pas où, mais pourquoi ?
+
+    - L'instinct de liberté justifie-t-il de s'évader ?
+
+    - Vous m'avez vu mais vous ne m'avez pas regardé.
+
+    - Et si les plantes pouvaient nous parler ?
+
+    - Soyez humble, mais à quel prix ?
+
+    ![Affiche_concours](./images/actualites/2024-2025_affiche_concours_eloquence.png "Affiche_concours d'éloquence"){width=75% align=left}
    
 
- 
 
 ## Nouveautés
 
