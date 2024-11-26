@@ -60,7 +60,6 @@
         * [**Tabac info service**](https://www.tabac-info-service.fr/){target=_blank} : trouver la motivation pour arrêter de fumer, se faire accompagner...
 
 
-
 ## Don d'organes
 
 ??? info "S'informer"
