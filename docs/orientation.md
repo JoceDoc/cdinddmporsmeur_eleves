@@ -18,8 +18,10 @@ L'actualité de l'orientation au lycée et dans la région, les ==**sites incont
     [![**Métiers d'éducateurs spécialisés*](./images/orientation/20241205_affiche_educateur_specialise_colloque.jpg "Paroles d'Educ Spé"){width=45%}](https://www.univ-brest.fr/labers/fr/actualite/12-journee-de-reflexion-paroles-deduc-spe-la-croisee-des-chemins-hier-et-aujourdhui){target=_blank}
     
 ???+ info "**IMMERSIONS - PORTES OUVERTES**"
-    [![**Nuit de l'orientation**](./images/orientation/20241122_flyer_programme_Nuit_orientation_2024-1.jpg "Nuit de l'orientation"){width=35%}](https://brest.fr/la-nuit-de-lorientation){target=_blank}
+    [![**PO CIRFA**](./images/orientation/20250201_affiche_EETAAE_JPO.jpg "CIRFA PO"){width=35%}](./images/orientation/20250201_descriptif_EETAAE_JPO.pdf){target=_blank}
+    [![**La Croix Rouge**](./images/orientation/20241207_PO_La_Croix_Rouge.jpg "PO La Croix Rouge"){width=35%}](https://www.lacroixrouge-brest.fr/){target=_blank}
     [![**Javouhey**](./images/orientation/2024-2025_Javouhey_SUP_inscriptions.jpg "Inscription_SUP_Javouhey"){width=55%}](https://www.javouhey-brest.fr/le-sup/){target=_blank}
+
     
     
 ??? info "**Au fil de la presse...**"
@@ -267,7 +269,7 @@ ___
         [![Forum_des _armées](./images/orientation/2024_AAE-1.jpg "Affiche"){width=25%}](https://devenir-aviateur.fr/){target=_blank}
         [![Recrutement_EETAAE](./images/orientation/EETAAE_recrutement_2024.jpg "Affiche"){width=40%}](https://eetaa722.fr/){target=_blank}
         [![Forum_Métiers_aéronautique](./images/orientation/Forum_metiers_aeronautique_BAN_Landivisiau_20230331.jpg "Affiche"){width=25%}](https://www.eventbrite.fr/e/billets-forum-des-metiers-de-laeronautique-navale-438995967757){target=_blank}
-        [![**AIR actualités"**](./images/orientation/AIR_Actu_juin_2024.jpg "Air actualités, juin 2024"){width=25%}](./images/orientation/AIR_Actu_juin_2024.pdf){target=_blank}
+        [![**AIR actualités"**](./images/orientation/20241101_AirActu.jpg "Air actualités, novembre 2024"){width=25%}](./images/orientation/20241101_AirActu.pdf){target=_blank}
         [![**EFSOAA"**](./images/orientation/brochure-efsoaa-page-001.jpg "EFSOAA"){width=25%}](./pdf/brochure-efsoaa.pdf){target=_blank}
     === "SECURITE"
         - [**Devenir gendarme**](https://www.devenir-gendarme.fr/){target=_blank}
@@ -286,6 +288,7 @@ ___
     === "ARTS"
         - [**Etudes d'art**](https://www.onisep.fr/publications/dossier/les-etudes-d-art){target=_blank} (*ONISEP*)
         - [**Ecoles d'art**](https://www.onisep.fr/formation/les-principaux-domaines-de-formation/les-ecoles-d-art){target=_blank} (*ONISEP*)
+        - [**Ecoles Nationales d'art**](https://www.culture.gouv.fr/Thematiques/arts-plastiques/Enseignement-superieur-Ecoles-d-art/Ecoles-nationales){target=_blank} (*Ministère de la Culture*)
         - [**CREAPOLE**](https://www.creapole.fr/){target=_blank} Ecole de désign (*Paris*).
     === "THEATRE"
         - [**Etudes Arts du spectacle**](http://www.ecoles-arts.com/domaine/arts-du-spectacle/){target=_blank} (*ONISEP*)
@@ -391,6 +394,8 @@ ___
         - [**Rosa Parks**](https://www.lp-rosaparks-rostrenen.ac-rennes.fr/spip.php?article273){target=_blank} : BTS MOS (Management Opérationnel de la Sécurité) [**Fiche de présentation**](./pdf/fiche_bts_mos.pdf){target=_blank} (*Rostrenen - 22*)
         - [**Saint-Louis**](http://www.saint-louis29.net/wp-content/uploads/2023/01/plaquette-BTS-22-23.pdf){target=_blank} : BTS SIO (Services Informatiques aux Organisations) (*Chateaulin - 29*)
         - [**Sainte-Thérèse**](https://www.sainte-therese-quimper.org/bts-sam-enseignement-superieur/){target=_blank} : BTS SAM (Support à l'action manageriale) (*Quimper - 29*)
+        - [**Tristan Corbière**](https://www.lyceetristancorbiere.fr/brevets-de-technicien-superieurs-bts/){target=_blank} : BTS Aéronautique - BTS CIM (Conception des produits industriels) (*Morlaix - 29*)
+
 ___ 
 ### BUT
   
