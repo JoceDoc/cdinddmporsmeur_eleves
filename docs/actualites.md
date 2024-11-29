@@ -17,8 +17,8 @@
 
     ![Sacco & Vanzetti](./images/actualites/20241129_Présentation_Pièce_Sacco_et_Vanzetti.jpg "Sacco et Vanzetti"){width=35% align=right}
     
-    Après la visite d'Antoinette Cahine, l'année dernière, dans le cadre de la journée mondiale des ==**"Villes pour la vie, villes contre la peine de mort"**==, plusieurs classes du lycée assisteront vendredi 29 novembre, au spectacle "Sacco et Vanzetti".
-    Cette pièce d'Alain Guyard interprétée par Yves Briens et Dominique Babillote retrace l'histoire de deux anarchistes italiens Nicola Sacco et Bartolomeo Vanzetti, qui furent accusés de hold up et de crimes et exécutés le 23 août 1927, après un simulacre de procès. Le 23 août 1977, exactement 50 ans jour pour jour après leur exécution, le gouverneur du Massachusetts, Michael Dukakis, avait absout les deux hommes, qui furent réhabilités officiellement.
+    Après la visite d'Antoinette Chahine, l'année dernière, dans le cadre de la journée mondiale des ==**"Villes pour la vie, villes contre la peine de mort"**==, plusieurs classes du lycée assisteront vendredi 29 novembre, au spectacle "Sacco et Vanzetti".
+    Cette pièce d'Alain Guyard interprétée par Yves Briens et Dominique Babillote retrace l'histoire de deux anarchistes italiens Nicola Sacco et Bartolomeo Vanzetti, qui furent accusés de hold up et de crimes et exécutés le 23 août 1927, après un simulacre de procès. Le 23 août 1977, exactement 50 ans jour pour jour après leur exécution, le gouverneur du Massachusetts, Michael Dukakis, avait déclaré l'annulation du procès.
     
     Pour ceux qui n'ont pu assister à la représentation, vous pouvez la retourver [**ICI**](https://www.youtube.com/watch?v=knlNTig-Ino){target=_blank}
 
@@ -26,7 +26,7 @@
    
     Chaque 30 novembre, cette commémoration a pour objectif d'affirmer la valeur de la vie et de s'opposer à la peine de mort. Les « villes [engagées] villes pour la vie, villes contre la peine de mort » partout à travers le monde, s’illuminent pour dire à l'unisson ==**« Non à la peine de mort ! »**==. 
 
-    Voilà 11 ans que la ville de Morlaix est engagée dans ce combat contre la peine de mort relayé par les associations, [**Amnesty international**](https://www.amnesty.fr/){target=_blank}, l’[**ACAT**](https://www.acatfrance.fr/){target=_blank} et la [**Ligue des droits de l’homme**](https://www.ldh-france.org/){target=_blank}, 
+    Voilà 11 ans que la ville de Morlaix est engagée dans ce combat contre la peine de mort relayé par les associations, [**Amnesty international**](https://www.amnesty.fr/){target=_blank}, l’[**ACAT**](https://www.acatfrance.fr/){target=_blank} et la [**Ligue des droits de l’homme**](https://www.ldh-france.org/){target=_blank}. Si ce combat vous intéresse, n'hésitez pas à vous rapprocher de l'une ou l'autre de ces associations.
     
     
   
