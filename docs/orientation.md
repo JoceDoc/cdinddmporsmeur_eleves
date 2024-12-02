@@ -14,21 +14,21 @@ L'actualité de l'orientation au lycée et dans la région, les ==**sites incont
 
 ## Actualités
 
+???+ info "**PARCOURSUP**"
+    [![**Calendrier**](./images/orientation/2024-2025_parcoursup_livret_calendrier.jpg "Parcoursup calendrier"){width=35%}](https://www.parcoursup.gouv.fr/calendrier){target=_blank} 
+
+
 ???+ info "**COLLOQUES**"
-    [![**Métiers d'éducateurs spécialisés*](./images/orientation/20241205_affiche_educateur_specialise_colloque.jpg "Paroles d'Educ Spé"){width=45%}](https://www.univ-brest.fr/labers/fr/actualite/12-journee-de-reflexion-paroles-deduc-spe-la-croisee-des-chemins-hier-et-aujourdhui){target=_blank}
+    [![**Métiers d'éducateurs spécialisés*](./images/orientation/20241205_affiche_educateur_specialise_colloque.jpg "Paroles d'Educ Spé"){width=25%}](https://www.univ-brest.fr/labers/fr/actualite/12-journee-de-reflexion-paroles-deduc-spe-la-croisee-des-chemins-hier-et-aujourdhui){target=_blank}
     
+
 ???+ info "**IMMERSIONS - PORTES OUVERTES**"
+    [![**INSTAFAC**](./images/orientation/2024_12_Programme%20INSTAFAC.jpg "Instafac"){width=35%}](https://nouveau.univ-brest.fr/cap-avenir/fr/page/insta-fac){target=_blank}
     [![**PO CIRFA**](./images/orientation/20250201_affiche_EETAAE_JPO.jpg "CIRFA PO"){width=35%}](./images/orientation/20250201_descriptif_EETAAE_JPO.pdf){target=_blank}
     [![**La Croix Rouge**](./images/orientation/20241207_PO_La_Croix_Rouge.jpg "PO La Croix Rouge"){width=35%}](https://www.lacroixrouge-brest.fr/){target=_blank}
     [![**Javouhey**](./images/orientation/2024-2025_Javouhey_SUP_inscriptions.jpg "Inscription_SUP_Javouhey"){width=55%}](https://www.javouhey-brest.fr/le-sup/){target=_blank}
 
     
-    
-??? info "**Au fil de la presse...**"
-    - [**Le Télégramme - 30/12/2022**](https://www.letelegramme.fr/finistere/morlaix/a-23-ans-il-est-regisseur-dans-une-salle-mythique-loan-peron-de-plougonven-aux-coulisses-de-l-olympia-30-12-2022-13250759.php){target=_blank} : À 23 ans, il est régisseur « dans une salle mythique » : Loan Péron, de Plougonven, aux coulisses de l’Olympia. Bravo à cet ancien élève du lycée.
-    - [**Le Télégramme - 14/09/2022**](https://www.letelegramme.fr/finistere/morlaix/gwenael-morel-l-atout-drone-des-pompiers-finisteriens-14-09-2022-13178211.php){target=_blank} : Gwenaël Morel, l'atout drone des pompiers finistériens"
-
-
 ??? info "**Un espace au service de l'emploi**"
     - [**L'Espace métiers**](https://www.brest.fr/travailler-entreprendre/emploi-insertion/des-evenements-et-un-espace-au-service-de-lemploi-a-brest-1768.html){target=_blank} : un lieu pour s'informer à Brest métropole...
     
@@ -379,10 +379,10 @@ ___
  
 ??? "Liens utiles"
     === "PRESENTATION"
-        - [**Les BTS**](https://www.onisep.fr/Choisir-mes-etudes/apres-le-bac/organisation-des-etudes-superieures/Les-BTS){target=_blank} : organisation des études, poursuite d'études. (*Sources : Onisep*)
+        - [**Les BTS**](https://www.onisep.fr/formation/apres-le-bac-les-etudes-superieures/les-principales-filieres-d-etudes-superieures/les-bts-brevet-de-technicien-superieur){target=_blank} : organisation des études, admission, aménagements spécifiques, poursuite d'études. (*Sources : Onisep*)
         - [**Liste des BTS**](https://www.letudiant.fr/etudes/bts.html){target=_blank} : tout savoir sur le BTS et accéder à la liste des BTS par domaine.(*Sources : L'étudiant*)
     === "ECOLES"
-        - [**Les 2 Rives**](https://les-2-rives.fr/enseignement-superieur/){target=_blank} : BTS Conseiller de Clientèle - BTS Assurance - BTS CRSA (Conception et réalisation de systèmes automatiques). (*Landerneau - 29*)
+        - [**Les 2 Rives**](https://les-2-rives.fr/enseignement-superieur/){target=_blank} : BTS Conseiller de Clientèle - BTS Assurance - BTS CRSA (Conception et réalisation de systèmes automatiques) - BUT Banque assurance chargé de clientèle. (*Landerneau - 29*)
         - [**Campus de Pouillé**](https://www.campus-pouille.com/){target=_blank} : BTS dans le domaine de la nature, du vivant et de l'environnement. (*Angers - 49*)
         - [**Chaptal**](https://www.lycee-chaptal.fr/nos-formations/enseignement-superieur/){target=_blank} : BTS Bioqualité - Diététique - ESF - Collaborateur-juriste - SAM - SIO - SP3S - DECESF (*Quimper - 29*)
         - [**Fénelon**](https://www.fenelonsup.org/formations/brevet-technicien-superieur-economie-sociale-familiale/){target=_blank} : BTS EFS (Economie Familiale et Sociales). (*Brest - 29*)
@@ -401,7 +401,8 @@ ___
   
 ??? "Liens utiles"
     === "PRESENTATION"
-        - [**BACHELORS**](https://www.onisep.fr/Choisir-mes-etudes/apres-le-bac/Conseils-et-strategies-d-etudes/Quelle-reconnaissance-pour-les-diplomes-du-superieur/les-bachelors){target=_blank} : Quelle reconnaissance pour les diplômes du supérieur ? (*Sources : Onisep*)
+        - [**BUT**](hhttps://www.onisep.fr/formation/apres-le-bac-les-etudes-superieures/les-principales-filieres-d-etudes-superieures/les-but-bachelors-universitaires-de-technologie){target=_blank} - Bachelors Universitaires de Technologie (*Sources : Onisep*)
+        - [**Quelle reconnaissance pour les diplômes du supérieur**](https://www.onisep.fr/orientation/l-enseignement-superieur/quelle-reconnaissance-pour-les-diplomes-du-superieur/les-bachelors){target=_blank} : Quelle reconnaissance pour les diplômes du supérieur ? (*Sources : Onisep*)
         - [**Qu'est-ce qu'un BACHELOR ?**](https://www.letudiant.fr/etudes/ecole-de-commerce/qu-est-ce-qu-un-bachelor-1.html){target=_blank} : (*L'Etudiant  : Onisep*)
     === "IUT et SPECIALITES"  
         - [**Annuaire des IUT**](https://www.iut.fr/){target=_blank} : 108 IUT, 170 campus partout en France, 24 spécialités.
