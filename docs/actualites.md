@@ -6,6 +6,35 @@
 
 
 ## Expositions et projets
+???+ "**Exposition sur le voyage en Chine** ==<u>**Décembre 2024**</u>=="
+    ![Affiche de présentation](./images/actualites/20241205_Affiche_exposition_Chine_01.png "Affiche"){width=90% align=left}
+
+    ==***Explorez la Chine à travers les yeux de nos élèves !***==
+
+    Du 5 au 18 novembre 2024, les élèves de Seconde et Terminale LV2 chinois ont découvert la richesse culturelle et historique de la Chine lors d’un voyage inoubliable.
+
+    🔹 <u>**À Jinan**</u>
+    
+    - Immersion dans une école chinoise
+
+    - Expériences de vie en famille d'accueil
+    
+    🔹 <u>**À Pékin**</u>
+    
+    - Visite des lieux emblématiques : Cité Interdite, Grande Muraille, Temple du Ciel...
+
+    - Découverte de la culture et de la gastronomie locales
+
+    Participez à notre quiz interactif sur Kahoot ! Scannez le QR code sur place pour accéder au quiz pour testez vos connaissances sur la Chine en répondant aux questions !
+
+    🎁Bonus : Répondez correctement à au moins 50% des questions pour avoir la chance de remporter une petite récompense.
+
+    📅 Important : La remise des cadeaux se fera le 20 décembre 2024 dans l'atrium.
+
+    📸 Laissez-vous transporter par les photos qui racontent leurs découvertes, leurs aventures et leurs souvenirs !
+
+    Nous vous attendons nombreux pour célébrer cette belle aventure culturelle ! 
+
 
 ???+ "**CAFE PHILO** ==<u>**RDV mardi 03/12/2024**</u>=="
     ![L'homme et l'animal](./images/actualites/20241203_Café_philo.png "café philo"){width=90% align=left}
