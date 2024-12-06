@@ -199,41 +199,21 @@
 ??? "**Pour les enseignants**"
     
     ??? Example "**Cahiers pédagogiques**"
-    [![Cahiers pédagogiques](./images/abonnements/enseignants/Cahiers_pedagogiques_février_2022_575.jpg "Cahiers pédagogiques, février 2022, n°575"){width=20%}](./images/abonnements/enseignants/Cahiers_pedagogiques_février_2022_575.pdf){target=_blank}
-    [![Cahiers pédagogiques](./images/abonnements/enseignants/Cahiers_pedagogiques_mars-avril_2022_576.jpg "Cahiers pédagogiques, mars-avril 2022, n°576"){width=20%}](./images/abonnements/enseignants/Cahiers_pedagogiques_mars-avril_2022_576.pdf){target=_blank}
-    [![Cahiers pédagogiques](./images/abonnements/enseignants/Cahiers_pedagogiques_mai_2022_577.jpg "Cahiers pédagogiques, mai 2022, n°577"){width=20%}](./images/abonnements/enseignants/Cahiers_pedagogiques_mai_2022_577.pdf){target=_blank}
-    [![Cahiers pédagogiques](./images/abonnements/enseignants/Cahiers_pedagogiques_juin_2022_578.jpg "Cahiers pédagogiques, juin 2022, n°578"){width=20%}](./images/abonnements/enseignants/Cahiers_pedagogiques_juin_2022_578.pdf){target=_blank}
-    [![Cahiers pédagogiques](./images/abonnements/enseignants/Cahiers_pedagogiques_septembre-octobre_2022_579.jpg "Cahiers pédagogiques, septembre-octobre 2022, n°579"){width=20%}](./images/abonnements/enseignants/Cahiers_pedagogiques_septembre-octobre_2022_579.pdf){target=_blank}
-    [![Cahiers pédagogiques](./images/abonnements/enseignants/Cahiers_pedagogiques_novembre_2022_580.jpg "Cahiers pédagogiques, novembre 2022, n°580"){width=20%}](./images/abonnements/enseignants/Cahiers_pedagogiques_novembre_2022_580.pdf){target=_blank}
-    [![Cahiers pédagogiques](./images/abonnements/enseignants/Cahiers_pedagogiques_decembre_2022_581.jpg "Cahiers pédagogiques, décembre 2022, n°581"){width=20%}](./images/abonnements/enseignants/Cahiers_pedagogiques_decembre_2022_581.pdf){target=_blank}
-    [![Cahiers pédagogiques](./images/abonnements/enseignants/Cahiers_pedagogiques_fevrier_2023_583.jpg "Cahiers pédagogiques, février 2022, n°583"){width=20%}](./images/abonnements/enseignants/Cahiers_pedagogiques_fevrier_2023_583.pdf){target=_blank}
-    [![Cahiers pédagogiques](./images/abonnements/enseignants/Cahiers_pedagogiques_mars-avril_2023_584.jpg "Cahiers pédagogiques, mars-avril 2023, n°584"){width=20%}](./images/abonnements/enseignants/Cahiers_pedagogiques_mars-avril_2023_584.pdf){target=_blank}
-    [![Cahiers pédagogiques](./images/abonnements/enseignants/Cahiers_pedagogiques_mai_2023_585.jpg "Cahiers pédagogiques, mai 2023, n°585"){width=20%}](./images/abonnements/enseignants/Cahiers_pedagogiques_mai_2023_585.pdf){target=_blank}
-    [![Cahiers pédagogiques](./images/abonnements/enseignants/Cahiers_pedagogiques_juillet_2023_586.jpg "Cahiers pédagogiques, juillet 2023, n°586"){width=20%}](./images/abonnements/enseignants/Cahiers_pedagogiques_juillet_2023_586.pdf){target=_blank}
-    [![Cahiers pédagogiques](./images/abonnements/enseignants/Cahiers_pedagogiques_septembre-otobre_2023_587.jpg "Cahiers pédagogiques, septembre-octobre 2023, n°587"){width=20%}](./images/abonnements/enseignants/Cahiers_pedagogiques_septembre-otobre_2023_587.pdf){target=_blank}
-    [![Cahiers pédagogiques](./images/abonnements/enseignants/Cahiers_pedagogiques_novembre_2023_588.JPG "Cahiers pédagogiques, novembre 2023, n°588"){width=20%}](./images/abonnements/enseignants/Cahiers_pedagogiques_novembre_2023_588.pdf){target=_blank}
-    [![Cahiers pédagogiques](./images/abonnements/enseignants/Cahiers_pedagogiques_decembre_2023_589.jpg "Cahiers pédagogiques, décembre 2023, n°589"){width=20%}](./images/abonnements/enseignants/Cahiers_pedagogiques_decembre_2023_589.pdf){target=_blank}
+    
     [![Cahiers pédagogiques](./images/abonnements/enseignants/Cahiers_pedagogiques_janvier_2024_590.jpg "Cahiers pédagogiques, janvier 2024, n°590"){width=20%}](./images/abonnements/enseignants/Cahiers_pedagogiques_janvier_2024_590.pdf){target=_blank}
     [![Cahiers pédagogiques](./images/abonnements/enseignants/Cahiers_pedagogiques_fevrier_2024_591.jpg "Cahiers pédagogiques, février 2024, n°591"){width=20%}](./images/abonnements/enseignants/Cahiers_pedagogiques_fevrier_2024_591.pdf){target=_blank}
     [![Cahiers pédagogiques](./images/abonnements/enseignants/Cahiers_pedagogiques_avril_2024_592.jpg "Cahiers pédagogiques, avril 2024, n°592"){width=20%}](./images/abonnements/enseignants/Cahiers_pedagogiques_avril_2024_592.pdf){target=_blank}
     [![Cahiers pédagogiques](./images/abonnements/enseignants/Cahiers_pedagogiques_mai_2024_593.jpg "Cahiers pédagogiques, mai 2024, n°593"){width=20%}](./images/abonnements/enseignants/Cahiers_pedagogiques_mai_2024_593.pdf){target=_blank}
 
     ??? Example "**InterCDI**"
-    [![InterCDI](./images/abonnements/enseignants/Intercdi_septembre-octobre_2022_298.jpg "InterCDI, septembre-octobre 2022, n°298"){width=20%}](./images/abonnements/enseignants/Intercdi_septembre-octobre_2022_298.pdf){target=_blank}
-    [![InterCDI](./images/abonnements/enseignants/Intercdi_novembre-decembre_2022_299-300.jpg "InterCDI, novembre-décembre 2022, n°299-300"){width=20%}](./images/abonnements/enseignants/Intercdi_novembre-decembre_2022_299-300.pdf){target=_blank}
-    [![InterCDI](./images/abonnements/enseignants/Intercdi_janvier-fevrier_2023_301.jpg "InterCDI, janvier-février 2023, n°301"){width=20%}](./images/abonnements/enseignants/Intercdi_janvier-fevrier_2023_301.pdf){target=_blank}
-    [![InterCDI](./images/abonnements/enseignants/InterCDI_mars-avril_2023_302.jpg "InterCDI, mars-avril 2023, n°302"){width=20%}](./images/abonnements/enseignants/InterCDI_mars-avril_2023_302.pdf){target=_blank}
-    [![InterCDI](./images/abonnements/enseignants/InterCDI_septembre-octobre_2023_304-305.JPG "InterCDI, septembre-octobre 2023, n°304-305"){width=20%}](./images/abonnements/enseignants/InterCDI_septembre-octobre_2023_304-305.pdf){target=_blank}
+    
     [![InterCDI](./images/abonnements/enseignants/InterCDI_janvier-fevrier_2024_307.jpg "InterCDI, janvier-février 2024, n°307"){width=20%}](./images/abonnements/enseignants/InterCDI_janvier-fevrier_2024_307.pdf){target=_blank}
 
     ??? Example "**NRP Lycée**"
-    [![NRP Lycée](./images/abonnements/enseignants/NRP_lycee_septembre_2022_100.jpg "NRP Lycée, septembre 2022, n°100"){width=20%}](./images/abonnements/enseignants/NRP_lycee_septembre_2022_100.pdf){target=_blank}
-    [![NRP Lycée](./images/abonnements/enseignants/NRP_lycee_decembre_2022_101.jpg "NRP Lycée, décembre 2022, n°101"){width=20%}](./images/abonnements/enseignants/NRP_lycee_decembre_2022_101.pdf){target=_blank}
-    [![NRP Lycée](./images/abonnements/enseignants/NRP_lycee_mars_2023_102.jpg "NRP Lycée, mars 2023, n°102"){width=20%}](./images/abonnements/enseignants/NRP_lycee_mars_2023_102.pdf){target=_blank}
-    [![NRP Lycée](./images/abonnements/enseignants/NRP_lycee_juin_2023_103.jpg "NRP Lycée, juin 2023, n°103"){width=20%}](./images/abonnements/enseignants/NRP_lycee_juin_2023_103.pdf){target=_blank}
-    [![NRP Lycée](./images/abonnements/enseignants/NRP_lycee_septembre_2023_104.JPG "NRP Lycée, septembre 2023, n°104"){width=20%}](./images/abonnements/enseignants/NRP_lycee_septembre_2023_104.pdf){target=_blank}
+    
     [![NRP Lycée](./images/abonnements/enseignants/NRP_Lycee_decembre_2023_105.jpg "NRP Lycée, décembre 2023, n°105"){width=20%}](./images/abonnements/enseignants/NRP_Lycee_decembre_2023_105.pdf){target=_blank}
     [![NRP Lycée](./images/abonnements/enseignants/NRP_Lycee_mars_2024_106.jpg "NRP Lycée, mars 2023, n°106"){width=20%}](./images/abonnements/enseignants/NRP_Lycee_mars_2024_106.pdf){target=_blank}
+    [![NRP Lycée](./images/abonnements/enseignants/NRP_lycee_2024_09_108.jpg "NRP Lycée, septembre 2024, n°108"){width=20%}](./images/abonnements/enseignants/NRP_lycee_2024_09_108.pdf){target=_blank}
 
 
 ### **Orientation**
