@@ -18,10 +18,6 @@ L'actualité de l'orientation au lycée et dans la région, les ==**sites incont
     [![**Calendrier**](./images/orientation/2024-2025_parcoursup_livret_calendrier.jpg "Parcoursup calendrier"){width=35%}](https://www.parcoursup.gouv.fr/calendrier){target=_blank} 
 
 
-???+ info "**COLLOQUES**"
-    [![**Métiers d'éducateurs spécialisés*](./images/orientation/20241205_affiche_educateur_specialise_colloque.jpg "Paroles d'Educ Spé"){width=35%}](https://www.univ-brest.fr/labers/fr/actualite/12-journee-de-reflexion-paroles-deduc-spe-la-croisee-des-chemins-hier-et-aujourdhui){target=_blank}
-    
-
 ???+ info "**IMMERSIONS - PORTES OUVERTES**"
     [![**Réunion IUT St-Nazaire**](./images/orientation/20241211_Réunion_Parcoursup_IUT_St_Nazaire.png "Instafac"){width=35%}](https://evenium.events/soireeparcoursup){target=_blank}
     [![**INSTAFAC**](./images/orientation/2024_12_Programme%20INSTAFAC.jpg "Instafac"){width=35%}](https://nouveau.univ-brest.fr/cap-avenir/fr/page/insta-fac){target=_blank}
