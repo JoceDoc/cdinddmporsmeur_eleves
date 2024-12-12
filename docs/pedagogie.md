@@ -19,7 +19,7 @@ ___
 
 ## Actualité des disciplines
 
-![**Fête de la science"**](./images/pedagogie/Affiche_Fête_de_la_science_2024.jpg "Fête de la science"){width=65%}
+[![**Olympiades mathématiques"**](./images/pedagogie/2025_olympiades_maths_affiche.jpg "Olympiades des mathématiques"){width=45%}](https://www.education.gouv.fr/les-olympiades-nationales-de-mathematiques-5732){target=_blank}
 
 ## Méthodologie pour tous
 
@@ -269,7 +269,7 @@ ___
     - [**S'entraîner pour l'oral**](https://wordwall.net/fr/resource/2213377/eaf-oral-2-partie){target=_blank}
     - [**Outils numériques pour les lettres et LCA**](http://www.pearltrees.com/t/lettres-lca-academie-de-rennes/numeriques-lettres-academie/id30360664){target=_blank}
 
-    [![**PRINTEMPS DES POETES**](./images/pedagogie/affiche_printemps_des_poetes_2024.jpg){width=30%}](https://www.printempsdespoetes.com/Edition2024){target=_blank}
+    [![**PRINTEMPS DES POETES**](./images/pedagogie/2025_printemps_poetes_affiche.jpg){width=30%}](https://www.printempsdespoetes.com/Edition2025){target=_blank}
     
    
  
