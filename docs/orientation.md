@@ -145,30 +145,19 @@ ___
         - [**Quelles études après le BAC**](https://www.onisep.fr/formation#apres-le-bac-les-etudes-superieures){target=_blank} : étude courtes, longues, licence, BUT, BTS, écoles spécialisée... découvrez toutes les possibilités qui s'offrent à vous.
         - [**Quelle école après le BAC ?**](https://www.ipesup.fr/){target=_blank} : IPESUP, préparations aux examens et concours de l’enseignement supérieur.
         - [**Ensemble des ressources de la DGESIP**](https://services.dgesip.fr/T454/S743/ressources){target=_blank} : Direction Générale de l'Enseignement Supérieur et de l'Insertion
+        - [**Annuaire de l'enseignement supérieur en Finistère**](https://www.letudiant.fr/etudes/annuaire-enseignement-superieur/etablissement/departement-finistere.html){target=_blank} : Formations, écoles, témoignages d'étudiants...
+        - [**Enseignement supérieur Côtes d'Armor**](https://sup.cotesdarmor.fr/){target=_blank} : Formations, écoles, témoignages d'étudiants...
         - [**Témoignages d'étudiants**](https://www.onisep.fr/formation/apres-le-bac-les-etudes-superieures/ma-premiere-annee-en){target=_blank} : Série web, ma première année en...
-    === "FORUM EN LIGNE"
-        
-        **Prochain RDV du** [**FORUM EN LIGNE**](https://padlet.com/cdinddmporsmeur/forum_en_ligne_2022){target=_blank} 
-        
-        **Lundi 29 janvier : ==ENSAB==** 
-        
-        Plus d'informations sur le site du [**ENSAB**](https://www.rennes.archi.fr/){target=blank}.
-
-        [**BRIO**](https://www.linscription.com/pro/activite.php?P1=169699){target=_blank} propose des visios express avec un étudiant ambassadeur, le jeudi de 18h à 18h30, à partir du 8 février : découvrez les formations concernées. 
-
+    
                         
     === "PARCOURSUP"
         [![**PARCOURSUP"**](./images/orientation/parcoursup.png "Page d'accueil PARCOURSUP"){width=20%}](https://www.parcoursup.fr/index.php?desc=){target=_blank}
         
 
     === "PO - IMMERSIONS"
-        
-        * [**PORTES OUVERTES DU SUPERIEUR - 2024/2025 - Accéder au moteur de recherche**](https://www.onisep.fr/orientation/l-enseignement-superieur/les-journees-portes-ouvertes-2023-2024-dans-l-enseignement-superieur){target=_blank}
-
-      
-        * [**Catalogue IDEO des IMMERSIONS - Bretagne**](https://www.linscription.com/pro/catalogue-immersion-brio-ideo-actions-pour-lyceens.php){target=_blank}
-        
-        * [**Printemps de l'orientation**](https://printempsorientation.onisep.fr/){target=_blank}
+        - [**PORTES OUVERTES DU SUPERIEUR - 2024/2025 - Accéder au moteur de recherche**](https://www.onisep.fr/orientation/l-enseignement-superieur/les-journees-portes-ouvertes-2024-2025-dans-l-enseignement-superieur){target=_blank}
+        - [**Catalogue IDEO des IMMERSIONS - Bretagne**](https://www.linscription.com/pro/catalogue-immersion-brio-ideo-actions-pour-lyceens.php){target=_blank}
+        - [**Printemps de l'orientation**](https://printempsorientation.onisep.fr/){target=_blank}
         
         ==*ATTENTION : Certaines dates ou informations présentées ci-dessous peuvent ne pas être à jour.*==
 
@@ -202,12 +191,13 @@ ___
             - [**ITES**](https://www.ites-formation.com/salons-et-forums-2023-2024/){target=_blank} : rendez-vous de l'[**Institut de formation au travail Educatif et Social**](https://www.ites-formation.com/){target=_blank} dans les salons et forums.
     === "SALONS - FORUMS"
         - [**Salons - Forums de l'orientation**](https://www.onisep.fr/recherche?text=SALONS%20FORUMS){target=_blank} : comment préparer sa visite à un salon ?
-        - [**AZIMUT**](https://www.salon-azimut.com/){target=_blank} : site officiel du salon les ==**25-27 janvier 2024**==.
-        - [**SUP'ARMOR**](https://www.suparmor.fr/){target=_blank} : l'équivalent d'Azimut dans le 22 du ==**14-15-16 décembre 2023**==.
+        - [**SALONS DE L'ETUDIANT**](https://www.letudiant.fr/etudes/salons.html){target=_blank} : en France, recherche par région et domaine.
+        - [**AZIMUT**](https://www.salon-azimut.com/){target=_blank} : site officiel du salon les ==**23-25 janvier 2025**==.
+        - [**SUP'ARMOR**](https://www.suparmor.fr/){target=_blank} : l'équivalent d'Azimut dans le 22 du ==**12-13-14 décembre 2024**==.
         - [**STUDYRAMA**](https://www.studyrama.com/){target=_blank} : dates des prochains salons étudiants...
     === "CONCOURS"
         - [**EMSLB**](https://uniformesdefrance.com/actualites-site-dates-concours-metiers-uniforme-ouverts-inscriptions-postes-vacants.php){target=_blank} : dates des concours pour l'entrée en Ecoles Militaires de Santé de Lyon-Bron. 
-        - [**EMSLB - infirmier**](https://www.emslb.defense.gouv.fr/nous-rejoindre-concours/concours-eppa){target=_blank} : devenir infirmier militaire  en intégrant les écoles militaires de santé Lyon-Bron. [**Voir la plaquette**](./pdf/EMSLB_Plaquette_infirmier_militaire.pdf){target=_blank}
+        - [**EMSLB - infirmier**](https://emslb.defense.gouv.fr/){target=_blank} : devenir infirmier militaire  en intégrant les écoles militaires de santé Lyon-Bron. [**Voir la plaquette**](./pdf/EMSLB_Plaquette_infirmier_militaire.pdf){target=_blank}
         - [**IPESUP**](https://www.ipesup.fr/){target=_blank} : préparation aux concours des filères sélectives telles que Sciences PO, ENA, HEC, SESAME, ACCES, ALPHA, AVENIR, GEIPI/POLYTECH, MATH SUP, MATH SPE, DSCG, CELSA...
     === "STMG"  
         - [**Que faire après un BAC STMG ?**](https://www.onisep.fr/formation/apres-le-bac-les-etudes-superieures/apres-un-bac-techno/que-faire-apres-le-bac-stmg){target=_blank}
@@ -218,7 +208,7 @@ ___
 ??? "VOIE PRO"
     === "RESSOURCES"
         - [**Recherche de stage, mode d'emploi**](./pdf/IDEO_Recherche_de_stage_mode_d_emploi.pdf){target=_blank}
-        - [**Je choisis mon CAP**](./pdf/IDEO_2022_je_choisis_mon_CAP.pdf){target=_blank}
+        - [**Je choisis mon CAP**](https://ideo.bretagne.bzh/publications/guide-cap){target=_blank}
 
     === "PARCOURSUP"    
         - [**PARCOURSUP - Site officiel**](https://www.parcoursup.fr/index.php?desc=){target=_blank}

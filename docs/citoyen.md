@@ -76,9 +76,8 @@
     
     Présentation et principes du **SNU** sur le [**site officiel**](https://www.snu.gouv.fr/){target=_blank}
 
-    [![Affiche_SNU](./images//parcours_citoyen/snu_2023_affiche-inscriptions-finistere.jpg "Inscriptions_Finistère"){width=35% align=left}](./pdf/snu_2023_depliant.pdf){target=_blank}
+    [![LOGO_SNU](./images/parcours_citoyen/2025_SNU_logo.png "Inscriptions_Finistère"){width=35% align=left}](https://www.snu.gouv.fr/){target=_blank}
     
-
     
 ### Vie associative
 
@@ -88,7 +87,7 @@
         - [**JeVeuxAider.gouv.fr**](https://www.jeveuxaider.gouv.fr/){target=_blank}
         - [**France Bénévolat**](https://www.francebenevolat.org/benevoles/devenir-benevole-un-geste-simple){target=_blank}
     === "A MORLAIX"
-        - [**Annuaire des associations**](https://www.ville.morlaix.fr/VIVRE-A-MORLAIX/Vie-associative/L-annuaire-des-associations){target=_blank}
+        - [**Vie associative**](https://www.morlaix.bzh/vivre-a-morlaix/vie-associative){target=_blank}
 
 
 
