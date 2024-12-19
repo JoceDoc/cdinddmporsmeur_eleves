@@ -22,7 +22,6 @@ L'actualité de l'orientation au lycée et dans la région, les ==**sites incont
     [![**Réunion IUT St-Nazaire**](./images/orientation/20241211_Réunion_Parcoursup_IUT_St_Nazaire.png "Instafac"){width=35%}](https://evenium.events/soireeparcoursup){target=_blank}
     [![**INSTAFAC**](./images/orientation/2024_12_Programme%20INSTAFAC.jpg "Instafac"){width=35%}](https://nouveau.univ-brest.fr/cap-avenir/fr/page/insta-fac){target=_blank}
     [![**PO CIRFA**](./images/orientation/20250201_affiche_EETAAE_JPO.jpg "CIRFA PO"){width=35%}](./images/orientation/20250201_descriptif_EETAAE_JPO.pdf){target=_blank}
-    [![**La Croix Rouge**](./images/orientation/20241207_PO_La_Croix_Rouge.jpg "PO La Croix Rouge"){width=35%}](https://www.lacroixrouge-brest.fr/){target=_blank}
     [![**Javouhey**](./images/orientation/2024-2025_Javouhey_SUP_inscriptions.jpg "Inscription_SUP_Javouhey"){width=55%}](https://www.javouhey-brest.fr/le-sup/){target=_blank}
 
     
@@ -166,6 +165,7 @@ ___
             - [**Lycée Chaptal - Quimper**](https://www.lycee-chaptal.fr/){target=_blank} : [**BTS Bioqualité**](https://www.lycee-chaptal.fr/bts-bioqualite/){target=_blank} - 
                 [**BTS Diététique**](https://www.lycee-chaptal.fr/nos-formations/enseignement-superieur/bts-dietetique/){target=_blank}  - [**BTS ESF**](https://www.lycee-chaptal.fr/nos-formations/enseignement-superieur/bts-esf/){target=_blank} - [**BTS Collaborateur juriste notarial**](https://www.lycee-chaptal.fr/nos-formations/enseignement-superieur/bts-notariat/){target=_blank} - [**BTS SAM (Support à l'action managériale)**](https://www.lycee-chaptal.fr/nos-formations/enseignement-superieur/bts-sam/){target=_blank} - [**BTS SIO (Services informatiques aux organisations)**](https://www.lycee-chaptal.fr/nos-formations/enseignement-superieur/bts-sio/){target=_blank} - [**BTS SP3S (Services et Prestations des Secteurs Sanitaire et Social)**](https://www.lycee-chaptal.fr/nos-formations/enseignement-superieur/bts-sp3s/){target=_blank}
             - [**Lycée Mongazon**](https://www.mongazon.org/){target=_blank} présentation des BTS du pôle santé (BTS Podo orthésiste - BTS Prothésiste orthésiste - CP Orthopédiste orthésiste) (*Angers - 49*)
+            - [**Lycée Tristan Corbière**](https://www.lyceetristancorbiere.fr/brevets-de-technicien-superieurs-bts/){target=_blank} présentation des BTS CIM (Conception et Industrialisation en Microtechniques) - BTS Aéronautique - BTS CPI (Conception des Produis Industriels) - BTS SP3S (Services et Prestations des Secteurs Sanitaire et Social)(*Morlaix - 29*)
             - [**BTS Audiovisuel**](http://www.btsaudiovisuelsfnd.fr/){target=_blank} (*Lesneven - 29*)
             - [**BTS SIO**](http://www.saint-louis29.net){target=_blank} (*Chateaulin - 29*)
             - [**BTS SP3S**](https://www.lycee-campostal-gouarec.com/A-VOS-AGENDAS-MINI-STAGE-DECOUVERTE-BTS-SP3S){target=_blank} : mini-stages découverte (*Rostrenen - Gouarec 22*)
@@ -175,7 +175,7 @@ ___
 
         ???+ info "IUT"
             - [**IUT Brest-Morlaix**](https://www.iut-brest.fr/){target=_blank} : demi-journées d'immersion pour les lycéens de terminale en Génie Biologique (GB), Génie Mécanique et Productique (GMP) et Gestion Administrative et Commerciale (GACO). **Inscription obligatoire sur le site**. 
-        
+            - [**IUT Saint-Malo**](https://iut-stmalo.univ-rennes.fr/journee-portes-ouvertes-2025){target=_blank} programme des portes ouvertes, présentation des formations post-bac : BUT GIM (Génie Industriel et Maintenance) - BUT Carrières juridiques - BUT GEA (Gestion des Entreprises et des Administrations) - BUT Réseaux et Télécommunications - Licences profesionnelles.
             
         
         ???+ info "PREPA - CPEG"

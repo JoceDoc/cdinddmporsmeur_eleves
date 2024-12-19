@@ -3,7 +3,9 @@
        
     [![logo ECAM](./images/logo_ecam.jpg "Actualités Lycée"){width=90% align=right}](https://www.ecmorlaix.fr/actualites/){target=_blank}
 
-
+## Rendez-vous
+???+ "**CAFE PHILO** ==<u>**RDV mardi 07/01/2025**</u>=="
+    ![Bravez l'interdit](./images/actualites/20250107_affiche_café_philo.png "café philo"){width=90% align=left}
 
 ## Expositions et projets
 ???+ "**Exposition sur le voyage en Chine** ==<u>**Décembre 2024**</u>=="
@@ -35,11 +37,7 @@
 
     Nous vous attendons nombreux pour célébrer cette belle aventure culturelle ! 
 
-
-???+ "**CAFE PHILO** ==<u>**RDV mardi 03/12/2024**</u>=="
-    ![L'homme et l'animal](./images/actualites/20241203_Café_philo.png "café philo"){width=90% align=left}
-
-    
+  
 ??? "**Villes pour la vie, villes contre la peine de mort - le 29/11/2024**"
     
     ==**Sacco et Vanzetti**==
@@ -92,7 +90,7 @@
    
 ??? "**Kiosque du mois** :newspaper:"
     
-    [![Aide-soignante](./images/abonnements/11_novembre_2024/Aide-soignante_2024_11_261.jpg "Aide-soignante, novembre 2024, n°261"){width=20%}](./images/abonnements/11_novembre_2024/Aide-soignante_2024_11_261.pdf){target=_blank}
+    [![Aide-soignante](./images/abonnements/12_decembre_2024/Aide-soignante_2024_12_262.jpg "Aide-soignante, décembre 2024, n°262"){width=20%}](./images/abonnements/12_decembre_2024/Aide-soignante_2024_12_262.pdf){target=_blank}
     [![Alternatives Economiques](./images/abonnements/12_decembre_2024/Alternatives_economiques_2024_12_453.jpg "Alternatives Economiques, décembre 2024, n°453"){width=20%}](./images/abonnements/12_decembre_2024/Alternatives_economiques_2024_12_453.pdf){target=_blank}
     [![Ca m'intéresse](./images/abonnements/12_decembre_2024/Ca_m_interesse_2024_12_526.jpg "Ca m'intéresse, décembre 2024, n°526"){width=20%}](./images/abonnements/12_decembre_2024/Ca_m_interesse_2024_12_526.pdf){target=_blank}
     [![Capital](./images/abonnements/12_decembre_2024/Capital_2024_12_399.jpg "Capital, décembre 2024, n°399"){width=20%}](./images/abonnements/12_decembre_2024/Capital_2024_12_399.pdf){target=_blank}
@@ -114,7 +112,8 @@
     [![Sciences humaines](./images/abonnements/12_decembre_2024/Sciences_humaines_2024_12_374.jpg "Sciences humaines, décembre 2024, n°374"){width=20%}](./images/abonnements/12_decembre_2024/Sciences_humaines_2024_12_374.pdf){target=_blank}
     [![Sciences humaines - grands dossiers](./images/abonnements/12_decembre_2024/Sciences_humaines_les_grands_dossiers_2024_12_77.jpg "Sciences humaines - Les grands dossiers, décembre 2024, n°77HS"){width=20%}](./images/abonnements/12_decembre_2024/Sciences_humaines_les_grands_dossiers_2024_12_77.pdf){target=_blank}
     [![Sciences Ouest](./images/abonnements/12_decembre_2024/Sciences_ouest_2024_12_424.jpg "Sciences ouest, décembre 2024, n°424"){width=20%}](./images/abonnements/12_decembre_2024/Sciences_ouest_2024_12_424.pdf){target=_blank}
-    [![Sport et vie](./images/abonnements/11_novembre_2024/Sport_et_vie_2024_11_207.jpg "Sport et Vie, novembre 2024, n°207"){width=20%}](./images/abonnements/11_novembre_2024/Sport_et_vie_2024_11_207.pdf){target=_blank}
+    [![Sport et vie](./images/abonnements/11_novembre_2024/Sport_et_vie_2024_11_207.jpg "Sport et Vie, novembre-décembre 2024, n°207"){width=20%}](./images/abonnements/11_novembre_2024/Sport_et_vie_2024_11_207.pdf){target=_blank}
+    [![Sport et vie](./images/abonnements/12_decembre_2024/Sport_et_vie_2024_12_61HS.jpg "Sport et Vie, décembre 2024, n°61HS"){width=20%}](./images/abonnements/12_decembre_2024/Sport_et_vie_2024_12_61HS.pdf){target=_blank}
     [![Tangente](./images/abonnements/11_novembre_2024/Tangente_2024_11_220.jpg "Tangente, novembre 2024, n°220"){width=20%}](./images/abonnements/11_novembre_2024/Tangente_2024_11_220.pdf){target=_blank}
     [![Tangente](./images/abonnements/12_decembre_2024/Tangente_2024_12_92HS.jpg "Tangente, décembre 2024, n°92HS"){width=20%}](./images/abonnements/12_decembre_2024/Tangente_2024_12_92HS.pdf){target=_blank}
     [![Virgule](./images/abonnements/12_decembre_2024/Virgule_2024_12_234.jpg "Virgule, décembre 2024, n°234"){width=20%}](./images/abonnements/12_decembre_2024/Virgule_2024_12_234.pdf){target=_blank} 
