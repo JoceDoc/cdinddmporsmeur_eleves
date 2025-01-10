@@ -20,7 +20,7 @@ L'actualité de l'orientation au lycée et dans la région, les ==**sites incont
 
 ???+ info "**IMMERSIONS - PORTES OUVERTES**"
     [![**Réunion IUT St-Nazaire**](./images/orientation/20241211_Réunion_Parcoursup_IUT_St_Nazaire.png "Instafac"){width=35%}](https://evenium.events/soireeparcoursup){target=_blank}
-    [![**INSTAFAC**](./images/orientation/2024_12_Programme%20INSTAFAC.jpg "Instafac"){width=35%}](https://nouveau.univ-brest.fr/cap-avenir/fr/page/insta-fac){target=_blank}
+    [![**Continum Brio**](./images/orientation/2025_Continum_Brio.png "Instafac"){width=55%}](https://www.univ-brest.fr/cap-avenir/fr/page/immersion-individuelle-lubo){target=_blank}
     [![**PO CIRFA**](./images/orientation/20250201_affiche_EETAAE_JPO.jpg "CIRFA PO"){width=35%}](./images/orientation/20250201_descriptif_EETAAE_JPO.pdf){target=_blank}
     [![**Javouhey**](./images/orientation/2024-2025_Javouhey_SUP_inscriptions.jpg "Inscription_SUP_Javouhey"){width=55%}](https://www.javouhey-brest.fr/le-sup/){target=_blank}
 
@@ -154,9 +154,11 @@ ___
         
 
     === "PO - IMMERSIONS"
+        
         - [**PORTES OUVERTES DU SUPERIEUR - 2024/2025 - Accéder au moteur de recherche**](https://www.onisep.fr/orientation/l-enseignement-superieur/les-journees-portes-ouvertes-2024-2025-dans-l-enseignement-superieur){target=_blank}
         - [**Catalogue IDEO des IMMERSIONS - Bretagne**](https://www.linscription.com/pro/catalogue-immersion-brio-ideo-actions-pour-lyceens.php){target=_blank}
-        - [**Printemps de l'orientation**](https://printempsorientation.onisep.fr/){target=_blank}
+        - [**Catalogue des PO - 2024/2025 Académie de Rennes**](./images/orientation/2025_JPO_superieur_superieur_Acad_Rennes.pdf){target=_blank}
+        - [**Printemps de l'orientation**](https://www.education.gouv.fr/reussir-au-lycee/les-semaines-de-l-orientation-327179/){target=_blank}
         
         ==*ATTENTION : Certaines dates ou informations présentées ci-dessous peuvent ne pas être à jour.*==
 
@@ -175,17 +177,16 @@ ___
 
         ???+ info "IUT"
             - [**IUT Brest-Morlaix**](https://www.iut-brest.fr/){target=_blank} : demi-journées d'immersion pour les lycéens de terminale en Génie Biologique (GB), Génie Mécanique et Productique (GMP) et Gestion Administrative et Commerciale (GACO). **Inscription obligatoire sur le site**. 
-            - [**IUT Saint-Malo**](https://iut-stmalo.univ-rennes.fr/journee-portes-ouvertes-2025){target=_blank} programme des portes ouvertes, présentation des formations post-bac : BUT GIM (Génie Industriel et Maintenance) - BUT Carrières juridiques - BUT GEA (Gestion des Entreprises et des Administrations) - BUT Réseaux et Télécommunications - Licences profesionnelles.
-            
-        
+            - [**IUT Saint-Malo**](https://iut-stmalo.univ-rennes.fr/journee-portes-ouvertes-2025){target=_blank} programme des portes ouvertes, présentation des formations post-bac : BUT GIM (Génie Industriel et Maintenance) - BUT Carrières juridiques - BUT GEA (Gestion des Entreprises et des Administrations) - BUT Réseaux et Télécommunications - Licences professionnelles.
+                    
         ???+ info "PREPA - CPEG"
             - [**La Croix Rouge/La Salle - Brest**](https://www.lacroixrouge-brest.fr/ecoles-formations/enseignement-superieur/prepas-scientifiques-aux-grandes-ecoles-ptsi-pt/){target=_blank} (*Brest - 29*)
-            
+            - [**Lycée de Cornouaille - Quimper**](https://lycee-de-cornouaille-quimper.ac-rennes.fr/spip.php?article1620){target=_blank} (*Quimper - 29*)
             - [**Faire sa PREPA au Lycée Chateaubriand**](https://lycee-chateaubriand.live/){target=_blank} (*Rennes - 35*)
         
         ???+ info "UNIVERSITES"
             - ==**UBO - CAP'AVENIR**== : inscriptions à partir de mi-janvier 2025 pour de nouvelles [**immersions**](https://www.univ-brest.fr/cap-avenir/fr/page/immersion-individuelle-lubo){target=_blank} pendant les vacances de février.
-            - ==**UCO Guingamp**== : événements à venir de l'[**UCO**](https://guingamp.uco.fr/fr/fr/actualites-guingamp){target=_blank} prochaines [**immersions**](https://guingamp.uco.fr/fr/publication/testez-l-universite-grace-aux-journees-decouvertes){target=_blank} en février.
+            - ==**UCO Guingamp**== : événements à venir de l'[**UCO**](https://guingamp.uco.fr/fr/fr/actualites-guingamp){target=_blank} prochaines [**immersions**](https://guingamp.uco.fr/fr/event/testez-l-universite-grace-aux-journees-decouvertes-de-fevrier-0){target=_blank} en février.
         
         ???+ info "ECOLES SPECIALISEES"
             - [**ITES**](https://www.ites-formation.com/salons-et-forums-2023-2024/){target=_blank} : rendez-vous de l'[**Institut de formation au travail Educatif et Social**](https://www.ites-formation.com/){target=_blank} dans les salons et forums.
@@ -344,7 +345,9 @@ ___
     === "SANTE"
         - [**Les études de santé**](https://www.onisep.fr/formation/les-principaux-domaines-de-formation/les-etudes-de-sante){target=_blank} : Maïeutique, médecine, odontologie, pharmacie (*Sources : Onisep*)
         - [**ICO**](https://ico.asso.fr/){target=_blank} : Institut et Campus d'Optique.
+        - [**IFAS**](https://www.esnd.bzh/ifas/selection-2025/){target=_blank} : Institut de Formation Aide-soignant Notre Dame Le Ménimur (*Vannes - 56*).
         - [**IFEC**](https://www.ifec.net/){target=_blank} : Institut Franco-Européen de Chiropraxie.
+        - [**IFPS**](https://www.ifps-lannion.bzh/){target=_blank} : Institut de Formation des Professionnels de Santé (*Lannion - 22*).
         - [**ISO**](https://www.iso.fr/){target=_blank} : Institut Supérieur d'Optique.
         - [**ISRP**](https://www.isrp.fr/){target=_blank} : Institut Supérieur de Rééducation Psychomotrice. (Paris - Marseille - Vichy - Metz)
         - [**Etiopathie**](https://www.etiopathie.com/){target=_blank} : Institut Français d'Ethiopathie.
@@ -375,6 +378,7 @@ ___
         - [**Fénelon**](https://www.fenelonsup.org/formations/brevet-technicien-superieur-economie-sociale-familiale/){target=_blank} : BTS EFS (Economie Familiale et Sociales). (*Brest - 29*)
         - [**Jules Lesven**](https://www.lycee-jules-lesven.org/formations-593-0-0-0.html){target=_blank} : BTS CG (Comptabilité Gestion) - BTS PI (Professions Immobilières) - BTS CI (Commerce International) - BTS G PME (Gestion de la PME) - BTS MMV (Métiers de la Mode et du Vêtement). (*Brest - 29*)
         - [**Lammenais**](https://www.lycee-lamennais.fr/parcours-services-au-entreprises/){target=_blank} : BTS MCO (*Ploërmel - 56*)
+        - [**Lycée du Léon**](https://www.lycee-landivisiau.fr/les-formations/le-bts-mco/){target=_blank} : BTS MCO (*landivisiau - 29*)
         - [**Notre-Dame-de-Guingamp**](https://www.notredameguingamp.fr/superieur/bts-me-metiers-de-leau/){target=_blank} : BTS Métiers de l'eau (*Guingamp - 22*) - Témoignage [**vidéo**](https://www.dropbox.com/scl/fi/5s8svigqtn2ruce5ftjp4/IMG_1947.MOV?rlkey=eraphbq37bb551ecvr1r3i16f&dl=0){target=_blank} d'un ancien étudiant. D'autres informations sur [**instagram**](https://www.instagram.com/bts_meguingamp/){target=_blank}.
         - [**Notre-Dame Le Ménimur**](https://www.ndlm56.bzh/pole-sup-notre-dame/){target=_blank} : BTS SP3S - ESF - DECESF - L3PRO APS - Licence 3 Gestion des Organisations du champ de l'Economie sociale et solidaire (en apprentissage) (*Vannes - Saint Avé - 56*)
         - [**Le Paraclet**](https://www.leparaclet.org/formations-quimper/enseignement-superieur/bts-management-en-hotellerie-restauration/){target=_blank} : BTS Management en hôtellerie restauration (*Quimper - 29*)
