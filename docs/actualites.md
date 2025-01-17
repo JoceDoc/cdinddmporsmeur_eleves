@@ -4,8 +4,8 @@
     [![logo ECAM](./images/logo_ecam.jpg "Actualités Lycée"){width=90% align=right}](https://www.ecmorlaix.fr/actualites/){target=_blank}
 
 ## Rendez-vous
-???+ "**CAFE PHILO** ==<u>**RDV mardi 07/01/2025**</u>=="
-    ![Bravez l'interdit](./images/actualites/20250107_affiche_café_philo.png "café philo"){width=90% align=left}
+???+ "**CAFE PHILO** ==<u>**RDV mardi 28/01/2025**</u>=="
+    ![Bravez l'interdit](./images/actualites/20250128_affiche_café_philo_06.png "café philo"){width=90% align=left}
 
 ## Expositions et projets
 ???+ "**Exposition sur le voyage en Chine** ==<u>**Décembre 2024**</u>=="
@@ -91,8 +91,8 @@
 ??? "**Kiosque du mois** :newspaper:"
     
     [![Aide-soignante](./images/abonnements/12_decembre_2024/Aide-soignante_2024_12_262.jpg "Aide-soignante, décembre 2024, n°262"){width=20%}](./images/abonnements/12_decembre_2024/Aide-soignante_2024_12_262.pdf){target=_blank}
-    [![Alternatives Economiques](./images/abonnements/12_decembre_2024/Alternatives_economiques_2024_12_453.jpg "Alternatives Economiques, décembre 2024, n°453"){width=20%}](./images/abonnements/12_decembre_2024/Alternatives_economiques_2024_12_453.pdf){target=_blank}
-    [![Ca m'intéresse](./images/abonnements/12_decembre_2024/Ca_m_interesse_2024_12_526.jpg "Ca m'intéresse, décembre 2024, n°526"){width=20%}](./images/abonnements/12_decembre_2024/Ca_m_interesse_2024_12_526.pdf){target=_blank}
+    [![Alternatives Economiques](./images/abonnements/01_janvier_2025/Alternatives_economiques_202501_454.jpg "Alternatives Economiques, janvier 2025, n°454"){width=20%}](./images/abonnements/01_janvier_2025/Alternatives_economiques_202501_454.pdf){target=_blank}
+    [![Ca m'intéresse](./images/abonnements/01_janvier_2025/Ca_m_interesse_202501_527.jpg "Ca m'intéresse, janvier 2025, n°527"){width=20%}](./images/abonnements/01_janvier_2025/Ca_m_interesse_202501_527.pdf){target=_blank}
     [![Capital](./images/abonnements/12_decembre_2024/Capital_2024_12_399.jpg "Capital, décembre 2024, n°399"){width=20%}](./images/abonnements/12_decembre_2024/Capital_2024_12_399.pdf){target=_blank}
     [![Documentation photographique](./images/abonnements/11_novembre_2024/Documentation_photographique_2024_11_8162.jpg "Documentation photographique, novembre 2024, n°8161"){width=20%}](./images/abonnements/11_novembre_2024/Documentation_photographique_2024_11_8162.pdf){target=_blank}
     [![Journal_animation](./images/abonnements/11_novembre_2024/Journal_animation_2024_11_248.jpg "Journal de l'animation, novembre 2024, n°248"){width=20%}](./images/abonnements/11_novembre_2024/Journal_animation_2024_11_248.pdf){target=_blank}
@@ -115,7 +115,7 @@
     [![Sport et vie](./images/abonnements/12_decembre_2024/Sport_et_vie_2024_12_61HS.jpg "Sport et Vie, décembre 2024, n°61HS"){width=20%}](./images/abonnements/12_decembre_2024/Sport_et_vie_2024_12_61HS.pdf){target=_blank}
     [![Tangente](./images/abonnements/11_novembre_2024/Tangente_2024_11_220.jpg "Tangente, novembre 2024, n°220"){width=20%}](./images/abonnements/11_novembre_2024/Tangente_2024_11_220.pdf){target=_blank}
     [![Tangente](./images/abonnements/12_decembre_2024/Tangente_2024_12_92HS.jpg "Tangente, décembre 2024, n°92HS"){width=20%}](./images/abonnements/12_decembre_2024/Tangente_2024_12_92HS.pdf){target=_blank}
-    [![Virgule](./images/abonnements/12_decembre_2024/Virgule_2024_12_234.jpg "Virgule, décembre 2024, n°234"){width=20%}](./images/abonnements/12_decembre_2024/Virgule_2024_12_234.pdf){target=_blank} 
+    [![Virgule](./images/abonnements/01_janvier_2025/Virgule_202501_235.jpg "Virgule, janvier 2025, n°235"){width=20%}](./images/abonnements/01_janvier_2025/Virgule_202501_235.pdf){target=_blank} 
 
 
 ??? "**Kiosque du mois dernier** :newspaper:"       
@@ -162,6 +162,7 @@
     [![I love English world](./images/abonnements/langues/ILoveEnglishWorld_2024_10_375.jpg "I love English World, octobre 2024, n°375"){width=20%}](./images/abonnements/langues/ILoveEnglishWorld_2024_10_375.pdf){target=_blank}
     [![I love English world](./images/abonnements/langues/ILoveEnglishWorld_2024_11_376.jpg "I love English World, novembre 2024, n°376"){width=20%}](./images/abonnements/langues/ILoveEnglishWorld_2024_11_376.pdf){target=_blank}
     [![I love English world](./images/abonnements/langues/ILoveEnglishWorld_202412_377.jpg "I love English World, décembre 2024, n°377"){width=20%}](./images/abonnements/langues/ILoveEnglishWorld_202412_377.pdf){target=_blank}
+    [![I love English world](./images/abonnements/langues/ILoveEnglishWorld_202501_378.jpg "I love English World, janvier 2025, n°378"){width=20%}](./images/abonnements/langues/ILoveEnglishWorld_202501_378.pdf){target=_blank}
     
     ??? Example ":de: **Allemand** :de:"
     [![Vocable Allemand](./images/abonnements/langues/Vocable_allemand_janvier_2024_886.jpg "Vocable Allemand, janvier 2024, n°886"){width=20%}](./images/abonnements/langues/Vocable_allemand_janvier_2024_886.pdf){target=_blank}
@@ -176,6 +177,8 @@
     [![Vocable Allemand](./images/abonnements/langues/Vocable_allemand_2024_10_895.jpg "Vocable Allemand, octobre 2024, n°895"){width=20%}](./images/abonnements/langues/Vocable_allemand_2024_10_895.pdf){target=_blank}
     [![Vocable Allemand](./images/abonnements/langues/Vocable_allemand_2024_11_896.jpg "Vocable Allemand, novembre 2024, n°896"){width=20%}](./images/abonnements/langues/Vocable_allemand_2024_11_896.pdf){target=_blank}
     [![Vocable Allemand](./images/abonnements/langues/Vocable_allemand_2024_12_897.jpg "Vocable Allemand, décembre 2024, n°897"){width=20%}](./images/abonnements/langues/Vocable_allemand_2024_12_897.pdf){target=_blank}
+    [![Vocable Allemand](./images/abonnements/langues/Vocable_allemand_202501_898.jpg "Vocable Allemand, janvier 2025, n°898"){width=20%}](./images/abonnements/langues/Vocable_allemand_202501_898.pdf){target=_blank}
+
 
 
     
@@ -192,7 +195,7 @@
     [![Vocable Espagnol](./images/abonnements/langues/Vocable_espagnol_2024_10_888.jpg "Vocable Espagnol, octobre 2024, n°888"){width=20%}](./images/abonnements/langues/Vocable_espagnol_2024_10_888.pdf){target=_blank}
     [![Vocable Espagnol](./images/abonnements/langues/Vocable_espagnol_2024_11_889.jpg "Vocable Espagnol, novembre 2024, n°889"){width=20%}](./images/abonnements/langues/Vocable_espagnol_2024_11_889.pdf){target=_blank}
     [![Vocable Espagnol](./images/abonnements/langues/Vocable_espagnol_2024_12_890.jpg "Vocable Espagnol, décembre 2024, n°890"){width=20%}](./images/abonnements/langues/Vocable_espagnol_2024_12_890.pdf){target=_blank}
-    
+    [![Vocable Espagnol](./images/abonnements/langues/Vocable_espagnol_202501_891.jpg "Vocable Espagnol, janvier 2025, n°891"){width=20%}](./images/abonnements/langues/Vocable_espagnol_202501_891.pdf){target=_blank}
     
 
 ??? "**Pour les enseignants**"
@@ -203,6 +206,9 @@
     [![Cahiers pédagogiques](./images/abonnements/enseignants/Cahiers_pedagogiques_fevrier_2024_591.jpg "Cahiers pédagogiques, février 2024, n°591"){width=20%}](./images/abonnements/enseignants/Cahiers_pedagogiques_fevrier_2024_591.pdf){target=_blank}
     [![Cahiers pédagogiques](./images/abonnements/enseignants/Cahiers_pedagogiques_avril_2024_592.jpg "Cahiers pédagogiques, avril 2024, n°592"){width=20%}](./images/abonnements/enseignants/Cahiers_pedagogiques_avril_2024_592.pdf){target=_blank}
     [![Cahiers pédagogiques](./images/abonnements/enseignants/Cahiers_pedagogiques_mai_2024_593.jpg "Cahiers pédagogiques, mai 2024, n°593"){width=20%}](./images/abonnements/enseignants/Cahiers_pedagogiques_mai_2024_593.pdf){target=_blank}
+    [![Cahiers pédagogiques](./images/abonnements/enseignants/Cahiers_pedagogiques_2024_09_595.jpg "Cahiers pédagogiques, septembre 2024, n°595"){width=20%}](./images/abonnements/enseignants/Cahiers_pedagogiques_2024_09_595.pdf){target=_blank}
+    [![Cahiers pédagogiques](./images/abonnements/enseignants/Cahiers_pedagogiques_2024_11_596.jpg "Cahiers pédagogiques, novembre 2024, n°596"){width=20%}](./images/abonnements/enseignants/Cahiers_pedagogiques_2024_11_596.pdf){target=_blank}
+    [![Cahiers pédagogiques](./images/abonnements/enseignants/Cahiers_pedagogiques_202501_597.jpg "Cahiers pédagogiques, janvier 2025, n°597"){width=20%}](./images/abonnements/enseignants/Cahiers_pedagogiques_202501_597.pdf){target=_blank}
 
     ??? Example "**NRP Lycée**"
     
