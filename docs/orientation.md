@@ -18,7 +18,8 @@ L'actualité de l'orientation au lycée et dans la région, les ==**sites incont
     [![**Calendrier**](./images/orientation/2024-2025_parcoursup_livret_calendrier.jpg "Parcoursup calendrier"){width=35%}](https://www.parcoursup.gouv.fr/calendrier){target=_blank} 
 
 
-???+ info "**IMMERSIONS - PORTES OUVERTES**"
+???+ info "**IMMERSIONS - PORTES OUVERTES - VISIO**"
+    [![**Visio ENSC - RENNES**](./images/orientation/2025_visio_ENSC_Rennes.jpg "Instafac"){width=35%}](https://www.ensc-rennes.fr/visioconferences-ce-samedi-18-janvier-admissions-en-classes-prepas-integrees/){target=_blank}
     [![**Réunion IUT St-Nazaire**](./images/orientation/20241211_Réunion_Parcoursup_IUT_St_Nazaire.png "Instafac"){width=35%}](https://evenium.events/soireeparcoursup){target=_blank}
     [![**Continum Brio**](./images/orientation/2025_Continum_Brio.png "Instafac"){width=55%}](https://www.univ-brest.fr/cap-avenir/fr/page/immersion-individuelle-lubo){target=_blank}
     [![**PO CIRFA**](./images/orientation/20250201_affiche_EETAAE_JPO.jpg "CIRFA PO"){width=35%}](./images/orientation/20250201_descriptif_EETAAE_JPO.pdf){target=_blank}
@@ -140,13 +141,14 @@ ___
 ### Niveau Tle
 ??? "TERMINALE"
     === "RESSOURCES"
-        - [**MODULE AVENIRS LYCEE**](https://lycee-avenirs.onisep.fr/){target=_blank} : les étapes pour construire mon avenir au lycée.
-        - [**Quelles études après le BAC**](https://www.onisep.fr/formation#apres-le-bac-les-etudes-superieures){target=_blank} : étude courtes, longues, licence, BUT, BTS, écoles spécialisée... découvrez toutes les possibilités qui s'offrent à vous.
+        - [**MODULE AVENIRS LYCEE**](https://lycee-avenirs.onisep.fr/){target=_blank} : les étapes pour construire mon avenir au lycée.(*Sources : Onisep*)
+        - [**Enseignement supérieur**](https://www.enseignementsup-recherche.gouv.fr/fr/formations-diplomes){target=_blank} : formations et diplômes. (*Sources : Ministère de l'enseignement supérieur et de la recherche*)
+        - [**Quelles études après le BAC**](https://www.onisep.fr/formation#apres-le-bac-les-etudes-superieures){target=_blank} : étude courtes, longues, licence, BUT, BTS, écoles spécialisée... découvrez toutes les possibilités qui s'offrent à vous. (*Sources : Onisep*)
         - [**Quelle école après le BAC ?**](https://www.ipesup.fr/){target=_blank} : IPESUP, préparations aux examens et concours de l’enseignement supérieur.
-        - [**Ensemble des ressources de la DGESIP**](https://services.dgesip.fr/T454/S743/ressources){target=_blank} : Direction Générale de l'Enseignement Supérieur et de l'Insertion
-        - [**Annuaire de l'enseignement supérieur en Finistère**](https://www.letudiant.fr/etudes/annuaire-enseignement-superieur/etablissement/departement-finistere.html){target=_blank} : Formations, écoles, témoignages d'étudiants...
+        - [**Ensemble des ressources de la DGESIP**](https://services.dgesip.fr/T454/S743/ressources){target=_blank} : Direction Générale de l'Enseignement Supérieur et de l'Insertion.
+        - [**Annuaire de l'enseignement supérieur en Finistère**](https://www.letudiant.fr/etudes/annuaire-enseignement-superieur/etablissement/departement-finistere.html){target=_blank} : Formations, écoles, témoignages d'étudiants... (*Sources : L'Etudiant*)
         - [**Enseignement supérieur Côtes d'Armor**](https://sup.cotesdarmor.fr/){target=_blank} : Formations, écoles, témoignages d'étudiants...
-        - [**Témoignages d'étudiants**](https://www.onisep.fr/formation/apres-le-bac-les-etudes-superieures/ma-premiere-annee-en){target=_blank} : Série web, ma première année en...
+        - [**Témoignages d'étudiants**](https://www.onisep.fr/formation/apres-le-bac-les-etudes-superieures/ma-premiere-annee-en){target=_blank} : Série web, ma première année en... (*Sources : Onisep*)
     
                         
     === "PARCOURSUP"
@@ -360,8 +362,13 @@ ___
         - [**Travailler dans le sport**](https://sport.onisep.fr/){target=_blank} : je construis mon projet dans le sport sur le site de l'**ONISEP**.
         - [**Fiches métiers**](https://www.letudiant.fr/metiers/secteur/sport.html){target=_blank} : site de **L'Etudiant**.
         - [**Fiches métiers**](https://www.studyrama.com/formations/fiches-metiers/sport){target=_blank} : site **Studyrama**.
-        - [**IFEPSA**](https://ifepsa.uco.fr/fr){target=_blank} : Institut de Formation en Education Physique et en Sport (*Les Ponts de Cé - 49*) 
+        - [**IFEPSA**](https://ifepsa.uco.fr/fr){target=_blank} : Institut de Formation en Education Physique et en Sport (*Les Ponts de Cé - 49*)
 
+### Sciences - Technologie
+??? "Liens utiles"
+    === "PREPAS SCIENTIFIQUES"
+        - [**Prépas scientifiques**](https://www.onisep.fr/formation/apres-le-bac-les-etudes-superieures/les-principales-filieres-d-etudes-superieures/les-cpge-classes-preparatoires-aux-grandes-ecoles/les-prepas-scientifiques){target=_blank} (*Sources : ONISEP*)
+    === "SANTE"
 ___ 
 ## FORMATIONS
 ___ 
@@ -409,7 +416,9 @@ ___
 ### CPEG
 ??? "Liens utiles"
     === "PRESENTATION"
-        - [**La PREPA**](https://www.onisep.fr/formation/apres-le-bac-les-etudes-superieures/les-principales-filieres-d-etudes-superieures/les-cpge-classes-preparatoires-aux-grandes-ecoles/les-etudes-en-classes-preparatoires){target=_blank} : Comment ça marche ? Pourquoi faire une classe préparatoire ? Les différentes classes préparatoires. (*Sources : Onisep*)
+        - [**Les études en classe PREPA**](https://www.onisep.fr/formation/apres-le-bac-les-etudes-superieures/les-principales-filieres-d-etudes-superieures/les-cpge-classes-preparatoires-aux-grandes-ecoles/les-etudes-en-classes-preparatoires){target=_blank} : Comment ça marche ? Pourquoi faire une classe préparatoire ? Les différentes classes préparatoires. (*Sources : Onisep*)
+        - [**Classes prépas - CPEG**](https://www.letudiant.fr/etudes/classes-prepa.html){target=_blank} : les différents types de classes prépas. Classement des écoles prépas. (*Sources : L'Etudiant*)
+        - [**Classes prépas - CPEG**](https://www.enseignementsup-recherche.gouv.fr/fr/classes-preparatoires-aux-grandes-ecoles-cpge-46496){target=_blank} : les différents types de classes prépas. Classement des écoles prépas. (*Sources : L'Etudiant*)
         - [**Lycée La Pérouse-Kérichen**](https://lycee-la-perouse-kerichen-brest.ac-rennes.fr/spip.php?rubrique273){target=_blank} : Pourquoi faire une Prépa ?(*Brest*)
     === "ECONOMIQUE ET SOCIALE"
         - [**Quelle Prépa choisir ?**](https://www.onisep.fr/formation/apres-le-bac-les-etudes-superieures/les-principales-filieres-d-etudes-superieures/les-cpge-classes-preparatoires-aux-grandes-ecoles/les-prepas-economiques-et-commerciales){target=_blank} : ECG (Economique et commerciale générale) - ECT (Economique et Commerciale Technologique) - D1 (Droit, économie, management)- D2 (Economie et gestion). (*Sources : Onisep*)
@@ -489,16 +498,9 @@ ___
         - [**UBO**](https://nouveau.univ-brest.fr/fr){target=_blank} : Université de Bretagne Occidentale.
         - [**UBS**](https://www.univ-ubs.fr/fr/index.html){target=_blank} : Université Bretagne Sud.
         - [**UCO**](https://www.uco.fr/fr){target=_blank} : Université Catholique de l'Ouest. 
-            
-            <u>*Licences professionnelles à découvrir :*</u>
-            
-            - [**Sciences  et technologies - Ingénierie des produits et process - Cosmétiques/Alimentation Santé**](./pdf/UCO_bretagne_nord_Fiche_Formation_Sciences_et_Technologies.pdf){target=_blank} 
-                
-            - [**Bio-industries et Biotechnologies Plantes, Algues & Nutrition**](./pdf/UCO_bretagne_nord_Fiche_Formation_LP_Bio-Industries_2023-2024.pdf){target=_blank}
-
         - [**UTBM**](https://www.utbm.fr/){target=_blank} : Université de Technologie de Belfort-Montbéliard.
         - [**UTC**](https://www.utc.fr/){target=_blank} : Université de Technologie de Compiègne.
-    === "JOURNEES DECOUVERTES"
+ 
         
 
 ![Schéma des études supérieures](./images/orientation/Schema_etudes_superieures_2023-2024.png "Schema_etudes"){width=90%}  
