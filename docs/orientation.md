@@ -162,7 +162,7 @@ ___
         - [**Catalogue des PO - 2024/2025 Académie de Rennes**](./images/orientation/2025_JPO_superieur_superieur_Acad_Rennes.pdf){target=_blank}
         - [**Printemps de l'orientation**](https://www.education.gouv.fr/reussir-au-lycee/les-semaines-de-l-orientation-327179/){target=_blank}
         
-        ==*ATTENTION : Certaines dates ou informations présentées ci-dessous peuvent ne pas être à jour.*==
+        ==*ATTENTION : Certaines dates peuvent ne pas être à jour. N'hésitez pas à vérifier directement sur les sites des établissements.*==
 
 
         ???+ info "BTS"
@@ -323,7 +323,7 @@ ___
         - A découvrir au **Lycée Notre-Dame de Guingamp** : [**BTS Métiers de l'eau**](https://www.notredameguingamp.fr/superieur/bts-me-metiers-de-leau/){target=_blank} et [**BUT MA ME - Maintenance Avancée Parcours Métiers de l'eau**](https://www.notredameguingamp.fr/bachelor-maintenance-avancee-parcours-metiers-de-leau/){target=_blank}
 
 ___ 
-### Enseignement - Recherche
+### Enseignement
 ??? "Liens utiles"
     === "ENSEIGNEMENT"
         - [**Devenir enseignant - MEN**](https://www.devenirenseignant.gouv.fr/){target=_blank} : Comment devenir enseignant, se répérer dans les concours des premier et second degrés ? Découvrir le métier et les voies qui y mènent sur le site du Ministère de l'Education Nationale et de la Jeunesse.
@@ -366,9 +366,22 @@ ___
 
 ### Sciences - Technologie
 ??? "Liens utiles"
+    === "METIERS DANS LE SECTEUR DES SCIENCES"
+        - [**Imagine ton futur - Métiers dans le domaine des sciences**](https://www.imaginetonfutur.com/les-metiers/domaine/sciences.html){target=_blank}
+        - [**CEA - Découvrir les métiers scientifiques**](https://www.cea.fr/comprendre/jeunes/Pages/metiers.aspx){target=_blank}
+        - [**Les métiers et l'emploi dans la recherche**](https://www.onisep.fr/metier/decouvrir-le-monde-professionnel/recherche/les-metiers-et-l-emploi-dans-la-recherche){target=_blank} (*Sources : Onisep*)
+        - [**CIDJ - Les métiers scientifiques**](https://www.cidj.com/s-orienter/metiers/sciences+physiques+-+maths+-+data){target=_blank} (*Sources : CIDJ*)
     === "PREPAS SCIENTIFIQUES"
-        - [**Prépas scientifiques**](https://www.onisep.fr/formation/apres-le-bac-les-etudes-superieures/les-principales-filieres-d-etudes-superieures/les-cpge-classes-preparatoires-aux-grandes-ecoles/les-prepas-scientifiques){target=_blank} (*Sources : ONISEP*)
-    === "SANTE"
+        - [**Prépas scientifiques**](https://www.onisep.fr/formation/apres-le-bac-les-etudes-superieures/les-principales-filieres-d-etudes-superieures/les-cpge-classes-preparatoires-aux-grandes-ecoles/les-prepas-scientifiques){target=_blank} (*Sources : Onisep*)
+    === "CPES"
+        - [**CPES ou CPES : Classe ou cycle... ?**](https://www.onisep.fr/formation/apres-le-bac-les-etudes-superieures/les-principales-filieres-d-etudes-superieures/les-cpes-classes-preparatoires-aux-etudes-superieures/les-cpes-classes-preparatoires-aux-etudes-superieures){target=_blank} (*Sources : Onisep*)
+        - [**CPES - Cycle pluridisciplinaire d'études supérieures**](https://www.enseignementsup-recherche.gouv.fr/fr/le-cycle-pluridisciplinaire-d-etudes-superieures-84197){target=_blank} (*Sources : Ministère de l'enseignement supérieur et de la recherche*)
+    === "LICENCES"
+        - [**Licences de sciences**](https://www.onisep.fr/formation/les-principaux-domaines-de-formation/les-licences-de-sciences){target=_blank} (*Sources : ONISEP*)
+        - [**Licences de sciences et technologies**](https://www.onisep.fr/formation/les-principaux-domaines-de-formation/les-licences-de-sciences/la-licence-sciences-et-technologies){target=_blank} (*Sources : ONISEP*)
+
+        
+
 ___ 
 ## FORMATIONS
 ___ 

@@ -90,11 +90,11 @@
    
 ??? "**Kiosque du mois** :newspaper:"
     
-    [![Aide-soignante](./images/abonnements/12_decembre_2024/Aide-soignante_2024_12_262.jpg "Aide-soignante, décembre 2024, n°262"){width=20%}](./images/abonnements/12_decembre_2024/Aide-soignante_2024_12_262.pdf){target=_blank}
+    [![Aide-soignante](./images/abonnements/01_janvier_2025/Aide-soignante_202501_263.jpg "Aide-soignante, janvier 2025, n°263"){width=20%}](./images/abonnements/01_janvier_2025/Aide-soignante_202501_263.pdf){target=_blank}
     [![Alternatives Economiques](./images/abonnements/01_janvier_2025/Alternatives_economiques_202501_454.jpg "Alternatives Economiques, janvier 2025, n°454"){width=20%}](./images/abonnements/01_janvier_2025/Alternatives_economiques_202501_454.pdf){target=_blank}
     [![Ca m'intéresse](./images/abonnements/01_janvier_2025/Ca_m_interesse_202501_527.jpg "Ca m'intéresse, janvier 2025, n°527"){width=20%}](./images/abonnements/01_janvier_2025/Ca_m_interesse_202501_527.pdf){target=_blank}
     [![Capital](./images/abonnements/12_decembre_2024/Capital_2024_12_399.jpg "Capital, décembre 2024, n°399"){width=20%}](./images/abonnements/12_decembre_2024/Capital_2024_12_399.pdf){target=_blank}
-    [![Documentation photographique](./images/abonnements/11_novembre_2024/Documentation_photographique_2024_11_8162.jpg "Documentation photographique, novembre 2024, n°8161"){width=20%}](./images/abonnements/11_novembre_2024/Documentation_photographique_2024_11_8162.pdf){target=_blank}
+    [![Documentation photographique](./images/abonnements/01_janvier_2025/Documentation_photographique_202501_8163.jpg "Documentation photographique, janvier 2025, n°8163"){width=20%}](./images/abonnements/01_janvier_2025/Documentation_photographique_202501_8163.pdf){target=_blank}
     [![Journal_animation](./images/abonnements/11_novembre_2024/Journal_animation_2024_11_248.jpg "Journal de l'animation, novembre 2024, n°248"){width=20%}](./images/abonnements/11_novembre_2024/Journal_animation_2024_11_248.pdf){target=_blank}
     [![Lire magazine](./images/abonnements/12_decembre_2024/Lire_magazine_2024_12_536.jpg "Lire magazine, décembre 2024, n°536"){width=20%}](./images/abonnements/12_decembre_2024/Lire_magazine_2024_12_536.pdf){target=_blank}
     [![Philosophie magazine](./images/abonnements/12_decembre_2024/Philosophie_magazine_2024_12_185.jpg "Philosophie magazine, décembre 2024, n°185"){width=20%}](./images/abonnements/12_decembre_2024/Philosophie_magazine_2024_12_185.pdf){target=_blank}
@@ -111,7 +111,7 @@
     [![Sciences humaines](./images/abonnements/12_decembre_2024/Sciences_humaines_2024_12_374.jpg "Sciences humaines, décembre 2024, n°374"){width=20%}](./images/abonnements/12_decembre_2024/Sciences_humaines_2024_12_374.pdf){target=_blank}
     [![Sciences humaines - grands dossiers](./images/abonnements/12_decembre_2024/Sciences_humaines_les_grands_dossiers_2024_12_77.jpg "Sciences humaines - Les grands dossiers, décembre 2024, n°77HS"){width=20%}](./images/abonnements/12_decembre_2024/Sciences_humaines_les_grands_dossiers_2024_12_77.pdf){target=_blank}
     [![Sciences Ouest](./images/abonnements/01_janvier_2025/Sciences_ouest_202501_425.jpg "Sciences ouest, janvier 2024, n°425"){width=20%}](./images/abonnements/01_janvier_2025/Sciences_ouest_202501_425.pdf){target=_blank}
-    [![Sport et vie](./images/abonnements/11_novembre_2024/Sport_et_vie_2024_11_207.jpg "Sport et Vie, novembre-décembre 2024, n°207"){width=20%}](./images/abonnements/11_novembre_2024/Sport_et_vie_2024_11_207.pdf){target=_blank}
+    [![Sport et vie](./images/abonnements/01_janvier_2025/Sport_et_vie_202501_208.jpg "Sport et Vie, janvier 2025, n°208"){width=20%}](./images/abonnements/01_janvier_2025/Sport_et_vie_202501_208.pdf){target=_blank}
     [![Sport et vie](./images/abonnements/12_decembre_2024/Sport_et_vie_2024_12_61HS.jpg "Sport et Vie, décembre 2024, n°61HS"){width=20%}](./images/abonnements/12_decembre_2024/Sport_et_vie_2024_12_61HS.pdf){target=_blank}
     [![Tangente](./images/abonnements/11_novembre_2024/Tangente_2024_11_220.jpg "Tangente, novembre 2024, n°220"){width=20%}](./images/abonnements/11_novembre_2024/Tangente_2024_11_220.pdf){target=_blank}
     [![Tangente](./images/abonnements/12_decembre_2024/Tangente_2024_12_92HS.jpg "Tangente, décembre 2024, n°92HS"){width=20%}](./images/abonnements/12_decembre_2024/Tangente_2024_12_92HS.pdf){target=_blank}
