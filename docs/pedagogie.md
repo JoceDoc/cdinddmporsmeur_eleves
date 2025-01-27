@@ -20,6 +20,7 @@ ___
 ## Actualité des disciplines
 
 [![**Olympiades mathématiques"**](./images/pedagogie/2025_olympiades_maths_affiche.jpg "Olympiades des mathématiques"){width=45%}](https://www.education.gouv.fr/les-olympiades-nationales-de-mathematiques-5732){target=_blank}
+[![**80 ans de la libération d'Auschwitz"**](./images/pedagogie/80ans_liberation_auschwitz.jpg "Auschwitz, 80 ans de la libération"){width=45%}](https://www.ina.fr/ina-eclaire-actu/27-janvier-1945-liberation-camp-de-concentration-auschwitz-birkenau-armee-rouge){target=_blank}
 
 ## Méthodologie pour tous
 
