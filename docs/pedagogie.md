@@ -7,8 +7,6 @@
 
     [![**Les Fondamentaux"**](./images/fondamentaux.jpg "Page d'accueil Les Fondamentaux"){width=85%}](https://lesfondamentaux.reseau-canope.fr/){target=_blank}
 
-    [![**Lire l'actu**](./images/editeurs/lirelactu.jpg "Page d'accueil lirelactu"){width=80%}](http://lirelactu.fr/){target=_blank} 
-    
 
 - ==**Conseils et tutoriels**== : pour s'organiser dans son travail, améliorer sa rédaction, chercher des informations et présenter le résultat de ses recherches...
 - ==**Programmes officiels et ressources utiles**== : pour les disciplines d'enseignement général, les enseignements de spécialités (LGT) ou matières professionnelles (LP).
@@ -19,8 +17,8 @@ ___
 
 ## Actualité des disciplines
 
-[![**Olympiades mathématiques"**](./images/pedagogie/2025_olympiades_maths_affiche.jpg "Olympiades des mathématiques"){width=45%}](https://www.education.gouv.fr/les-olympiades-nationales-de-mathematiques-5732){target=_blank}
-[![**80 ans de la libération d'Auschwitz"**](./images/pedagogie/80ans_liberation_auschwitz.jpg "Auschwitz, 80 ans de la libération"){width=45%}](https://www.ina.fr/ina-eclaire-actu/27-janvier-1945-liberation-camp-de-concentration-auschwitz-birkenau-armee-rouge){target=_blank}
+???+ "**Semaine de la presse et des médias** ==<u>**24 au 29 mars 2025**</u>=="
+    [![Affiche de présentation](./images/actualites/SPME2025_affiche.jpg "Affiche"){width=70% align=left}](https://www.clemi.fr/actions-educatives/semaine-de-la-presse-et-des-medias){target=_blank}
 
 ## Méthodologie pour tous
 
@@ -110,8 +108,6 @@ ___
         * [**Ouest-France**](https://www.ouest-france.fr/){target=_blank}
         
     ???+ "**Autres sites**"
-        [![**Lire l'actu**](./images/editeurs/lirelactu.jpg "Page d'accueil lirelactu"){width=20%}](http://lirelactu.fr/){target=_blank}
-
         * [**AFP**](https://www.afp.com/fr){target=_blank}
         * [**France24**](https://www.france24.com/fr/){target=_blank}
         * [**FranceInfo**](https://mobile.francetvinfo.fr/){target=_blank}
@@ -288,6 +284,9 @@ ___
     === "SITES INSTITUTIONNELS"
         - [**Service public**](https://www.vie-publique.fr/fiches){target=_blank} : fiches thématiques pour comprendre le fonctionnement des principales institutions.
         - [**Site du gouvernement**](https://www.gouvernement.fr){target=_blank} : composition, actualité du gouvernement français.
+        - [**Commémoration des 80 ans de la libération d'Auschwitz**](https://www.ina.fr/ina-eclaire-actu/27-janvier-1945-liberation-camp-de-concentration-auschwitz-birkenau-armee-rouge){target=_blank} (*Sources : INA*)
+        
+        [![**80 ans de la libération d'Auschwitz"**](./images/pedagogie/80ans_liberation_auschwitz.jpg "Auschwitz, 80 ans de la libération"){width=25%}](https://www.ina.fr/ina-eclaire-actu/27-janvier-1945-liberation-camp-de-concentration-auschwitz-birkenau-armee-rouge){target=_blank}
     === "CARTES"
         - [**Le dessous des cartes**](https://www.arte.tv/fr/videos/RC-014036/le-dessous-des-cartes/){target=_blank} : le magazine géopolitique d'Arte, créé par Jean-Christophe Victor et présenté par Émilie Aubry pour comprendre les enjeux de notre monde contemporain au moyen de cartes géographiques. Diffusée à l'antenne tous les samedis à 19h30, l'émission est disponible en replay et en VOD et DVD.
     === "GEOPOLITIQUE"
@@ -350,6 +349,8 @@ ___
     Sur le site [**Eduscol**](https://eduscol.education.fr/1723/programmes-et-ressources-en-mathematiques-voie-gt){target=_blank}
 
 ??? "Ressources" 
+    [![**Olympiades mathématiques"**](./images/pedagogie/2025_olympiades_maths_affiche.jpg "Olympiades des mathématiques"){width=35%}](https://www.education.gouv.fr/les-olympiades-nationales-de-mathematiques-5732){target=_blank}
+    
     - [**Spécialité Maths**](http://specialite-maths.fr/){target=_blank}
     - [**M@th_et_tiques**](https://www.maths-et-tiques.fr/index.php/cours-maths){target=_blank} : cours et exercices de maths par niveau du collège au lycée.
     - [**Ma@ths en-vie**](https://www.mathsenvie.fr/?p=10530){target=_blank} : les mathématiques du quotidien. Activités de la maternelle au lycée...
@@ -383,8 +384,6 @@ ___
 ___
 #### Physique Chimie
 
-???+ "**2023-2024 : Année de la physique**"
-    [![**logo**](./images/pedagogie/logo_annee_physique.png "Page d'accueil année de la physique"){width=45%}](https://anneedelaphysique.cnrs.fr/){target=_blank} 
 ??? "Programmes"
     Sur le site [**Eduscol**](https://eduscol.education.fr/1648/programmes-et-ressources-en-physique-chimie-voie-gt){target=_blank}
 

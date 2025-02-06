@@ -4,41 +4,15 @@
     [![logo ECAM](./images/logo_ecam.jpg "Actualités Lycée"){width=90% align=right}](https://www.ecmorlaix.fr/actualites/){target=_blank}
 
 ## Rendez-vous
-???+ "**CAFE PHILO** ==<u>**RDV mardi 28/01/2025**</u>=="
-    ![Bravez l'interdit](./images/actualites/20250128_affiche_café_philo_06.png "café philo"){width=90% align=left}
+???+ "**CAFE PHILO** ==<u>**RDV mardi 25/02/2025**</u>=="
+    ![Art_et_artistes](./images/expositions/20250225_affiche_café_philo.png "café philo"){width=90% align=left}
 
 ## Expositions et projets
-???+ "**Exposition sur le voyage en Chine** ==<u>**Décembre 2024**</u>=="
-    ![Affiche de présentation](./images/actualites/20241205_Affiche_exposition_Chine_01.png "Affiche"){width=90% align=left}
-
-    ==***Explorez la Chine à travers les yeux de nos élèves !***==
-
-    Du 5 au 18 novembre 2024, les élèves de Seconde et Terminale LV2 chinois ont découvert la richesse culturelle et historique de la Chine lors d’un voyage inoubliable.
-
-    🔹 <u>**À Jinan**</u>
-    
-    - Immersion dans une école chinoise
-
-    - Expériences de vie en famille d'accueil
-    
-    🔹 <u>**À Pékin**</u>
-    
-    - Visite des lieux emblématiques : Cité Interdite, Grande Muraille, Temple du Ciel...
-
-    - Découverte de la culture et de la gastronomie locales
-
-    Participez à notre quiz interactif sur Kahoot ! Scannez le QR code sur place pour accéder au quiz pour testez vos connaissances sur la Chine en répondant aux questions !
-
-    🎁Bonus : Répondez correctement à au moins 50% des questions pour avoir la chance de remporter une petite récompense.
-
-    📅 Important : La remise des cadeaux se fera le 20 décembre 2024 dans l'atrium.
-
-    📸 Laissez-vous transporter par les photos qui racontent leurs découvertes, leurs aventures et leurs souvenirs !
-
-    Nous vous attendons nombreux pour célébrer cette belle aventure culturelle ! 
+???+ "**Semaine de la presse et des médias** ==<u>**24 au 29 mars 2025**</u>=="
+    [![Affiche de présentation](./images/actualites/SPME2025_affiche.jpg "Affiche"){width=70% align=left}](https://www.clemi.fr/actions-educatives/semaine-de-la-presse-et-des-medias){target=_blank}
 
   
-??? "**Villes pour la vie, villes contre la peine de mort - le 29/11/2024**"
+??? "**Villes pour la vie, villes contre la peine de mort - ==<u>29/11/2024</u>==**"
     
     ==**Sacco et Vanzetti**==
 
@@ -97,8 +71,8 @@
     [![Documentation photographique](./images/abonnements/01_janvier_2025/Documentation_photographique_202501_8163.jpg "Documentation photographique, janvier 2025, n°8163"){width=20%}](./images/abonnements/01_janvier_2025/Documentation_photographique_202501_8163.pdf){target=_blank}
     [![Journal_animation](./images/abonnements/11_novembre_2024/Journal_animation_2024_11_248.jpg "Journal de l'animation, novembre 2024, n°248"){width=20%}](./images/abonnements/11_novembre_2024/Journal_animation_2024_11_248.pdf){target=_blank}
     [![Lire magazine](./images/abonnements/12_decembre_2024/Lire_magazine_2024_12_536.jpg "Lire magazine, décembre 2024, n°536"){width=20%}](./images/abonnements/12_decembre_2024/Lire_magazine_2024_12_536.pdf){target=_blank}
-    [![Philosophie magazine](./images/abonnements/12_decembre_2024/Philosophie_magazine_2024_12_185.jpg "Philosophie magazine, décembre 2024, n°185"){width=20%}](./images/abonnements/12_decembre_2024/Philosophie_magazine_2024_12_185.pdf){target=_blank}
-    [![Points de vente](./images/abonnements/12_decembre_2024/Points_de_vente_2024_12_1332.jpg "Points de vente, décembre 2024, n°1332"){width=20%}](./images/abonnements/12_decembre_2024/Points_de_vente_2024_12_1332.pdf){target=_blank}
+    [![Philosophie magazine](./images/abonnements/12_decembre_2024/Philosophie_magazine_2024_12_185.jpg "Philosophie magazine, décembre 2024 - janvier 2025, n°185"){width=20%}](./images/abonnements/12_decembre_2024/Philosophie_magazine_2024_12_185.pdf){target=_blank}
+    [![Points de vente](./images/abonnements/01_janvier_2025/Points_de_vente_202501_1333.jpg "Points de vente, janvier-février 2025, n°1333"){width=20%}](./images/abonnements/01_janvier_2025/Points_de_vente_202501_1333.pdf){target=_blank}
     [![Que choisir](./images/abonnements/01_janvier_2025/Que_choisir_202501_642.jpg "Que choisir, janvier 2025, n°642"){width=20%}](./images/abonnements/01_janvier_2025/Que_choisir_202501_642.pdf){target=_blank}
     [![Que choisir](./images/abonnements/01_janvier_2025/Que_choisir_202501_177HS.jpg "Que choisir, janvier 2025, n°177HS"){width=20%}](./images/abonnements/01_janvier_2025/Que_choisir_202501_177HS.pdf){target=_blank}
     [![Que choisir santé](./images/abonnements/01_janvier_2025/Que_choisir_sante_202501_200.jpg "Que choisir santé, janvier 2024, n°200"){width=20%}](./images/abonnements/01_janvier_2025/Que_choisir_sante_202501_200.pdf){target=_blank}
