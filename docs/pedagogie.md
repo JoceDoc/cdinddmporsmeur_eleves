@@ -392,7 +392,7 @@ ___
 ??? "Ressources"
     === "SITES GENERALISTES"
         - [**KEZAKO ?**](https://kezako.unisciel.fr/category/episodes-video-de-la-serie/){target=_blank} : questions de science de la série Kézako pour apprendre en s'amusant.
-        - [**Méthode physique**](https://www.methodephysique.fr/){target=_blank} : cours, exercices, vid2os, conseils méthodologiques en physique-chimie.
+        - [**Méthode physique**](https://www.methodephysique.fr/){target=_blank} : cours, exercices, vidéos, conseils méthodologiques en physique-chimie.
         - [**WebPhysique**](https://webphysique.fr/){target=_blank} : cours, exercices pour apprendre et découvrir les sciences physiques au lycée.
     === "CHIMIE"
         - [**CultureSciences - Chimie**](https://culturesciences.chimie.ens.fr/){target=_blank}
