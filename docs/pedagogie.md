@@ -75,7 +75,10 @@ ___
     - [**Musiques libres de droits**](https://www.auboutdufil.com/){target=_blank} à télécharger.
 
 ??? info "Logiciels and Co"
-    - [**EXCEL**](https://www.excel-pratique.com/){target=_blank} : cours en ligne.
+    - [**CANVA**](https://www.canva.com/){target=_blank}
+    - [**EXCEL**](https://www.excel-pratique.com/){target=_blank} (*Cours en ligne*)
+    - [**GENIALLY**](https://genially.com/fr/){target=_blank}
+    - [**PREZI**](https://prezi.com/fr/){target=_blank}
 
 ___
 ## EMI Médias et Information
@@ -143,7 +146,6 @@ ___
 ??? info "**Concours National de la résistance**"
     La classe de TG2 participent au [**Concours National de la Résistance et de la Déportation**](https://www.reseau-canope.fr/
     cnrd/){target=_blank}. Objectifs et modalités du concours sur le site officiel.
-
 
 
 ___
@@ -388,12 +390,20 @@ ___
     Sur le site [**Eduscol**](https://eduscol.education.fr/1648/programmes-et-ressources-en-physique-chimie-voie-gt){target=_blank}
 
 ??? "Ressources"
-    - [**Méthode physique**](https://www.methodephysique.fr/){target=_blank} : cours, exercices, viédos, conseils méthodologiques.
-    - [**CultureSciences - Chimie**](https://culturesciences.chimie.ens.fr/){target=_blank}
-    - [**Chimie générale**](https://fr.khanacademy.org/science/chemistry){target=_blank} : sur le site Kahn Academy.
-    - [**WebPhysique**](https://webphysique.fr/){target=_blank} : Cours, exercices pour apprendre et découvrir les sciences physiques au lycée.
-       
-
+    === "SITES GENERALISTES"
+        - [**KEZAKO ?**](https://kezako.unisciel.fr/category/episodes-video-de-la-serie/){target=_blank} : questions de science de la série Kézako pour apprendre en s'amusant.
+        - [**Méthode physique**](https://www.methodephysique.fr/){target=_blank} : cours, exercices, vid2os, conseils méthodologiques en physique-chimie.
+        - [**WebPhysique**](https://webphysique.fr/){target=_blank} : cours, exercices pour apprendre et découvrir les sciences physiques au lycée.
+    === "CHIMIE"
+        - [**CultureSciences - Chimie**](https://culturesciences.chimie.ens.fr/){target=_blank}
+        - [**Kahn Academy - Chimie**](https://fr.khanacademy.org/science/chemistry){target=_blank}
+        - [**FUTURA - Chimie**](https://www.futura-sciences.com/sciences/matiere/chimie/){target=_blank}
+    === "PHYSIQUE"
+        - [**CultureSciences - Physique**](https://culturesciencesphysique.ens-lyon.fr/){target=_blank}
+        - [**Kahn Academy - Physique**](https://fr.khanacademy.org/science/physics){target=_blank}
+        - [**FUTURA - Physique**](https://www.futura-sciences.com/sciences/matiere/physique/){target=_blank}
+        - [**Physique à main levée**](https://phymain.unisciel.fr/){target=_blank} : 300 expériences de physique
+        
 ___
 #### SES
 
