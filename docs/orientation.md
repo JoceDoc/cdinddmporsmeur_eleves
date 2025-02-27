@@ -19,10 +19,9 @@ L'actualité de l'orientation au lycée et dans la région, les ==**sites incont
 
 
 ???+ info "**IMMERSIONS - PORTES OUVERTES - VISIO**"
-    [![**Visio ENSC - RENNES**](./images/orientation/2025_visio_ENSC_Rennes.jpg "Instafac"){width=35%}](https://www.ensc-rennes.fr/visioconferences-ce-samedi-18-janvier-admissions-en-classes-prepas-integrees/){target=_blank}
-    [![**Réunion IUT St-Nazaire**](./images/orientation/20241211_Réunion_Parcoursup_IUT_St_Nazaire.png "Instafac"){width=35%}](https://evenium.events/soireeparcoursup){target=_blank}
-    [![**Continum Brio**](./images/orientation/2025_Continum_Brio.png "Instafac"){width=55%}](https://www.univ-brest.fr/cap-avenir/fr/page/immersion-individuelle-lubo){target=_blank}
-    [![**PO CIRFA**](./images/orientation/20250201_affiche_EETAAE_JPO.jpg "CIRFA PO"){width=35%}](./images/orientation/20250201_descriptif_EETAAE_JPO.pdf){target=_blank}
+    ![**JOB dating**](./images/orientation/2025_Jobdating_NDDM.jpg "JOB Dating"){width=35%}
+    [![**Continum Brio**](./images/orientation/202503_Affiche_INSTAFAC.jpg "Instafac"){width=35%}](https://www.univ-brest.fr/cap-avenir/fr/page/immersion-individuelle-lubo){target=_blank}
+     [![**UBO**](./images/orientation/202503_UBO_speed_searching.jpg "Inscription_SUP_Javouhey"){width=35%}](https://www.univ-brest.fr/cap-avenir/fr/actualite/speed-searching-10-minutes-pour-decouvrir-la-recherche){target=_blank}
     [![**Javouhey**](./images/orientation/2024-2025_Javouhey_SUP_inscriptions.jpg "Inscription_SUP_Javouhey"){width=55%}](https://www.javouhey-brest.fr/le-sup/){target=_blank}
 
     
@@ -48,9 +47,9 @@ ___
     === "GUIDES"
         Tous les [**guides IDEO**](https://ideo.bretagne.bzh/publications){target=_blank} pour l'aide à l'orientation.
     
-        -[![**Guide "Que faire après la 3e ?"**](./images/orientation/IDEO_2023_que_faire_après_la_3e.jpg "Que faire après la 3e"){width=20%}](./images/orientation/IDEO_2023_que_faire_après_la_3e.pdf){target=_blank}
-        -[![**Guide "Que faire après le BAC ?"**](./images/orientation/IDEO_2023_que_faire_après_le_bac.jpg "Que faire après le BAC"){width=20%}](./images/orientation/IDEO_2023_que_faire_après_le_bac.pdf){target=_blank}
-        -[![**Guide Entrer dans le SUP 2023**](./images/orientation/Guide_entrer_dans_le_SUP_2023.jpg "Entrer dans le SUP 2023"){width=20%}](./images/orientation/Guide_entrer_dans_le_SUP_2023.pdf){target=_blank}
+        -[![**Guide "Que faire après la 3e ?"**](./images/orientation/2024-2025_Que_faire_après_la_3e.jpg "Que faire après la 3e"){width=20%}](./images/orientation/2024-2025_Que_faire_après_la_3e.pdf){target=_blank}
+        -[![**Guide "Que faire après le BAC ?"**](./images/orientation/2024-2025_Guide_IDEO_Apres_Bac.jpg "Que faire après le BAC"){width=20%}](./images/orientation/2024-2025_Guide_IDEO_Apres_Bac.pdf){target=_blank}
+       
     === "QUIZ"
         - [**QUIZ de l'ONISEP**](https://www.onisep.fr/decouvrir-les-metiers/les-quiz-de-l-onisep/){target=_blank} :
 
@@ -80,9 +79,7 @@ ___
         - [**Chambre des métiers et de l'artisanat**](https://www.artisanat.fr/){target=_blank}
         - [**IBEP-Morlaix**](https://www.ibepformation.fr/formation/formation-adulte/morlaix/){target=_blank} : toutes les formations professionnelles sur Morlaix.
         - [**ISFFEL**](https://www.isffel.fr/){target=_blank} : chercher sa formation en alternance sur le site de l'Institut Supérieur de Formation. 
-        - [**Les compagnons du devoir**](https://www.compagnons-du-devoir.com/){target=_blank} : journées portes ouvertes les ==**20-21 janvier et 23 mars 2024**==.
-        [![**Compagnons du devoir**](./images/orientation/Flyer_jpo_compagnons.jpg "Flyers_jpo"){width=50%}](https://www.compagnons-du-devoir.com/){target=_blank}
-        [![**FOROMAP**](./images/orientation/2024_Foromap_affiche.jpg "affiche_foromap"){width=25%}](https://foromap29.fr/){target=_blank}
+        - [**Les compagnons du devoir**](https://www.compagnons-du-devoir.com/){target=_blank}
     === "VIE ETUDIANTE"
         - [==**Guide de la vie étudiante - 2023**==](https://www.enseignementsup-recherche.gouv.fr/fr/guide-etudiant-2023){target=_blank}
         - [**Vie étudiante : Infos, services, FAQ**](https://www.etudiant.gouv.fr/fr){target=_blank}
@@ -256,10 +253,9 @@ ___
         - [**Marine Nationale**](https://www.lamarinerecrute.fr/){target=_blank} : La marine recrute, rejoignez l’équipage...
         - [**ENSM**](https://www.supmaritime.fr/){target=_blank} : Ecole Nationale Supérieure Maritime (Le Havre - Marseille - Nantes - Saint-Malo).
         
-        [![Forum_des _armées](./images/orientation/2024_AAE-1.jpg "Affiche"){width=25%}](https://devenir-aviateur.fr/){target=_blank}
+        [![Forum_des _armées](./images/orientation/2024_AAE-1.jpg "Forum des armées"){width=25%}](https://devenir-aviateur.fr/){target=_blank}
         [![Recrutement_EETAAE](./images/orientation/EETAAE_recrutement_2024.jpg "Affiche"){width=40%}](https://eetaa722.fr/){target=_blank}
-        [![Forum_Métiers_aéronautique](./images/orientation/Forum_metiers_aeronautique_BAN_Landivisiau_20230331.jpg "Affiche"){width=25%}](https://www.eventbrite.fr/e/billets-forum-des-metiers-de-laeronautique-navale-438995967757){target=_blank}
-        [![**AIR actualités"**](./images/orientation/20241101_AirActu.jpg "Air actualités, novembre 2024"){width=25%}](./images/orientation/20241101_AirActu.pdf){target=_blank}
+        [![**AIR actualités"**](./images/orientation/202502_AirActu.jpg "Air actualités, février 2025"){width=25%}](./images/orientation/202502_AirActu.pdf){target=_blank}
         [![**EFSOAA"**](./images/orientation/brochure-efsoaa-page-001.jpg "EFSOAA"){width=25%}](./pdf/brochure-efsoaa.pdf){target=_blank}
     === "SECURITE"
         - [**Devenir gendarme**](https://www.devenir-gendarme.fr/){target=_blank}
@@ -267,8 +263,7 @@ ___
     === "CONCOURS"
         [**Concours des Ecoles Militaires de Santé Lyon-Bron**](https://www.emslb.defense.gouv.fr/nous-rejoindre-concours){target=_blank} 
         
-        [**Modalités d'inscription sur Cyclades**](./images/orientation/ESA_PJ_01_Fiche_conditions_acces_concours_2024.pdf "Médecin militaire").
-        
+              
         [![**Concours Médecin militaire**](./images/orientation/ESA_Fiche_Medecin_OSC_Page_1.jpg "Médecin militaire_1"){width=25%}](./images/orientation/ESA_Fiche_Medecin_militaire.pdf){target=_blank}
         [![**Concours pharmacien militaire**](./images/orientation/ESA_Fiche_Pharmacien_EMSLB_3_Page_1.jpg "Pharmacien militaire_"){width=25%}](./images/orientation/ESA_Fiche_Pharmacien_militaire.pdf){target=_blank}
 
@@ -485,19 +480,16 @@ ___
         **100 FEMMES - 100 METIERS ingénieure demain !** 
         Site de l'[**ENSTA Bretagne**](https://www.ensta-bretagne.fr/fr/100-femmes-100-metiers-ingenieure-demain){target=_blank}.
 
-        [![100 femmes - 100 métiers](./images/orientation/2023_100femmes100metiers-amphi.jpg "100 femmes - 100 métiers"){width=45%}](./pdf/2023_invitation_inscription_100_femmes_100_metiers.pdf){target=_blank}
 ___ 
 ### Universités
 ??? info "Journées découvertes"
     === "UBO"
-        [![Immersions_UBO](./images/orientation/2023_immersions_UBO.jpg "Affiche"){width=35%}](https://www.univ-brest.fr/cap-avenir/fr/page/immersion-individuelle-lubo){target=_blank} 
-    
-        ==**Dates d'immersions et liens pour s'inscrire pour les vacances de la Toussaint**== sur le site de l'UBO.
+        ==**Dates d'immersions et liens pour s'inscrire**== sur le site de l'[**UBO**](https://www.univ-brest.fr/cap-avenir/fr/page/immersion-individuelle-lubo){target=_blank} .
     === "UCO Brest-Guingamp"
         
-        L'actualité de l'[**UCO**](https://www.uco.fr/fr/actualites-uco){target=_blank} Université Catholique de l'Ouest : portes ouvertes, immersions...
+        L'actualité de l'[**UCO**](https://guingamp.uco.fr/fr/fr/actualites-guingamp){target=_blank} Université Catholique de l'Ouest : portes ouvertes, immersions...
         
-        Du ==**26 février au 1er mars**==, testez l'université grâce aux journées découvertes de l'[**UCO de Guingamp**](https://guingamp.uco.fr/fr/publication/testez-l-universite-grace-aux-journees-decouvertes){target=_blank}. Complétez le [**Formulaire**](https://forms.office.com/pages/responsepage.aspx?id=gQWqPAeCVEaEOorw19tTeZ68V_hJsdlAqkgQ7OkuHG1UOTVKQTlMNkdaUkJFRDVYRE03TlNON1NYOC4u&origin=lprLink){target=_blank} pour vous inscrire.
+        Testez l'université grâce aux journées découvertes à l'[**UCO**](https://guingamp.uco.fr/fr/event/testez-l-universite-grace-aux-journees-decouvertes-de-fevrier-0){target=_blank}. 
 
     
 ??? "Liens utiles pour l'université"
@@ -516,7 +508,7 @@ ___
  
         
 
-![Schéma des études supérieures](./images/orientation/Schema_etudes_superieures_2023-2024.png "Schema_etudes"){width=90%}  
+![Schéma des études supérieures](./images/orientation/2024-2025_Schéma_etudes_superieures.jpg "Schema_etudes"){width=90%}  
   
 
 
