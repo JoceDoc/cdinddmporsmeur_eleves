@@ -4,7 +4,11 @@
     [![logo ECAM](./images/logo_ecam.jpg "Actualités Lycée"){width=90% align=right}](https://www.ecmorlaix.fr/actualites/){target=_blank}
 
 ## Rendez-vous
-???+ "**CAFE PHILO** ==<u>**RDV mardi 04/03/2025**</u>=="
+???+ "**QUART D'HEURE DE LECTURE ** ==<u>**RDV au CDI à 12h51, tous les jours sauf le mercredi**</u>=="
+    ![Plaisir de lire](./images/actualites/Quart_heure_lecture_01.png "café philo"){width=90% align=left}
+    ![Plaisir de lire](./images/actualites/Quart_heure_lecture_02.png "café philo"){width=90% align=left}
+
+???+ "**CAFE PHILO** ==<u>**Prochain RDV mardi 25/03/2025**</u>=="
     ![Art_et_artistes](./images/expositions/20250304_affiche_café_philo.png "café philo"){width=90% align=left}
 
 ## Expositions et projets
@@ -72,7 +76,7 @@
     [![Journal_animation](./images/abonnements/03_mars_2025/Journal_animation_202503_250.jpg "Journal de l'animation, mars-avril 2025, n°250"){width=20%}](./images/abonnements/03_mars_2025/Journal_animation_202503_250.pdf){target=_blank}
     [![Lire magazine](./images/abonnements/03_mars_2025/Lire_magazine_202503_538.jpg "Lire magazine, mars 2025, n°538"){width=20%}](./images/abonnements/03_mars_2025/Lire_magazine_202503_538.pdf){target=_blank}
     [![Philosophie magazine](./images/abonnements/03_mars_2025/Philosophie_magazine_202503_187.jpg "Philosophie magazine, mars 2025, n°187"){width=20%}](./images/abonnements/03_mars_2025/Philosophie_magazine_202503_187.pdf){target=_blank}
-    [![Points de vente](./images/abonnements/01_janvier_2025/Points_de_vente_202501_1333.jpg "Points de vente, janvier-février 2025, n°1333"){width=20%}](./images/abonnements/01_janvier_2025/Points_de_vente_202501_1333.pdf){target=_blank}
+    [![Points de vente](./images/abonnements/03_mars_2025/Points_de_vente_202503_1334.jpg "Points de vente, mars 2025, n°1334"){width=20%}](./images/abonnements/03_mars_2025/Points_de_vente_202503_1334.pdf){target=_blank}
     [![Que choisir](./images/abonnements/03_mars_2025/Que_choisir_202503_644.jpg "Que choisir, mars 2025, n°644"){width=20%}](./images/abonnements/03_mars_2025/Que_choisir_202503_644.pdf){target=_blank}
     [![Que choisir santé](./images/abonnements/03_mars_2025/Que_choisir_sante_202503_202.jpg "Que choisir santé, mars 2024, n°202"){width=20%}](./images/abonnements/03_mars_2025/Que_choisir_sante_202503_202.pdf){target=_blank}
     [![Science et Vie](./images/abonnements/03_mars_2025/Science_et_vie_202503_1290.jpg "Science et Vie, mars 2025, n°1290"){width=20%}](./images/abonnements/03_mars_2025/Science_et_vie_202503_1290.pdf){target=_blank}
@@ -84,7 +88,7 @@
     [![Sciences humaines](./images/abonnements/03_mars_2025/Sciences_humaines_202503_376.jpg "Sciences humaines, mars 2024, n°376"){width=20%}](./images/abonnements/03_mars_2025/Sciences_humaines_202503_376.pdf){target=_blank}
     [![Sciences humaines - grands dossiers](./images/abonnements/12_decembre_2024/Sciences_humaines_les_grands_dossiers_2024_12_77.jpg "Sciences humaines - Les grands dossiers, décembre 2024, n°77HS"){width=20%}](./images/abonnements/12_decembre_2024/Sciences_humaines_les_grands_dossiers_2024_12_77.pdf){target=_blank}
     [![Sciences Ouest](./images/abonnements/03_mars_2025/Sciences_ouest_202503_427.jpg "Sciences ouest, mars 2024, n°427"){width=20%}](./images/abonnements/03_mars_2025/Sciences_ouest_202503_427.pdf){target=_blank}
-    [![Sport et vie](./images/abonnements/01_janvier_2025/Sport_et_vie_202501_208.jpg "Sport et Vie, janvier 2025, n°208"){width=20%}](./images/abonnements/01_janvier_2025/Sport_et_vie_202501_208.pdf){target=_blank}
+    [![Sport et vie](./images/abonnements/03_mars_2025/Sport_et_vie_202503_209.jpg "Sport et Vie, mars 2025, n°209"){width=20%}](./images/abonnements/03_mars_2025/Sport_et_vie_202503_209.pdf){target=_blank}
     [![Sport et vie](./images/abonnements/12_decembre_2024/Sport_et_vie_2024_12_61HS.jpg "Sport et Vie, décembre 2024, n°61HS"){width=20%}](./images/abonnements/12_decembre_2024/Sport_et_vie_2024_12_61HS.pdf){target=_blank}
     [![Tangente](./images/abonnements/02_fevrier_2025/Tangente_202501_221.jpg "Tangente, février 2024, n°221"){width=20%}](./images/abonnements/02_fevrier_2025/Tangente_202501_221.pdf){target=_blank}
     [![Tangente](./images/abonnements/12_decembre_2024/Tangente_2024_12_92HS.jpg "Tangente, décembre 2024, n°92HS"){width=20%}](./images/abonnements/12_decembre_2024/Tangente_2024_12_92HS.pdf){target=_blank}
@@ -151,6 +155,7 @@
     [![Vocable Allemand](./images/abonnements/langues/Vocable_allemand_2024_12_897.jpg "Vocable Allemand, décembre 2024, n°897"){width=20%}](./images/abonnements/langues/Vocable_allemand_2024_12_897.pdf){target=_blank}
     [![Vocable Allemand](./images/abonnements/langues/Vocable_allemand_202501_898.jpg "Vocable Allemand, janvier 2025, n°898"){width=20%}](./images/abonnements/langues/Vocable_allemand_202501_898.pdf){target=_blank}
     [![Vocable Allemand](./images/abonnements/langues/Vocable_allemand_202502_899.jpg "Vocable Allemand, février 2025, n°899"){width=20%}](./images/abonnements/langues/Vocable_allemand_202502_899.pdf){target=_blank}
+    [![Vocable Allemand](./images/abonnements/langues/Vocable_allemand_202503_900.jpg "Vocable Allemand, mars 2025, n°900"){width=20%}](./images/abonnements/langues/Vocable_allemand_202503_900.pdf){target=_blank}
 
 
 
@@ -169,6 +174,7 @@
     [![Vocable Espagnol](./images/abonnements/langues/Vocable_espagnol_2024_11_889.jpg "Vocable Espagnol, novembre 2024, n°889"){width=20%}](./images/abonnements/langues/Vocable_espagnol_2024_11_889.pdf){target=_blank}
     [![Vocable Espagnol](./images/abonnements/langues/Vocable_espagnol_2024_12_890.jpg "Vocable Espagnol, décembre 2024, n°890"){width=20%}](./images/abonnements/langues/Vocable_espagnol_2024_12_890.pdf){target=_blank}
     [![Vocable Espagnol](./images/abonnements/langues/Vocable_espagnol_202501_891.jpg "Vocable Espagnol, janvier 2025, n°891"){width=20%}](./images/abonnements/langues/Vocable_espagnol_202501_891.pdf){target=_blank}
+    [![Vocable Espagnol](./images/abonnements/langues/Vocable_espagnol_202503_893.jpg "Vocable Espagnol, mars 2025, n°893"){width=20%}](./images/abonnements/langues/Vocable_espagnol_202503_893.pdf){target=_blank}
     
 
 ??? "**Pour les enseignants**"

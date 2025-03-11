@@ -414,6 +414,7 @@ ___
     === "SITES INSTITUTIONNELS"
         - [**Cité de l'économie**](https://www.citeco.fr/){target=_blank} : Leçons d'économie : vidéos de 2mn pour faire le tour des questions essentielles de la discipline  (marchés, échanges, régulation, TVA, CAC 40...) - Histoire de la pensée économique (fresque) - Les clés de l'éco : explication des Mécanismes économiques, monétaires, financiers - WEBséries : vidéos et quiz.
         - [**CCI Bretagne**](https://www.bretagne.cci.fr/){target=_blank} : Le site de la **Chambre de Commerce et d'Industrie** de Bretagne.
+        - [**DARES**](https://dares.travail-emploi.gouv.fr/){target=_blank} : La Direction de l'Animation de la Recherche, des Etudes et des Statistiques, du Ministère du Travail, déchiffre le monde du travail pour éclairer le débat public.
         - [**DGCCRF**](https://www.economie.gouv.fr/dgccrf){target=_blank} : Direction générale de la concurrence, de la consommation et de la répression des fraudes, du site du Ministère de l'économie, des finances et de la relance.
         - [**Autorité de la concurrence**]([https://www.economie.gouv.fr/dgccrf](https://www.autoritedelaconcurrence.fr/fr)){target=_blank} : pour signaler une pratique anticoncurrentielle. 
         - [**INSEE**](https://www.insee.fr/fr/accueil){target=_blank} :  Institut national de la statistique et des études économiques.
