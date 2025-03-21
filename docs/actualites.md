@@ -4,7 +4,7 @@
     [![logo ECAM](./images/logo_ecam.jpg "Actualités Lycée"){width=90% align=right}](https://www.ecmorlaix.fr/actualites/){target=_blank}
 
 ## Rendez-vous
-???+ "**QUART D'HEURE DE LECTURE ** ==<u>**RDV au CDI à 12h51, tous les jours sauf le mercredi**</u>=="
+???+ "**QUART D'HEURE DE LECTURE** ==<u>**RDV au CDI à 12h51, tous les jours sauf le mercredi**</u>=="
     ![Plaisir de lire](./images/actualites/Quart_heure_lecture_01.png "café philo"){width=90% align=left}
     ![Plaisir de lire](./images/actualites/Quart_heure_lecture_02.png "café philo"){width=90% align=left}
 
@@ -32,7 +32,6 @@
     Chaque 30 novembre, cette commémoration a pour objectif d'affirmer la valeur de la vie et de s'opposer à la peine de mort. Les « villes [engagées] villes pour la vie, villes contre la peine de mort » partout à travers le monde, s’illuminent pour dire à l'unisson ==**« Non à la peine de mort ! »**==. 
 
     Voilà 11 ans que la ville de Morlaix est engagée dans ce combat contre la peine de mort relayé par les associations, [**Amnesty international**](https://www.amnesty.fr/){target=_blank}, l’[**ACAT**](https://www.acatfrance.fr/){target=_blank} et la [**Ligue des droits de l’homme**](https://www.ldh-france.org/){target=_blank}. Si ce combat vous intéresse, n'hésitez pas à vous rapprocher de l'une ou l'autre de ces associations.
-    
     
   
 ## Nos élèves ont du talent

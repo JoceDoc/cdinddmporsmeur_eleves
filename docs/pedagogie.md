@@ -144,9 +144,10 @@ ___
 ## Concours scolaires
 
 ??? info "**Concours National de la résistance**"
-    La classe de TG2 participent au [**Concours National de la Résistance et de la Déportation**](https://www.reseau-canope.fr/
+    Des élèves de TG2 participent au [**Concours National de la Résistance et de la Déportation**](https://www.reseau-canope.fr/
     cnrd/){target=_blank}. Objectifs et modalités du concours sur le site officiel.
 
+    ![CNRD_Equipe](./images/pedagogie/CNRD_2024-2025_Equipe_01.JPG"L'équipe au complet"){width=50% align=left}
 
 ___
 
