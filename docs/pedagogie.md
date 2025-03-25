@@ -101,10 +101,11 @@ ___
         
 ??? "**Sites pour s'informer**"
     ???+ "**Les UNES du jour**"
-        [![**366**](./images/pedagogie/carte_presse_regionale.png "Page d'accueil 366"){width=45%}](https://www.366.fr/unes-du-jour/){target=_blank} 
+        [![**366**](./images/pedagogie/carte_presse_regionale.png "Page d'accueil 366"){width=45%}](https://spqr.pressbrowser.aday.fr/){target=_blank} 
         
-        * [**366**](https://www.366.fr/unes-du-jour/){target=_blank} : Unes de la presse régionale.
+        * [**PRESSE REGIONALE**](https://spqr.pressbrowser.aday.fr/){target=_blank} : Unes de la presse régionale.
         * [**KIOSKO.NET**](https://fr.kiosko.net/fr/){target=_blank} : Les Unes des journaux de France, actualité nationale, internationale et régionale.
+        * [**MAGAZINES**](https://www.journaux.fr/){target=_blank} : tous les magazines.
     ???+ "**Journaux en ligne**"
         * [**Le Monde**](https://www.lemonde.fr/){target=_blank}
         * [**Le Figaro**](https://www.lefigaro.fr/){target=_blank}
