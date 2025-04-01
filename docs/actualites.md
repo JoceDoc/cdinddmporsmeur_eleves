@@ -5,11 +5,11 @@
 
 ## Rendez-vous
 ???+ "**QUART D'HEURE DE LECTURE** ==<u>**RDV au CDI à 12h51, tous les jours sauf le mercredi**</u>=="
-    ![Plaisir de lire](./images/actualites/Quart_heure_lecture_01.png "café philo"){width=90% align=left}
-    ![Plaisir de lire](./images/actualites/Quart_heure_lecture_02.png "café philo"){width=90% align=left}
+    ![Plaisir de lire](./images/actualites/Quart_heure_lecture_01.png "café philo"){width=70% align=left}
+    ![Plaisir de lire](./images/actualites/Quart_heure_lecture_02.png "café philo"){width=70% align=left}
 
 ???+ "**CAFE PHILO** ==<u>**Prochain RDV mardi 25/03/2025**</u>=="
-    ![Art_et_artistes](./images/expositions/20250304_affiche_café_philo.png "café philo"){width=90% align=left}
+    ![Compromis et Paix](./images/actualites/20250325_affiche_Café_philo.png "café philo"){width=70% align=left}
 
 ## Expositions et projets
 ???+ "**Semaine de la presse et des médias** ==<u>**24 au 29 mars 2025**</u>=="
@@ -67,7 +67,7 @@
    
 ??? "**Kiosque du mois** :newspaper:"
     
-    [![Aide-soignante](./images/abonnements/02_fevrier_2025/Aide-soignante_202502_264.jpg "Aide-soignante, février 2025, n°264"){width=20%}](./images/abonnements/02_fevrier_2025/Aide-soignante_202502_264.pdf){target=_blank}
+    [![Aide-soignante](./images/abonnements/03_mars_2025/Aide-soignante_202503_265.jpg "Aide-soignante, mars 2025, n°265"){width=20%}](./images/abonnements/03_mars_2025/Aide-soignante_202503_265.pdf){target=_blank}
     [![Alternatives Economiques](./images/abonnements/03_mars_2025/Alternatives_economiques_202503_456.jpg "Alternatives Economiques, mars 2025, n°456"){width=20%}](./images/abonnements/03_mars_2025/Alternatives_economiques_202503_456.pdf){target=_blank}
     [![Ca m'intéresse](./images/abonnements/03_mars_2025/Ca_m_interesse_202503_529.jpg "Ca m'intéresse, mars 2025, n°529"){width=20%}](./images/abonnements/03_mars_2025/Ca_m_interesse_202503_529.pdf){target=_blank}
     [![Capital](./images/abonnements/12_decembre_2024/Capital_2024_12_399.jpg "Capital, décembre 2024, n°399"){width=20%}](./images/abonnements/12_decembre_2024/Capital_2024_12_399.pdf){target=_blank}
