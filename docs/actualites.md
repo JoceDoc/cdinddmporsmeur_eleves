@@ -4,15 +4,15 @@
     [![logo ECAM](./images/logo_ecam.jpg "Actualités Lycée"){width=90% align=right}](https://www.ecmorlaix.fr/actualites/){target=_blank}
 
 ## Rendez-vous
-???+ "**QUART D'HEURE DE LECTURE** ==<u>**RDV au CDI à 12h51, tous les jours sauf le mercredi**</u>=="
-    ![Plaisir de lire](./images/actualites/Quart_heure_lecture_01.png "café philo"){width=70% align=left}
-    ![Plaisir de lire](./images/actualites/Quart_heure_lecture_02.png "café philo"){width=70% align=left}
+???+ "**CAFE PHILO** ==<u>**Prochain RDV mardi 29/04/2025**</u>=="
+    ![Beau geste](./images/actualites/20250429_Affiche_café_philo.png "café philo"){width=80% align=left}
 
-???+ "**CAFE PHILO** ==<u>**Prochain RDV mardi 25/03/2025**</u>=="
-    ![Compromis et Paix](./images/actualites/20250325_affiche_Café_philo.png "café philo"){width=70% align=left}
+??? "**QUART D'HEURE DE LECTURE** ==<u>**RDV au CDI à 12h51, tous les jours sauf le mercredi**</u>=="
+    ![Plaisir de lire](./images/actualites/Quart_heure_lecture_01.png "café philo"){width=60% align=left}
+    ![Plaisir de lire](./images/actualites/Quart_heure_lecture_02.png "café philo"){width=60% align=left}
 
 ## Expositions et projets
-???+ "**Semaine de la presse et des médias** ==<u>**24 au 29 mars 2025**</u>=="
+??? "**Semaine de la presse et des médias** ==<u>**24 au 29 mars 2025**</u>=="
     [![Affiche de présentation](./images/actualites/SPME2025_affiche.jpg "Affiche"){width=70% align=left}](https://www.clemi.fr/actions-educatives/semaine-de-la-presse-et-des-medias){target=_blank}
 
   
@@ -156,8 +156,6 @@
     [![Vocable Allemand](./images/abonnements/langues/Vocable_allemand_202502_899.jpg "Vocable Allemand, février 2025, n°899"){width=20%}](./images/abonnements/langues/Vocable_allemand_202502_899.pdf){target=_blank}
     [![Vocable Allemand](./images/abonnements/langues/Vocable_allemand_202503_900.jpg "Vocable Allemand, mars 2025, n°900"){width=20%}](./images/abonnements/langues/Vocable_allemand_202503_900.pdf){target=_blank}
 
-
-
     
     ??? Example ":es: **Espagnol** :es:"
     [![Vocable Espagnol](./images/abonnements/langues/Vocable_espagnol_janvier_2024_879.jpg "Vocable Espagnol, janvier 2024, n°879"){width=20%}](./images/abonnements/langues/Vocable_espagnol_janvier_2024_879.pdf){target=_blank}
@@ -188,6 +186,7 @@
     [![Cahiers pédagogiques](./images/abonnements/enseignants/Cahiers_pedagogiques_2024_11_596.jpg "Cahiers pédagogiques, novembre 2024, n°596"){width=20%}](./images/abonnements/enseignants/Cahiers_pedagogiques_2024_11_596.pdf){target=_blank}
     [![Cahiers pédagogiques](./images/abonnements/enseignants/Cahiers_pedagogiques_202501_597.jpg "Cahiers pédagogiques, janvier 2025, n°597"){width=20%}](./images/abonnements/enseignants/Cahiers_pedagogiques_202501_597.pdf){target=_blank}
     [![Cahiers pédagogiques](./images/abonnements/enseignants/Cahiers_pedagogiques_202502_598.jpg "Cahiers pédagogiques, février 2025, n°598"){width=20%}](./images/abonnements/enseignants/Cahiers_pedagogiques_202502_598.pdf){target=_blank}
+    [![Cahiers pédagogiques](./images/abonnements/enseignants/Cahiers_pedagogiques_202503_599.jpg "Cahiers pédagogiques, mars 2025, n°599"){width=20%}](./images/abonnements/enseignants/Cahiers_pedagogiques_202503_599.pdf){target=_blank}
 
     ??? Example "**NRP Lycée**"
     
@@ -198,6 +197,8 @@
     [![NRP Lycée](./images/abonnements/enseignants/NRP_Lycee_202403_106.jpg "NRP Lycée, mars 2024, n°106"){width=20%}](./images/abonnements/enseignants/NRP_Lycee_202403_106.pdf){target=_blank}
     [![NRP Lycée](./images/abonnements/enseignants/NRP_lycee_202405_107.jpg "NRP Lycée, mai 2024, n°107"){width=20%}](./images/abonnements/enseignants/NRP_lycee_202405_107.pdf){target=_blank}
     [![NRP Lycée](./images/abonnements/enseignants/NRP_lycee_202409_108.jpg "NRP Lycée, septembre 2024, n°108"){width=20%}](./images/abonnements/enseignants/NRP_lycee_202409_108.pdf){target=_blank}
+    [![NRP Lycée](./images/abonnements/enseignants/NRP_lycee_202412_109.jpg "NRP Lycée, décembre 2024, n°109"){width=20%}](./images/abonnements/enseignants/NRP_lycee_202412_109.pdf){target=_blank}
+    [![NRP Lycée](./images/abonnements/enseignants/NRP_lycee_202503_110.jpg "NRP Lycée, mars 2025, n°110"){width=20%}](./images/abonnements/enseignants/NRP_lycee_202503_110.pdf){target=_blank}
 
 
 
