@@ -36,25 +36,10 @@
   
 ## Nos élèves ont du talent
 ??? "**Concours d'éloquence**"
-    Le 1er tour du concours d'éloquence se déroulera le ==**jeudi 12 décembre**==.
+    Les candidats étaient moins nombreux cette année, mais ils sont allés au bout de leur engagement et ont ainsi tous beaucoup progressé. La finale, jeudi 20 mars, se déroulait en deux temps : un **discours**, entre 5 et 8 minutes, sur un sujet tiré au sort (La démocratie, un régime en danger - L’IA, une amie qui vous veut du bien ? - L’union fait la force. - La fin justifie les moyens) et une **question d’improvisation** commune : Quel est votre plus grand rêve ? C’est Alexis qui a remporté la finale devant Thibault, Maël et Henri. Bravo à tous !
 
-    Voici la liste des sujets proposés aux candidats : 
-
-    - Les oeuvres cinématographiques peuvent-elles nous rendre meilleurs ?
-
-    - Confessions d'un parapluie abandonné un jour de pluie.
-
-    - La question n'est pas où, mais pourquoi ?
-
-    - L'instinct de liberté justifie-t-il de s'évader ?
-
-    - Vous m'avez vu mais vous ne m'avez pas regardé.
-
-    - Et si les plantes pouvaient nous parler ?
-
-    - Soyez humble, mais à quel prix ?
-
-    ![Affiche_concours](./images/actualites/2024-2025_affiche_concours_eloquence.png "Affiche_concours d'éloquence"){width=75% align=left}
+    ![Finale](./images/actualites/20250428_Une_belle_finale.jpg "Une belle finale"){width=45% align=left}
+    ![Finale](./images/actualites/20250428_L'éloquence_ca_se_muscle.JPG "L'éloquence, ça se muscle"){width=45% align=left}
    
 
 

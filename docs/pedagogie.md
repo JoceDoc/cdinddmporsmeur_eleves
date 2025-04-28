@@ -540,8 +540,6 @@ ___
         - [**La minute du coach**](https://www.editions-hatier.fr/grand-oral){target=_blank} : conseils et ressources pour préparer l'épreuve. (*Editions Hatier*)
         - [**Exercices**](https://www.super-bac.com/articles/bac/exercices-grand-oral-maniere-parler/){target=_blank} pour améliorer ses qualités oratoires.
 
-    === "**VOLET ORIENTATION**"
-        - [**Fiche ONISEP**](./pdf/LGT_Fiche_Comment_preparer_volet_orientation_Grand_oral_bac_general_Fiche_eleve.pdf){target=_blank} livret pour vous aider à préparer le volet orientation de l'épreuve.
     
 
 
