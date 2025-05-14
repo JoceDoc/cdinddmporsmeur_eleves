@@ -4,8 +4,11 @@
     [![logo ECAM](./images/logo_ecam.jpg "Actualités Lycée"){width=90% align=right}](https://www.ecmorlaix.fr/actualites/){target=_blank}
 
 ## Rendez-vous
-???+ "**CAFE PHILO** ==<u>**Prochain RDV mardi 29/04/2025**</u>=="
-    ![Beau geste](./images/actualites/20250429_Affiche_café_philo.png "café philo"){width=80% align=left}
+???+ "**CAFE PHILO** ==<u>**Prochain RDV mardi 20/05/2025**</u>=="
+    ![Justice-égalité-équité](./images/actualites/20250520_Affiche_café_philo_10_02.png "café philo"){width=80% align=left}
+    ![Justice-égalité-équité](./images/actualites/20250520_Affiche_café_philo_10_01.png "café philo"){width=80% align=left}
+
+    [**Thèmes des précédents café philo**](./images/actualites/2024-2025_affiches_café_philo.pdf){target=_blank}
 
 ??? "**QUART D'HEURE DE LECTURE** ==<u>**RDV au CDI à 12h51, tous les jours sauf le mercredi**</u>=="
     ![Plaisir de lire](./images/actualites/Quart_heure_lecture_01.png "café philo"){width=60% align=left}
@@ -52,7 +55,7 @@
    
 ??? "**Kiosque du mois** :newspaper:"
     
-    [![Aide-soignante](./images/abonnements/03_mars_2025/Aide-soignante_202503_265.jpg "Aide-soignante, mars 2025, n°265"){width=20%}](./images/abonnements/03_mars_2025/Aide-soignante_202503_265.pdf){target=_blank}
+    [![Aide-soignante](./images/abonnements/04_avril_2025/Aide-soignante_202504_266.jpg "Aide-soignante, avril 2025, n°266"){width=20%}](./images/abonnements/04_avril_2025/Aide-soignante_202504_266.pdf){target=_blank}
     [![Alternatives Economiques](./images/abonnements/04_avril_2025/Alternatives_economiques_202504_457.jpg "Alternatives Economiques, avril 2025, n°457"){width=20%}](./images/abonnements/04_avril_2025/Alternatives_economiques_202504_457.pdf){target=_blank}
     [![Alternatives Economiques](./images/abonnements/04_avril_2025/Alternatives_economiques_202504_131HS.jpg "Alternatives Economiques, avril 2025, n°131HS"){width=20%}](./images/abonnements/04_avril_2025/Alternatives_economiques_202504_131HS.pdf){target=_blank}
     [![Ca m'intéresse](./images/abonnements/04_avril_2025/Ca_m_interesse_202504_530.jpg "Ca m'intéresse, avril 2025, n°530"){width=20%}](./images/abonnements/04_avril_2025/Ca_m_interesse_202504_530.pdf){target=_blank}

@@ -97,13 +97,13 @@
     
     === "JEUNES EN LIBRAIRIE"
             
-        Les élèves de Term EPC ET AEPE ont participé cette année au programme [**Jeunes en librairie**](https://daac.ac-rennes.fr/spip.php?article2268){target=_blank}, projet d’éducation artistique et culturelle autour des professionnels du livre et de la librairie.
+        Les élèves de 1AEPA, Term EPC et AEPE ont participé cette année au programme [**Jeunes en librairie**](https://daac.ac-rennes.fr/spip.php?article2268){target=_blank}, projet d’éducation artistique et culturelle autour des professionnels du livre et de la librairie.
  
         Dans ce cadre, ils ont rencontré Yuna de la [**Librairie Dialogues Morlaix**](https://www.dialoguesmorlaix.com/){target=_blank} partenaire du projet, d'abord au lycée puis à la librairie. Ce fut l'occasion pour eux, de découvrir en quoi consiste le travail d'une librairie indépendante, mais aussi d'en apprendre un peu plus sur le circuit du livre ou les métiers en lien avec l'édition et le monde du livre.
         
         Les élèves ont également eu la chance de rencontrer l'autrice [**Louise Delgado**](https://www.librinova.com/auteur/louise-delgado){target=_blank}, le 24 janvier, à l'occasion de la sortie de son livre "Vers les ténébres" (2ème tome de la série "Les derniers gardiens"). Les élèves ont questionné l'autrice sur ses sources d'inspiration, ses habitudes de travail, mais aussi ses projets futurs : des échanges très appréciés et parfois utiles pour certains d'entre eux qui ayant des projets d'écriture, ont découvert les possibilités offertes par l'autoédition. 
 
-        Les élèves étaient ravis de leur achats en librairie avec le chèque livre de 20 € qui leur était offert dans le cadre du dispositif "Jeunes en librairie".
+        Les élèves étaient ravis de leurs achats en librairie avec le chèque livre de 20 € qui leur était offert dans le cadre du dispositif "Jeunes en librairie".
    
       
         ![Jeunes en librairie](./images/culture/yuna_cdi_epc.jpg "Yuna au CDI avec Term EPC"){width=45% align=right}
