@@ -339,6 +339,7 @@ ___
 ??? "Liens utiles"
     === "COMMUN"
         - [**IRSS**](https://www.irss.fr/){target=_blank} : Organisme de formation et de préparation aux métiers du sport, de la santé, de la sécurité, du social et de la petite enfance.
+        - [**ARS Mon métier mon histoire**](https://www.youtube.com/hashtag/monmetiernoshistoires){target=_blank} : l'ARS présente sur cette chaîne Youtube des témoignages de professionnels des métiers de la santé et du social.
     === "SANTE"
         - [**Les études de santé**](https://www.onisep.fr/formation/les-principaux-domaines-de-formation/les-etudes-de-sante){target=_blank} : Maïeutique, médecine, odontologie, pharmacie (*Sources : Onisep*)
         - [**ICO**](https://ico.asso.fr/){target=_blank} : Institut et Campus d'Optique.
@@ -352,7 +353,7 @@ ___
         - [**Appareillage médical**](https://www.youtube.com/watch?v=b2T9387AzkY){target=_blank} : enseignement supérieur santé du [**Lycée Mongazon**](https://www.mongazon.org/){target=_blank} (BTS Podo orthésiste - BTS Prothésiste orthésiste - CP Orthopédiste orthésiste) (*Angers - 49*)
     === "SOCIAL"
         - [**ITES**](https://www.ites-formation.com/){target=_blank} : Institut de Formation au Travail Educatif et Social. [**Visio conférence**](https://www.ites-formation.com/evenements/information-collective-accompagnant-educatif-et-social-2/){target=_blank} ==**Jeudi 9 mars 2023**== pour devenir [**Accompagnant Educatif et Social**](https://www.ites-formation.com/formations/accompagnant-educatif-et-social/){target=_blank}.
-        - [**ASKORIA**](https://www.askoria.eu/index.php/formations/toutes-nos-formations-qualifiantes){target=_blank}  activateur de solidarités : 1ère école française de travail social, formant à l’ensemble des métiers de l’intervention sociale (action  sociale - Education et prévention spécialisée - Accompagnement éducatif et social - Animation sociale et territoriale - Fonctions tutorales - Protection des majeurs et des mineurs - Management d’équipes, de projets et de dispositifs). [**Dates des réunions d'information**](https://askoria.eu/index.php/les-reunions-d-information){target=_blank} pour construire son projet professionnel dans les métiers du social : ==**Jeudi 2 mars 2023**== de 14h à 15h sur le campus des solidarités de Morlaix.
+        - [**ASKORIA**](https://www.askoria.eu/les-metiers/){target=_blank} : Les métiers de la solidarité (Accompagnement socio-éducatif - Animation sociale et de loisirs - Economie sociale et solidaire - Enfance, familles et parentalité - Handicap et logique inclusive)
     === "SPORT"
         - [**Travailler dans le sport**](https://sport.onisep.fr/){target=_blank} : je construis mon projet dans le sport sur le site de l'**ONISEP**.
         - [**Fiches métiers**](https://www.letudiant.fr/metiers/secteur/sport.html){target=_blank} : site de **L'Etudiant**.
