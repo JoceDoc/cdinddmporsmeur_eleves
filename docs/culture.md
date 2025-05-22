@@ -20,8 +20,10 @@
         
 
 ???+ "**PASS CULTURE**"
-    Pour activer son compte sur [**EduConnet**](https://educonnect.education.gouv.fr/){target=_blank}, cliquer sur l'affiche ci-dessous, puis télécharger l'application [**PASS CULTURE**](https://pass.culture.fr/){target=_blank}
+    Ce qui change à compter du 1er mars 2025 - [**Actualité**](https://pass.culture.fr/actualite/reforme-du-pass-culture){target=_blank}
 
+    Comment s'inscrire sur l'application [**PASS CULTURE**](https://pass.culture.fr/){target=_blank}
+    
     [![**PASS CULTURE**](./images/culture/Pass_Culture_Affiche.jpg "Accès EduConnet"){width=35%}](https://educonnect.education.gouv.fr/){target=_blank}
 
 ## Projets culturels au lycée
