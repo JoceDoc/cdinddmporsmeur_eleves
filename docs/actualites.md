@@ -4,11 +4,10 @@
     [![logo ECAM](./images/logo_ecam.jpg "Actualités Lycée"){width=90% align=right}](https://www.ecmorlaix.fr/actualites/){target=_blank}
 
 ## Rendez-vous
-???+ "**CAFE PHILO** ==<u>**Prochain RDV mardi 20/05/2025**</u>=="
-    ![Justice-égalité-équité](./images/actualites/20250520_Affiche_café_philo_10_02.png "café philo"){width=80% align=left}
-    ![Justice-égalité-équité](./images/actualites/20250520_Affiche_café_philo_10_01.png "café philo"){width=80% align=left}
+???+ "**CAFE PHILO** ==<u>**Dernier RDV de l'année**</u>=="
+    ![Justice-égalité-équité](./images/actualites/20250603_Affiche_cafe_philo_11.jpg "café philo"){width=80% align=left}
 
-    [**Thèmes des précédents café philo**](./images/actualites/2024-2025_affiches_café_philo.pdf){target=_blank}
+    [**Thèmes des rendez-vous CAFE PHILO de l'année**](./images/actualites/2024-2025_cafes_philo.pdf){target=_blank}
 
 ??? "**QUART D'HEURE DE LECTURE** ==<u>**RDV au CDI à 12h51, tous les jours sauf le mercredi**</u>=="
     ![Plaisir de lire](./images/actualites/Quart_heure_lecture_01.png "café philo"){width=60% align=left}
@@ -73,9 +72,10 @@
     [![Ca m'intéresse](./images/abonnements/05_mai_2025/Ca_m_interesse_202505_531.jpg "Ca m'intéresse, mai 2025, n°531"){width=20%}](./images/abonnements/05_mai_2025/Ca_m_interesse_202505_531.pdf){target=_blank}
     [![Capital](./images/abonnements/05_mai_2025/Capital_202505_404.jpg "Capital, mai 2025, n°404"){width=20%}](./images/abonnements/05_mai_2025/Capital_202505_404.pdf){target=_blank}
     [![Documentation photographique](./images/abonnements/05_mai_2025/Documentation_photographique_202505_8165.jpg "Documentation photographique, mai 2025, n°8165"){width=20%}](./images/abonnements/05_mai_2025/Documentation_photographique_202505_8165.pdf){target=_blank}
+    [![Documentation photographique](./images/abonnements/05_mai_2025/Documentation_photographique_202505_8166.jpg "Documentation photographique, mai 2025, n°8166"){width=20%}](./images/abonnements/05_mai_2025/Documentation_photographique_202505_8166.pdf){target=_blank}
     [![Journal_animation](./images/abonnements/05_mai_2025/Journal_animation_202505_251.jpg "Journal de l'animation, mai-juin 2025, n°251"){width=20%}](./images/abonnements/05_mai_2025/Journal_animation_202505_251.pdf){target=_blank}
     [![Lire magazine](./images/abonnements/05_mai_2025/Lire_202505_540.jpg "Lire magazine, avril 2025, n°540"){width=20%}](./images/abonnements/05_mai_2025/Lire_202505_540.pdf){target=_blank}
-    [![Philosophie magazine](./images/abonnements/04_avril_2025/Philosophie_magazine_202504_188.jpg "Philosophie magazine, avril 2025, n°188"){width=20%}](./images/abonnements/04_avril_2025/Philosophie_magazine_202504_188.pdf){target=_blank}
+    [![Philosophie magazine](./images/abonnements/05_mai_2025/Philosophie_magazine_202505_189.jpg "Philosophie magazine, mai 2025, n°189"){width=20%}](./images/abonnements/05_mai_2025/Philosophie_magazine_202505_189.pdf){target=_blank}
     [![Points de vente](./images/abonnements/05_mai_2025/Points_de_vente_202505_1336.jpg "Points de vente, mai 2025, n°1336"){width=20%}](./images/abonnements/05_mai_2025/Points_de_vente_202505_1336.pdf){target=_blank}
     [![Que choisir](./images/abonnements/05_mai_2025/Que_choisir_202505_646.jpg "Que choisir, mai 2025, n°646"){width=20%}](./images/abonnements/05_mai_2025/Que_choisir_202505_646.pdf){target=_blank}
     [![Que choisir santé](./images/abonnements/05_mai_2025/Que_choisir_santé_202505_204.jpg "Que choisir santé, mai 2024, n°204"){width=20%}](./images/abonnements/05_mai_2025/Que_choisir_santé_202505_204.pdf){target=_blank}
@@ -173,6 +173,7 @@
     [![NRP Lycée](./images/abonnements/enseignants/NRP_lycee_202409_108.jpg "NRP Lycée, septembre 2024, n°108"){width=20%}](./images/abonnements/enseignants/NRP_lycee_202409_108.pdf){target=_blank}
     [![NRP Lycée](./images/abonnements/enseignants/NRP_lycee_202412_109.jpg "NRP Lycée, décembre 2024, n°109"){width=20%}](./images/abonnements/enseignants/NRP_lycee_202412_109.pdf){target=_blank}
     [![NRP Lycée](./images/abonnements/enseignants/NRP_lycee_202503_110.jpg "NRP Lycée, mars 2025, n°110"){width=20%}](./images/abonnements/enseignants/NRP_lycee_202503_110.pdf){target=_blank}
+    [![NRP Lycée](./images/abonnements/enseignants/NRP_lycee_202505_111.jpg "NRP Lycée, mai 2025, n°111"){width=20%}](./images/abonnements/enseignants/NRP_lycee_202505_111.pdf){target=_blank}
 
 
 

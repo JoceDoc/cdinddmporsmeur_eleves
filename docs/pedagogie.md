@@ -287,10 +287,13 @@ ___
 ??? "Ressources" 
     === "SITES INSTITUTIONNELS"
         - [**Service public**](https://www.vie-publique.fr/fiches){target=_blank} : fiches thématiques pour comprendre le fonctionnement des principales institutions.
+        - [**L'Histoire par l'image**](https://histoire-image.org/){target=_blank} : recherches thématiques, par mots-clés, par périodes, vidéos.
         - [**Site du gouvernement**](https://www.gouvernement.fr){target=_blank} : composition, actualité du gouvernement français.
         - [**Commémoration des 80 ans de la libération d'Auschwitz**](https://www.ina.fr/ina-eclaire-actu/27-janvier-1945-liberation-camp-de-concentration-auschwitz-birkenau-armee-rouge){target=_blank} (*Sources : INA*)
         
         [![**80 ans de la libération d'Auschwitz"**](./images/pedagogie/80ans_liberation_auschwitz.jpg "Auschwitz, 80 ans de la libération"){width=25%}](https://www.ina.fr/ina-eclaire-actu/27-janvier-1945-liberation-camp-de-concentration-auschwitz-birkenau-armee-rouge){target=_blank}
+    === "PERIODES"
+        - [**14-18 : La grande guerre**](https://www.lumni.fr/dossier/la-guerre-de-1914-1918-premiere-guerre-mondiale){target=_blank} (*Sources Lumni*)
     === "CARTES"
         - [**Le dessous des cartes**](https://www.arte.tv/fr/videos/RC-014036/le-dessous-des-cartes/){target=_blank} : le magazine géopolitique d'Arte, créé par Jean-Christophe Victor et présenté par Émilie Aubry pour comprendre les enjeux de notre monde contemporain au moyen de cartes géographiques. Diffusée à l'antenne tous les samedis à 19h30, l'émission est disponible en replay et en VOD et DVD.
     === "GEOPOLITIQUE"
