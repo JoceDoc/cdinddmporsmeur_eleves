@@ -17,8 +17,8 @@
 ![Logo](./images/parcours_sante/Bougeons_ensemble_2023.jpg "Affiche 2023"){width=25% align=right}
     
 
-???+ info "**Bougeons ensemble - Edition 2024**"
-    ==**Mardi 28 mai**==, 3ème édition de la journée ==**Bougeons ensemble**== pour sensibiliser les élèves de seconde aux bienfaits de l'exercice physique, d'une alimentation équilibrée pour lutter contre la sédentarité. 
+???+ info "**Bougeons ensemble - Edition 2025**"
+    ==**Vendredi 25 avril**==, 4ème édition de la journée ==**Bougeons ensemble**== pour sensibiliser les élèves de seconde aux bienfaits de l'exercice physique, d'une alimentation équilibrée pour lutter contre la sédentarité. 
     
     <u>Au programme :</u>
 
@@ -29,10 +29,9 @@
     
     ??? "**Photos souvenirs**"
 
-        ![Bougeons ensemble](./images/parcours_sante/Bougeons_ensemble/Bongeons_ensemble_2024_01.jpg "01"){width=65% align=left}
-        ![Bougeons ensemble](./images/parcours_sante/Bougeons_ensemble/Bongeons_ensemble_2024_02.jpg "02"){width=70% align=left}
-        ![Bougeons ensemble](./images/parcours_sante/Bougeons_ensemble/Bongeons_ensemble_2024_04.jpg "04"){width=70% align=left}
-        ![Bougeons ensemble](./images/parcours_sante/Bougeons_ensemble/Bongeons_ensemble_2024_05.jpg "05"){width=70% align=left}
+        ![Bougeons ensemble](./images/parcours_sante/Bougeons_ensemble/20250425_bougeons_ensemble_01.JPG "01"){width=70% align=left}
+        ![Bougeons ensemble](./images/parcours_sante/Bougeons_ensemble/20250425_bougeons_ensemble_02.JPG "02"){width=70% align=left}
+   
         
 
         
