@@ -12,7 +12,7 @@
 L'actualité de l'orientation au lycée et dans la région, les ==**sites incontournables**== pour construire son ==**parcours avenir**==, des ==**ressources par niveau**==, les ==**salons et forums**==, la ==**vie étudiante**==...
 
 
-## Actualités
+## ACTUALITES
 
 ???+ info "**PARCOURSUP**"
     [![**Calendrier**](./images/orientation/2024-2025_parcoursup_livret_calendrier.jpg "Parcoursup calendrier"){width=35%}](https://www.parcoursup.gouv.fr/calendrier){target=_blank} 
