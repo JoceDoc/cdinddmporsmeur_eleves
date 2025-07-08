@@ -145,8 +145,16 @@ ___
 ## Concours scolaires
 
 ??? info "**Concours National de la résistance**"
-    Des élèves de TG2 participent au [**Concours National de la Résistance et de la Déportation**](https://www.reseau-canope.fr/
-    cnrd/){target=_blank}. Objectifs et modalités du concours sur le site officiel.
+     **Le lycée Notre-Dame-du-Mur récompensé au** [**Concours National de la Résistance et de la Déportation**](https://www.reseau-canope.fr/
+    cnrd/){target=_blank} : **« Morlaix, l’aube de la liberté »**
+
+    Onze élèves du lycée Notre-Dame-du-Mur ont participé cette année au Concours National de la Résistance et de la Déportation. Créé en 1961, ce concours vise à sensibiliser les élèves au devoir de mémoire et récompense chaque année des collégiens et lycéens de la France entière. Lors de la cérémonie de remise des prix, organisée à Quimper, samedi 17 mai, les lycéens ont reçu une ==**Mention Spéciale du jury départemental**== et la ==**Coupe d’établissement**==.
+    
+    Sous la houlette de Mme GAMARD, enseignante d’histoire et de Mme COZ, professeur-documentaliste, ils ont accompli un long travail de recherches qui les a amenés à consulter les Archives départementales et municipales. Nous tenons particulièrement à remercier les personnes travaillant aux archives, ainsi que M. Spillman, actuel propriétaire du manoir de Kerbrug (ancien manoir de Kerdrel) qui nous a permis de visiter ce lieu important d’un épisode de la résistance évoqué dans le travail des lycéens. Leur production a pris la forme d’un film documentaire sur la libération de Morlaix, intitulé « Morlaix 1944 : l’aube de la liberté ». Pour répondre au format imposé par le concours, les élèves avaient dû raccourcir leur film de 48 à 18 minutes : un véritable crève-cœur ! Néanmoins devant l’investissement colossal des élèves, les enseignantes avaient adressé au jury la version longue et la version abrégée de leur vidéo. Grâce à ce travail les lycéens ont découvert tout un pan de l’histoire de Morlaix et des différents visages qu’a pu prendre la résistance dans la région Bretagne jusqu’à la refondation.
+
+    Bravo aux lauréats, Emma HUON, Henri JEAN, Isaack KINGUE PENSY, Samuel LARDEUX, Maëlie LE MOULLEC, Juliette LEPITRE, Jade Lin MORDELET-LIO, Anaïs PINOTEAU, Théophile PROUST-LABBE, Jade ROUAULT, Pierre Alain WESTER.
+
+    ![CNRD_Equipe](./images/pedagogie/CNRD_2024-2025_Groupe_prix.jpg" Les élèves primés"){width=50% align=left}
 
     ![CNRD_Equipe](./images/pedagogie/CNRD_2024-2025_Equipe_01.JPG"L'équipe au complet"){width=50% align=left}
 
