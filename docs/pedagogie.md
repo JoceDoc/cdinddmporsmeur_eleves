@@ -161,10 +161,14 @@ ___
 ___
 
 ??? info "**Concours de critique**"
-    En octobre et novembre, les élèves de 1G2 et 1G3, participent au [**concours du Prix de la plume lycéenne**](https://www.bruitdelire.org/concours-de-critique-litteraire/){target=_blank} organisé par la Région Bretagne en partenariat avec le Rectorat de Rennes et l’association ==**"Bruit de lire"**==. L’objectif est de développer l'intérêt des lycéens pour la littérature contemporaine, stimuler leur capacité à émettre un jugement critique sur l’un des romans de la sélection en lice pour le ==**Prix Goncourt des Lycéens**==, et confronter leur point de vue avec celui d'autres lecteurs.
+    En octobre et novembre, les élèves de 1G2 et 1G3, ont participé au [**concours du Prix de la plume lycéenne**](https://www.bruitdelire.org/concours-de-critique-litteraire/){target=_blank} organisé par la Région Bretagne en partenariat avec le Rectorat de Rennes et l’association ==**"Bruit de lire"**==. L’objectif est de développer l'intérêt des lycéens pour la littérature contemporaine, stimuler leur capacité à émettre un jugement critique sur l’un des romans de la sélection en lice pour le ==**Prix Goncourt des Lycéens**==, et confronter leur point de vue avec celui d'autres lecteurs.
     
     En apprenant à exprimer leur pensée et à argumenter, les lycéens avancent vers l'autonomie. Au-delà du « j’aime » / « je n’aime pas », ils apprennent à formuler une appréciation personnelle sur l’œuvre choisie et à justifier leur avis. Les élèves développent ainsi de véritables compétences d’argumentation.
-    
+       
+    « L’esprit moineau », le texte de Lola Mingam (1G2), figurait parmi les 45 meilleurs sur plus de 600 reçus par les organisateurs du concours de plumes lycéennes !
+
+    ![CNRD_Equipe](./images/pedagogie/Lola_et_Chloée.JPG "Lola et Chloée"){width=50% align=left}
+
     ???+ "**Autres ressources**"
         * [**L'Académie Goncourt**](https://www.academiegoncourt.com/home){target=_blank}
         * [**PADLET du CONCOURS**](https://padlet.com/cdinddmporsmeur/concours2021){target=_blank}
