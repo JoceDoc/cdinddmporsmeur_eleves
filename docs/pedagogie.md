@@ -156,8 +156,6 @@ ___
 
     ![CNRD_Equipe](./images/pedagogie/CNRD_2024-2025_Groupe_prix.jpg" Les élèves primés"){width=50% align=left}
 
-    ![CNRD_Equipe](./images/pedagogie/CNRD_2024-2025_Equipe_01.JPG"L'équipe au complet"){width=50% align=left}
-
 ___
 
 ??? info "**Concours de critique**"
