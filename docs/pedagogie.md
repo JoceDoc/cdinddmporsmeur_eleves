@@ -175,7 +175,7 @@ ___
 ___
 
 ??? info "**Si on lisait à voix haute**"
-    Dans le cadre de l'AP, 8 élèves de seconde générale participent cette année au concours [**"Si on lisait à voix haute"**](https://www.lumni.fr/dossier/la-grande-librairie-concours-de-lecture-a-voix-haute){target=_blank} organisé par François Busnel et la Grande Librairie.
+    Dans le cadre de l'AP, 18 élèves de seconde générale ont participé cette année au concours [**"Si on lisait à voix haute"**](https://www.lumni.fr/dossier/la-grande-librairie-concours-de-lecture-a-voix-haute){target=_blank} organisé par François Busnel et la Grande Librairie.
 
     Ce qui les motive : l’**envie de travailler l’oral**, **gagner en aisance**, **participer à un concours national**.
     
