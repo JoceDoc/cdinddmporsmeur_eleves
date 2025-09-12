@@ -38,7 +38,7 @@
 
             [![Les suffragettes](./images/culture/FC_Les_suffragettes.jpg "Les suffragettes"){width=20%}](./images/culture/FC_Les_suffragettes.pdf){target=_blank}
             [![1917](./images/culture/FC_1917.jpg "1917"){width=20%}](./images/culture/FC_1917_00.pdf){target=_blank}
-            [![La zone d'intérêt](./images/culture/FC_La_zone_dinteret.jpg "La zone d'intérêt"){width=20%}]
+            [![La zone d'intérêt](./images/culture/FC_La_zone_dinteret.jpg "La zone d'intérêt"){width=20%}](./images/culture/FC_La_zone_dinteret.pdf){target=_blank}
        
             [![L'école du bout du monde](./images/culture/FC_Lecole_du_bout_monde.jpg "L'école du bout du monde"){width=19%}](./images/culture/FC_Lecole_du_bout_du_monde.pdf){target=_blank}
             [![Je verrai toujours vos visages](./images/culture/FC_je_verrai_toujours_vos_visages.jpg "Je verrai toujours vos visages"){width=19%}](./pdf/Je_verrai_toujours_vos_visages.pdf){target=_blank}

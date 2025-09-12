@@ -4,14 +4,10 @@
     [![logo ECAM](./images/logo_ecam.jpg "Actualités Lycée"){width=90% align=right}](https://www.ecmorlaix.fr/actualites/){target=_blank}
 
 ## Rendez-vous
-???+ "**CAFE PHILO** ==<u>**Dernier RDV de l'année**</u>=="
-    ![Justice-égalité-équité](./images/actualites/20250603_Affiche_cafe_philo_11.jpg "café philo"){width=80% align=left}
+???+ "**CAFE PHILO** ==<u>**Retour du CAFE PHILO**</u>=="
+    ![Qui_suis-je](./images/actualites/20250923_Affiche_cafe_philo_01.png "café philo"){width=45% align=left}
 
-    [**Thèmes des rendez-vous CAFE PHILO de l'année**](./images/actualites/2024-2025_cafes_philo.pdf){target=_blank}
-
-??? "**QUART D'HEURE DE LECTURE** ==<u>**RDV au CDI à 12h51, tous les jours sauf le mercredi**</u>=="
-    ![Plaisir de lire](./images/actualites/Quart_heure_lecture_01.png "café philo"){width=60% align=left}
-    ![Plaisir de lire](./images/actualites/Quart_heure_lecture_02.png "café philo"){width=60% align=left}
+    [**Les CAFE PHILO de l'année dernière**](./images/actualites/2024-2025_cafes_philo.pdf){target=_blank}
 
 ## Expositions et projets
 ??? "**Semaine de la presse et des médias** ==<u>**24 au 29 mars 2025**</u>=="
