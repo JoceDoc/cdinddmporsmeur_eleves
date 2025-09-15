@@ -130,9 +130,7 @@ ___
     - [**FranceInfo**](https://www.francetvinfo.fr/vrai-ou-fake/){target=_blank}
     
 ??? "**Ressources pour l'EMI**"
-    * [**Presse - Infos - Médias**](https://padlet.com/cdinddmporsmeur/emi_2024){target=_blank}
-
-    * [**Questions de science ou de société en débats**](https://padlet.com/cdinddmporsmeur/Questions_debats){target=_blank}
+    * [**Presse - Infos - Médias**](https://padlet.com/cdinddmporsmeur/emi_2025){target=_blank}
 
 ??? "**Données personnelles**"
     - [**Données personnelles**](https://www.cnil.fr/fr/rgpd-de-quoi-parle-t-on){target=_blank} : RGPD, de quoi parle-t-on ?
