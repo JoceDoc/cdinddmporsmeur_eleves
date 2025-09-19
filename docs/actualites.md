@@ -62,6 +62,33 @@
    
 ??? "**Kiosque du mois** :newspaper:"
     
+    [![Aide-soignante](./images/abonnements/08_aout_2025/Aide-soignante_202508_269.jpg "Aide-soignante, août 2025, n°269"){width=20%}](./images/abonnements/08_aout_2025/Aide-soignante_202508_269.pdf){target=_blank}
+    [![Alternatives Economiques](./images/abonnements/09_septembre_2025/Alternatives_economiques_202509_462.jpg "Alternatives Economiques, septembre 2025, n°462"){width=20%}](./images/abonnements/09_septembre_2025/Alternatives_economiques_202509_462.pdf){target=_blank}
+    [![Capital](./images/abonnements/09_septembre_2025/Capital_202509_408.jpg "Capital, septembre 2025, n°408"){width=20%}](./images/abonnements/09_septembre_2025/Capital_202509_408.pdf){target=_blank}
+    [![Documentation photographique](./images/abonnements/05_mai_2025/Documentation_photographique_202505_8166.jpg "Documentation photographique, mai 2025, n°8166"){width=20%}](./images/abonnements/05_mai_2025/Documentation_photographique_202505_8166.pdf){target=_blank}
+    [![Eau_et_rivières_de_Bretagne](./images/abonnements/06_juin_2025/Eau_et_rivières_de_bretagne_202506_201.jpg "Eau et rivières de Bretagne, juin 2025, n°201"){width=20%}](./images/abonnements/06_juin_2025/Eau_et_rivières_de_bretagne_202506_201.pdf){target=_blank}
+    [![Journal_animation](./images/abonnements/09_septembre_2025/Journal_animation_202509_253.jpg "Journal de l'animation, septembre-octobre 2025, n°253"){width=20%}](./images/abonnements/09_septembre_2025/Journal_animation_202509_253.pdf){target=_blank}
+    [![Lire magazine](./images/abonnements/09_septembre_2025/Lire_magazine_202509_544.jpg "Lire magazine, septembre 2025, n°5434"){width=20%}](./images/abonnements/09_septembre_2025/Lire_magazine_202509_544.pdf){target=_blank}
+    [![Philosophie magazine](./images/abonnements/09_septembre_2025/Philosophie_magazine_202509_192.jpg "Philosophie magazine, septembre 2025, n°192"){width=20%}](./images/abonnements/09_septembre_2025/Philosophie_magazine_202509_192.pdf){target=_blank}
+    [![Points de vente](./images/abonnements/09_septembre_2025/Points_de_vente_202509_1338.jpg "Points de vente, septembre 2025, n°1338"){width=20%}](./images/abonnements/09_septembre_2025/Points_de_vente_202509_1338.pdf){target=_blank}
+    [![Que choisir santé](./images/abonnements/09_septembre_2025/Que_choisir_sante_202509_207.jpg "Que choisir santé, septembre 2025, n°207"){width=20%}](./images/abonnements/09_septembre_2025/Que_choisir_sante_202509_207.pdf){target=_blank}
+    [![Science et Vie](./images/abonnements/09_septembre_2025/Science_et_vie_202509_1296.jpg "Science et Vie, septembre 2025, n°1296"){width=20%}](./images/abonnements/09_septembre_2025/Science_et_vie_202509_1296.pdf){target=_blank}
+    [![Science et Vie](./images/abonnements/09_septembre_2025/Science_et_vie_202509_321HS.jpg "Science et Vie, septembre 2025, n°321HS"){width=20%}](./images/abonnements/09_septembre_2025/Science_et_vie_202509_321HS.pdf){target=_blank}
+    [![Science et Vie Junior](./images/abonnements/08_aout_2025/Science_et_vie_junior_202508_431.jpg "Science et Vie junior, août 2025, n°431"){width=20%}](./images/abonnements/08_aout_2025/Science_et_vie_junior_202508_431.pdf){target=_blank}
+    [![Science et Vie Junior](./images/abonnements/07_juillet_2025/Science_et_vie_junior_202507_172HS.jpg "Science et Vie junior, juillet 2025, n°172HS"){width=20%}](./images/abonnements/07_juillet_2025/Science_et_vie_junior_202507_172HS.pdf){target=_blank}
+    [![Sciences et avenir](./images/abonnements/09_septembre_2025/Sciences_et_avenir_202509_943.jpg"Sciences et avenir, septembre 2024, n°943"){width=20%}](./images/abonnements/09_septembre_2025/Sciences_et_avenir_202509_943.pdf){target=_blank}
+    [![Sciences et avenir](./images/abonnements/07_juillet_2025/Sciences_et_avenir_202507_222HS.jpg "Sciences et avenir, juillet 2025, n°222HS"){width=20%}](./images/abonnements/07_juillet_2025/Sciences_et_avenir_202507_222HS.pdf){target=_blank}
+    [![Sciences humaines](./images/abonnements/06_juin_2025/Sciences_humaines_202506_379.jpg "Sciences humaines, juin 2025, n°379"){width=20%}](./images/abonnements/06_juin_2025/Sciences_humaines_202506_379.pdf){target=_blank}
+    [![Sciences Ouest](./images/abonnements/06_juin_2025/Sciences_ouest_202506_430.jpg "Sciences ouest, juin 2025, n°430"){width=20%}](./images/abonnements/06_juin_2025/Sciences_ouest_202506_430.pdf){target=_blank}
+    [![Sport et vie](./images/abonnements/09_septembre_2025/Sport_et_vie_202509_212.jpg "Sport et Vie, septembre 2025, n°212"){width=20%}](./images/abonnements/09_septembre_2025/Sport_et_vie_202509_212.pdf){target=_blank}
+    [![Sport et vie](./images/abonnements/06_juin_2025/Sport_et_vie_202506_62HS.jpg "Sport et Vie, juin 2025, n°62HS"){width=20%}](./images/abonnements/06_juin_2025/Sport_et_vie_202506_62HS.pdf){target=_blank}
+    [![Tangente](./images/abonnements/09_septembre_2025/Tangente_202509_225.jpg "Tangente, septembre 2025, n°225"){width=20%}](./images/abonnements/09_septembre_2025/Tangente_202509_225.pdf){target=_blank}
+    [![Tangente](./images/abonnements/09_septembre_2025/Tangente_202509_95HS.jpg "Tangente, septembre 2024, n°95HS"){width=20%}](./images/abonnements/09_septembre_2025/Tangente_202509_95HS.pdf){target=_blank}
+    [![Virgule](./images/abonnements/09_septembre_2025/Virgule_202509_242.jpg "Virgule, septembre 2025, n°242"){width=20%}](./images/abonnements/09_septembre_2025/Virgule_202509_242.pdf){target=_blank}
+
+
+??? "**Kiosque du mois précédent** :newspaper:"       
+
     [![Aide-soignante](./images/abonnements/07_juillet_2025/Aide-soignante_202507_268.jpg "Aide-soignante, juillet 2025, n°268"){width=20%}](./images/abonnements/07_juillet_2025/Aide-soignante_202507_268.pdf){target=_blank}
     [![Aide-soignante](./images/abonnements/08_aout_2025/Aide-soignante_202508_269.jpg "Aide-soignante, août 2025, n°269"){width=20%}](./images/abonnements/08_aout_2025/Aide-soignante_202508_269.pdf){target=_blank}
     [![Alternatives Economiques](./images/abonnements/07_juillet_2025/Alternatives_economiques_202507_460.jpg "Alternatives Economiques, juillet 2025, n°460"){width=20%}](./images/abonnements/07_juillet_2025/Alternatives_economiques_202507_460.pdf){target=_blank}
@@ -91,37 +118,7 @@
     [![Tangente](./images/abonnements/07_juillet_2025/Tangente_202507_224.jpg "Tangente, juillet 2024, n°224"){width=20%}](./images/abonnements/07_juillet_2025/Tangente_202507_224.pdf){target=_blank}
     [![Tangente](./images/abonnements/06_juin_2025/Tangente_202506_94HS.jpg "Tangente, juin 2024, n°94HS"){width=20%}](./images/abonnements/06_juin_2025/Tangente_202506_94HS.pdf){target=_blank}
     [![Virgule](./images/abonnements/07_juillet_2025/Virgule_202507_241.jpg "Virgule, juillet 2025, n°241"){width=20%}](./images/abonnements/07_juillet_2025/Virgule_202507_241.pdf){target=_blank}
-
-
-??? "**Kiosque du mois précédent** :newspaper:"       
-
-    [![Aide-soignante](./images/abonnements/05_mai_2025/Aide-soignante_202505_267.jpg "Aide-soignante, mai 2025, n°267"){width=20%}](./images/abonnements/05_mai_2025/Aide-soignante_202505_267.pdf){target=_blank}
-    [![Alternatives Economiques](./images/abonnements/06_juin_2025/Alternatives_economiques_202506_459.jpg "Alternatives Economiques, juin 2025, n°459"){width=20%}](./images/abonnements/06_juin_2025/Alternatives_economiques_202506_459.pdf){target=_blank}
-    [![Alternatives Economiques](./images/abonnements/04_avril_2025/Alternatives_economiques_202504_131HS.jpg "Alternatives Economiques, avril 2025, n°131HS"){width=20%}](./images/abonnements/04_avril_2025/Alternatives_economiques_202504_131HS.pdf){target=_blank}
-    [![Ca m'intéresse](./images/abonnements/06_juin_2025/Ca_m_interesse_202506_532.jpg "Ca m'intéresse, juin 2025, n°532"){width=20%}](./images/abonnements/06_juin_2025/Ca_m_interesse_202506_532.pdf){target=_blank}
-    [![Capital](./images/abonnements/06_juin_2025/Capital_202506_405.jpg "Capital, juin 2025, n°405"){width=20%}](./images/abonnements/06_juin_2025/Capital_202506_405.pdf){target=_blank}
-    [![Documentatison photographique](./images/abonnements/05_mai_2025/Documentation_photographique_202505_8165.jpg "Documentation photographique, mai 2025, n°8165"){width=20%}](./images/abonnements/05_mai_2025/Documentation_photographique_202505_8165.pdf){target=_blank}
-    [![Documentation photographique](./images/abonnements/05_mai_2025/Documentation_photographique_202505_8166.jpg "Documentation photographique, mai 2025, n°8166"){width=20%}](./images/abonnements/05_mai_2025/Documentation_photographique_202505_8166.pdf){target=_blank}
-    [![Eau_et_rivières_de_Bretagne](./images/abonnements/06_juin_2025/Eau_et_rivières_de_bretagne_202506_201.jpg "Eau et rivières de Bretagne, juin 2025, n°201"){width=20%}](./images/abonnements/06_juin_2025/Eau_et_rivières_de_bretagne_202506_201.pdf){target=_blank}
-    [![Journal_animation](./images/abonnements/05_mai_2025/Journal_animation_202505_251.jpg "Journal de l'animation, mai-juin 2025, n°251"){width=20%}](./images/abonnements/05_mai_2025/Journal_animation_202505_251.pdf){target=_blank}
-    [![Lire magazine](./images/abonnements/06_juin_2025/Lire_magazine_202506_541.jpg "Lire magazine, juin 2025, n°541"){width=20%}](./images/abonnements/06_juin_2025/Lire_magazine_202506_541.pdf){target=_blank}
-    [![Philosophie magazine](./images/abonnements/06_juin_2025/Philosophie_magazine_202506_190.jpg "Philosophie magazine, juin 2025, n°190"){width=20%}](./images/abonnements/06_juin_2025/Philosophie_magazine_202506_190.pdf){target=_blank}
-    [![Points de vente](./images/abonnements/06_juin_2025/Points_de_vente_202506_1337.jpg "Points de vente, juin 2025, n°1337"){width=20%}](./images/abonnements/06_juin_2025/Points_de_vente_202506_1337.pdf){target=_blank}
-    [![Que choisir](./images/abonnements/06_juin_2025/Que_choisir_202506_647.jpg "Que choisir, juin 2025, n°647"){width=20%}](./images/abonnements/06_juin_2025/Que_choisir_202506_647.pdf){target=_blank}
-    [![Que choisir santé](./images/abonnements/06_juin_2025/Que_choisir_sante_202506_205.jpg "Que choisir santé, juin 2025, n°205"){width=20%}](./images/abonnements/06_juin_2025/Que_choisir_sante_202506_205.pdf){target=_blank}
-    [![Science et Vie](./images/abonnements/06_juin_2025/Science_et_vie_202506_1293.jpg "Science et Vie, juin 2025, n°1293"){width=20%}](./images/abonnements/06_juin_2025/Science_et_vie_202506_1293.pdf){target=_blank}
-    [![Science et Vie](./images/abonnements/05_mai_2025/Science_et_vie_202505_319HS.jpg "Science et Vie, mai 2025, n°319HS"){width=20%}](./images/abonnements/05_mai_2025/Science_et_vie_202505_319HS.pdf){target=_blank}
-    [![Science et Vie Junior](./images/abonnements/06_juin_2025/Science_et_vie_junior_202506_429.jpg "Science et Vie junior, juin 2025, n°429"){width=20%}](./images/abonnements/06_juin_2025/Science_et_vie_junior_202506_429.pdf){target=_blank}
-    [![Science et Vie Junior](./images/abonnements/03_mars_2025/Science_et_vie_junior_202503_170HS.jpg "Science et Vie junior, mars 2025, n°170HS"){width=20%}](./images/abonnements/03_mars_2025/Science_et_vie_junior_202503_170HS.pdf){target=_blank}
-    [![Sciences et avenir](./images/abonnements/06_juin_2025/Sciences_et_avenir_202506_940.jpg "Sciences et avenir, juin 2024, n°940"){width=20%}](./images/abonnements/06_juin_2025/Sciences_et_avenir_202506_940.pdf){target=_blank}
-    [![Sciences et avenir](./images/abonnements/04_avril_2025/Sciences_et_avenir_202504_221HS.jpg "Sciences et avenir, avril 2025, n°221HS"){width=20%}](./images/abonnements/04_avril_2025/Sciences_et_avenir_202504_221HS.pdf){target=_blank}
-    [![Sciences humaines](./images/abonnements/06_juin_2025/Sciences_humaines_202506_379.jpg "Sciences humaines, juin 2025, n°379"){width=20%}](./images/abonnements/06_juin_2025/Sciences_humaines_202506_379.pdf){target=_blank}
-    [![Sciences Ouest](./images/abonnements/06_juin_2025/Sciences_ouest_202506_430.jpg "Sciences ouest, juin 2025, n°430"){width=20%}](./images/abonnements/06_juin_2025/Sciences_ouest_202506_430.pdf){target=_blank}
-    [![Sport et vie](./images/abonnements/05_mai_2025/Sport_et_vie_202505_210.jpg "Sport et Vie, mai 2025, n°210"){width=20%}](./images/abonnements/05_mai_2025/Sport_et_vie_202505_210.pdf){target=_blank}
-    [![Sport et vie](./images/abonnements/06_juin_2025/Sport_et_vie_202506_62HS.jpg "Sport et Vie, juin 2025, n°62HS"){width=20%}](./images/abonnements/06_juin_2025/Sport_et_vie_202506_62HS.pdf){target=_blank}
-    [![Tangente](./images/abonnements/05_mai_2025/Tangente_202505_223.jpg "Tangente, mai 2024, n°223"){width=20%}](./images/abonnements/05_mai_2025/Tangente_202505_223.pdf){target=_blank}
-    [![Tangente](./images/abonnements/06_juin_2025/Tangente_202506_94HS.jpg "Tangente, juin 2024, n°94HS"){width=20%}](./images/abonnements/06_juin_2025/Tangente_202506_94HS.pdf){target=_blank}
-    [![Virgule](./images/abonnements/06_juin_2025/Virgule_202506_240.jpg "Virgule, juin 2025, n°240"){width=20%}](./images/abonnements/06_juin_2025/Virgule_202506_240.pdf){target=_blank}
+ 
     
    
     
@@ -184,6 +181,7 @@
     [![NRP Lycée](./images/abonnements/enseignants/NRP_lycee_202412_109.jpg "NRP Lycée, décembre 2024, n°109"){width=20%}](./images/abonnements/enseignants/NRP_lycee_202412_109.pdf){target=_blank}
     [![NRP Lycée](./images/abonnements/enseignants/NRP_lycee_202503_110.jpg "NRP Lycée, mars 2025, n°110"){width=20%}](./images/abonnements/enseignants/NRP_lycee_202503_110.pdf){target=_blank}
     [![NRP Lycée](./images/abonnements/enseignants/NRP_lycee_202505_111.jpg "NRP Lycée, mai 2025, n°111"){width=20%}](./images/abonnements/enseignants/NRP_lycee_202505_111.pdf){target=_blank}
+    [![NRP Lycée](./images/abonnements/enseignants/NRP_Lycee_202509_112.jpg "NRP Lycée, septembre 2025, n°112"){width=20%}](./images/abonnements/enseignants/NRP_Lycee_202509_112.pdf){target=_blank}
 
 
 
