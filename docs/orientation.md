@@ -19,10 +19,8 @@ L'actualité de l'orientation au lycée et dans la région, les ==**sites incont
 
 
 ???+ info "**IMMERSIONS - PORTES OUVERTES - VISIO**"
-    ![**JOB dating**](./images/orientation/2025_Jobdating_NDDM.jpg "JOB Dating"){width=35%}
-    [![**Continum Brio**](./images/orientation/202503_Affiche_INSTAFAC.jpg "Instafac"){width=35%}](https://www.univ-brest.fr/cap-avenir/fr/page/immersion-individuelle-lubo){target=_blank}
-     [![**UBO**](./images/orientation/202503_UBO_speed_searching.jpg "Inscription_SUP_Javouhey"){width=35%}](https://www.univ-brest.fr/cap-avenir/fr/actualite/speed-searching-10-minutes-pour-decouvrir-la-recherche){target=_blank}
-    [![**Javouhey**](./images/orientation/2024-2025_Javouhey_SUP_inscriptions.jpg "Inscription_SUP_Javouhey"){width=55%}](https://www.javouhey-brest.fr/le-sup/){target=_blank}
+
+    
 
     
 ??? info "**Un espace au service de l'emploi**"
@@ -156,7 +154,6 @@ ___
         
         - [**PORTES OUVERTES DU SUPERIEUR - 2024/2025 - Accéder au moteur de recherche**](https://www.onisep.fr/orientation/l-enseignement-superieur/les-journees-portes-ouvertes-2024-2025-dans-l-enseignement-superieur){target=_blank}
         - [**Catalogue IDEO des IMMERSIONS - Bretagne**](https://www.linscription.com/pro/catalogue-immersion-brio-ideo-actions-pour-lyceens.php){target=_blank}
-        - [**Catalogue des PO - 2024/2025 Académie de Rennes**](./images/orientation/2025_JPO_superieur_superieur_Acad_Rennes.pdf){target=_blank}
         - [**Printemps de l'orientation**](https://www.education.gouv.fr/reussir-au-lycee/les-semaines-de-l-orientation-327179/){target=_blank}
         
         ==*ATTENTION : Certaines dates peuvent ne pas être à jour. N'hésitez pas à vérifier directement sur les sites des établissements.*==
@@ -255,7 +252,7 @@ ___
         
         [![Forum_des _armées](./images/orientation/2024_AAE-1.jpg "Forum des armées"){width=25%}](https://devenir-aviateur.fr/){target=_blank}
         [![Recrutement_EETAAE](./images/orientation/EETAAE_recrutement_2024.jpg "Affiche"){width=40%}](https://eetaa722.fr/){target=_blank}
-        [![**AIR actualités"**](./images/orientation/202502_AirActu.jpg "Air actualités, février 2025"){width=25%}](./images/orientation/202502_AirActu.pdf){target=_blank}
+        [![**AIR actualités"**](./images/orientation/2025-2026_Air_Actu_08-09.jpg "Air actualités, août-septembre 2025"){width=25%}](./images/orientation/2025-2026_Air_Actu_08-09.pdf){target=_blank}
         [![**EFSOAA"**](./images/orientation/brochure-efsoaa-page-001.jpg "EFSOAA"){width=25%}](./pdf/brochure-efsoaa.pdf){target=_blank}
     === "SECURITE"
         - [**Devenir gendarme**](https://www.devenir-gendarme.fr/){target=_blank}
@@ -459,7 +456,6 @@ ___
         - [**IPESUP**](https://www.ipesup.fr/){target=_blank} : prépa concours AVENIR - PUISSANCE ALPHA - GEPI POLYTECH.
         - [**Puissance ALPHA**](https://www.puissance-alpha.fr/){target=_blank} : les 18 grandes écoles d'ingénieurs du groupe, modalités d'admission.
 
-         [![**Concours ENM**](./images/orientation/2024_ITM_meteo_france.jpg "Concours Ecole Nationale de Météorologie"){width=25%}](https://meteofrance.fr/enm/admission){target=_blank}
     === "ECOLES"
         - [**CPE Lyon**](https://www.cpe.fr/){target=_blank} : Ecole d'Ingénieurs en Chimie et Sciences du Numérique (*Lyon - 69*).
         - [**ENSCR Rennes**](https://www.ensc-rennes.fr/){target=_blank} : Ecole Nationale Supérieure de Chimie de Rennes (*Rennes - 35*)
