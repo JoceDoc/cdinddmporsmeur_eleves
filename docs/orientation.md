@@ -14,11 +14,12 @@ L'actualité de l'orientation au lycée et dans la région, les ==**sites incont
 
 ## ACTUALITES
 
-???+ info "**PARCOURSUP**"
-    [![**Calendrier**](./images/orientation/2024-2025_parcoursup_livret_calendrier.jpg "Parcoursup calendrier"){width=35%}](https://www.parcoursup.gouv.fr/calendrier){target=_blank} 
+???+ info "**LA NUIT DU DROIT :  jeudi 2 octobre 2025**"
+    [![**Nuit_du_droit_2025**](./images/orientation/nuit_du_droit.png "Nuit du droit"){width=35%}](https://www.lanuitdudroit.fr/){target=_blank} 
 
 
 ???+ info "**IMMERSIONS - PORTES OUVERTES - VISIO**"
+    [![**BRIO**](./images/orientation/2025_Continum_Brio.png "Immersions_UBO"){width=35%}](https://www.linscription.com/pro/activite.php?P1=164264){target=_blank} 
 
     
 
@@ -349,7 +350,7 @@ ___
         - [**PASS ou L.AS**](https://pass-sante.com/){target=_blank} : que maîtriser pour réussir sa rentrée en [**PASS**](https://www.letudiant.fr/etudes/medecine-sante/ce-qu-il-faut-maitriser-pour-reussir-sa-rentree-en-pass-1.html){target=_blank}.
         - [**Appareillage médical**](https://www.youtube.com/watch?v=b2T9387AzkY){target=_blank} : enseignement supérieur santé du [**Lycée Mongazon**](https://www.mongazon.org/){target=_blank} (BTS Podo orthésiste - BTS Prothésiste orthésiste - CP Orthopédiste orthésiste) (*Angers - 49*)
     === "SOCIAL"
-        - [**ITES**](https://www.ites-formation.com/){target=_blank} : Institut de Formation au Travail Educatif et Social. [**Visio conférence**](https://www.ites-formation.com/evenements/information-collective-accompagnant-educatif-et-social-2/){target=_blank} ==**Jeudi 9 mars 2023**== pour devenir [**Accompagnant Educatif et Social**](https://www.ites-formation.com/formations/accompagnant-educatif-et-social/){target=_blank}.
+        - [**ITES**](https://www.ites-formation.com/){target=_blank} : Institut de Formation au Travail Educatif et Social. [**Portes ouvertes**](https://www.ites-formation.com/evenements/portes-ouvertes-brest/){target=_blank} ==**Samedi 22 novembre 2025**== : informations pratiques, programme...
         - [**ASKORIA**](https://www.askoria.eu/les-metiers/){target=_blank} : Les métiers de la solidarité (Accompagnement socio-éducatif - Animation sociale et de loisirs - Economie sociale et solidaire - Enfance, familles et parentalité - Handicap et logique inclusive)
     === "SPORT"
         - [**Travailler dans le sport**](https://sport.onisep.fr/){target=_blank} : je construis mon projet dans le sport sur le site de l'**ONISEP**.
@@ -485,9 +486,7 @@ ___
     === "UCO Brest-Guingamp"
         
         L'actualité de l'[**UCO**](https://guingamp.uco.fr/fr/fr/actualites-guingamp){target=_blank} Université Catholique de l'Ouest : portes ouvertes, immersions...
-        
-        Testez l'université grâce aux journées découvertes à l'[**UCO**](https://guingamp.uco.fr/fr/event/testez-l-universite-grace-aux-journees-decouvertes-de-fevrier-0){target=_blank}. 
-
+    
     
 ??? "Liens utiles pour l'université"
     === "PRESENTATION"

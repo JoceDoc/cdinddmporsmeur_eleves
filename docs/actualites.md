@@ -71,6 +71,7 @@
     [![Lire magazine](./images/abonnements/09_septembre_2025/Lire_magazine_202509_544.jpg "Lire magazine, septembre 2025, n°5434"){width=20%}](./images/abonnements/09_septembre_2025/Lire_magazine_202509_544.pdf){target=_blank}
     [![Philosophie magazine](./images/abonnements/09_septembre_2025/Philosophie_magazine_202509_192.jpg "Philosophie magazine, septembre 2025, n°192"){width=20%}](./images/abonnements/09_septembre_2025/Philosophie_magazine_202509_192.pdf){target=_blank}
     [![Points de vente](./images/abonnements/09_septembre_2025/Points_de_vente_202509_1338.jpg "Points de vente, septembre 2025, n°1338"){width=20%}](./images/abonnements/09_septembre_2025/Points_de_vente_202509_1338.pdf){target=_blank}
+    [![Que choisir](./images/abonnements/09_septembre_2025/Que_choisir_202509_649.jpg "Que choisir septembre 2025, n°649"){width=20%}](./images/abonnements/09_septembre_2025/Que_choisir_202509_649.pdf){target=_blank}
     [![Que choisir santé](./images/abonnements/09_septembre_2025/Que_choisir_sante_202509_207.jpg "Que choisir santé, septembre 2025, n°207"){width=20%}](./images/abonnements/09_septembre_2025/Que_choisir_sante_202509_207.pdf){target=_blank}
     [![Science et Vie](./images/abonnements/09_septembre_2025/Science_et_vie_202509_1296.jpg "Science et Vie, septembre 2025, n°1296"){width=20%}](./images/abonnements/09_septembre_2025/Science_et_vie_202509_1296.pdf){target=_blank}
     [![Science et Vie](./images/abonnements/09_septembre_2025/Science_et_vie_202509_321HS.jpg "Science et Vie, septembre 2025, n°321HS"){width=20%}](./images/abonnements/09_septembre_2025/Science_et_vie_202509_321HS.pdf){target=_blank}
@@ -130,6 +131,7 @@
     [![Vocable Anglais](./images/abonnements/langues/Vocable_anglais_202506_910.jpg "Vocable Anglais, juin 2025, n°910"){width=20%}](./images/abonnements/langues/Vocable_anglais_202506_910.pdf){target=_blank}
     [![Vocable Anglais](./images/abonnements/langues/Vocable_anglais_202507_911.jpg "Vocable Anglais, juillet 2025, n°911"){width=20%}](./images/abonnements/langues/Vocable_anglais_202507_911.pdf){target=_blank}
     [![Vocable Anglais](./images/abonnements/langues/Vocable_anglais_202508_912.jpg "Vocable Anglais, août 2025, n°912"){width=20%}](./images/abonnements/langues/Vocable_anglais_202508_912.pdf){target=_blank}
+    [![Vocable Anglais](./images/abonnements/langues/Vocable_anglais_202509_913.jpg "Vocable Anglais, septembre 2025, n°913"){width=20%}](./images/abonnements/langues/Vocable_anglais_202509_913.pdf){target=_blank}
 
 
     
@@ -142,6 +144,7 @@
     [![Vocable Allemand](./images/abonnements/langues/Vocable_allemand_202506_903.jpg "Vocable Allemand, juin 2025, n°903"){width=20%}](./images/abonnements/langues/Vocable_allemand_202506_903.pdf){target=_blank}
     [![Vocable Allemand](./images/abonnements/langues/Vocable_allemand_202507_904.jpg "Vocable Allemand, juillet 2025, n°904"){width=20%}](./images/abonnements/langues/Vocable_allemand_202507_904.pdf){target=_blank}
     [![Vocable Allemand](./images/abonnements/langues/Vocable_allemand_202508_905.jpg "Vocable Allemand, août 2025, n°905"){width=20%}](./images/abonnements/langues/Vocable_allemand_202508_905.pdf){target=_blank}
+    [![Vocable Allemand](./images/abonnements/langues/Vocable_allemand_202509_906.jpg "Vocable Allemand, septembre 2025, n°906"){width=20%}](./images/abonnements/langues/Vocable_allemand_202509_906.pdf){target=_blank}
 
     
     ??? Example ":es: **Espagnol** :es:"
@@ -151,7 +154,8 @@
     [![Vocable Espagnol](./images/abonnements/langues/Vocable_espagnol_202505_895.jpg "Vocable Espagnol, mai 2025, n°895"){width=20%}](./images/abonnements/langues/Vocable_espagnol_202505_895.pdf){target=_blank}
     [![Vocable Espagnol](./images/abonnements/langues/Vocable_espagnol_202506_896.jpg "Vocable Espagnol, juin 2025, n°896"){width=20%}](./images/abonnements/langues/Vocable_espagnol_202506_896.pdf){target=_blank}
     [![Vocable Espagnol](./images/abonnements/langues/Vocable_espagnol_202507_897.jpg "Vocable Espagnol, juillet 2025, n°897"){width=20%}](./images/abonnements/langues/Vocable_espagnol_202507_897.pdf){target=_blank}
-     [![Vocable Espagnol](./images/abonnements/langues/Vocable_espagnol_202508_898.jpg "Vocable Espagnol, août 2025, n°898"){width=20%}](./images/abonnements/langues/Vocable_espagnol_202508_898.pdf){target=_blank}
+    [![Vocable Espagnol](./images/abonnements/langues/Vocable_espagnol_202508_898.jpg "Vocable Espagnol, août 2025, n°898"){width=20%}](./images/abonnements/langues/Vocable_espagnol_202508_898.pdf){target=_blank}**
+    [![Vocable Espagnol](./images/abonnements/langues/Vocable_espagnol_202509_899.jpg "Vocable Espagnol, septembre 2025, n°899"){width=20%}](./images/abonnements/langues/Vocable_espagnol_202509_899.pdf){target=_blank}
 
 
 ??? "**Pour les enseignants**"
@@ -168,6 +172,7 @@
     [![Cahiers pédagogiques](./images/abonnements/enseignants/Cahiers_pedagogiques_202502_598.jpg "Cahiers pédagogiques, février 2025, n°598"){width=20%}](./images/abonnements/enseignants/Cahiers_pedagogiques_202502_598.pdf){target=_blank}
     [![Cahiers pédagogiques](./images/abonnements/enseignants/Cahiers_pedagogiques_202503_599.jpg "Cahiers pédagogiques, mars 2025, n°599"){width=20%}](./images/abonnements/enseignants/Cahiers_pedagogiques_202503_599.pdf){target=_blank}
     [![Cahiers pédagogiques](./images/abonnements/enseignants/Cahiers_pedagogiques_202505_600.jpg "Cahiers pédagogiques, mai-juin 2025, n°600"){width=20%}](./images/abonnements/enseignants/Cahiers_pedagogiques_202505_600.pdf){target=_blank}
+    [![Cahiers pédagogiques](./images/abonnements/enseignants/Cahiers_pedagogiques_202509_601.jpg "Cahiers pédagogiques, septembre 2025, n°601"){width=20%}](./images/abonnements/enseignants/Cahiers_pedagogiques_202509_601.pdf){target=_blank}
 
     ??? Example "**NRP Lycée**"
     
