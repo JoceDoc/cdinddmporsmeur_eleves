@@ -20,7 +20,8 @@ L'actualité de l'orientation au lycée et dans la région, les ==**sites incont
 
 ???+ info "**IMMERSIONS - PORTES OUVERTES - VISIO**"
     [![**BRIO**](./images/orientation/2025_Continum_Brio.png "Immersions_UBO"){width=35%}](https://www.linscription.com/pro/activite.php?P1=164264){target=_blank} 
-
+    [![**IUT-UBO**](./images/orientation/2025-2026_IUT-UBO_insertions.png "Immersions_IUT-UBO"){width=45%}](https://www.linscription.com/pro/activite.php?P1=227696){target=_blank}
+    [![**INSTAFAC**](./images/orientation/2025-2026_Instafac.jpg "CAP'AVENIR"){width=35%}](https://nouveau.univ-brest.fr/cap-avenir/fr/page/insta-fac){target=_blank}
     
 
     

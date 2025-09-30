@@ -4,8 +4,8 @@
     [![logo ECAM](./images/logo_ecam.jpg "Actualités Lycée"){width=90% align=right}](https://www.ecmorlaix.fr/actualites/){target=_blank}
 
 ## Rendez-vous
-???+ "**CAFE PHILO** ==<u>**Retour du CAFE PHILO**</u>=="
-    ![Qui_suis-je](./images/actualites/20250923_Affiche_cafe_philo_01.png "café philo"){width=45% align=left}
+???+ "**CAFE PHILO** ==<u>**Prochain rendez-vous CAFE PHILO**</u>=="
+    ![Qui_suis-je](./images/actualites/20251007_Affiche_cafe_philo_02.png "café philo"){width=45% align=left}
 
     [**Les CAFE PHILO de l'année dernière**](./images/actualites/2024-2025_cafes_philo.pdf){target=_blank}
 
