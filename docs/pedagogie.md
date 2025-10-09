@@ -130,7 +130,7 @@ ___
     - [**FranceInfo**](https://www.francetvinfo.fr/vrai-ou-fake/){target=_blank}
     
 ??? "**Ressources pour l'EMI**"
-    * [**Presse - Infos - Médias**](https://padlet.com/cdinddmporsmeur/emi_2025){target=_blank}
+    [**Presse - Infos - Médias**](https://padlet.com/cdinddmporsmeur/emi_2025){target=_blank}
 
 ??? "**Données personnelles**"
     - [**Données personnelles**](https://www.cnil.fr/fr/rgpd-de-quoi-parle-t-on){target=_blank} : RGPD, de quoi parle-t-on ?
@@ -156,8 +156,8 @@ ___
 
 ___
 
-??? info "**Concours de critique**"
-    En octobre et novembre, les élèves de 1G2 et 1G3, ont participé au [**concours du Prix de la plume lycéenne**](https://www.bruitdelire.org/concours-de-critique-litteraire/){target=_blank} organisé par la Région Bretagne en partenariat avec le Rectorat de Rennes et l’association ==**"Bruit de lire"**==. L’objectif est de développer l'intérêt des lycéens pour la littérature contemporaine, stimuler leur capacité à émettre un jugement critique sur l’un des romans de la sélection en lice pour le ==**Prix Goncourt des Lycéens**==, et confronter leur point de vue avec celui d'autres lecteurs.
+??? info "**Prix de la plume lycéenne**"
+    En octobre et novembre, les élèves de 1G2 et 1G3, ont participé au [**Prix de la plume lycéenne**](https://www.bruitdelire.org/concours-de-critique-litteraire/){target=_blank} organisé par la Région Bretagne en partenariat avec le Rectorat de Rennes et l’association ==**"Bruit de lire"**==. L’objectif est de développer l'intérêt des lycéens pour la littérature contemporaine, stimuler leur capacité à émettre un jugement critique sur l’un des romans de la sélection en lice pour le ==**Prix Goncourt des Lycéens**==, et confronter leur point de vue avec celui d'autres lecteurs.
     
     En apprenant à exprimer leur pensée et à argumenter, les lycéens avancent vers l'autonomie. Au-delà du « j’aime » / « je n’aime pas », ils apprennent à formuler une appréciation personnelle sur l’œuvre choisie et à justifier leur avis. Les élèves développent ainsi de véritables compétences d’argumentation.
        
@@ -334,7 +334,7 @@ ___
     - [**La philosophie**](https://la-philosophie.com/){target=_blank} : Les grands philosophes, les courants... préparation du BAC PHILO (Conseils méthodologiques - Résumés - Citations...)
     - [**Histoire de la philosophie**](http://www.histophilo.com/index.php){target=_blank}
     - [**Les philosophes dans le métro**](https://lesphilosophesdanslemetro.com/plan/){target=_blank}
-    - [**Le pouvoir de la parole**](https://www.franceculture.fr/emissions/les-chemins-de-la-philosophie/le-pouvoir-de-la-parole-14-parler-est-ce-agir){target=_blank} : Série de quatre émissions sur le pouvoir de la parole, diffusées sur France Culture en novembre 2019. (^^Episode 1^^ : Parler est-ce agir ? - ^^Épisode 2^^ : Quand la parole ne suffit pas : les stoïciens au secours de l’écologie - ^^Épisode 3^^ : Quand dire, c’est guérir - ^^Épisode 4^^ : Devient-on quelqu’un d’autre quand on ment ?).
+    - [**Le pouvoir de la parole**](https://www.franceculture.fr/emissions/les-chemins-de-la-philosophie/le-pouvoir-de-la-parole-14-parler-est-ce-agir){target=_blank} : Série de quatre émissions diffusées sur France Culture, sur le pouvoir de la parole. (^^Episode 1^^ : Parler est-ce agir ? - ^^Épisode 2^^ : Quand la parole ne suffit pas : les stoïciens au secours de l’écologie - ^^Épisode 3^^ : Quand dire, c’est guérir - ^^Épisode 4^^ : Devient-on quelqu’un d’autre quand on ment ?).
    
 ___  
 #### LLCE / Langues vivantes

@@ -14,14 +14,11 @@ L'actualité de l'orientation au lycée et dans la région, les ==**sites incont
 
 ## ACTUALITES
 
-???+ info "**LA NUIT DU DROIT :  jeudi 2 octobre 2025**"
-    [![**Nuit_du_droit_2025**](./images/orientation/nuit_du_droit.png "Nuit du droit"){width=35%}](https://www.lanuitdudroit.fr/){target=_blank} 
-
-
-???+ info "**IMMERSIONS - PORTES OUVERTES - VISIO**"
+???+ info "**IMMERSIONS - JOURNEES DECOUVERTES - PORTES OUVERTES**"
     [![**BRIO**](./images/orientation/2025_Continum_Brio.png "Immersions_UBO"){width=35%}](https://www.linscription.com/pro/activite.php?P1=164264){target=_blank} 
     [![**IUT-UBO**](./images/orientation/2025-2026_IUT-UBO_insertions.png "Immersions_IUT-UBO"){width=45%}](https://www.linscription.com/pro/activite.php?P1=227696){target=_blank}
     [![**INSTAFAC**](./images/orientation/2025-2026_Instafac.jpg "CAP'AVENIR"){width=35%}](https://nouveau.univ-brest.fr/cap-avenir/fr/page/insta-fac){target=_blank}
+    [![**UCO GUINGAMP**](./images/orientation/2025-2026_UCO_Guingamp.png "Journées découvertes UCO"){width=35%}](https://forms.office.com/pages/responsepage.aspx?id=gQWqPAeCVEaEOorw19tTeWGjZIomZ5NHgGlSRtQ5ETtUMVVIQVZXSUxLMkxXUkcyODhEOFJCRFlXNS4u&route=shorturl){target=_blank}
     
 
     
@@ -42,7 +39,6 @@ ___
         - [**1001 orientation**](https://1001orientations.fr/){target=_blank} : 1001 conseils, 1001 parcours pour choisir sa voie...
         - [**L'Etudiant**](https://www.letudiant.fr/orientation.html){target=_blank} : des outils pour réussir son orientation, des tests en ligne pour affiner sa réflexion sur l'orientation, le service de coaching du site de l'Etudiant...
         - [**THOTIS - Le média étudiant**](https://thotismedia.com/){target=_blank} : découvrir les formations et trouver sa voie - Affiner son projet en contactant des étudiants - Se renseigner sur Parcoursup. 
-        - [**MOOC**](https://www.mooc-orientation.fr/){target=_blank} : suivre les **MOOC** de l'orientation pour choisir son avenir...
         - [**SNU**](https://www.education.gouv.fr/le-service-national-universel-snu-jeunesse-engagee-5381){target=_blank} : présentation du **Service National Universel** et accès au [**portail**](https://www.snu.gouv.fr/){target=_blank} pour s'inscrire.
     === "GUIDES"
         Tous les [**guides IDEO**](https://ideo.bretagne.bzh/publications){target=_blank} pour l'aide à l'orientation.
@@ -55,7 +51,7 @@ ___
 
             [==**1-**==](https://www.onisep.fr/decouvrir-les-metiers/les-quiz-de-l-onisep/Quiz-Quels-metiers-selon-mes-gouts){target=_blank} Des métiers selon mes goûts
 
-            [==**2-**==](https://www.onisep.fr/metier/les-quiz-de-l-onisep/quiz-quels-metiers-demain){target=_blank} Quels métiers demain ?
+            [==**2-**==](https://www.onisep.fr/metier/quels-metiers-demain/quels-metiers-demain){target=_blank} Quels métiers demain ?
 
             [==**3-**==](https://www.onisep.fr/cap-vers-l-emploi/alternance/quiz-apprentissage){target=_blank} Quiz apprentissage 
 
@@ -67,9 +63,10 @@ ___
 
             [==**7-**==](https://www.onisep.fr/metier/les-quiz-de-l-onisep/quiz-universite){target=_blank} Vraies-fausses idées sur la FAC.
 
-        - [**Quels métiers pour moi ?**](https://www.onisep.fr/Media/Multimedia/Quiz-de-positionnement/quiz-quels-metiers-pour-moi){target=_blank} : quiz pour trouver des exemples de métiers qui vous correspondent. (*Onisep*)
-        - [**Tests d'orientation**](https://test-orientation.studyrama.com/){target=_blank} : pour mieux se connaître et découvrir des pistes pour mon avenir. (*Studyrama*)
-        - [**Quel métier est fait pour moi ?**](https://www.letudiant.fr/test/metiers/orientation/pour-quels-metiers-etes-vous-fait.html){target=_blank} : pour trouver sa voie, son futur métier et construire son projet professionnel. (*LEtudiant*)
+
+        - [**Tests d'orientation**](https://test-orientation.studyrama.com/){target=_blank} : pour mieux se connaître et découvrir des pistes pour mon avenir. (*sources : Studyrama*)
+        - [**Quel métier est fait pour moi ?**](https://www.letudiant.fr/test/metiers/orientation/pour-quels-metiers-etes-vous-fait.html){target=_blank} : pour trouver sa voie, son futur métier et construire son projet professionnel. (*Sources : L'Etudiant*)
+        - [**Les métiers de demain**](https://www.onisep.fr/metier/des-metiers-qui-recrutent/les-metiers-de-demain){target=_blank} : les métiers qui recrutent (*Sources : Onisep*)
         
     === "ALTERNANCE"
         - [**Portail de l'Alternance**](https://www.alternance.emploi.gouv.fr/decouvrir-lalternance){target=_blank}
@@ -97,8 +94,8 @@ ___
 ??? "Enseignements de SPECIALITE"
     === "DECOUVRIR et CHOISIR"
         - [**Les spécialités du BAC**](https://www.education.gouv.fr/reussir-au-lycee/choisir-ses-enseignements-de-specialite-au-lycee-pour-preparer-ses-etudes-superieures-325475){target=_blank} : calendrier, conseils, témoignages d'étudiants, attendus Parcoursup...
-        - [**Programmes et attendus des 13 spécialités ?**](https://www.studyrama.com/formations/diplomes/bac/les-programmes-et-attendus-des-12-specialites){target=_blank} (*Studyrama*)
-        - [**SIMULATEUR**](https://www.letudiant.fr/lycee/simulateur-de-specialites.html){target=_blank} (*L'Etudiant*)
+        - [**Programmes et attendus des 13 spécialités ?**](https://www.studyrama.com/formations/diplomes/bac/les-programmes-et-attendus-des-12-specialites){target=_blank} (*Sources : Studyrama*)
+        - [**SIMULATEUR**](https://www.letudiant.fr/lycee/simulateur-de-specialites.html){target=_blank} (*Sources :L'Etudiant*)
     === "ET APRES..."
         - [**Quelles spécialités pour quelles études ?**](https://www.letudiant.fr/lycee/specialites-bac-general/article/reforme-lycee-quelles-specialites-pour-quelles-etudes.html){target=_blank} : les spécialités recommandées par type de formation ou par domaine d'études.
         
@@ -124,22 +121,22 @@ ___
     === "SPECIALITES"
         - [**Quelle spécialité abandonner ?**](https://www.letudiant.fr/lycee/premiere/premiere-comment-choisir-la-specialite-a-abandonner.html){target=_blank}
         
-        Reportez-vous aussi à la rubrique [**SPECIALITES**](https://cdi-lycee.ecmorlaix.fr/orientation//#specialites){target=_blank} plus haut.
+        Reportez-vous aussi à la rubrique [**SPECIALITES**](https://cdi-lycee.ecmorlaix.fr/orientation/#specialites){target=_blank} plus haut.
     === "CHOISIR UN METIER"
         - [**Selon mes goûts**](https://www.onisep.fr/decouvrir-les-metiers/Des-metiers-selon-mes-gouts){target=_blank}
         - [**Par centre d'intérêts**](https://www.orientation-pour-tous.fr/tutoriel/decouvrir-les-metiers/je-veux-decouvrir-des-metiers-en-fonction-de-mes-centres-d-interet/article/les-metiers-par-centre-d-interet){target=_blank}
         - [**Par secteur ou domaine**](https://www.onisep.fr/decouvrir-les-metiers#Des-metiers-par-secteur){target=_blank}
     === "SALONS - FORUMS"
         - [**Salons - Forums de l'orientation**](https://www.onisep.fr/recherche?text=SALONS%20FORUMS){target=_blank} : comment préparer sa visite à un salon ?
-        - [**AZIMUT**](https://www.salon-azimut.com/){target=_blank} : site officiel du salon les ==**25-27 janvier 2024**==.
-        - [**SUP'ARMOR**](https://www.suparmor.fr/){target=_blank} : l'équivalent d'Azimut dans le 22 du ==**14-15-16 décembre 2023**==.
+        - [**AZIMUT**](https://www.salon-azimut.com/){target=_blank} : site officiel du salon les ==**23-24 janvier 2026 Parc des expositions à Brest**==.
+        - [**SUP'ARMOR**](https://www.suparmor.fr/){target=_blank} : l'équivalent d'Azimut dans le 22 du ==**11 au 13 décembre 2025**==.
         - [**STUDYRAMA**](https://www.studyrama.com/){target=_blank} : dates des prochains salons étudiants...
 ___ 
 ### Niveau Tle
 ??? "TERMINALE"
     === "RESSOURCES"
         - [**MODULE AVENIRS LYCEE**](https://lycee-avenirs.onisep.fr/){target=_blank} : les étapes pour construire mon avenir au lycée.(*Sources : Onisep*)
-        - [**Enseignement supérieur**](https://www.enseignementsup-recherche.gouv.fr/fr/formations-diplomes){target=_blank} : formations et diplômes. (*Sources : Ministère de l'enseignement supérieur et de la recherche*)
+        - [**Enseignement supérieur**](https://www.enseignementsup-recherche.gouv.fr/fr){target=_blank} : Ministère chargé de l'enseignement supérieur. (*Sources : Ministère de l'enseignement supérieur et de la recherche*)
         - [**Quelles études après le BAC**](https://www.onisep.fr/formation#apres-le-bac-les-etudes-superieures){target=_blank} : étude courtes, longues, licence, BUT, BTS, écoles spécialisée... découvrez toutes les possibilités qui s'offrent à vous. (*Sources : Onisep*)
         - [**Quelle école après le BAC ?**](https://www.ipesup.fr/){target=_blank} : IPESUP, préparations aux examens et concours de l’enseignement supérieur.
         - [**Ensemble des ressources de la DGESIP**](https://services.dgesip.fr/T454/S743/ressources){target=_blank} : Direction Générale de l'Enseignement Supérieur et de l'Insertion.
@@ -154,7 +151,7 @@ ___
 
     === "PO - IMMERSIONS"
         
-        - [**PORTES OUVERTES DU SUPERIEUR - 2024/2025 - Accéder au moteur de recherche**](https://www.onisep.fr/orientation/l-enseignement-superieur/les-journees-portes-ouvertes-2024-2025-dans-l-enseignement-superieur){target=_blank}
+        - [**PORTES OUVERTES DU SUPERIEUR - 2025/2026 - Accéder au moteur de recherche**](https://www.onisep.fr/recherche?context=jpo&sf[common_niveau_enseignement_mid][]=apr%C3%A8s%20bac&not_show_facets=common_niveau_enseignement_mid){target=_blank}
         - [**Catalogue IDEO des IMMERSIONS - Bretagne**](https://www.linscription.com/pro/catalogue-immersion-brio-ideo-actions-pour-lyceens.php){target=_blank}
         - [**Printemps de l'orientation**](https://www.education.gouv.fr/reussir-au-lycee/les-semaines-de-l-orientation-327179/){target=_blank}
         
@@ -168,7 +165,6 @@ ___
             - [**Lycée Tristan Corbière**](https://www.lyceetristancorbiere.fr/brevets-de-technicien-superieurs-bts/){target=_blank} présentation des BTS CIM (Conception et Industrialisation en Microtechniques) - BTS Aéronautique - BTS CPI (Conception des Produis Industriels) - BTS SP3S (Services et Prestations des Secteurs Sanitaire et Social)(*Morlaix - 29*)
             - [**BTS Audiovisuel**](http://www.btsaudiovisuelsfnd.fr/){target=_blank} (*Lesneven - 29*)
             - [**BTS SIO**](http://www.saint-louis29.net){target=_blank} (*Chateaulin - 29*)
-            - [**BTS SP3S**](https://www.lycee-campostal-gouarec.com/A-VOS-AGENDAS-MINI-STAGE-DECOUVERTE-BTS-SP3S){target=_blank} : mini-stages découverte (*Rostrenen - Gouarec 22*)
             - [**Lycée Le Sage**](https://lycee-lesage.fr/formations/#bts){target=_blank} : BTS Commerce International - BTS Comptabilité et Gestion - BTS CIEL (*Vannes - 56*)
             - [**BTS CI**](https://www.lekreisker.fr/accueil-lycee-notre-dame-du-kreisker/nos-formations/bts-commerce-international/){target=_blank} (Commerce International) (*Saint-Pol-de-Léon - 29*)
 
@@ -180,7 +176,7 @@ ___
         ???+ info "PREPA - CPEG"
             - [**La Croix Rouge/La Salle - Brest**](https://www.lacroixrouge-brest.fr/ecoles-formations/enseignement-superieur/prepas-scientifiques-aux-grandes-ecoles-ptsi-pt/){target=_blank} (*Brest - 29*)
             - [**Lycée de Cornouaille - Quimper**](https://lycee-de-cornouaille-quimper.ac-rennes.fr/spip.php?article1620){target=_blank} (*Quimper - 29*)
-            - [**Faire sa PREPA au Lycée Chateaubriand**](https://lycee-chateaubriand.live/){target=_blank} (*Rennes - 35*)
+            - [**Faire sa PREPA au Lycée Chateaubriand**](https://lycee-chateaubriand.fr/){target=_blank} (*Rennes - 35*)
         
         ???+ info "UNIVERSITES"
             - ==**UBO - CAP'AVENIR**== : inscriptions à partir de mi-janvier 2025 pour de nouvelles [**immersions**](https://www.univ-brest.fr/cap-avenir/fr/page/immersion-individuelle-lubo){target=_blank} pendant les vacances de février.
@@ -191,8 +187,8 @@ ___
     === "SALONS - FORUMS"
         - [**Salons - Forums de l'orientation**](https://www.onisep.fr/recherche?text=SALONS%20FORUMS){target=_blank} : comment préparer sa visite à un salon ?
         - [**SALONS DE L'ETUDIANT**](https://www.letudiant.fr/etudes/salons.html){target=_blank} : en France, recherche par région et domaine.
-        - [**AZIMUT**](https://www.salon-azimut.com/){target=_blank} : site officiel du salon les ==**23-25 janvier 2025**==.
-        - [**SUP'ARMOR**](https://www.suparmor.fr/){target=_blank} : l'équivalent d'Azimut dans le 22 du ==**12-13-14 décembre 2024**==.
+        - [**AZIMUT**](https://www.salon-azimut.com/){target=_blank} : site officiel du salon les ==**23-24 janvier 2026**==.
+        - [**SUP'ARMOR**](https://www.suparmor.fr/){target=_blank} : l'équivalent d'Azimut dans le 22 du ==**11 au 13 décembre 2025**==.
         - [**STUDYRAMA**](https://www.studyrama.com/){target=_blank} : dates des prochains salons étudiants...
     === "CONCOURS"
         - [**EMSLB**](https://uniformesdefrance.com/actualites-site-dates-concours-metiers-uniforme-ouverts-inscriptions-postes-vacants.php){target=_blank} : dates des concours pour l'entrée en Ecoles Militaires de Santé de Lyon-Bron. 
@@ -236,7 +232,7 @@ ___
 
     Pilotée par la Direction générale des Entreprises, la ==**Semaine de l’industrie**== contribue à changer le regard du grand public et des jeunes sur l’industrie et ses métiers au travers d’événements organisés partout en France.
 
-    En Bretagne, la prochaine édition aura lieu du ==**18 au 30 novembre 2024**== et est pilotée par [**AJIR Bretagne**](https://www.ajir-industrie.bzh/){target=_blank}. 
+    En Bretagne, la prochaine édition aura lieu du ==**17 au 23 novembre 2025**== et est pilotée par [**AJIR Bretagne**](https://www.ajir-industrie.bzh/){target=_blank}. 
     Découvrez tous les événements en [**Bretagne**](https://www.semaine-industrie-bretagne.fr/){target=_blank} et au [**niveau national**](https://www.semaine-industrie.gouv.fr/){target=_blank}.
 
     <u>**L’objectif :**</u> renforcer l’attractivité du secteur et promouvoir les filières et métiers de l’industrie auprès des collégiens, lycéens, apprentis ou toute personne en recherche d’emploi.
@@ -248,7 +244,6 @@ ___
         - [**Armée de l'air**](https://devenir-aviateur.fr/){target=_blank} : devenir aviateur.
         - [**EETAA**](https://eetaa722.fr/){target=_blank} : Ecole d'Enseignement Technique de l'Armée de l'Air et de l'Espace. Avis de recrutement d'élèves en [**1ère**](./pdf/EETAA_20230123_avis_recrutement_premiere.pdf){target=_blank} et [**terminale**](./pdf/EETAA_20230123_avis_recrutement_terminale.pdf){target=-blank}.
         - [**Armée de terre**](https://www.sengager.fr/){target=_blank} : **117 spécialités** dans **16 domaines d'activité**.
-        - [**CIRFA**](https://www.sengager.fr/ou-nous-rencontrer?xtor=SEC-229-GOO-[24018634367]-[353506367]-g-[cirfa]&ds_rl=1210417&gclid=EAIaIQobChMI6PzavM2g7QIV_P3VCh1GLQ1eEAAYASAAEgK7z_D_BwE){target=_blank} : L'armée de terre recrute et forme **16000 postes**. Vous trouverez ici les centres de recrutement.
         - [**Marine Nationale**](https://www.lamarinerecrute.fr/){target=_blank} : La marine recrute, rejoignez l’équipage...
         - [**ENSM**](https://www.supmaritime.fr/){target=_blank} : Ecole Nationale Supérieure Maritime (Le Havre - Marseille - Nantes - Saint-Malo).
         
@@ -270,8 +265,7 @@ ___
 ### Arts - Artisanat - Culture
 ??? "Liens utiles"
     === "ARTS"
-        - [**Etudes d'art**](https://www.onisep.fr/publications/dossier/les-etudes-d-art){target=_blank} (*ONISEP*)
-        - [**Ecoles d'art**](https://www.onisep.fr/formation/les-principaux-domaines-de-formation/les-ecoles-d-art){target=_blank} (*ONISEP*)
+        - [**Etudes d'art**](https://www.onisep.fr/recherche?context=onisep&text=%C3%A9tudes%20d%27art){target=_blank} (*Sources : Onisep*)
         - [**Ecoles Nationales d'art**](https://www.culture.gouv.fr/Thematiques/arts-plastiques/Enseignement-superieur-Ecoles-d-art/Ecoles-nationales){target=_blank} (*Ministère de la Culture*)
         - [**CREAPOLE**](https://www.creapole.fr/){target=_blank} Ecole de désign (*Paris*).
     === "THEATRE"
@@ -284,7 +278,8 @@ ___
 ### Audiovisuel - Information - Communication
 ??? "Liens utiles"
     === "CINEMA"
-        - [**Métiers de l'audiovisuel**](https://esra.edu/){target=_blank} le groupe ESRA forme aux métiers du cinéma, de l’audiovisuel, du son et du film d’animation.
+        - [**Les écoles d'audiovisuel**](https://www.onisep.fr/formation/les-principaux-domaines-de-formation/les-ecoles-d-audiovisuel){target=_blank} (*Sources : Onisep*)
+        - [**Ecole des métiers du cinéma et de l'audiovisuel**](https://www.esec.fr/){target=_blank} : L'ESEC propose une formation reconnue par le ministère de la Culture, sur Paris et lyon.
 ___ 
 ### Commerce - Vente - Marketing
 ??? "Liens utiles"
@@ -447,7 +442,7 @@ ___
 ??? "Liens utiles"
     === "PRESENTATION"
         - [**Ecoles de commerce**](https://www.onisep.fr/formation/les-principaux-domaines-de-formation/les-ecoles-de-commerce){target=_blank} : Pour quel profil ? Comment choisir son école ? (*Sources : Onisep*)
-        - [**Les Ecoles de commerce**](https://www.letudiant.fr/etudes/ecole-de-commerce.html){target=_blank} : Quelles sont les spécificités des études en écoles de commerce ? A quels métiers préparent-elles ? Quels sont les critères pour choisir ? Comment intégrer une école ? Comment préparer les concours ? (*Sources : L'Etudiant*)
+        - [**Ecoles de commerce**](https://www.letudiant.fr/etudes/ecole-de-commerce.html){target=_blank} : Quelles sont les spécificités des études en écoles de commerce ? A quels métiers préparent-elles ? Quels sont les critères pour choisir ? Comment intégrer une école ? Comment préparer les concours ? (*Sources : L'Etudiant*)
 ___ 
 ### Ecoles d'ingénieurs
 ??? "Liens utiles"
@@ -456,7 +451,7 @@ ___
         - [**AVENIR**](https://www.concoursavenir.fr/){target=_blank} : 1 concours, 7 Grandes Ecoles d'Ingénieurs, 18 Campus.
         - [**GEIPI POLYTECH**](https://www.geipi-polytech.org/){target=_blank} : concours d'entrée commun à 35 écoles d'ingénieurs publiques. 
         - [**IPESUP**](https://www.ipesup.fr/){target=_blank} : prépa concours AVENIR - PUISSANCE ALPHA - GEPI POLYTECH.
-        - [**Puissance ALPHA**](https://www.puissance-alpha.fr/){target=_blank} : les 18 grandes écoles d'ingénieurs du groupe, modalités d'admission.
+        - [**Puissance ALPHA**](https://www.puissance-alpha.fr/){target=_blank} : les 19 grandes écoles d'ingénieurs du groupe, modalités d'admission.
 
     === "ECOLES"
         - [**CPE Lyon**](https://www.cpe.fr/){target=_blank} : Ecole d'Ingénieurs en Chimie et Sciences du Numérique (*Lyon - 69*).

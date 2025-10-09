@@ -83,7 +83,7 @@
 
 ??? "Présentation"
     === "SITES INSTITUTIONNELS"
-        - [**Associations.gouv.fr**](https://www.associations.gouv.fr/je-veux-m-engager.html){target=_blank}
+        - [**Associations.gouv.fr**](https://www.associations.gouv.fr/){target=_blank}
         - [**JeVeuxAider.gouv.fr**](https://www.jeveuxaider.gouv.fr/){target=_blank}
         - [**France Bénévolat**](https://www.francebenevolat.org/benevoles/devenir-benevole-un-geste-simple){target=_blank}
     === "A MORLAIX"

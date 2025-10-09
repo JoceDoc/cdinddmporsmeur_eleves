@@ -86,7 +86,7 @@
     === "EXPOSITIONS"
         ???+ "**Exposition en cours au FHEL - Landerneau**"
     
-            [![**Expo Hernri Cartier Bresson**](./images/culture/Henri_Cartier-Bresson.jpg "affiche_exposition"){width=45%}](https://www.fonds-culturel-leclerc.fr/en-cours-henri-cartier-bresson-642-26-0-0.html){target=_blank}
+            [![**Expo Hernri Cartier Bresson**](./images/culture/FHEL_animal.jpg "affiche_exposition"){width=45%}](https://www.fonds-culturel-leclerc.fr/en-cours-animal-646-39-0-0.html){target=_blank}
         
                         
         ???+ "**Les élèves de l'option ARTS PLASTIQUES en visite à Brest**"
@@ -118,7 +118,7 @@
 
 ## La culture à Morlaix
 
-La [**ville de Morlaix**](https://www.ville.morlaix.fr/VIVRE-A-MORLAIX/Culture-Loisirs){target=_blank} propose une offre culturelle diversifiée. Sur le site de la ville, vous  trouverez des informations pratiques concernant les animations, expositions, et infrastuctures diverses : adresses, horaires, programmations des salles de spectacles, cinémas, bibliothèques...
+La [**ville de Morlaix**](https://www.morlaix.bzh/vie-quotidienne/culture){target=_blank} propose une offre culturelle diversifiée. Sur le site de la ville, vous  trouverez des informations pratiques concernant les animations, expositions, et infrastuctures diverses : adresses, horaires, programmations des salles de spectacles, cinémas, bibliothèques...
 
 ???+ "Accéder aux sites officiels de ces lieux culturels"
 
@@ -126,10 +126,10 @@ La [**ville de Morlaix**](https://www.ville.morlaix.fr/VIVRE-A-MORLAIX/Culture-L
         * [**Cinéma Le Rialto**](https://www.allocine.fr/seance/salle_gen_csalle=P0357.html){target=_blank}
         * [**La Salamandre**](https://cinemalasalamandre.fr/){target=_blank}
     === "MUSEES"
-        * [**Artothèque Les moyens du bord**](https://lesmoyensdubord.wordpress.com/){target=_blank}
+        * [**Artothèque Les moyens du bord**](https://lesmoyensdubord.fr/){target=_blank}
         * [**Espace des sciences**](https://www.espace-sciences.org/morlaix){target=_blank}
         * [**Musée de Morlaix**](https://musee.ville.morlaix.fr/){target=_blank}
-        * [**La Virgule**](https://www.ville.morlaix.fr/VIVRE-A-MORLAIX/Culture-Loisirs/La-Virgule){target=_blank}
+        * [**La Virgule**](https://www.morlaix.bzh/la-virgule){target=_blank}
     === "SPECTACLES VIVANTS"
         * [**MJC**](https://www.mjcmorlaix.com/){target=_blank} (Maison des Jeunes et de la Culture)
         * [**Le Roudour**](https://www.espace-roudour.com/){target=_blank}
@@ -185,11 +185,9 @@ La [**ville de Morlaix**](https://www.ville.morlaix.fr/VIVRE-A-MORLAIX/Culture-L
 
 ??? "En France"
 
-    Pour rechercher un musée en France, par régions ou par départements, cet [**annuaire des musées**](https://www.omusee.com/){target=_blank} est bien utile.
+    Pour rechercher un musée en France, par régions ou par départements, consultez l'[**annuaire des musées**](https://www.omusee.com/){target=_blank}.
     
-    Tout comme le site des  plus beaux [**musées de France**](https://www.les-musees-de-france.fr/){target=_blank}.
-    
-    Autre lien intéressant les [**Expositions virtuelles de le BNF**](http://expositions.bnf.fr/){target=blank}
+    [**Expositions virtuelles de le BNF**](http://expositions.bnf.fr/){target=blank}
 
     ???info "Sites des musées"
         * [**Grand Palais**](https://www.grandpalais.fr/fr){target=_blank}
@@ -199,4 +197,5 @@ La [**ville de Morlaix**](https://www.ville.morlaix.fr/VIVRE-A-MORLAIX/Culture-L
 ??? "A l'étranger"
 
     * [**British Museum**](https://www.britishmuseum.org/){target=_blank}
+    * [**60 Musées à découvrir**](https://www.beauxarts.com/series/60-musees-a-visiter-au-moins-une-fois-dans-sa-vie/){target=_blank}
 
