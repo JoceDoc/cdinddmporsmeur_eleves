@@ -10,9 +10,14 @@
     [**Les CAFE PHILO de l'année dernière**](./images/actualites/2024-2025_cafes_philo.pdf){target=_blank}
 
 ## Expositions et projets
-??? "**Semaine de la presse et des médias** ==<u>**24 au 29 mars 2025**</u>=="
-    [![Affiche de présentation](./images/actualites/SPME2025_affiche.jpg "Affiche"){width=70% align=left}](https://www.clemi.fr/actions-educatives/semaine-de-la-presse-et-des-medias){target=_blank}
+???+ "**FETE DE LA SCIENCE** ==<u>**Du 3 au 13 octobre 2025 : le CDI vous propose une exposition**</u>=="
+    Programme sur le [site officiel](https://www.fetedelascience.fr/){target=_blank} de la Fête de la science 2025 et ressources pour aller plus loin.
 
+    Exposition à découvrir au CDI : ==**Les intelligences différentes par nature**==.
+    
+    [![Site officiel](./images/actualites/2025_affiche_fete_de_la_science.jpg "Affiche"){width=35% align=left}](https://www.fetedelascience.fr/){target=_blank}
+
+    [![Exposition](./images/actualites/2025_FS_expo_Intelligences_différentes_par_nature-01.jpg "Affiche_expo"){width=25% align=left}](https://www.fetedelascience.fr/la-fete-de-la-science-2025-explore-les-intelligences){target=_blank}
   
 ??? "**Villes pour la vie, villes contre la peine de mort - ==<u>29/11/2024</u>==**"
     
