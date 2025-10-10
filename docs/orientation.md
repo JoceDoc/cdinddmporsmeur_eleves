@@ -266,6 +266,7 @@ ___
 ??? "Liens utiles"
     === "ARTS"
         - [**Etudes d'art**](https://www.onisep.fr/recherche?context=onisep&text=%C3%A9tudes%20d%27art){target=_blank} (*Sources : Onisep*)
+        - [**CMA Chambre des métiers de l'artisanat d'art**](https://www.artisanat.fr/){target=_blank}
         - [**Ecoles Nationales d'art**](https://www.culture.gouv.fr/Thematiques/arts-plastiques/Enseignement-superieur-Ecoles-d-art/Ecoles-nationales){target=_blank} (*Ministère de la Culture*)
         - [**CREAPOLE**](https://www.creapole.fr/){target=_blank} Ecole de désign (*Paris*).
     === "THEATRE"
@@ -321,9 +322,11 @@ ___
 ___ 
 ### Informatique - Internet
 ??? "Liens utiles"
-    === "INFORMATIQUE & RESEAUX"
+    === "INFORMATIQUE & RESEAUX - NUMERIQUE"
         - [**Métiers et emploi dans le secteur**](https://www.onisep.fr/decouvrir-les-metiers/des-metiers-par-secteur/informatique-et-reseaux){target=_blank} (*Sources : Onisep*)
         - [**EPITECH**](https://www.epitech.eu/fr/){target=_blank} : école référence de l'expertise informatique.
+        - [**Grande école du  numérique**](https://www.grandeecolenumerique.fr/){target=_blank} : actualités, portes ouvertes, les tendances du secteur, les métiers les plus recherchés, la place des filles dans les métiers du numérique...
+
     === "JEUX VIDEOS"
         - [**Métiers et emploi dans le jeu vidéo**](https://www.onisep.fr/decouvrir-les-metiers/des-metiers-par-secteur/jeu-video){target=_blank} (*Sources : Onisep*)
         - [**CREAPOLE**](https://www.creapole.fr/cinema-danimation-et-jeu-video/){target=_blank} : formation pour devenir Game designer ou réalisateur de films d'animation.
