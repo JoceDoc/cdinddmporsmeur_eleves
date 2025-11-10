@@ -19,22 +19,19 @@
 
     [![Exposition](./images/actualites/2025_FS_expo_Intelligences_différentes_par_nature-01.jpg "Affiche_expo"){width=25% align=left}](https://www.fetedelascience.fr/la-fete-de-la-science-2025-explore-les-intelligences){target=_blank}
   
-??? "**Villes pour la vie, villes contre la peine de mort - ==<u>29/11/2024</u>==**"
+??? "**Villes pour la vie, villes contre la peine de mort - ==<u>28/11/2025</u>==**"
     
-    ==**Sacco et Vanzetti**==
+    ==**Le combat de Souleyman Sow pour l'abolition de la peine de mort en Guinée**==
 
-    ![Sacco & Vanzetti](./images/actualites/20241129_Présentation_Pièce_Sacco_et_Vanzetti.jpg "Sacco et Vanzetti"){width=35% align=right}
+    [![Souleyman Sow](./images/actualites/20251128_souleymane_Sow.jpeg "Souleyman Sow"){width=35% align=right}](https://www.amnesty.org/fr/latest/news/2018/04/how-i-called-for-guinea-to-abolish-the-death-penalty/){targuet=_blank}
     
-    Après la visite d'Antoinette Chahine, l'année dernière, dans le cadre de la journée mondiale des ==**"Villes pour la vie, villes contre la peine de mort"**==, plusieurs classes du lycée assisteront vendredi 29 novembre, au spectacle "Sacco et Vanzetti".
-    Cette pièce d'Alain Guyard interprétée par Yves Briens et Dominique Babillote retrace l'histoire de deux anarchistes italiens Nicola Sacco et Bartolomeo Vanzetti, qui furent accusés de hold up et de crimes et exécutés le 23 août 1927, après un simulacre de procès. Le 23 août 1977, exactement 50 ans jour pour jour après leur exécution, le gouverneur du Massachusetts, Michael Dukakis, avait déclaré l'annulation du procès.
-    
-    Pour ceux qui n'ont pu assister à la représentation, vous pouvez la retourver [**ICI**](https://www.youtube.com/watch?v=knlNTig-Ino){target=_blank}
+    Après la visite d'Antoinette Chahine, en 2023 et le spectacle "Sacco et Vanzetti" en 2024, dans le cadre de la journée mondiale des ==**"Villes pour la vie, villes contre la peine de mort"**==, nous accueillerons cette année Souleyman Sow, directeur d'Amnesty international Guinée, artisan de l'abolition de la peine de mort dans son pays. 
 
     Le 30 novembre 1786 est la date qui marque la Commémoration annuelle de la première abolition de la peine de mort par un Etat, le Grand Duché de Toscane, le 30 novembre 1786.
    
     Chaque 30 novembre, cette commémoration a pour objectif d'affirmer la valeur de la vie et de s'opposer à la peine de mort. Les « villes [engagées] villes pour la vie, villes contre la peine de mort » partout à travers le monde, s’illuminent pour dire à l'unisson ==**« Non à la peine de mort ! »**==. 
 
-    Voilà 11 ans que la ville de Morlaix est engagée dans ce combat contre la peine de mort relayé par les associations, [**Amnesty international**](https://www.amnesty.fr/){target=_blank}, l’[**ACAT**](https://www.acatfrance.fr/){target=_blank} et la [**Ligue des droits de l’homme**](https://www.ldh-france.org/){target=_blank}. Si ce combat vous intéresse, n'hésitez pas à vous rapprocher de l'une ou l'autre de ces associations.
+    La ville de Morlaix est engagée dans le combat contre la peine de mort relayé par les associations, [**Amnesty international**](https://www.amnesty.fr/){target=_blank}, l’[**ACAT**](https://www.acatfrance.fr/){target=_blank} et la [**Ligue des droits de l’homme**](https://www.ldh-france.org/){target=_blank}. Si ce combat vous intéresse, n'hésitez pas à vous rapprocher de l'une ou l'autre de ces associations.
     
   
 ## Nos élèves ont du talent
