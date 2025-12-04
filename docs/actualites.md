@@ -5,7 +5,7 @@
 
 ## Rendez-vous
 ???+ "**CAFE PHILO** ==<u>**Prochain rendez-vous CAFE PHILO**</u>=="
-    ![Le temps](./images/actualites/20251202_affiche_cafe_philo.png "café philo"){width=45% align=left}
+    ![Le temps](./images/actualites/20251209_Affiche_cafe_philo.png "café philo"){width=45% align=left}
 
     [**Les CAFE PHILO de l'année dernière**](./images/actualites/2024-2025_cafes_philo.pdf){target=_blank}
 
