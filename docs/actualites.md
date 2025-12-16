@@ -5,16 +5,14 @@
 
 ## Rendez-vous
 ???+ "**CAFE PHILO** ==<u>**Prochain rendez-vous CAFE PHILO**</u>=="
-    ![Le temps](./images/actualites/20251209_Affiche_cafe_philo.png "café philo"){width=45% align=left}
+    ![Goûter de Noël](./images/actualites/20251216_Affiche_Café_philo.png "café philo"){width=45% align=left}
 
     [**Les CAFE PHILO de l'année dernière**](./images/actualites/2024-2025_cafes_philo.pdf){target=_blank}
 
 ## Expositions et projets
-???+ "**FETE DE LA SCIENCE** ==<u>**Du 3 au 13 octobre 2025 : le CDI vous propose une exposition**</u>=="
+???+ "**FETE DE LA SCIENCE** ==<u>**Du 3 au 13 octobre 2025 : Exposition "Les intelligences différenes par nature"**</u>=="
     Programme sur le [site officiel](https://www.fetedelascience.fr/){target=_blank} de la Fête de la science 2025 et ressources pour aller plus loin.
 
-    Exposition à découvrir au CDI : ==**Les intelligences différentes par nature**==.
-    
     [![Site officiel](./images/actualites/2025_affiche_fete_de_la_science.jpg "Affiche"){width=35% align=left}](https://www.fetedelascience.fr/){target=_blank}
 
     [![Exposition](./images/actualites/2025_FS_expo_Intelligences_différentes_par_nature-01.jpg "Affiche_expo"){width=25% align=left}](https://www.fetedelascience.fr/la-fete-de-la-science-2025-explore-les-intelligences){target=_blank}
