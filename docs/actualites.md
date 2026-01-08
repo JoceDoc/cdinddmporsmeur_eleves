@@ -5,7 +5,7 @@
 
 ## Rendez-vous
 ???+ "**CAFE PHILO** ==<u>**Prochain rendez-vous CAFE PHILO**</u>=="
-    ![Goûter de Noël](./images/actualites/20251216_Affiche_Café_philo.png "café philo"){width=45% align=left}
+    ![L'allégorie de la caverne](./images/actualites/20260113_affiche_cafe_philo.png "café philo"){width=65% align=left}
 
     [**Les CAFE PHILO de l'année dernière**](./images/actualites/2024-2025_cafes_philo.pdf){target=_blank}
 
@@ -46,10 +46,25 @@
     ![CNRD](./images/actualites/CNRD_2024-2025_Une_équipe_de_choc.JPG "Une équipe de choc"){width=65% align=left}
 
 ??? "**Concours d'éloquence**"
-    Les candidats étaient moins nombreux cette année, mais ils sont allés au bout de leur engagement et ont ainsi tous beaucoup progressé. La finale, jeudi 20 mars, se déroulait en deux temps : un **discours**, entre 5 et 8 minutes, sur un sujet tiré au sort (La démocratie, un régime en danger - L’IA, une amie qui vous veut du bien ? - L’union fait la force. - La fin justifie les moyens) et une **question d’improvisation** commune : Quel est votre plus grand rêve ? C’est Alexis qui a remporté la finale devant Thibault, Maël et Henri. Bravo à tous !
+    Bravo aux 9 candidats qui se sont inscrits au concours cette année et ont présentés, lors du 1er tour, des discours qui ont su toucher, séduire ou enthousiasmer les élèves de première générale et technologique du lycée et les membres du jury. 
+    
+    Nous retrouverons six d'entre eux pour la demi-finale prévue le 29 janvier. 
 
-    ![Finale](./images/actualites/20250428_Une_belle_finale.jpg "Une belle finale"){width=45% align=left}
-    ![Finale](./images/actualites/20250428_L'éloquence_ca_se_muscle.JPG "L'éloquence, ça se muscle"){width=45% align=left}
+    Rappel des sujets du 1er tour :
+        
+    * Et si nous étions tous fous ?
+        
+    * Vivre sans espoir, est-ce cesser de vivre ? 
+    
+    * Qui ne dit mot consent ?
+        
+    * "Soyez vous-mêmes, les autres sont déjà pris  ?" (Oscar Wilde)
+    
+    * Seul on va plus vite, ensemble on va plus loin.
+
+    * La vérité sort-elle vraiment de la bouche des enfants ?
+
+    ![Finale](./images/actualites/20251218_01_resultats%20_1tour_01.JPG "La proclamation des résultats"){width=45% align=left}
    
 
 

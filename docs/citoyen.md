@@ -6,7 +6,7 @@
     
 ## Actualités
 
-[![Sobriété_numérique](./images/guide-en-route-vers-sobriete-numerique-page-001.jpg "Affiche_sobriete"){width=20% align=left}](./pdf/guide-en-route-vers-sobriete-numerique.pdf){target=_blank}
+[![Sobriété_numérique](./images/parcours_citoyen/guide-en-route-vers-sobriete-numerique-page-001.jpg "Affiche_sobriete"){width=20% align=left}](./pdf/guide-en-route-vers-sobriete-numerique.pdf){target=_blank}
 
 
 * [**La sobriété numérique**](./pdf/guide-en-route-vers-sobriete-numerique.pdf){target=_blank} ou comment profiter du numérique en gardant le contrôle ? 
@@ -62,7 +62,7 @@
 ### Contre le harcèlement
 
 ???+ info ""
-    ![Affiche_men](./images/affiche_harcèlement.jpg "Affiche_harcèlement"){width=30% align=left}
+    ![Affiche_men](./images/parcours_citoyen/affiche_harcèlement.jpg "Affiche_harcèlement"){width=30% align=left}
 
     La lutte contre le harcèlement est une des priorités du [**Ministère de l'Education Nationale**](https://www.education.gouv.fr/non-au-harcelement){target=_blank}. Le harcèlement peut prendre différentes formes. 
     

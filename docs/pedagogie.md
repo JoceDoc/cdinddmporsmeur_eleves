@@ -29,7 +29,7 @@ ___
     - [**Faire des fiches**](https://www.youtube.com/watch?v=jNxUN3-E8_c&t=189s){target=_blank} : vidéo conseil.
     - **D'autres exemples de cartes mentales** [**ICI**](https://www.ebsi.umontreal.ca/jetrouve/projet/cartes_m/galerie.htm){target=_blank}
     
-    ![carte mentale](./images/00-carte_mentale_tutoriel.jpg "Carte mentale"){center=80%}
+    ![carte mentale](./images/pedagogie/00-carte_mentale_tutoriel.jpg "Carte mentale"){center=80%}
         
 ??? question "Améliorer sa rédaction"   
     === "**DICTIONNAIRES**"
@@ -161,19 +161,18 @@ ___
     
     En apprenant à exprimer leur pensée et à argumenter, les lycéens avancent vers l'autonomie. Au-delà du « j’aime » / « je n’aime pas », ils apprennent à formuler une appréciation personnelle sur l’œuvre choisie et à justifier leur avis. Les élèves développent ainsi de véritables compétences d’argumentation.
        
-    « L’esprit moineau », le texte de Lola Mingam (1G2), figurait parmi les 45 meilleurs sur plus de 600 reçus par les organisateurs du concours de plumes lycéennes !
+    « Au coeur de leur courage », la lettre à l'autrice Nathacha Appanah pour son livre <u>La nuit au coeur:</u>, d'Albane Hamon (1G3), figurait parmi les 46 meilleurs productions sur plus de 600 reçues par les organisateurs du Prix régional de la plume lycéenne !
 
-    ![CNRD_Equipe](./images/pedagogie/Lola_et_Chloée.JPG "Lola et Chloée"){width=50% align=left}
+    ![Participantes au prix Plume lycéenne](./images/pedagogie/Lola_et_Chloée.JPG "Lola et Chloée"){width=50% align=left}
 
     ???+ "**Autres ressources**"
         * [**L'Académie Goncourt**](https://www.academiegoncourt.com/home){target=_blank}
         * [**PADLET du CONCOURS**](https://padlet.com/cdinddmporsmeur/concours2021){target=_blank}
 
-        
 ___
 
 ??? info "**Si on lisait à voix haute**"
-    Dans le cadre de l'AP, 18 élèves de seconde générale ont participé cette année au concours [**"Si on lisait à voix haute"**](https://www.lumni.fr/dossier/la-grande-librairie-concours-de-lecture-a-voix-haute){target=_blank} organisé par François Busnel et la Grande Librairie.
+    Dans le cadre de l'AP, 8 élèves de seconde générale participent cette année au concours [**"Si on lisait à voix haute"**](https://www.lumni.fr/dossier/la-grande-librairie-concours-de-lecture-a-voix-haute){target=_blank} organisé par François Busnel et la Grande Librairie.
 
     Ce qui les motive : l’**envie de travailler l’oral**, **gagner en aisance**, **participer à un concours national**.
     
@@ -185,8 +184,6 @@ ___
     <iframe title="Vidéo_Nolan_Stewart_Finaliste_2022_02" src="https://tube-numerique-educatif.apps.education.fr/videos/embed/0a21165a-d5a7-4c0c-a450-20a3e4c45a23" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>
     <figcaption>Vidéo du représentant du groupe</figcaption>
     </figure>
-___
-
 
     
 ___

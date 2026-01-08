@@ -86,26 +86,19 @@
     === "EXPOSITIONS"
         ???+ "**Exposition en cours au FHEL - Landerneau**"
     
-            [![**Expo Hernri Cartier Bresson**](./images/culture/FHEL_animal.jpg "affiche_exposition"){width=45%}](https://www.fonds-culturel-leclerc.fr/en-cours-animal-646-39-0-0.html){target=_blank}
+            [![**Expo Animals**](./images/culture/FHEL_animal.jpg "affiche_exposition"){width=45%}](https://www.fonds-culturel-leclerc.fr/en-cours-animal-646-39-0-0.html){target=_blank}
         
                         
-        ???+ "**Les élèves de l'option ARTS PLASTIQUES en visite à Brest**"
-            
-            Mercredi 3 mai, les élèves de 2nde de l'option arts plastiques ont visité l'[EESAB](https://www.eesab.fr/){target=_blank} école des Beaux-Arts de Brest : l'occasion de découvrir les modalités du concours et les spécificités pédagogiques en post-bac.  Après la visite du musée des Beaux-Arts, où s'est improvisé un petit atelier, le groupe s'est rendu à l'espace des Capucins, puis au centre d'art contemporain "La Passerelle" où ils ont découvert le travail d'artistes en résidence.
-            
-            ![Musée des Beaux-arts](./images/culture/Arts_plastiques_04.jpeg){width=40% align=left}
-            ![Musée des Beaux-arts](./images/culture/Arts_plastiques_07.jpeg){width=40% align=left}
-
-    
+   
     === "JEUNES EN LIBRAIRIE"
             
-        Les élèves de 1AEPA, Term EPC et AEPE ont participé cette année au programme [**Jeunes en librairie**](https://daac.ac-rennes.fr/spip.php?article2268){target=_blank}, projet d’éducation artistique et culturelle autour des professionnels du livre et de la librairie.
+        Les élèves de 1AEPA, 2nde EPC et TAEPE participent cette année au programme [**Jeunes en librairie**](https://daac.ac-rennes.fr/spip.php?article2268){target=_blank}, projet d’éducation artistique et culturelle autour des professionnels du livre et de la librairie.
  
-        Dans ce cadre, ils ont rencontré Yuna de la [**Librairie Dialogues Morlaix**](https://www.dialoguesmorlaix.com/){target=_blank} partenaire du projet, d'abord au lycée puis à la librairie. Ce fut l'occasion pour eux, de découvrir en quoi consiste le travail d'une librairie indépendante, mais aussi d'en apprendre un peu plus sur le circuit du livre ou les métiers en lien avec l'édition et le monde du livre.
+        Dans ce cadre, ils ont rencontré Yuna de la [**Librairie Dialogues Morlaix**](https://www.dialoguesmorlaix.com/){target=_blank} partenaire du projet, d'abord au lycée puis à la librairie. L'occasion pour eux de découvrir en quoi consiste le travail d'une librairie indépendante, mais aussi d'en apprendre un peu plus sur le circuit du livre ou les métiers en lien avec l'édition et le monde du livre.
         
-        Les élèves ont également eu la chance de rencontrer l'autrice [**Louise Delgado**](https://www.librinova.com/auteur/louise-delgado){target=_blank}, le 24 janvier, à l'occasion de la sortie de son livre "Vers les ténébres" (2ème tome de la série "Les derniers gardiens"). Les élèves ont questionné l'autrice sur ses sources d'inspiration, ses habitudes de travail, mais aussi ses projets futurs : des échanges très appréciés et parfois utiles pour certains d'entre eux qui ayant des projets d'écriture, ont découvert les possibilités offertes par l'autoédition. 
+        Les élèves auront également la chance de rencontrer, le 6 mai prochain, [**Louise Delgado**](https://www.librinova.com/auteur/louise-delgado){target=_blank}, et [**Eric Senabre**](https://www.facebook.com/sublutetia/?locale=fr_FR). Ils découvriront ainsi les sources d'inspiration, les habitudes de travail, mais aussi les projets de ces deux auteurs reconnus.
 
-        Les élèves étaient ravis de leurs achats en librairie avec le chèque livre de 20 € qui leur était offert dans le cadre du dispositif "Jeunes en librairie".
+        Grâce au dispositif "Jeunes en librairie" les élèves bénéficieront d'un chèque livre de 20 € pour des achats dans la libriaire partenaire.
    
       
         ![Jeunes en librairie](./images/culture/yuna_cdi_epc.jpg "Yuna au CDI avec Term EPC"){width=45% align=right}
