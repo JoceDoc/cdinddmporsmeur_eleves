@@ -159,11 +159,11 @@ ___
 ??? info "**Prix de la plume lycéenne**"
     En octobre et novembre, les élèves de 1G2 et 1G3, ont participé au [**Prix de la plume lycéenne**](https://www.bruitdelire.org/concours-de-critique-litteraire/){target=_blank} organisé par la Région Bretagne en partenariat avec le Rectorat de Rennes et l’association ==**"Bruit de lire"**==. L’objectif est de développer l'intérêt des lycéens pour la littérature contemporaine, stimuler leur capacité à émettre un jugement critique sur l’un des romans de la sélection en lice pour le ==**Prix Goncourt des Lycéens**==, et confronter leur point de vue avec celui d'autres lecteurs.
     
-    En apprenant à exprimer leur pensée et à argumenter, les lycéens avancent vers l'autonomie. Au-delà du « j’aime » / « je n’aime pas », ils apprennent à formuler une appréciation personnelle sur l’œuvre choisie et à justifier leur avis. Les élèves développent ainsi de véritables compétences d’argumentation.
+    En apprenant à exprimer leur pensée et à argumenter, les lycéens avancent vers l'autonomie. Au-delà du « j’aime » / « je n’aime pas », ils apprennent à formuler une appréciation personnelle sur l’œuvre choisie, à justifier leur avis et développent ainsi de véritables compétences d’argumentation.
        
     « Au coeur de leur courage », la lettre à l'autrice Nathacha Appanah pour son livre <u>La nuit au coeur:</u>, d'Albane Hamon (1G3), figurait parmi les 46 meilleurs productions sur plus de 600 reçues par les organisateurs du Prix régional de la plume lycéenne !
 
-    ![Participantes au prix Plume lycéenne](./images/pedagogie/Lola_et_Chloée.JPG "Lola et Chloée"){width=50% align=left}
+    ![Participantes au prix Plume lycéenne](./images/pedagogie/2025_Concours_plume_litteraire.JPG "Participantes du concours"){width=50% align=left}
 
     ???+ "**Autres ressources**"
         * [**L'Académie Goncourt**](https://www.academiegoncourt.com/home){target=_blank}
