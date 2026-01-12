@@ -15,10 +15,19 @@ L'actualité de l'orientation au lycée et dans la région, les ==**sites incont
 ## ACTUALITES
 
 ???+ info "**IMMERSIONS - JOURNEES DECOUVERTES - PORTES OUVERTES**"
-    [![**BRIO**](./images/orientation/2025_Continum_Brio.png "Immersions_UBO"){width=35%}](https://www.linscription.com/pro/activite.php?P1=164264){target=_blank} 
+    [![**IUT - Lannion**](./images/orientation/2025-2026_Affiche_JPO_Lannion.jpg "JPO IUT Lannnion"){width=35%}](https://iut-lannion.univ-rennes.fr/){target=_blank}
+
+    [![**CUPGE - Lannion**](./images/orientation/2025-2026_Plaquette_CUPGE_Lannion.jpg "JPO IUT Lannion"){width=35%}](./images/orientation/2025-2026_CUPGE_Lannion_plaquette.pdf){target=_blank}
+
+    [![**Lycée Rabelais - St-Brieuc**](./images/orientation/2025-2026_Affiche_JPO_St-Brieuc_Rabelais.jpg "JPO Lycée Rabelais"){width=35%}](https://www.lycee-rabelais-saint-brieuc.ac-rennes.fr/){target=_blank}
+    
+    [![**BRIO**](./images/orientation/2025_Continum_Brio.png "Immersions_UBO"){width=45%}](https://www.linscription.com/pro/activite.php?P1=164264){target=_blank} 
+
     [![**IUT-UBO**](./images/orientation/2025-2026_IUT-UBO_insertions.png "Immersions_IUT-UBO"){width=45%}](https://www.linscription.com/pro/activite.php?P1=227696){target=_blank}
-    [![**INSTAFAC**](./images/orientation/2025-2026_Instafac.jpg "CAP'AVENIR"){width=35%}](https://nouveau.univ-brest.fr/cap-avenir/fr/page/insta-fac){target=_blank}
-    [![**UCO GUINGAMP**](./images/orientation/2025-2026_UCO_Guingamp.png "Journées découvertes UCO"){width=35%}](https://forms.office.com/pages/responsepage.aspx?id=gQWqPAeCVEaEOorw19tTeWGjZIomZ5NHgGlSRtQ5ETtUMVVIQVZXSUxLMkxXUkcyODhEOFJCRFlXNS4u&route=shorturl){target=_blank}
+
+    [![**INSTAFAC**](./images/orientation/2025-2026_Instafac.jpg "CAP'AVENIR"){width=45%}](https://nouveau.univ-brest.fr/cap-avenir/fr/page/insta-fac){target=_blank}
+
+    [![**UCO GUINGAMP**](./images/orientation/2025-2026_UCO_Guingamp.png "Journées découvertes UCO"){width=45%}](https://forms.office.com/pages/responsepage.aspx?id=gQWqPAeCVEaEOorw19tTeWGjZIomZ5NHgGlSRtQ5ETtUMVVIQVZXSUxLMkxXUkcyODhEOFJCRFlXNS4u&route=shorturl){target=_blank}
     
 
     
@@ -157,33 +166,11 @@ ___
         
         ==*ATTENTION : Certaines dates peuvent ne pas être à jour. N'hésitez pas à vérifier directement sur les sites des établissements.*==
 
-
-        ???+ info "BTS"
-            - [**Lycée Chaptal - Quimper**](https://www.lycee-chaptal.fr/){target=_blank} : [**BTS Bioqualité**](https://www.lycee-chaptal.fr/bts-bioqualite/){target=_blank} - 
-                [**BTS Diététique**](https://www.lycee-chaptal.fr/nos-formations/enseignement-superieur/bts-dietetique/){target=_blank}  - [**BTS ESF**](https://www.lycee-chaptal.fr/nos-formations/enseignement-superieur/bts-esf/){target=_blank} - [**BTS Collaborateur juriste notarial**](https://www.lycee-chaptal.fr/nos-formations/enseignement-superieur/bts-notariat/){target=_blank} - [**BTS SAM (Support à l'action managériale)**](https://www.lycee-chaptal.fr/nos-formations/enseignement-superieur/bts-sam/){target=_blank} - [**BTS SIO (Services informatiques aux organisations)**](https://www.lycee-chaptal.fr/nos-formations/enseignement-superieur/bts-sio/){target=_blank} - [**BTS SP3S (Services et Prestations des Secteurs Sanitaire et Social)**](https://www.lycee-chaptal.fr/nos-formations/enseignement-superieur/bts-sp3s/){target=_blank}
-            - [**Lycée Mongazon**](https://www.mongazon.org/){target=_blank} présentation des BTS du pôle santé (BTS Podo orthésiste - BTS Prothésiste orthésiste - CP Orthopédiste orthésiste) (*Angers - 49*)
-            - [**Lycée Tristan Corbière**](https://www.lyceetristancorbiere.fr/brevets-de-technicien-superieurs-bts/){target=_blank} présentation des BTS CIM (Conception et Industrialisation en Microtechniques) - BTS Aéronautique - BTS CPI (Conception des Produis Industriels) - BTS SP3S (Services et Prestations des Secteurs Sanitaire et Social)(*Morlaix - 29*)
-            - [**BTS Audiovisuel**](http://www.btsaudiovisuelsfnd.fr/){target=_blank} (*Lesneven - 29*)
-            - [**BTS SIO**](http://www.saint-louis29.net){target=_blank} (*Chateaulin - 29*)
-            - [**Lycée Le Sage**](https://lycee-lesage.fr/formations/#bts){target=_blank} : BTS Commerce International - BTS Comptabilité et Gestion - BTS CIEL (*Vannes - 56*)
-            - [**BTS CI**](https://www.lekreisker.fr/accueil-lycee-notre-dame-du-kreisker/nos-formations/bts-commerce-international/){target=_blank} (Commerce International) (*Saint-Pol-de-Léon - 29*)
-
-
-        ???+ info "IUT"
-            - [**IUT Brest-Morlaix**](https://www.iut-brest.fr/){target=_blank} : demi-journées d'immersion pour les lycéens de terminale en Génie Biologique (GB), Génie Mécanique et Productique (GMP) et Gestion Administrative et Commerciale (GACO). **Inscription obligatoire sur le site**. 
-            - [**IUT Saint-Malo**](https://iut-stmalo.univ-rennes.fr/journee-portes-ouvertes-2025){target=_blank} programme des portes ouvertes, présentation des formations post-bac : BUT GIM (Génie Industriel et Maintenance) - BUT Carrières juridiques - BUT GEA (Gestion des Entreprises et des Administrations) - BUT Réseaux et Télécommunications - Licences professionnelles.
-                    
-        ???+ info "PREPA - CPEG"
-            - [**La Croix Rouge/La Salle - Brest**](https://www.lacroixrouge-brest.fr/ecoles-formations/enseignement-superieur/prepas-scientifiques-aux-grandes-ecoles-ptsi-pt/){target=_blank} (*Brest - 29*)
-            - [**Lycée de Cornouaille - Quimper**](https://lycee-de-cornouaille-quimper.ac-rennes.fr/spip.php?article1620){target=_blank} (*Quimper - 29*)
-            - [**Faire sa PREPA au Lycée Chateaubriand**](https://lycee-chateaubriand.fr/){target=_blank} (*Rennes - 35*)
-        
+       
         ???+ info "UNIVERSITES"
-            - ==**UBO - CAP'AVENIR**== : inscriptions à partir de mi-janvier 2025 pour de nouvelles [**immersions**](https://www.univ-brest.fr/cap-avenir/fr/page/immersion-individuelle-lubo){target=_blank} pendant les vacances de février.
-            - ==**UCO Guingamp**== : événements à venir de l'[**UCO**](https://guingamp.uco.fr/fr/fr/actualites-guingamp){target=_blank} prochaines [**immersions**](https://guingamp.uco.fr/fr/event/testez-l-universite-grace-aux-journees-decouvertes-de-fevrier-0){target=_blank} en février.
+            - ==**UBO - CAP'AVENIR**== : inscriptions à partir de mi-janvier 2026 pour de nouvelles [**immersions**](https://www.univ-brest.fr/cap-avenir/fr/page/immersion-individuelle-lubo){target=_blank} pendant les vacances de février.
+            - ==**UCO Guingamp**== : événements à venir de l'[**UCO**](https://guingamp.uco.fr/fr/fr/actualites-guingamp){target=_blank}
         
-        ???+ info "ECOLES SPECIALISEES"
-            - [**ITES**](https://www.ites-formation.com/salons-et-forums-2023-2024/){target=_blank} : rendez-vous de l'[**Institut de formation au travail Educatif et Social**](https://www.ites-formation.com/){target=_blank} dans les salons et forums.
     === "SALONS - FORUMS"
         - [**Salons - Forums de l'orientation**](https://www.onisep.fr/recherche?text=SALONS%20FORUMS){target=_blank} : comment préparer sa visite à un salon ?
         - [**SALONS DE L'ETUDIANT**](https://www.letudiant.fr/etudes/salons.html){target=_blank} : en France, recherche par région et domaine.
@@ -204,14 +191,22 @@ ___
     === "RESSOURCES"
         - [**Recherche de stage, mode d'emploi**](./pdf/IDEO_Recherche_de_stage_mode_d_emploi.pdf){target=_blank}
         - [**Je choisis mon CAP**](https://ideo.bretagne.bzh/publications/guide-cap){target=_blank}
-
     === "PARCOURSUP"    
         - [**PARCOURSUP - Site officiel**](https://www.parcoursup.fr/index.php?desc=){target=_blank}
     === "PO - IMMERSIONS"
-        - [**BTS SP3S**](https://www.lycee-campostal-gouarec.com/A-VOS-AGENDAS-MINI-STAGE-DECOUVERTE-BTS-SP3S){target=_blank} : mini-stages découverte  ==mardi 20 février - jeudi 14 mars 2024 (9h à 16h30)== (*Rostrenen - Gouarec 22*)
+        - [**PORTES OUVERTES DU SUPERIEUR - 2025/2026 - Accéder au moteur de recherche**](https://www.onisep.fr/recherche?context=jpo&sf[common_niveau_enseignement_mid][]=apr%C3%A8s%20bac&not_show_facets=common_niveau_enseignement_mid){target=_blank}
+        - [**Catalogue IDEO des IMMERSIONS - Bretagne**](https://www.linscription.com/pro/catalogue-immersion-brio-ideo-actions-pour-lyceens.php){target=_blank}
+        - [**Printemps de l'orientation**](https://www.education.gouv.fr/reussir-au-lycee/les-semaines-de-l-orientation-327179/){target=_blank}
+        
+        ==*ATTENTION : Certaines dates peuvent ne pas être à jour. N'hésitez pas à vérifier directement sur les sites des établissements.*==
+
+        ???+ info "UNIVERSITES"
+            - ==**UBO - CAP'AVENIR**== : inscriptions à partir de mi-janvier 2026 pour de nouvelles [**immersions**](https://www.univ-brest.fr/cap-avenir/fr/page/immersion-individuelle-lubo){target=_blank} pendant les vacances de février.
+            - ==**UCO Guingamp**== : événements à venir de l'[**UCO**](https://guingamp.uco.fr/fr/fr/actualites-guingamp){target=_blank}
+    
     === "SALONS - FORUMS"
         - [**Salons - Forums de l'orientation**](https://www.onisep.fr/recherche?text=SALONS%20FORUMS){target=_blank} : comment préparer sa visite à un salon ?
-        - [**Azimut**](https://www.salon-azimut.com/){target=_blank} : site officiel du salon les ==**25 au 27/01/2024**== 
+        - [**Azimut**](https://www.salon-azimut.com/){target=_blank} : site officiel du salon des ==**23-24 janvier 2026**== 
 ___ 
 ## DOMAINES
 
@@ -387,8 +382,9 @@ ___
     === "ECOLES"
         - [**Les 2 Rives**](https://les-2-rives.fr/enseignement-superieur/){target=_blank} : BTS Conseiller de Clientèle - BTS Assurance - BTS CRSA (Conception et réalisation de systèmes automatiques) - BUT Banque assurance chargé de clientèle. (*Landerneau - 29*)
         - [**Campus de Pouillé**](https://www.campus-pouille.com/){target=_blank} : BTS dans le domaine de la nature, du vivant et de l'environnement. (*Angers - 49*)
-        - [**Chaptal**](https://www.lycee-chaptal.fr/nos-formations/enseignement-superieur/){target=_blank} : BTS Bioqualité - Diététique - ESF - Collaborateur-juriste - SAM - SIO - SP3S - DECESF (*Quimper - 29*)
+        - [**Chaptal**](https://lycee-chaptal-quimper.ac-rennes.fr/){target=_blank} : BTS Bioqualité - Diététique - ESF - Collaborateur-juriste - SAM - SIO - SP3S - DECESF (*Quimper - 29*)
         - [**Fénelon**](https://www.fenelonsup.org/formations/brevet-technicien-superieur-economie-sociale-familiale/){target=_blank} : BTS EFS (Economie Familiale et Sociales). (*Brest - 29*)
+        - [**Javouhey - Rive Droite**](https://www.javouhey-brest.fr/le-sup/les-formations/){target=_blank} : BTS Gestion de la PME - BTS Support à l'action Managériale - BTS Comptabilité et Gestion -  BTS Communication. (*Brest - 29*)
         - [**Jules Lesven**](https://www.lycee-jules-lesven.org/formations-593-0-0-0.html){target=_blank} : BTS CG (Comptabilité Gestion) - BTS PI (Professions Immobilières) - BTS CI (Commerce International) - BTS G PME (Gestion de la PME) - BTS MMV (Métiers de la Mode et du Vêtement). (*Brest - 29*)
         - [**Lammenais**](https://www.lycee-lamennais.fr/parcours-services-au-entreprises/){target=_blank} : BTS MCO (*Ploërmel - 56*)
         - [**Lycée du Léon**](https://www.lycee-landivisiau.fr/les-formations/le-bts-mco/){target=_blank} : BTS MCO (*landivisiau - 29*)
@@ -425,18 +421,22 @@ ___
         - [**Les études en classe PREPA**](https://www.onisep.fr/formation/apres-le-bac-les-etudes-superieures/les-principales-filieres-d-etudes-superieures/les-cpge-classes-preparatoires-aux-grandes-ecoles/les-etudes-en-classes-preparatoires){target=_blank} : Comment ça marche ? Pourquoi faire une classe préparatoire ? Les différentes classes préparatoires. (*Sources : Onisep*)
         - [**Classes prépas - CPEG**](https://www.letudiant.fr/etudes/classes-prepa.html){target=_blank} : les différents types de classes prépas. Classement des écoles prépas. (*Sources : L'Etudiant*)
         - [**Classes prépas - CPEG**](https://www.enseignementsup-recherche.gouv.fr/fr/classes-preparatoires-aux-grandes-ecoles-cpge-46496){target=_blank} : les différents types de classes prépas. Classement des écoles prépas. (*Sources : L'Etudiant*)
-        - [**Lycée La Pérouse-Kérichen**](https://lycee-la-perouse-kerichen-brest.ac-rennes.fr/spip.php?rubrique273){target=_blank} : Pourquoi faire une Prépa ?(*Brest*)
+        - [**Lycée La Pérouse-Kérichen**](https://lycee-la-perouse-kerichen-brest.ac-rennes.fr/spip.php?rubrique273){target=_blank} : Pourquoi faire une Prépa ?(*Brest - 29*)
     === "ECONOMIQUE ET SOCIALE"
         - [**Quelle Prépa choisir ?**](https://www.onisep.fr/formation/apres-le-bac-les-etudes-superieures/les-principales-filieres-d-etudes-superieures/les-cpge-classes-preparatoires-aux-grandes-ecoles/les-prepas-economiques-et-commerciales){target=_blank} : ECG (Economique et commerciale générale) - ECT (Economique et Commerciale Technologique) - D1 (Droit, économie, management)- D2 (Economie et gestion). (*Sources : Onisep*)
     === "LITTERAIRE"
         - [**ENS**](https://www.ens.psl.eu/une-formation-d-exception/admission-concours/concours-voie-cpge/concours-voie-cpge-lettres){target=_blank} : Concours Lettres (concours A/L) et Sciences sociales (concours B/L).
         - [**Prépa littéraire**](https://www.prepalitteraire.fr/#){target=_blank} : le site des classes préparatoires littéraires.
-        - [**Lycée de Cornouailles**](https://lycee-de-cornouaille-quimper.ac-rennes.fr/spip.php?rubrique94){target=_blank} : CPEG Lettres A/L, comment choisir ?. (*Quimper*)
+        - [**Lycée de Cornouailles**](https://lycee-de-cornouaille-quimper.ac-rennes.fr/spip.php?rubrique94){target=_blank} : CPEG Lettres A/L, comment choisir ?. (*Quimper - 29*)
+        - [**Lycée Ernest Renan**](https://www.saintbrieuc-prepas.org/classes-prepas/classes-litteraires/){target=_blank} : CPEG littéraire (*Sy-Brieuc - 22*)
     === "SCIENTIFIQUE"
-        - [**Brizeux**](https://www.cpge-brizeux.fr/wordpress/){target=_blank} : PCSI (Physique Chimie Sciences de l’Ingénieur) et deux classes de deuxième année (PC : Physique Chimie et PSI : Physique Sciences de l’Ingénieur) (*Quimper*)
+        - [**Brizeux**](https://www.cpge-brizeux.fr/wordpress/){target=_blank} : PCSI (Physique Chimie Sciences de l’Ingénieur) et deux classes de deuxième année (PC : Physique Chimie et PSI : Physique Sciences de l’Ingénieur) (*Quimper - 29*)
         - [**ENS**](https://www.ens.psl.eu/une-formation-d-exception/admission-concours/concours-voie-cpge/concours-voie-cpge-sciences){target=_blank} : voie CPEG Sciences à l'Ecole Normale Supérieure.
-        - [**Lycée Sainte-Anne**](https://www.sainte-anne-brest.fr/){target=_blank} : MPSI (Mathématiques Physique et Sciences de l'ingénieur) - PCSI (Physique Chimie Sciences de l'Ingénieur) - MP (Mathématiques Physique) - PC (Physique Chimie) - PSI (Physique Sciences de l'Ingénieur) - PT (Physique et Technologie). (*Brest*)
-        - [**La Croix-Rouge**](https://www.lacroixrouge-brest.fr/ecoles-formations/enseignement-superieur/){target=_blank} : PTSI (Physique Technologie Sciences de l'Ingénieur) - MPSI-PSI. (*Brest*)
+        - [**La Croix-Rouge**](https://www.lacroixrouge-brest.fr/ecoles-formations/enseignement-superieur/){target=_blank} : PTSI (Physique Technologie Sciences de l'Ingénieur) - MPSI-PSI. (*Brest - 29*)
+        - [**Lycée Chaptal**](https://www.saintbrieuc-prepas.org/classes-prepas/prepa-tsi-chaptal/){target=_blank} : TSI (Technologie et Sciences Industrielles) - (*St-Brieuc - 22*)
+        - [**Lycée Rabelais**](https://www.saintbrieuc-prepas.org/classes-prepas/prepa-scientifique-rabelais/){target=_blank} : MPSI PCSI MP PSI (*St-Brieuc - 22*)
+        - [**Lycée Sainte-Anne**](https://www.sainte-anne-brest.fr/){target=_blank} : MPSI (Mathématiques Physique et Sciences de l'ingénieur) - PCSI (Physique Chimie Sciences de l'Ingénieur) - MP (Mathématiques Physique) - PC (Physique Chimie) - PSI (Physique Sciences de l'Ingénieur) - PT (Physique et Technologie). (*Brest - 29*)
+        
     === "SCIENCES PO"
         - [**SCIENCES PO**](https://www.sciencespo.fr/fr/){target=_blank}
 
@@ -459,6 +459,7 @@ ___
     === "ECOLES"
         - [**CPE Lyon**](https://www.cpe.fr/){target=_blank} : Ecole d'Ingénieurs en Chimie et Sciences du Numérique (*Lyon - 69*).
         - [**ENSCR Rennes**](https://www.ensc-rennes.fr/){target=_blank} : Ecole Nationale Supérieure de Chimie de Rennes (*Rennes - 35*)
+        - [**ENSSAT Lannion**](https://www.enssat.fr/){target=_blank} : Ecole Nationale Supérieure des Sciences Appliquées et de Technologie (*Lannion - 22*)
         - [**EPITA**](https://www.epita.fr/){target=_blank} : Ecole des ingénieurs en intelligence informatique.
         - [**ESGT**](https://www.esgt.cnam.fr/presentation/){target=_blank} : École Supérieure d'Ingénieurs Géomètres et Topographes. Plaquette  [**ESGT**](./pdf/ESGT_plaquette_ecole.pdf){target=_blank} - Présentation du cycle [**ingénieur**](./pdf/ESGT_cycle_ingenieur.pdf){target=_blank} spécialité géomètre et du cycle [**préparatoire**](./pdf/ESGT_cycle_preparatoire_integre.pdf){target=_blank} (*Le Man - 72*).
         - [**ESIGELEC**](https://www.esigelec.fr/fr){target=_blank} : Ecole d'Ingénieurs généralistes (*Saint-Étienne-du-Rouvray - 76*).
