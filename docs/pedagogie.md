@@ -197,30 +197,29 @@ ___
     L’objectif est de les guider dans leurs choix d'orientation, en leur proposant soit des modules de découverte variés où ils pourront exprimer leurs talents, soit des activités liées à une discipline spécifique, ou encore des outils pour les aider à surmonter des difficultés identifiées.
     === "**PROJETS LONGS** (*27 semaines*)"
 
+        * Soutien français
+        
         * Sciences et laboratoire : Faire des sciences dans le cadre d’une enquête policière
         
         * Création et innovation technologique - Sciences de l'ingénieur
     
         * La lecture à voix haute... dans tous ses états
     
-        * Atelier d'écriture partagée
-    
-        * Management et Gestion
+
          
 
     === "PROJETS COURTS (*9 semaines*)"
-             
-        * Soutien français
+    
 
         * Soutien maths
+
+        * Méthodologie
      
         * Initiation aux sciences de l'ingénieur
         
         * Initiation au management et à la gestion
-           
-        * Sciences et laboratoire : répondre à des questions scientifiques par l'expérience
-        
-        * Questions de science ou de société... en débat(s)
+            
+        * S'informer et débattre
 
    
 ___

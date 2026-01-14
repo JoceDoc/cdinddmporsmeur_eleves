@@ -15,6 +15,10 @@ L'actualité de l'orientation au lycée et dans la région, les ==**sites incont
 ## ACTUALITES
 
 ???+ info "**IMMERSIONS - JOURNEES DECOUVERTES - PORTES OUVERTES**"
+    [![**IUT St-Malo**](./images/orientation/2026_Affiche_JPO_IUT_Saint-Malo.jpg "JPO IUT St-Malo"){width=35%}](https://www.connect-comtogether.com/flipbook/22c40d4ccbf0f2a17461eee1ce0380e5/#p=1){target=_blank}
+
+    [![**Rosa Park - Rostrenen**](./images/orientation/2026_Affiche_PO_Rosa_Parks.jpg "JPO Lycée Rosa Park"){width=35%}](https://www.lp-rosaparks-rostrenen.ac-rennes.fr/){target=_blank}
+    
     [![**IUT - Lannion**](./images/orientation/2025-2026_Affiche_JPO_Lannion.jpg "JPO IUT Lannnion"){width=35%}](https://iut-lannion.univ-rennes.fr/){target=_blank}
 
     [![**CUPGE - Lannion**](./images/orientation/2025-2026_Plaquette_CUPGE_Lannion.jpg "JPO IUT Lannion"){width=35%}](./images/orientation/2025-2026_CUPGE_Lannion_plaquette.pdf){target=_blank}
@@ -392,7 +396,7 @@ ___
         - [**Notre-Dame Le Ménimur**](https://www.ndlm56.bzh/pole-sup-notre-dame/){target=_blank} : BTS SP3S - ESF - DECESF - L3PRO APS - Licence 3 Gestion des Organisations du champ de l'Economie sociale et solidaire (en apprentissage) (*Vannes - Saint Avé - 56*)
         - [**Le Paraclet**](https://www.leparaclet.org/formations-quimper/enseignement-superieur/bts-management-en-hotellerie-restauration/){target=_blank} : BTS Management en hôtellerie restauration (*Quimper - 29*)
         - [**Rosa Parks**](https://www.lp-rosaparks-rostrenen.ac-rennes.fr/spip.php?article273){target=_blank} : BTS MOS (Management Opérationnel de la Sécurité) [**Fiche de présentation**](./pdf/fiche_bts_mos.pdf){target=_blank} (*Rostrenen - 22*)
-        - [**Saint-Louis**](http://www.saint-louis29.net/wp-content/uploads/2023/01/plaquette-BTS-22-23.pdf){target=_blank} : BTS SIO (Services Informatiques aux Organisations) (*Chateaulin - 29*)
+        - [**Saint-Louis**](http://www.saint-louis29.net/){target=_blank} : BTS SIO (Services Informatiques aux Organisations) (*Chateaulin - 29*)
         - [**Sainte-Thérèse**](https://www.sainte-therese-quimper.org/bts-sam-enseignement-superieur/){target=_blank} : BTS SAM (Support à l'action manageriale) (*Quimper - 29*)
         - [**Tristan Corbière**](https://www.lyceetristancorbiere.fr/brevets-de-technicien-superieurs-bts/){target=_blank} : BTS Aéronautique - BTS CIM (Conception des produits industriels) (*Morlaix - 29*)
 
