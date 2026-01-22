@@ -6,11 +6,10 @@
     * [**CIO Morlaix**](https://www.ac-rennes.fr/cio-morlaix){target=_blank}
     * [**CIO Région Bretagne**](https://demarchesadministratives.fr/cio-information-orientation/morlaix-29600){target=_blank}
     * [**Démarches administratives**](https://demarchesadministratives.fr/demarches/categorie/formation-recherche-demploi/etudier-en-france){target=_blank}
-    * [**Vie associative**](https://www.ville.morlaix.fr/VIVRE-A-MORLAIX/Vie-associative){target=_blank}
+    * [**Vie associative**](https://www.morlaix.bzh/vivre-a-morlaix/vie-associative){target=_blank}
 
 
-L'actualité de l'orientation au lycée et dans la région, les ==**sites incontournables**== pour construire son ==**parcours avenir**==, des ==**ressources par niveau**==, les ==**salons et forums**==, la ==**vie étudiante**==...
-
+L'actualité de l'orientation au lycée et dans la région, les ==**sites incontournables**== pour construire son ==**parcours avenir**==, des ==**ressources par niveau**==, les informations concernant les ==**salons et forums**==, la ==**vie étudiante**==...
 
 ## ACTUALITES
 
@@ -33,17 +32,19 @@ L'actualité de l'orientation au lycée et dans la région, les ==**sites incont
 
     [![**UCO GUINGAMP**](./images/orientation/2025-2026_UCO_Guingamp.png "Journées découvertes UCO"){width=45%}](https://forms.office.com/pages/responsepage.aspx?id=gQWqPAeCVEaEOorw19tTeWGjZIomZ5NHgGlSRtQ5ETtUMVVIQVZXSUxLMkxXUkcyODhEOFJCRFlXNS4u&route=shorturl){target=_blank}
     
-
     
 ??? info "**Un espace au service de l'emploi**"
     - [**L'Espace métiers**](https://www.brest.fr/travailler-entreprendre/emploi-insertion/des-evenements-et-un-espace-au-service-de-lemploi-a-brest-1768.html){target=_blank} : un lieu pour s'informer à Brest métropole...
-    
+   
 ___ 
 ## RESSOURCES  
 
 ___ 
 ### Pour TOUS
 ???+ "Pour TOUS"
+
+    [![Schéma des études supérieures](./images/orientation/2026_Schéma_etudes_superieures.jpg "Schema_etudes"){width=80%}](https://www.onisep.fr/orientation/l-enseignement-superieur/le-schema-des-etudes-apres-le-bac){target=_blank}
+
     === "INCONTOURNABLES"
         - [**Réussir au lycée et APRES...**](https://www.education.gouv.fr/reussir-au-lycee/2021-2022-bien-preparer-son-bac-et-son-entree-dans-le-superieur-326326){target=_blank}
         - [**Construire ses PROJETS D'AVENIR au lycée**](https://lycee-avenirs.onisep.fr/){target=_blank} 
@@ -212,6 +213,9 @@ ___
         - [**Salons - Forums de l'orientation**](https://www.onisep.fr/recherche?text=SALONS%20FORUMS){target=_blank} : comment préparer sa visite à un salon ?
         - [**Azimut**](https://www.salon-azimut.com/){target=_blank} : site officiel du salon des ==**23-24 janvier 2026**== 
 ___ 
+
+
+
 ## DOMAINES
 
 ___ 
@@ -246,10 +250,10 @@ ___
         - [**Marine Nationale**](https://www.lamarinerecrute.fr/){target=_blank} : La marine recrute, rejoignez l’équipage...
         - [**ENSM**](https://www.supmaritime.fr/){target=_blank} : Ecole Nationale Supérieure Maritime (Le Havre - Marseille - Nantes - Saint-Malo).
         
-        [![Forum_des _armées](./images/orientation/2024_AAE-1.jpg "Forum des armées"){width=25%}](https://devenir-aviateur.fr/){target=_blank}
+        [![Job dating](./images/orientation/20260408_Job_dating_BA_928_Brest_Loperhet.jpg "S'inscrire"){width=40%}](https://demarche.numerique.gouv.fr/commencer/job-dating){target=_blank}
         [![Recrutement_EETAAE](./images/orientation/EETAAE_recrutement_2024.jpg "Affiche"){width=40%}](https://eetaa722.fr/){target=_blank}
-        [![**AIR actualités"**](./images/orientation/2025-2026_Air_Actu_08-09.jpg "Air actualités, août-septembre 2025"){width=25%}](./images/orientation/2025-2026_Air_Actu_08-09.pdf){target=_blank}
-        [![**EFSOAA"**](./images/orientation/brochure-efsoaa-page-001.jpg "EFSOAA"){width=25%}](./pdf/brochure-efsoaa.pdf){target=_blank}
+        [![**AIR actualités"**](./images/orientation/2025-2026_Air_Actu_08-09.jpg "Air actualités, août-septembre 2025"){width=35%}](./images/orientation/2025-2026_Air_Actu_08-09.pdf){target=_blank}
+        [![**EFSOAA"**](./images/orientation/brochure-efsoaa-page-001.jpg "EFSOAA"){width=35%}](./pdf/brochure-efsoaa.pdf){target=_blank}
     === "SECURITE"
         - [**Devenir gendarme**](https://www.devenir-gendarme.fr/){target=_blank}
         - [**Devenir policier**](https://www.devenirpolicier.fr/){target=_blank}
@@ -442,7 +446,7 @@ ___
         - [**Lycée Sainte-Anne**](https://www.sainte-anne-brest.fr/){target=_blank} : MPSI (Mathématiques Physique et Sciences de l'ingénieur) - PCSI (Physique Chimie Sciences de l'Ingénieur) - MP (Mathématiques Physique) - PC (Physique Chimie) - PSI (Physique Sciences de l'Ingénieur) - PT (Physique et Technologie). (*Brest - 29*)
         
     === "SCIENCES PO"
-        - [**SCIENCES PO**](https://www.sciencespo.fr/fr/){target=_blank}
+        - [**SCIENCES PO**](https://www.sciencespo.fr/fr/){target=_blank} : pour s'inscrire au webinar [IEP et Sciences Politiques](https://hodea.fr/events/9/){target=_blank}
 
 ___ 
 ### Ecoles de commerce
@@ -508,7 +512,7 @@ ___
  
         
 
-![Schéma des études supérieures](./images/orientation/2024-2025_Schéma_etudes_superieures.jpg "Schema_etudes"){width=90%}  
+
   
 
 
