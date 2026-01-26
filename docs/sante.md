@@ -74,7 +74,7 @@
         ![Données santé](./images/parcours_sante/bretagne-sport-sante-lutte-contre-la-sedentarite-recommandations-activite-physique-insuffisante.jpg "Données santé"){width=70% align=left} Source : [**Bretagne - Sport santé**](https://bretagne-sport-sante.fr/){target=_blank}
         
     ???+ question "La sédentarité et moi !"
-        Pour connaître ton niveau d'activité physique et de sédentarité, réalise ce [**test **](https://www.mangerbouger.fr/bouger-plus/test-de-niveau-d-activite-physique-et-de-sedentarite){target=_blank} en ligne et découvre [**pour quel sport tu es fait.**](https://www.phosphore.com/entre-nous/tests-perso/pour-quel-sport-es-tu-faite/){target=_blank}
+        Pour connaître ton niveau d'activité physique et de sédentarité, réalise ce [**test**](https://www.mangerbouger.fr/bouger-plus/test-de-niveau-d-activite-physique-et-de-sedentarite){target=_blank} en ligne et découvre [**pour quel sport tu es fait.**](https://www.phosphore.com/entre-nous/tests-perso/pour-quel-sport-es-tu-faite/){target=_blank}
 
         D'autres jeux et quizz sur l'[**ONAPS**](https://onaps.fr/jeux-et-quizz/){target=_blank} : Observatoire National de l'Activité Physique et de la Sédentarité.
 
@@ -100,12 +100,16 @@
     
 
  
-## Vie affective et sexuelle
+## EVARS
+
+??? info "Instructions officielles concernant l'EVARS"
+    * [**education.gouv.fr**](https://www.education.gouv.fr/un-programme-ambitieux-eduquer-la-vie-affective-et-relationnelle-et-la-sexualite-416296){target=_blank} : les programmes par niveau scolaire.
 
 ??? info "Des sites pour s'informer"
-    * [**CIDFF**](https://finistere.cidff.info/){target=_blank} : Centre d'information sur les droits des femmes et des familles.
-    * [**CLER**](https://www.cler.net/Education-affective-et-sexuelle){target=_blank} : Education affective et sexuelle.
-
+    * [**CIDFF**](https://finistere.cidff.info/){target=_blank} : Centre d'Information sur les Droits des Femmes et des Familles.
+    * [**CLER**](https://www.cler.net/){target=_blank} : Aimer ça s'apprend !
+    * [**PLANNING FAMILIAL**](https://www.planning-familial.org/fr){target=_blank} : Education affective et sexuelle.
+    * [**SESAME**](https://www.sesame-educ.org/){target=_blank} : Amour et Sexualité.
 
 
 
