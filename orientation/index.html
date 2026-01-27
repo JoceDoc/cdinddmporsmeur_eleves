@@ -1,0 +1,1897 @@
+<!-- Ajout pour le bouton de téléchargement et le style des jupyter notebook   https://github.com/danielfrg/mkdocs-jupyter -->
+
+
+<!doctype html>
+<html lang="fr" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="Exemple de site de base pour MkDocs avec le thème Material à personaliser">
+      
+      
+        <meta name="author" content="Jocelyne COZ">
+      
+      
+      
+        <link rel="prev" href="../culture/">
+      
+      
+        <link rel="next" href="../citoyen/">
+      
+      
+        
+      
+      
+      <link rel="icon" href="../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.1">
+    
+    
+      
+        <title>Parcours avenir - Site WEB du CDI</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.484c7ddc.min.css">
+      
+        
+        <link rel="stylesheet" href="../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+    
+    
+      <link rel="stylesheet" href="../stylesheets/extra.css">
+    
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="purple" data-md-color-accent="lime">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#actualites" class="md-skip">
+          Aller au contenu
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="En-tête">
+    <a href=".." title="Site WEB du CDI" class="md-header__button md-logo" aria-label="Site WEB du CDI" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M384 512H96c-53 0-96-43-96-96V96C0 43 43 0 96 0h304c26.5 0 48 21.5 48 48v288c0 20.9-13.4 38.7-32 45.3V448c17.7 0 32 14.3 32 32s-14.3 32-32 32zM96 384c-17.7 0-32 14.3-32 32s14.3 32 32 32h256v-64zm32-232c0 13.3 10.7 24 24 24h176c13.3 0 24-10.7 24-24s-10.7-24-24-24H152c-13.3 0-24 10.7-24 24m24 72c-13.3 0-24 10.7-24 24s10.7 24 24 24h176c13.3 0 24-10.7 24-24s-10.7-24-24-24z"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Site WEB du CDI
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Parcours avenir
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="purple" data-md-color-accent="lime"  aria-label="Basculer en mode sombre"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Basculer en mode sombre" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 7a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5m0 2a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3m0-7 2.39 3.42C13.65 5.15 12.84 5 12 5s-1.65.15-2.39.42zM3.34 7l4.16-.35A7.2 7.2 0 0 0 5.94 8.5c-.44.74-.69 1.5-.83 2.29zm.02 10 1.76-3.77a7.131 7.131 0 0 0 2.38 4.14zM20.65 7l-1.77 3.79a7.02 7.02 0 0 0-2.38-4.15zm-.01 10-4.14.36c.59-.51 1.12-1.14 1.54-1.86.42-.73.69-1.5.83-2.29zM12 22l-2.41-3.44c.74.27 1.55.44 2.41.44.82 0 1.63-.17 2.37-.44z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="purple" data-md-color-accent="lime"  aria-label="Basculer en mode clair"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Basculer en mode clair" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m17.75 4.09-2.53 1.94.91 3.06-2.63-1.81-2.63 1.81.91-3.06-2.53-1.94L12.44 4l1.06-3 1.06 3zm3.5 6.91-1.64 1.25.59 1.98-1.7-1.17-1.7 1.17.59-1.98L15.75 11l2.06-.05L18.5 9l.69 1.95zm-2.28 4.95c.83-.08 1.72 1.1 1.19 1.85-.32.45-.66.87-1.08 1.27C15.17 23 8.84 23 4.94 19.07c-3.91-3.9-3.91-10.24 0-14.14.4-.4.82-.76 1.27-1.08.75-.53 1.93.36 1.85 1.19-.27 2.86.69 5.83 2.89 8.02a9.96 9.96 0 0 0 8.02 2.89m-1.64 2.02a12.08 12.08 0 0 1-7.8-3.47c-2.17-2.19-3.33-5-3.49-7.82-2.81 3.14-2.7 7.96.31 10.98 3.02 3.01 7.84 3.12 10.98.31"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Rechercher" placeholder="Rechercher" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Recherche">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Effacer" aria-label="Effacer" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initialisation de la recherche
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="Onglets" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href=".." class="md-tabs__link">
+        
+  
+  
+    
+  
+  Page d'accueil
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../actualites/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Actualités
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../pedagogie/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Pédagogie
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../culture/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Culture
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    
+  
+  
+    <li class="md-tabs__item md-tabs__item--active">
+      <a href="./" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Parcours avenir
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../citoyen/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Parcours citoyen
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../sante/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Parcours santé
+
+      </a>
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+  
+
+<nav class="md-nav md-nav--primary md-nav--lifted md-nav--integrated" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="Site WEB du CDI" class="md-nav__button md-logo" aria-label="Site WEB du CDI" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M384 512H96c-53 0-96-43-96-96V96C0 43 43 0 96 0h304c26.5 0 48 21.5 48 48v288c0 20.9-13.4 38.7-32 45.3V448c17.7 0 32 14.3 32 32s-14.3 32-32 32zM96 384c-17.7 0-32 14.3-32 32s14.3 32 32 32h256v-64zm32-232c0 13.3 10.7 24 24 24h176c13.3 0 24-10.7 24-24s-10.7-24-24-24H152c-13.3 0-24 10.7-24 24m24 72c-13.3 0-24 10.7-24 24s10.7 24 24 24h176c13.3 0 24-10.7 24-24s-10.7-24-24-24z"/></svg>
+
+    </a>
+    Site WEB du CDI
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href=".." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Page d'accueil
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../actualites/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Actualités
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../pedagogie/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Pédagogie
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../culture/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Culture
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Parcours avenir
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Parcours avenir
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table des matières">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table des matières
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#actualites" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        ACTUALITES
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#ressources" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        RESSOURCES
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="RESSOURCES">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#pour-tous" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Pour TOUS
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#specialites" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        SPECIALITES
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#niveau-2nde" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Niveau 2nde
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#niveau-1re" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Niveau 1re
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#niveau-tle" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Niveau Tle
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#voie-professionnelle" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Voie professionnelle
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#domaines" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        DOMAINES
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="DOMAINES">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#agriculture-bois" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Agriculture - Bois
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#architecture-construction-travaux-publics" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Architecture - Construction - Travaux publics
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#armee-securite" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Armée - Sécurité
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#arts-artisanat-culture" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Arts - Artisanat - Culture
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#audiovisuel-information-communication" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Audiovisuel - Information - Communication
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#commerce-vente-marketing" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Commerce - Vente - Marketing
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#droit-economie-gestion" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Droit - Economie - Gestion
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#energies-environnement" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Energies - Environnement
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#enseignement" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Enseignement
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#informatique-internet" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Informatique - Internet
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#sante-social-sport" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Santé - Social - Sport
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#sciences-technologie" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Sciences - Technologie
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#formations" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        FORMATIONS
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="FORMATIONS">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#bts" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        BTS
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#but" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        BUT
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#cpeg" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        CPEG
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ecoles-de-commerce" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Ecoles de commerce
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ecoles-dingenieurs" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Ecoles d'ingénieurs
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#universites" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Universités
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../citoyen/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Parcours citoyen
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../sante/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Parcours santé
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+
+
+
+
+
+                  
+
+
+
+  <h1>Parcours avenir</h1>
+
+<details class="example inline end" open="open">
+<summary>Liens utiles :</summary>
+<p><a href="https://www.onisep.fr/" target="_blank"><img alt="**ONISEP&quot;**" src="../images/orientation/onisep_01.png" title="Page d'accueil ONISEP" width="90%" /></a>
+<a href="https://www.parcoursup.fr/index.php?desc=" target="_blank"><img alt="**PARCOURSUP&quot;**" src="../images/orientation/parcoursup.png" title="Page d'accueil PARCOURSUP" width="90%" /></a></p>
+<ul>
+<li><a href="https://www.ac-rennes.fr/cio-morlaix" target="_blank"><strong>CIO Morlaix</strong></a></li>
+<li><a href="https://demarchesadministratives.fr/cio-information-orientation/morlaix-29600" target="_blank"><strong>CIO Région Bretagne</strong></a></li>
+<li><a href="https://demarchesadministratives.fr/demarches/categorie/formation-recherche-demploi/etudier-en-france" target="_blank"><strong>Démarches administratives</strong></a></li>
+<li><a href="https://www.morlaix.bzh/vivre-a-morlaix/vie-associative" target="_blank"><strong>Vie associative</strong></a></li>
+</ul>
+</details>
+<p>L'actualité de l'orientation au lycée et dans la région, les <mark><strong>sites incontournables</strong></mark> pour construire son <mark><strong>parcours avenir</strong></mark>, des <mark><strong>ressources par niveau</strong></mark>, les informations concernant les <mark><strong>salons et forums</strong></mark>, la <mark><strong>vie étudiante</strong></mark>...</p>
+<h2 id="actualites">ACTUALITES<a class="headerlink" href="#actualites" title="Permanent link">⚓︎</a></h2>
+<details class="info" open="open">
+<summary><strong>IMMERSIONS - JOURNEES DECOUVERTES - PORTES OUVERTES</strong></summary>
+<p><a href="https://www.connect-comtogether.com/flipbook/22c40d4ccbf0f2a17461eee1ce0380e5/#p=1" target="_blank"><img alt="**IUT St-Malo**" src="../images/orientation/2026_Affiche_JPO_IUT_Saint-Malo.jpg" title="JPO IUT St-Malo" width="35%" /></a></p>
+<p><a href="https://www.lp-rosaparks-rostrenen.ac-rennes.fr/" target="_blank"><img alt="**Rosa Park - Rostrenen**" src="../images/orientation/2026_Affiche_PO_Rosa_Parks.jpg" title="JPO Lycée Rosa Park" width="35%" /></a></p>
+<p><a href="https://iut-lannion.univ-rennes.fr/" target="_blank"><img alt="**IUT - Lannion**" src="../images/orientation/2025-2026_Affiche_JPO_Lannion.jpg" title="JPO IUT Lannnion" width="35%" /></a></p>
+<p><a href="../images/orientation/2025-2026_CUPGE_Lannion_plaquette.pdf" target="_blank"><img alt="**CUPGE - Lannion**" src="../images/orientation/2025-2026_Plaquette_CUPGE_Lannion.jpg" title="JPO IUT Lannion" width="35%" /></a></p>
+<p><a href="https://www.lycee-rabelais-saint-brieuc.ac-rennes.fr/" target="_blank"><img alt="**Lycée Rabelais - St-Brieuc**" src="../images/orientation/2025-2026_Affiche_JPO_St-Brieuc_Rabelais.jpg" title="JPO Lycée Rabelais" width="35%" /></a></p>
+<p><a href="https://www.linscription.com/pro/activite.php?P1=164264" target="_blank"><img alt="**BRIO**" src="../images/orientation/2025_Continum_Brio.png" title="Immersions_UBO" width="45%" /></a> </p>
+<p><a href="https://www.linscription.com/pro/activite.php?P1=227696" target="_blank"><img alt="**IUT-UBO**" src="../images/orientation/2025-2026_IUT-UBO_insertions.png" title="Immersions_IUT-UBO" width="45%" /></a></p>
+<p><a href="https://nouveau.univ-brest.fr/cap-avenir/fr/page/insta-fac" target="_blank"><img alt="**INSTAFAC**" src="../images/orientation/2025-2026_Instafac.jpg" title="CAP'AVENIR" width="45%" /></a></p>
+<p><a href="https://forms.office.com/pages/responsepage.aspx?id=gQWqPAeCVEaEOorw19tTeWGjZIomZ5NHgGlSRtQ5ETtUMVVIQVZXSUxLMkxXUkcyODhEOFJCRFlXNS4u&amp;route=shorturl" target="_blank"><img alt="**UCO GUINGAMP**" src="../images/orientation/2025-2026_UCO_Guingamp.png" title="Journées découvertes UCO" width="45%" /></a></p>
+</details>
+<details class="info">
+<summary><strong>Un espace au service de l'emploi</strong></summary>
+<ul>
+<li><a href="https://www.brest.fr/travailler-entreprendre/emploi-insertion/des-evenements-et-un-espace-au-service-de-lemploi-a-brest-1768.html" target="_blank"><strong>L'Espace métiers</strong></a> : un lieu pour s'informer à Brest métropole...</li>
+</ul>
+</details>
+<hr />
+<h2 id="ressources">RESSOURCES<a class="headerlink" href="#ressources" title="Permanent link">⚓︎</a></h2>
+<hr />
+<h3 id="pour-tous">Pour TOUS<a class="headerlink" href="#pour-tous" title="Permanent link">⚓︎</a></h3>
+<details open="open">
+<summary>Pour TOUS</summary>
+<p><a href="https://www.onisep.fr/orientation/l-enseignement-superieur/le-schema-des-etudes-apres-le-bac" target="_blank"><img alt="Schéma des études supérieures" src="../images/orientation/2026_Sch%C3%A9ma_etudes_superieures.jpg" title="Schema_etudes" width="80%" /></a></p>
+<div class="tabbed-set tabbed-alternate" data-tabs="1:6"><input checked="checked" id="__tabbed_1_1" name="__tabbed_1" type="radio" /><input id="__tabbed_1_2" name="__tabbed_1" type="radio" /><input id="__tabbed_1_3" name="__tabbed_1" type="radio" /><input id="__tabbed_1_4" name="__tabbed_1" type="radio" /><input id="__tabbed_1_5" name="__tabbed_1" type="radio" /><input id="__tabbed_1_6" name="__tabbed_1" type="radio" /><div class="tabbed-labels"><label for="__tabbed_1_1">INCONTOURNABLES</label><label for="__tabbed_1_2">GUIDES</label><label for="__tabbed_1_3">QUIZ</label><label for="__tabbed_1_4">ALTERNANCE</label><label for="__tabbed_1_5">VIE ETUDIANTE</label><label for="__tabbed_1_6">MOBILITE</label></div>
+<div class="tabbed-content">
+<div class="tabbed-block">
+<ul>
+<li><a href="https://www.education.gouv.fr/reussir-au-lycee/2021-2022-bien-preparer-son-bac-et-son-entree-dans-le-superieur-326326" target="_blank"><strong>Réussir au lycée et APRES...</strong></a></li>
+<li><a href="https://lycee-avenirs.onisep.fr/" target="_blank"><strong>Construire ses PROJETS D'AVENIR au lycée</strong></a> </li>
+<li><a href="https://www.onisep.fr/" target="_blank"><strong>ONISEP</strong></a> : Éditeur public, l'Onisep produit et diffuse toute l'information sur les formations et les métiers.</li>
+<li><a href="https://www.orientation-pour-tous.fr/" target="_blank"><strong>Orientation pour tous</strong></a> : recherche par formations et par régions.</li>
+<li><a href="https://1001orientations.fr/" target="_blank"><strong>1001 orientation</strong></a> : 1001 conseils, 1001 parcours pour choisir sa voie...</li>
+<li><a href="https://www.letudiant.fr/orientation.html" target="_blank"><strong>L'Etudiant</strong></a> : des outils pour réussir son orientation, des tests en ligne pour affiner sa réflexion sur l'orientation, le service de coaching du site de l'Etudiant...</li>
+<li><a href="https://thotismedia.com/" target="_blank"><strong>THOTIS - Le média étudiant</strong></a> : découvrir les formations et trouver sa voie - Affiner son projet en contactant des étudiants - Se renseigner sur Parcoursup. </li>
+<li><a href="https://www.education.gouv.fr/le-service-national-universel-snu-jeunesse-engagee-5381" target="_blank"><strong>SNU</strong></a> : présentation du <strong>Service National Universel</strong> et accès au <a href="https://www.snu.gouv.fr/" target="_blank"><strong>portail</strong></a> pour s'inscrire.</li>
+</ul>
+</div>
+<div class="tabbed-block">
+<p>Tous les <a href="https://ideo.bretagne.bzh/publications" target="_blank"><strong>guides IDEO</strong></a> pour l'aide à l'orientation.</p>
+<p>-<a href="../images/orientation/2024-2025_Que_faire_apr%C3%A8s_la_3e.pdf" target="_blank"><img alt="**Guide &quot;Que faire après la 3e ?&quot;**" src="../images/orientation/2024-2025_Que_faire_apr%C3%A8s_la_3e.jpg" title="Que faire après la 3e" width="20%" /></a>
+-<a href="../images/orientation/2024-2025_Guide_IDEO_Apres_Bac.pdf" target="_blank"><img alt="**Guide &quot;Que faire après le BAC ?&quot;**" src="../images/orientation/2024-2025_Guide_IDEO_Apres_Bac.jpg" title="Que faire après le BAC" width="20%" /></a></p>
+</div>
+<div class="tabbed-block">
+<ul>
+<li>
+<p><a href="https://www.onisep.fr/decouvrir-les-metiers/les-quiz-de-l-onisep/" target="_blank"><strong>QUIZ de l'ONISEP</strong></a> :</p>
+<p><a href="https://www.onisep.fr/decouvrir-les-metiers/les-quiz-de-l-onisep/Quiz-Quels-metiers-selon-mes-gouts" target="_blank"><mark><strong>1-</strong></mark></a> Des métiers selon mes goûts</p>
+<p><a href="https://www.onisep.fr/metier/quels-metiers-demain/quels-metiers-demain" target="_blank"><mark><strong>2-</strong></mark></a> Quels métiers demain ?</p>
+<p><a href="https://www.onisep.fr/cap-vers-l-emploi/alternance/quiz-apprentissage" target="_blank"><mark><strong>3-</strong></mark></a> Quiz apprentissage </p>
+<p><a href="https://www.onisep.fr/metier/les-quiz-de-l-onisep/quiz-etudes-superieures" target="_blank"><mark><strong>4-</strong></mark></a> Quelles études supérieures ?</p>
+<p><a href="https://www.onisep.fr/decouvrir-les-metiers/les-quiz-de-l-onisep/Quiz-secteurs" target="_blank"><mark><strong>5</strong></mark></a> Quiz secteurs.</p>
+<p><a href="https://www.onisep.fr/metier/les-quiz-de-l-onisep/egalite-filles-garcons/quiz-egalite-filles-garcons" target="_blank"><mark><strong>6</strong></mark></a> Quiz égalité filles-garçons.</p>
+<p><a href="https://www.onisep.fr/metier/les-quiz-de-l-onisep/quiz-universite" target="_blank"><mark><strong>7-</strong></mark></a> Vraies-fausses idées sur la FAC.</p>
+</li>
+<li>
+<p><a href="https://test-orientation.studyrama.com/" target="_blank"><strong>Tests d'orientation</strong></a> : pour mieux se connaître et découvrir des pistes pour mon avenir. (<em>sources : Studyrama</em>)</p>
+</li>
+<li><a href="https://www.letudiant.fr/test/metiers/orientation/pour-quels-metiers-etes-vous-fait.html" target="_blank"><strong>Quel métier est fait pour moi ?</strong></a> : pour trouver sa voie, son futur métier et construire son projet professionnel. (<em>Sources : L'Etudiant</em>)</li>
+<li><a href="https://www.onisep.fr/metier/des-metiers-qui-recrutent/les-metiers-de-demain" target="_blank"><strong>Les métiers de demain</strong></a> : les métiers qui recrutent (<em>Sources : Onisep</em>)</li>
+</ul>
+</div>
+<div class="tabbed-block">
+<ul>
+<li><a href="https://www.alternance.emploi.gouv.fr/decouvrir-lalternance" target="_blank"><strong>Portail de l'Alternance</strong></a></li>
+<li><a href="https://www.pole-emploi.fr/accueil/" target="_blank"><strong>Pôle emploi</strong></a></li>
+<li><a href="https://www.letudiant.fr/etudes/alternance.html" target="_blank"><strong>L'Etudiant</strong></a> : dossier sur l'alternance (Ecoles, formations, entreprises, offres...)</li>
+<li><a href="https://www.arep29.fr/" target="_blank"><strong>AREP29</strong></a> : CFA et centre de formation continue à Brest (CAP, BTS et Bac+3 en alternance, formation continue des salariés d'établissements...)</li>
+<li><a href="https://www.artisanat.fr/" target="_blank"><strong>Chambre des métiers et de l'artisanat</strong></a></li>
+<li><a href="https://www.ibepformation.fr/formation/formation-adulte/morlaix/" target="_blank"><strong>IBEP-Morlaix</strong></a> : toutes les formations professionnelles sur Morlaix.</li>
+<li><a href="https://www.isffel.fr/" target="_blank"><strong>ISFFEL</strong></a> : chercher sa formation en alternance sur le site de l'Institut Supérieur de Formation. </li>
+<li><a href="https://www.compagnons-du-devoir.com/" target="_blank"><strong>Les compagnons du devoir</strong></a></li>
+</ul>
+</div>
+<div class="tabbed-block">
+<ul>
+<li><a href="https://www.enseignementsup-recherche.gouv.fr/fr/guide-etudiant-2023" target="_blank"><mark><strong>Guide de la vie étudiante - 2023</strong></mark></a></li>
+<li><a href="https://www.etudiant.gouv.fr/fr" target="_blank"><strong>Vie étudiante : Infos, services, FAQ</strong></a></li>
+<li><a href="https://www.etudiant.gouv.fr/fr/faq" target="_blank"><strong>FAQ vie étudiante</strong></a></li>
+<li><a href="https://jeunes.gouv.fr/" target="_blank"><strong>Jeunes.gouv.fr</strong></a></li>
+<li><a href="https://trouverunlogement.lescrous.fr/" target="_blank"><strong>CROUS</strong></a> et <a href="https://www.crous-rennes.fr/" target="_blank"><strong>CROUS Bretagne</strong></a></li>
+<li><a href="https://www.messervices.etudiant.gouv.fr/envole/" target="_blank"><strong>Mes services étudiants</strong></a></li>
+<li><a href="https://www.univ-brest.fr/deve/menu/vie_etudiante/Handiversit%C3%A9/HANDIVERSITE" target="_blank"><strong>Etudes, vie étudiante et handicap</strong></a>: <strong>Handiversité</strong> dispositif d’accompagnement spécifique de l'UBO.</li>
+</ul>
+</div>
+<div class="tabbed-block">
+<ul>
+<li><a href="https://info.erasmusplus.fr" target_blank="target_blank"><strong>ERASMUS+</strong></a></li>
+<li><a href="https://www.etudionsaletranger.fr/" target="_blank"><strong>Etudions à l'étranger</strong></a></li>
+<li><a href="https://www.centre-easylangues.com/" target="_blank"><strong>Easylangues</strong></a> : trouver un job ou un stage à l'étranger...</li>
+</ul>
+</div>
+</div>
+</div>
+</details>
+<hr />
+<h3 id="specialites">SPECIALITES<a class="headerlink" href="#specialites" title="Permanent link">⚓︎</a></h3>
+<details>
+<summary>Enseignements de SPECIALITE</summary>
+<div class="tabbed-set tabbed-alternate" data-tabs="2:2"><input checked="checked" id="__tabbed_2_1" name="__tabbed_2" type="radio" /><input id="__tabbed_2_2" name="__tabbed_2" type="radio" /><div class="tabbed-labels"><label for="__tabbed_2_1">DECOUVRIR et CHOISIR</label><label for="__tabbed_2_2">ET APRES...</label></div>
+<div class="tabbed-content">
+<div class="tabbed-block">
+<ul>
+<li><a href="https://www.education.gouv.fr/reussir-au-lycee/choisir-ses-enseignements-de-specialite-au-lycee-pour-preparer-ses-etudes-superieures-325475" target="_blank"><strong>Les spécialités du BAC</strong></a> : calendrier, conseils, témoignages d'étudiants, attendus Parcoursup...</li>
+<li><a href="https://www.studyrama.com/formations/diplomes/bac/les-programmes-et-attendus-des-12-specialites" target="_blank"><strong>Programmes et attendus des 13 spécialités ?</strong></a> (<em>Sources : Studyrama</em>)</li>
+<li><a href="https://www.letudiant.fr/lycee/simulateur-de-specialites.html" target="_blank"><strong>SIMULATEUR</strong></a> (<em>Sources :L'Etudiant</em>)</li>
+</ul>
+</div>
+<div class="tabbed-block">
+<ul>
+<li><a href="https://www.letudiant.fr/lycee/specialites-bac-general/article/reforme-lycee-quelles-specialites-pour-quelles-etudes.html" target="_blank"><strong>Quelles spécialités pour quelles études ?</strong></a> : les spécialités recommandées par type de formation ou par domaine d'études.</li>
+</ul>
+</div>
+</div>
+</div>
+</details>
+<hr />
+<h3 id="niveau-2nde">Niveau 2nde<a class="headerlink" href="#niveau-2nde" title="Permanent link">⚓︎</a></h3>
+<details>
+<summary>SECONDE</summary>
+<div class="tabbed-set tabbed-alternate" data-tabs="3:3"><input checked="checked" id="__tabbed_3_1" name="__tabbed_3" type="radio" /><input id="__tabbed_3_2" name="__tabbed_3" type="radio" /><input id="__tabbed_3_3" name="__tabbed_3" type="radio" /><div class="tabbed-labels"><label for="__tabbed_3_1">RESSOURCES</label><label for="__tabbed_3_2">CHOISIR UN METIER</label><label for="__tabbed_3_3">QUELLES SPECIALITES CHOISIR ?</label></div>
+<div class="tabbed-content">
+<div class="tabbed-block">
+<ul>
+<li><a href="https://www.horizons21.fr/" target="_blank"><strong>Horizons21</strong></a> : pour simuler des combinaisons de spécialités et découvrir des pespectives de formations et des métiers.</li>
+<li><a href="https://lycee-avenirs.onisep.fr/" target="_blank"><strong>MODULE AVENIRS LYCEE</strong></a> : les étapes pour construire mon avenir au lycée.</li>
+</ul>
+</div>
+<div class="tabbed-block">
+<ul>
+<li><a href="https://www.onisep.fr/decouvrir-les-metiers/Des-metiers-selon-mes-gouts" target="_blank"><strong>Selon mes goûts</strong></a></li>
+<li><a href="https://www.orientation-pour-tous.fr/tutoriel/decouvrir-les-metiers/je-veux-decouvrir-des-metiers-en-fonction-de-mes-centres-d-interet/article/les-metiers-par-centre-d-interet" target="_blank"><strong>Par centre d'intérêts</strong></a></li>
+<li><a href="https://www.onisep.fr/decouvrir-les-metiers#Des-metiers-par-secteur" target="_blank"><strong>Par secteur ou domaine</strong></a></li>
+</ul>
+</div>
+<div class="tabbed-block">
+<p>Pour choisir les spécialités du BAC, reportez-vous à la rubrique <a href="https://cdi-lycee.ecmorlaix.fr/orientation/#specialites" target="_blank"><strong>SPECIALITES</strong></a> plus haut.</p>
+</div>
+</div>
+</div>
+</details>
+<hr />
+<h3 id="niveau-1re">Niveau 1re<a class="headerlink" href="#niveau-1re" title="Permanent link">⚓︎</a></h3>
+<details>
+<summary>PREMIERE</summary>
+<div class="tabbed-set tabbed-alternate" data-tabs="4:4"><input checked="checked" id="__tabbed_4_1" name="__tabbed_4" type="radio" /><input id="__tabbed_4_2" name="__tabbed_4" type="radio" /><input id="__tabbed_4_3" name="__tabbed_4" type="radio" /><input id="__tabbed_4_4" name="__tabbed_4" type="radio" /><div class="tabbed-labels"><label for="__tabbed_4_1">RESSOURCES</label><label for="__tabbed_4_2">SPECIALITES</label><label for="__tabbed_4_3">CHOISIR UN METIER</label><label for="__tabbed_4_4">SALONS - FORUMS</label></div>
+<div class="tabbed-content">
+<div class="tabbed-block">
+<ul>
+<li><a href="https://www.education.gouv.fr/reussir-au-lycee/choisir-ses-enseignements-de-specialite-au-lycee-pour-preparer-ses-etudes-superieures-325475" target="_blank"><strong>Réussir au lycée</strong></a> : le choix des spécialités.</li>
+<li><a href="https://www.horizons21.fr/" target="_blank"><strong>Horizons21</strong></a> : pour simuler des combinaisons de spécialités et découvrir des pespectives de formations et des métiers. </li>
+<li><a href="https://lycee-avenirs.onisep.fr/" target="_blank"><strong>MODULE AVENIRS LYCEE</strong></a> : les étapes pour construire mon avenir au lycée.</li>
+</ul>
+</div>
+<div class="tabbed-block">
+<ul>
+<li><a href="https://www.letudiant.fr/lycee/premiere/premiere-comment-choisir-la-specialite-a-abandonner.html" target="_blank"><strong>Quelle spécialité abandonner ?</strong></a></li>
+</ul>
+<p>Reportez-vous aussi à la rubrique <a href="https://cdi-lycee.ecmorlaix.fr/orientation/#specialites" target="_blank"><strong>SPECIALITES</strong></a> plus haut.</p>
+</div>
+<div class="tabbed-block">
+<ul>
+<li><a href="https://www.onisep.fr/decouvrir-les-metiers/Des-metiers-selon-mes-gouts" target="_blank"><strong>Selon mes goûts</strong></a></li>
+<li><a href="https://www.orientation-pour-tous.fr/tutoriel/decouvrir-les-metiers/je-veux-decouvrir-des-metiers-en-fonction-de-mes-centres-d-interet/article/les-metiers-par-centre-d-interet" target="_blank"><strong>Par centre d'intérêts</strong></a></li>
+<li><a href="https://www.onisep.fr/decouvrir-les-metiers#Des-metiers-par-secteur" target="_blank"><strong>Par secteur ou domaine</strong></a></li>
+</ul>
+</div>
+<div class="tabbed-block">
+<ul>
+<li><a href="https://www.onisep.fr/recherche?text=SALONS%20FORUMS" target="_blank"><strong>Salons - Forums de l'orientation</strong></a> : comment préparer sa visite à un salon ?</li>
+<li><a href="https://www.salon-azimut.com/" target="_blank"><strong>AZIMUT</strong></a> : site officiel du salon les <mark><strong>23-24 janvier 2026 Parc des expositions à Brest</strong></mark>.</li>
+<li><a href="https://www.suparmor.fr/" target="_blank"><strong>SUP'ARMOR</strong></a> : l'équivalent d'Azimut dans le 22 du <mark><strong>11 au 13 décembre 2025</strong></mark>.</li>
+<li><a href="https://www.studyrama.com/" target="_blank"><strong>STUDYRAMA</strong></a> : dates des prochains salons étudiants...</li>
+</ul>
+</div>
+</div>
+</div>
+</details>
+<hr />
+<h3 id="niveau-tle">Niveau Tle<a class="headerlink" href="#niveau-tle" title="Permanent link">⚓︎</a></h3>
+<details>
+<summary>TERMINALE</summary>
+<div class="tabbed-set tabbed-alternate" data-tabs="5:6"><input checked="checked" id="__tabbed_5_1" name="__tabbed_5" type="radio" /><input id="__tabbed_5_2" name="__tabbed_5" type="radio" /><input id="__tabbed_5_3" name="__tabbed_5" type="radio" /><input id="__tabbed_5_4" name="__tabbed_5" type="radio" /><input id="__tabbed_5_5" name="__tabbed_5" type="radio" /><input id="__tabbed_5_6" name="__tabbed_5" type="radio" /><div class="tabbed-labels"><label for="__tabbed_5_1">RESSOURCES</label><label for="__tabbed_5_2">PARCOURSUP</label><label for="__tabbed_5_3">PO - IMMERSIONS</label><label for="__tabbed_5_4">SALONS - FORUMS</label><label for="__tabbed_5_5">CONCOURS</label><label for="__tabbed_5_6">STMG</label></div>
+<div class="tabbed-content">
+<div class="tabbed-block">
+<ul>
+<li><a href="https://lycee-avenirs.onisep.fr/" target="_blank"><strong>MODULE AVENIRS LYCEE</strong></a> : les étapes pour construire mon avenir au lycée.(<em>Sources : Onisep</em>)</li>
+<li><a href="https://www.enseignementsup-recherche.gouv.fr/fr" target="_blank"><strong>Enseignement supérieur</strong></a> : Ministère chargé de l'enseignement supérieur. (<em>Sources : Ministère de l'enseignement supérieur et de la recherche</em>)</li>
+<li><a href="https://www.onisep.fr/formation#apres-le-bac-les-etudes-superieures" target="_blank"><strong>Quelles études après le BAC</strong></a> : étude courtes, longues, licence, BUT, BTS, écoles spécialisée... découvrez toutes les possibilités qui s'offrent à vous. (<em>Sources : Onisep</em>)</li>
+<li><a href="https://www.ipesup.fr/" target="_blank"><strong>Quelle école après le BAC ?</strong></a> : IPESUP, préparations aux examens et concours de l’enseignement supérieur.</li>
+<li><a href="https://services.dgesip.fr/T454/S743/ressources" target="_blank"><strong>Ensemble des ressources de la DGESIP</strong></a> : Direction Générale de l'Enseignement Supérieur et de l'Insertion.</li>
+<li><a href="https://www.letudiant.fr/etudes/annuaire-enseignement-superieur/etablissement/departement-finistere.html" target="_blank"><strong>Annuaire de l'enseignement supérieur en Finistère</strong></a> : Formations, écoles, témoignages d'étudiants... (<em>Sources : L'Etudiant</em>)</li>
+<li><a href="https://sup.cotesdarmor.fr/" target="_blank"><strong>Enseignement supérieur Côtes d'Armor</strong></a> : Formations, écoles, témoignages d'étudiants...</li>
+<li><a href="https://www.onisep.fr/formation/apres-le-bac-les-etudes-superieures/ma-premiere-annee-en" target="_blank"><strong>Témoignages d'étudiants</strong></a> : Série web, ma première année en... (<em>Sources : Onisep</em>)</li>
+</ul>
+</div>
+<div class="tabbed-block">
+<p><a href="https://www.parcoursup.fr/index.php?desc=" target="_blank"><img alt="**PARCOURSUP&quot;**" src="../images/orientation/parcoursup.png" title="Page d'accueil PARCOURSUP" width="20%" /></a></p>
+</div>
+<div class="tabbed-block">
+<ul>
+<li><a href="https://www.onisep.fr/recherche?context=jpo&amp;sf[common_niveau_enseignement_mid][]=apr%C3%A8s%20bac&amp;not_show_facets=common_niveau_enseignement_mid" target="_blank"><strong>PORTES OUVERTES DU SUPERIEUR - 2025/2026 - Accéder au moteur de recherche</strong></a></li>
+<li><a href="https://www.linscription.com/pro/catalogue-immersion-brio-ideo-actions-pour-lyceens.php" target="_blank"><strong>Catalogue IDEO des IMMERSIONS - Bretagne</strong></a></li>
+<li><a href="https://www.education.gouv.fr/reussir-au-lycee/les-semaines-de-l-orientation-327179/" target="_blank"><strong>Printemps de l'orientation</strong></a></li>
+</ul>
+<p><mark><em>ATTENTION : Certaines dates peuvent ne pas être à jour. N'hésitez pas à vérifier directement sur les sites des établissements.</em></mark></p>
+<details class="info" open="open">
+<summary>UNIVERSITES</summary>
+<ul>
+<li><mark><strong>UBO - CAP'AVENIR</strong></mark> : inscriptions à partir de mi-janvier 2026 pour de nouvelles <a href="https://www.univ-brest.fr/cap-avenir/fr/page/immersion-individuelle-lubo" target="_blank"><strong>immersions</strong></a> pendant les vacances de février.</li>
+<li><mark><strong>UCO Guingamp</strong></mark> : événements à venir de l'<a href="https://guingamp.uco.fr/fr/fr/actualites-guingamp" target="_blank"><strong>UCO</strong></a></li>
+</ul>
+</details>
+</div>
+<div class="tabbed-block">
+<ul>
+<li><a href="https://www.onisep.fr/recherche?text=SALONS%20FORUMS" target="_blank"><strong>Salons - Forums de l'orientation</strong></a> : comment préparer sa visite à un salon ?</li>
+<li><a href="https://www.letudiant.fr/etudes/salons.html" target="_blank"><strong>SALONS DE L'ETUDIANT</strong></a> : en France, recherche par région et domaine.</li>
+<li><a href="https://www.salon-azimut.com/" target="_blank"><strong>AZIMUT</strong></a> : site officiel du salon les <mark><strong>23-24 janvier 2026</strong></mark>.</li>
+<li><a href="https://www.suparmor.fr/" target="_blank"><strong>SUP'ARMOR</strong></a> : l'équivalent d'Azimut dans le 22 du <mark><strong>11 au 13 décembre 2025</strong></mark>.</li>
+<li><a href="https://www.studyrama.com/" target="_blank"><strong>STUDYRAMA</strong></a> : dates des prochains salons étudiants...</li>
+</ul>
+</div>
+<div class="tabbed-block">
+<ul>
+<li><a href="https://uniformesdefrance.com/actualites-site-dates-concours-metiers-uniforme-ouverts-inscriptions-postes-vacants.php" target="_blank"><strong>EMSLB</strong></a> : dates des concours pour l'entrée en Ecoles Militaires de Santé de Lyon-Bron. </li>
+<li><a href="https://emslb.defense.gouv.fr/" target="_blank"><strong>EMSLB - infirmier</strong></a> : devenir infirmier militaire  en intégrant les écoles militaires de santé Lyon-Bron. <a href="../pdf/EMSLB_Plaquette_infirmier_militaire.pdf" target="_blank"><strong>Voir la plaquette</strong></a></li>
+<li><a href="https://www.ipesup.fr/" target="_blank"><strong>IPESUP</strong></a> : préparation aux concours des filères sélectives telles que Sciences PO, ENA, HEC, SESAME, ACCES, ALPHA, AVENIR, GEIPI/POLYTECH, MATH SUP, MATH SPE, DSCG, CELSA...</li>
+</ul>
+</div>
+<div class="tabbed-block">
+<ul>
+<li><a href="https://www.onisep.fr/formation/apres-le-bac-les-etudes-superieures/apres-un-bac-techno/que-faire-apres-le-bac-stmg" target="_blank"><strong>Que faire après un BAC STMG ?</strong></a></li>
+</ul>
+</div>
+</div>
+</div>
+</details>
+<hr />
+<h3 id="voie-professionnelle">Voie professionnelle<a class="headerlink" href="#voie-professionnelle" title="Permanent link">⚓︎</a></h3>
+<details>
+<summary>VOIE PRO</summary>
+<div class="tabbed-set tabbed-alternate" data-tabs="6:4"><input checked="checked" id="__tabbed_6_1" name="__tabbed_6" type="radio" /><input id="__tabbed_6_2" name="__tabbed_6" type="radio" /><input id="__tabbed_6_3" name="__tabbed_6" type="radio" /><input id="__tabbed_6_4" name="__tabbed_6" type="radio" /><div class="tabbed-labels"><label for="__tabbed_6_1">RESSOURCES</label><label for="__tabbed_6_2">PARCOURSUP</label><label for="__tabbed_6_3">PO - IMMERSIONS</label><label for="__tabbed_6_4">SALONS - FORUMS</label></div>
+<div class="tabbed-content">
+<div class="tabbed-block">
+<ul>
+<li><a href="../pdf/IDEO_Recherche_de_stage_mode_d_emploi.pdf" target="_blank"><strong>Recherche de stage, mode d'emploi</strong></a></li>
+<li><a href="https://ideo.bretagne.bzh/publications/guide-cap" target="_blank"><strong>Je choisis mon CAP</strong></a></li>
+</ul>
+</div>
+<div class="tabbed-block">
+<ul>
+<li><a href="https://www.parcoursup.fr/index.php?desc=" target="_blank"><strong>PARCOURSUP - Site officiel</strong></a></li>
+</ul>
+</div>
+<div class="tabbed-block">
+<ul>
+<li><a href="https://www.onisep.fr/recherche?context=jpo&amp;sf[common_niveau_enseignement_mid][]=apr%C3%A8s%20bac&amp;not_show_facets=common_niveau_enseignement_mid" target="_blank"><strong>PORTES OUVERTES DU SUPERIEUR - 2025/2026 - Accéder au moteur de recherche</strong></a></li>
+<li><a href="https://www.linscription.com/pro/catalogue-immersion-brio-ideo-actions-pour-lyceens.php" target="_blank"><strong>Catalogue IDEO des IMMERSIONS - Bretagne</strong></a></li>
+<li><a href="https://www.education.gouv.fr/reussir-au-lycee/les-semaines-de-l-orientation-327179/" target="_blank"><strong>Printemps de l'orientation</strong></a></li>
+</ul>
+<p><mark><em>ATTENTION : Certaines dates peuvent ne pas être à jour. N'hésitez pas à vérifier directement sur les sites des établissements.</em></mark></p>
+<details class="info" open="open">
+<summary>UNIVERSITES</summary>
+<ul>
+<li><mark><strong>UBO - CAP'AVENIR</strong></mark> : inscriptions à partir de mi-janvier 2026 pour de nouvelles <a href="https://www.univ-brest.fr/cap-avenir/fr/page/immersion-individuelle-lubo" target="_blank"><strong>immersions</strong></a> pendant les vacances de février.</li>
+<li><mark><strong>UCO Guingamp</strong></mark> : événements à venir de l'<a href="https://guingamp.uco.fr/fr/fr/actualites-guingamp" target="_blank"><strong>UCO</strong></a></li>
+</ul>
+</details>
+</div>
+<div class="tabbed-block">
+<ul>
+<li><a href="https://www.onisep.fr/recherche?text=SALONS%20FORUMS" target="_blank"><strong>Salons - Forums de l'orientation</strong></a> : comment préparer sa visite à un salon ?</li>
+<li><a href="https://www.salon-azimut.com/" target="_blank"><strong>Azimut</strong></a> : site officiel du salon des <mark><strong>23-24 janvier 2026</strong></mark> </li>
+</ul>
+</div>
+</div>
+</div>
+</details>
+<hr />
+<h2 id="domaines">DOMAINES<a class="headerlink" href="#domaines" title="Permanent link">⚓︎</a></h2>
+<hr />
+<h3 id="agriculture-bois">Agriculture - Bois<a class="headerlink" href="#agriculture-bois" title="Permanent link">⚓︎</a></h3>
+<details>
+<summary>Liens utiles</summary>
+<div class="tabbed-set tabbed-alternate" data-tabs="7:1"><input checked="checked" id="__tabbed_7_1" name="__tabbed_7" type="radio" /><div class="tabbed-labels"><label for="__tabbed_7_1">AGRICULTURE</label></div>
+<div class="tabbed-content">
+<div class="tabbed-block">
+<ul>
+<li><a href="https://www.apecita.com/" target="_blank"><strong>APETICA</strong></a> : spécialiste de l'emploi en agriculture, agroalimentaire et environnement.</li>
+<li><a href="https://www.onisep.fr/decouvrir-les-metiers/des-metiers-par-secteur/agriculture" target="_blank"><strong>Métiers et formations dans l'agriculture</strong></a> (<em>Sources : Onisep</em>)</li>
+</ul>
+</div>
+</div>
+</div>
+</details>
+<hr />
+<h3 id="architecture-construction-travaux-publics">Architecture - Construction - Travaux publics<a class="headerlink" href="#architecture-construction-travaux-publics" title="Permanent link">⚓︎</a></h3>
+<details>
+<summary>Liens utiles</summary>
+<div class="tabbed-set tabbed-alternate" data-tabs="8:1"><input checked="checked" id="__tabbed_8_1" name="__tabbed_8" type="radio" /><div class="tabbed-labels"><label for="__tabbed_8_1">ARCHITECTURE</label></div>
+<div class="tabbed-content">
+<div class="tabbed-block">
+<ul>
+<li><a href="https://www.rennes.archi.fr/" target="_blank"><strong>ENSAB</strong></a> : Ecole Nationale Supérieure d'Architecture de Bretagne.</li>
+</ul>
+</div>
+</div>
+</div>
+</details>
+<details class="info">
+<summary><strong>Semaine de l'industrie</strong></summary>
+<p>Pilotée par la Direction générale des Entreprises, la <mark><strong>Semaine de l’industrie</strong></mark> contribue à changer le regard du grand public et des jeunes sur l’industrie et ses métiers au travers d’événements organisés partout en France.</p>
+<p>En Bretagne, la prochaine édition aura lieu du <mark><strong>17 au 23 novembre 2025</strong></mark> et est pilotée par <a href="https://www.ajir-industrie.bzh/" target="_blank"><strong>AJIR Bretagne</strong></a>. 
+Découvrez tous les événements en <a href="https://www.semaine-industrie-bretagne.fr/" target="_blank"><strong>Bretagne</strong></a> et au <a href="https://www.semaine-industrie.gouv.fr/" target="_blank"><strong>niveau national</strong></a>.</p>
+<p><u><strong>L’objectif :</strong></u> renforcer l’attractivité du secteur et promouvoir les filières et métiers de l’industrie auprès des collégiens, lycéens, apprentis ou toute personne en recherche d’emploi.</p>
+</details>
+<hr />
+<h3 id="armee-securite">Armée - Sécurité<a class="headerlink" href="#armee-securite" title="Permanent link">⚓︎</a></h3>
+<details>
+<summary>Liens utiles</summary>
+<div class="tabbed-set tabbed-alternate" data-tabs="9:3"><input checked="checked" id="__tabbed_9_1" name="__tabbed_9" type="radio" /><input id="__tabbed_9_2" name="__tabbed_9" type="radio" /><input id="__tabbed_9_3" name="__tabbed_9" type="radio" /><div class="tabbed-labels"><label for="__tabbed_9_1">ARMEE</label><label for="__tabbed_9_2">SECURITE</label><label for="__tabbed_9_3">CONCOURS</label></div>
+<div class="tabbed-content">
+<div class="tabbed-block">
+<ul>
+<li><a href="https://devenir-aviateur.fr/" target="_blank"><strong>Armée de l'air</strong></a> : devenir aviateur.</li>
+<li><a href="https://eetaa722.fr/" target="_blank"><strong>EETAA</strong></a> : Ecole d'Enseignement Technique de l'Armée de l'Air et de l'Espace. Avis de recrutement d'élèves en <a href="../pdf/EETAA_20230123_avis_recrutement_premiere.pdf" target="_blank"><strong>1ère</strong></a> et <a href="../pdf/EETAA_20230123_avis_recrutement_terminale.pdf" target="-blank"><strong>terminale</strong></a>.</li>
+<li><a href="https://www.sengager.fr/" target="_blank"><strong>Armée de terre</strong></a> : <strong>117 spécialités</strong> dans <strong>16 domaines d'activité</strong>.</li>
+<li><a href="https://www.lamarinerecrute.fr/" target="_blank"><strong>Marine Nationale</strong></a> : La marine recrute, rejoignez l’équipage...</li>
+<li><a href="https://www.supmaritime.fr/" target="_blank"><strong>ENSM</strong></a> : Ecole Nationale Supérieure Maritime (Le Havre - Marseille - Nantes - Saint-Malo).</li>
+</ul>
+<p><a href="https://demarche.numerique.gouv.fr/commencer/job-dating" target="_blank"><img alt="Job dating" src="../images/orientation/20260408_Job_dating_BA_928_Brest_Loperhet.jpg" title="S'inscrire" width="40%" /></a>
+<a href="https://eetaa722.fr/" target="_blank"><img alt="Recrutement_EETAAE" src="../images/orientation/EETAAE_recrutement_2024.jpg" title="Affiche" width="40%" /></a>
+<a href="../images/orientation/2025-2026_Air_Actu_08-09.pdf" target="_blank"><img alt="**AIR actualités&quot;**" src="../images/orientation/2025-2026_Air_Actu_08-09.jpg" title="Air actualités, août-septembre 2025" width="35%" /></a>
+<a href="../pdf/brochure-efsoaa.pdf" target="_blank"><img alt="**EFSOAA&quot;**" src="../images/orientation/brochure-efsoaa-page-001.jpg" title="EFSOAA" width="35%" /></a></p>
+</div>
+<div class="tabbed-block">
+<ul>
+<li><a href="https://www.devenir-gendarme.fr/" target="_blank"><strong>Devenir gendarme</strong></a></li>
+<li><a href="https://www.devenirpolicier.fr/" target="_blank"><strong>Devenir policier</strong></a></li>
+</ul>
+</div>
+<div class="tabbed-block">
+<p><a href="https://www.emslb.defense.gouv.fr/nous-rejoindre-concours" target="_blank"><strong>Concours des Ecoles Militaires de Santé Lyon-Bron</strong></a> </p>
+<p><a href="../images/orientation/ESA_Fiche_Medecin_militaire.pdf" target="_blank"><img alt="**Concours Médecin militaire**" src="../images/orientation/ESA_Fiche_Medecin_OSC_Page_1.jpg" title="Médecin militaire_1" width="25%" /></a>
+<a href="../images/orientation/ESA_Fiche_Pharmacien_militaire.pdf" target="_blank"><img alt="**Concours pharmacien militaire**" src="../images/orientation/ESA_Fiche_Pharmacien_EMSLB_3_Page_1.jpg" title="Pharmacien militaire_" width="25%" /></a></p>
+</div>
+</div>
+</div>
+</details>
+<hr />
+<h3 id="arts-artisanat-culture">Arts - Artisanat - Culture<a class="headerlink" href="#arts-artisanat-culture" title="Permanent link">⚓︎</a></h3>
+<details>
+<summary>Liens utiles</summary>
+<div class="tabbed-set tabbed-alternate" data-tabs="10:2"><input checked="checked" id="__tabbed_10_1" name="__tabbed_10" type="radio" /><input id="__tabbed_10_2" name="__tabbed_10" type="radio" /><div class="tabbed-labels"><label for="__tabbed_10_1">ARTS</label><label for="__tabbed_10_2">THEATRE</label></div>
+<div class="tabbed-content">
+<div class="tabbed-block">
+<ul>
+<li><a href="https://www.onisep.fr/recherche?context=onisep&amp;text=%C3%A9tudes%20d%27art" target="_blank"><strong>Etudes d'art</strong></a> (<em>Sources : Onisep</em>)</li>
+<li><a href="https://www.artisanat.fr/" target="_blank"><strong>CMA Chambre des métiers de l'artisanat d'art</strong></a></li>
+<li><a href="https://www.culture.gouv.fr/Thematiques/arts-plastiques/Enseignement-superieur-Ecoles-d-art/Ecoles-nationales" target="_blank"><strong>Ecoles Nationales d'art</strong></a> (<em>Ministère de la Culture</em>)</li>
+<li><a href="https://www.creapole.fr/" target="_blank"><strong>CREAPOLE</strong></a> Ecole de désign (<em>Paris</em>).</li>
+</ul>
+</div>
+<div class="tabbed-block">
+<ul>
+<li><a href="http://www.ecoles-arts.com/domaine/arts-du-spectacle/" target="_blank"><strong>Etudes Arts du spectacle</strong></a> (<em>ONISEP</em>)</li>
+<li><a href="https://www.onisep.fr/formation/les-principaux-domaines-de-formation/les-ecoles-d-art/les-ecoles-du-spectacle" target="_blank"><strong>Ecoles du spectacle</strong></a> (<em>ONISEP</em>)</li>
+<li><a href="https://www.letudiant.fr/etudes/secteurs/arts-du-spectacle.html" target="_blank"><strong>Ecoles et formations</strong></a> (<em>L'Etudiant</em>)</li>
+<li><a href="https://lycee-de-cornouaille-quimper.ac-rennes.fr/spip.php?article1306" target="_blank"><strong>Option études théâtrales</strong></a> au Lycée de Cornouailles à Quimper.</li>
+</ul>
+</div>
+</div>
+</div>
+</details>
+<hr />
+<h3 id="audiovisuel-information-communication">Audiovisuel - Information - Communication<a class="headerlink" href="#audiovisuel-information-communication" title="Permanent link">⚓︎</a></h3>
+<details>
+<summary>Liens utiles</summary>
+<div class="tabbed-set tabbed-alternate" data-tabs="11:1"><input checked="checked" id="__tabbed_11_1" name="__tabbed_11" type="radio" /><div class="tabbed-labels"><label for="__tabbed_11_1">CINEMA</label></div>
+<div class="tabbed-content">
+<div class="tabbed-block">
+<ul>
+<li><a href="https://www.onisep.fr/formation/les-principaux-domaines-de-formation/les-ecoles-d-audiovisuel" target="_blank"><strong>Les écoles d'audiovisuel</strong></a> (<em>Sources : Onisep</em>)</li>
+<li><a href="https://www.esec.fr/" target="_blank"><strong>Ecole des métiers du cinéma et de l'audiovisuel</strong></a> : L'ESEC propose une formation reconnue par le ministère de la Culture, sur Paris et lyon.</li>
+</ul>
+</div>
+</div>
+</div>
+</details>
+<hr />
+<h3 id="commerce-vente-marketing">Commerce - Vente - Marketing<a class="headerlink" href="#commerce-vente-marketing" title="Permanent link">⚓︎</a></h3>
+<details>
+<summary>Liens utiles</summary>
+<div class="tabbed-set tabbed-alternate" data-tabs="12:4"><input checked="checked" id="__tabbed_12_1" name="__tabbed_12" type="radio" /><input id="__tabbed_12_2" name="__tabbed_12" type="radio" /><input id="__tabbed_12_3" name="__tabbed_12" type="radio" /><input id="__tabbed_12_4" name="__tabbed_12" type="radio" /><div class="tabbed-labels"><label for="__tabbed_12_1">COMMERCE</label><label for="__tabbed_12_2">MARKETING</label><label for="__tabbed_12_3">CONCOURS</label><label for="__tabbed_12_4">ECOLES</label></div>
+<div class="tabbed-content">
+<div class="tabbed-block">
+<ul>
+<li><a href="https://www.onisep.fr/decouvrir-les-metiers/des-metiers-par-secteur/commerce-et-distribution" target="_blank"><strong>Commerce et distribution</strong></a> : métiers, emploi et formation dans le commerce et la distribution. (<em>Sources : Onisep</em>)</li>
+</ul>
+</div>
+<div class="tabbed-block">
+<ul>
+<li><a href="https://www.onisep.fr/decouvrir-les-metiers/des-metiers-par-secteur/marketing-publicite" target="_blank"><strong>Marketing, publicité</strong></a> : métiers, emploi et formations dans le marketing et la publicité. (<em>Sources : Onisep</em>)</li>
+</ul>
+</div>
+<div class="tabbed-block">
+<ul>
+<li><a href="https://www.concours-sesame.net/" target="_blank"><strong>SESAME</strong></a> : concours d'entrée commun à 17 programmes postbac de 14 grandes écoles de commerce et de management international.</li>
+</ul>
+</div>
+<div class="tabbed-block">
+<ul>
+<li><a href="https://www.itcformation.com/" target="_blank"><strong>ESDES</strong></a> : grande école de commerce et de management, membre de la Conférence des Grandes Écoles (<em>lyon - Annecy</em>)</li>
+<li><a href="https://www.itcformation.com/" target="_blank"><strong>ITC</strong></a> : école supérieure de management et de commerce (<em>Brest - Quimper - St-Brieuc</em>)</li>
+</ul>
+</div>
+</div>
+</div>
+</details>
+<hr />
+<h3 id="droit-economie-gestion">Droit - Economie - Gestion<a class="headerlink" href="#droit-economie-gestion" title="Permanent link">⚓︎</a></h3>
+<details>
+<summary>Liens utiles</summary>
+<div class="tabbed-set tabbed-alternate" data-tabs="13:2"><input checked="checked" id="__tabbed_13_1" name="__tabbed_13" type="radio" /><input id="__tabbed_13_2" name="__tabbed_13" type="radio" /><div class="tabbed-labels"><label for="__tabbed_13_1">DROIT</label><label for="__tabbed_13_2">ECONOMIE - GESTION</label></div>
+<div class="tabbed-content">
+<div class="tabbed-block">
+<ul>
+<li><a href="https://www.onisep.fr/decouvrir-les-metiers/des-metiers-par-secteur/droit-et-justice" target="_blank"><strong>Droit et justice</strong></a> : métiers, emploi et formations dans le droit et la justice. (<em>Sources : Onisep</em>)</li>
+</ul>
+</div>
+<div class="tabbed-block">
+<ul>
+<li><a href="https://www.onisep.fr/decouvrir-les-metiers/des-metiers-par-secteur/comptabilite-gestion-ressources-humaines" target="_blank"><strong>Comptabilité -  Gestion - Ressources humaines</strong></a> : métiers et emploi dans le secteur. (<em>Sources : Onisep</em>)</li>
+</ul>
+</div>
+</div>
+</div>
+</details>
+<hr />
+<h3 id="energies-environnement">Energies - Environnement<a class="headerlink" href="#energies-environnement" title="Permanent link">⚓︎</a></h3>
+<details>
+<summary>Liens utiles</summary>
+<div class="tabbed-set tabbed-alternate" data-tabs="14:2"><input checked="checked" id="__tabbed_14_1" name="__tabbed_14" type="radio" /><input id="__tabbed_14_2" name="__tabbed_14" type="radio" /><div class="tabbed-labels"><label for="__tabbed_14_1">ENERGIE</label><label for="__tabbed_14_2">ENVIRONNEMENT</label></div>
+<div class="tabbed-content">
+<div class="tabbed-block">
+<ul>
+<li><a href="https://www.onisep.fr/decouvrir-les-metiers/des-metiers-par-secteur/energie" target="_blank"><strong>Energie</strong></a> : métiers, emploi et formations dans le secteur de l'énergie. (<em>Sources : Onisep</em>)</li>
+</ul>
+</div>
+<div class="tabbed-block">
+<ul>
+<li><a href="https://www.onisep.fr/decouvrir-les-metiers/des-metiers-par-secteur/environnement" target="_blank"><strong>Environnement</strong></a> : métiers, emploi et formations dans le secteur de l'environnement. (<em>Sources : Onisep</em>)</li>
+<li>A découvrir au <strong>Lycée Notre-Dame de Guingamp</strong> : <a href="https://www.notredameguingamp.fr/superieur/bts-me-metiers-de-leau/" target="_blank"><strong>BTS Métiers de l'eau</strong></a> et <a href="https://www.notredameguingamp.fr/bachelor-maintenance-avancee-parcours-metiers-de-leau/" target="_blank"><strong>BUT MA ME - Maintenance Avancée Parcours Métiers de l'eau</strong></a></li>
+</ul>
+</div>
+</div>
+</div>
+</details>
+<hr />
+<h3 id="enseignement">Enseignement<a class="headerlink" href="#enseignement" title="Permanent link">⚓︎</a></h3>
+<details>
+<summary>Liens utiles</summary>
+<div class="tabbed-set tabbed-alternate" data-tabs="15:1"><input checked="checked" id="__tabbed_15_1" name="__tabbed_15" type="radio" /><div class="tabbed-labels"><label for="__tabbed_15_1">ENSEIGNEMENT</label></div>
+<div class="tabbed-content">
+<div class="tabbed-block">
+<ul>
+<li><a href="https://www.devenirenseignant.gouv.fr/" target="_blank"><strong>Devenir enseignant - MEN</strong></a> : Comment devenir enseignant, se répérer dans les concours des premier et second degrés ? Découvrir le métier et les voies qui y mènent sur le site du Ministère de l'Education Nationale et de la Jeunesse.</li>
+<li><a href="https://www.onisep.fr/decouvrir-les-metiers/des-metiers-par-secteur/enseignement" target="_blank"><strong>Dossier Enseignement</strong></a> : métiers et emploi dans l'enseignement. (<em>Sources : Onisep</em>)</li>
+</ul>
+</div>
+</div>
+</div>
+</details>
+<hr />
+<h3 id="informatique-internet">Informatique - Internet<a class="headerlink" href="#informatique-internet" title="Permanent link">⚓︎</a></h3>
+<details>
+<summary>Liens utiles</summary>
+<div class="tabbed-set tabbed-alternate" data-tabs="16:2"><input checked="checked" id="__tabbed_16_1" name="__tabbed_16" type="radio" /><input id="__tabbed_16_2" name="__tabbed_16" type="radio" /><div class="tabbed-labels"><label for="__tabbed_16_1">INFORMATIQUE &amp; RESEAUX - NUMERIQUE</label><label for="__tabbed_16_2">JEUX VIDEOS</label></div>
+<div class="tabbed-content">
+<div class="tabbed-block">
+<ul>
+<li><a href="https://www.onisep.fr/decouvrir-les-metiers/des-metiers-par-secteur/informatique-et-reseaux" target="_blank"><strong>Métiers et emploi dans le secteur</strong></a> (<em>Sources : Onisep</em>)</li>
+<li><a href="https://www.epitech.eu/fr/" target="_blank"><strong>EPITECH</strong></a> : école référence de l'expertise informatique.</li>
+<li><a href="https://www.grandeecolenumerique.fr/" target="_blank"><strong>Grande école du  numérique</strong></a> : actualités, portes ouvertes, les tendances du secteur, les métiers les plus recherchés, la place des filles dans les métiers du numérique...</li>
+</ul>
+</div>
+<div class="tabbed-block">
+<ul>
+<li><a href="https://www.onisep.fr/decouvrir-les-metiers/des-metiers-par-secteur/jeu-video" target="_blank"><strong>Métiers et emploi dans le jeu vidéo</strong></a> (<em>Sources : Onisep</em>)</li>
+<li><a href="https://www.creapole.fr/cinema-danimation-et-jeu-video/" target="_blank"><strong>CREAPOLE</strong></a> : formation pour devenir Game designer ou réalisateur de films d'animation.</li>
+</ul>
+</div>
+</div>
+</div>
+</details>
+<hr />
+<h3 id="sante-social-sport">Santé - Social - Sport<a class="headerlink" href="#sante-social-sport" title="Permanent link">⚓︎</a></h3>
+<details>
+<summary>Liens utiles</summary>
+<div class="tabbed-set tabbed-alternate" data-tabs="17:4"><input checked="checked" id="__tabbed_17_1" name="__tabbed_17" type="radio" /><input id="__tabbed_17_2" name="__tabbed_17" type="radio" /><input id="__tabbed_17_3" name="__tabbed_17" type="radio" /><input id="__tabbed_17_4" name="__tabbed_17" type="radio" /><div class="tabbed-labels"><label for="__tabbed_17_1">COMMUN</label><label for="__tabbed_17_2">SANTE</label><label for="__tabbed_17_3">SOCIAL</label><label for="__tabbed_17_4">SPORT</label></div>
+<div class="tabbed-content">
+<div class="tabbed-block">
+<ul>
+<li><a href="https://www.irss.fr/" target="_blank"><strong>IRSS</strong></a> : Organisme de formation et de préparation aux métiers du sport, de la santé, de la sécurité, du social et de la petite enfance.</li>
+<li><a href="https://www.youtube.com/hashtag/monmetiernoshistoires" target="_blank"><strong>ARS Mon métier mon histoire</strong></a> : l'ARS présente sur cette chaîne Youtube des témoignages de professionnels des métiers de la santé et du social.</li>
+</ul>
+</div>
+<div class="tabbed-block">
+<ul>
+<li><a href="https://www.onisep.fr/formation/les-principaux-domaines-de-formation/les-etudes-de-sante" target="_blank"><strong>Les études de santé</strong></a> : Maïeutique, médecine, odontologie, pharmacie (<em>Sources : Onisep</em>)</li>
+<li><a href="https://ico.asso.fr/" target="_blank"><strong>ICO</strong></a> : Institut et Campus d'Optique.</li>
+<li><a href="https://www.esnd.bzh/ifas/selection-2025/" target="_blank"><strong>IFAS</strong></a> : Institut de Formation Aide-soignant Notre Dame Le Ménimur (<em>Vannes - 56</em>).</li>
+<li><a href="https://www.ifec.net/" target="_blank"><strong>IFEC</strong></a> : Institut Franco-Européen de Chiropraxie.</li>
+<li><a href="https://www.ifps-lannion.bzh/" target="_blank"><strong>IFPS</strong></a> : Institut de Formation des Professionnels de Santé (<em>Lannion - 22</em>).</li>
+<li><a href="https://www.iso.fr/" target="_blank"><strong>ISO</strong></a> : Institut Supérieur d'Optique.</li>
+<li><a href="https://www.isrp.fr/" target="_blank"><strong>ISRP</strong></a> : Institut Supérieur de Rééducation Psychomotrice. (Paris - Marseille - Vichy - Metz)</li>
+<li><a href="https://www.etiopathie.com/" target="_blank"><strong>Etiopathie</strong></a> : Institut Français d'Ethiopathie.</li>
+<li><a href="https://pass-sante.com/" target="_blank"><strong>PASS ou L.AS</strong></a> : que maîtriser pour réussir sa rentrée en <a href="https://www.letudiant.fr/etudes/medecine-sante/ce-qu-il-faut-maitriser-pour-reussir-sa-rentree-en-pass-1.html" target="_blank"><strong>PASS</strong></a>.</li>
+<li><a href="https://www.youtube.com/watch?v=b2T9387AzkY" target="_blank"><strong>Appareillage médical</strong></a> : enseignement supérieur santé du <a href="https://www.mongazon.org/" target="_blank"><strong>Lycée Mongazon</strong></a> (BTS Podo orthésiste - BTS Prothésiste orthésiste - CP Orthopédiste orthésiste) (<em>Angers - 49</em>)</li>
+</ul>
+</div>
+<div class="tabbed-block">
+<ul>
+<li><a href="https://www.ites-formation.com/" target="_blank"><strong>ITES</strong></a> : Institut de Formation au Travail Educatif et Social. <a href="https://www.ites-formation.com/evenements/portes-ouvertes-brest/" target="_blank"><strong>Portes ouvertes</strong></a> <mark><strong>Samedi 22 novembre 2025</strong></mark> : informations pratiques, programme...</li>
+<li><a href="https://www.askoria.eu/les-metiers/" target="_blank"><strong>ASKORIA</strong></a> : Les métiers de la solidarité (Accompagnement socio-éducatif - Animation sociale et de loisirs - Economie sociale et solidaire - Enfance, familles et parentalité - Handicap et logique inclusive)</li>
+</ul>
+</div>
+<div class="tabbed-block">
+<ul>
+<li><a href="https://sport.onisep.fr/" target="_blank"><strong>Travailler dans le sport</strong></a> : je construis mon projet dans le sport sur le site de l'<strong>ONISEP</strong>.</li>
+<li><a href="https://www.letudiant.fr/metiers/secteur/sport.html" target="_blank"><strong>Fiches métiers</strong></a> : site de <strong>L'Etudiant</strong>.</li>
+<li><a href="https://www.studyrama.com/formations/fiches-metiers/sport" target="_blank"><strong>Fiches métiers</strong></a> : site <strong>Studyrama</strong>.</li>
+<li><a href="https://ifepsa.uco.fr/fr" target="_blank"><strong>IFEPSA</strong></a> : Institut de Formation en Education Physique et en Sport (<em>Les Ponts de Cé - 49</em>)</li>
+</ul>
+</div>
+</div>
+</div>
+</details>
+<h3 id="sciences-technologie">Sciences - Technologie<a class="headerlink" href="#sciences-technologie" title="Permanent link">⚓︎</a></h3>
+<details>
+<summary>Liens utiles</summary>
+<div class="tabbed-set tabbed-alternate" data-tabs="18:4"><input checked="checked" id="__tabbed_18_1" name="__tabbed_18" type="radio" /><input id="__tabbed_18_2" name="__tabbed_18" type="radio" /><input id="__tabbed_18_3" name="__tabbed_18" type="radio" /><input id="__tabbed_18_4" name="__tabbed_18" type="radio" /><div class="tabbed-labels"><label for="__tabbed_18_1">METIERS DANS LE SECTEUR DES SCIENCES</label><label for="__tabbed_18_2">PREPAS SCIENTIFIQUES</label><label for="__tabbed_18_3">CPES</label><label for="__tabbed_18_4">LICENCES</label></div>
+<div class="tabbed-content">
+<div class="tabbed-block">
+<ul>
+<li><a href="https://www.imaginetonfutur.com/les-metiers/domaine/sciences.html" target="_blank"><strong>Imagine ton futur - Métiers dans le domaine des sciences</strong></a></li>
+<li><a href="https://www.cea.fr/comprendre/jeunes/Pages/metiers.aspx" target="_blank"><strong>CEA - Découvrir les métiers scientifiques</strong></a></li>
+<li><a href="https://www.onisep.fr/metier/decouvrir-le-monde-professionnel/recherche/les-metiers-et-l-emploi-dans-la-recherche" target="_blank"><strong>Les métiers et l'emploi dans la recherche</strong></a> (<em>Sources : Onisep</em>)</li>
+<li><a href="https://www.cidj.com/s-orienter/metiers/sciences+physiques+-+maths+-+data" target="_blank"><strong>CIDJ - Les métiers scientifiques</strong></a> (<em>Sources : CIDJ</em>)</li>
+</ul>
+</div>
+<div class="tabbed-block">
+<ul>
+<li><a href="https://www.onisep.fr/formation/apres-le-bac-les-etudes-superieures/les-principales-filieres-d-etudes-superieures/les-cpge-classes-preparatoires-aux-grandes-ecoles/les-prepas-scientifiques" target="_blank"><strong>Prépas scientifiques</strong></a> (<em>Sources : Onisep</em>)</li>
+</ul>
+</div>
+<div class="tabbed-block">
+<ul>
+<li><a href="https://www.onisep.fr/formation/apres-le-bac-les-etudes-superieures/les-principales-filieres-d-etudes-superieures/les-cpes-classes-preparatoires-aux-etudes-superieures/les-cpes-classes-preparatoires-aux-etudes-superieures" target="_blank"><strong>CPES ou CPES : Classe ou cycle... ?</strong></a> (<em>Sources : Onisep</em>)</li>
+<li><a href="https://www.enseignementsup-recherche.gouv.fr/fr/le-cycle-pluridisciplinaire-d-etudes-superieures-84197" target="_blank"><strong>CPES - Cycle pluridisciplinaire d'études supérieures</strong></a> (<em>Sources : Ministère de l'enseignement supérieur et de la recherche</em>)</li>
+</ul>
+</div>
+<div class="tabbed-block">
+<ul>
+<li><a href="https://www.onisep.fr/formation/les-principaux-domaines-de-formation/les-licences-de-sciences" target="_blank"><strong>Licences de sciences</strong></a> (<em>Sources : ONISEP</em>)</li>
+<li><a href="https://www.onisep.fr/formation/les-principaux-domaines-de-formation/les-licences-de-sciences/la-licence-sciences-et-technologies" target="_blank"><strong>Licences de sciences et technologies</strong></a> (<em>Sources : ONISEP</em>)</li>
+</ul>
+</div>
+</div>
+</div>
+</details>
+<hr />
+<h2 id="formations">FORMATIONS<a class="headerlink" href="#formations" title="Permanent link">⚓︎</a></h2>
+<hr />
+<h3 id="bts">BTS<a class="headerlink" href="#bts" title="Permanent link">⚓︎</a></h3>
+<details>
+<summary>Liens utiles</summary>
+<div class="tabbed-set tabbed-alternate" data-tabs="19:2"><input checked="checked" id="__tabbed_19_1" name="__tabbed_19" type="radio" /><input id="__tabbed_19_2" name="__tabbed_19" type="radio" /><div class="tabbed-labels"><label for="__tabbed_19_1">PRESENTATION</label><label for="__tabbed_19_2">ECOLES</label></div>
+<div class="tabbed-content">
+<div class="tabbed-block">
+<ul>
+<li><a href="https://www.onisep.fr/formation/apres-le-bac-les-etudes-superieures/les-principales-filieres-d-etudes-superieures/les-bts-brevet-de-technicien-superieur" target="_blank"><strong>Les BTS</strong></a> : organisation des études, admission, aménagements spécifiques, poursuite d'études. (<em>Sources : Onisep</em>)</li>
+<li><a href="https://www.letudiant.fr/etudes/bts.html" target="_blank"><strong>Liste des BTS</strong></a> : tout savoir sur le BTS et accéder à la liste des BTS par domaine.(<em>Sources : L'étudiant</em>)</li>
+</ul>
+</div>
+<div class="tabbed-block">
+<ul>
+<li><a href="https://les-2-rives.fr/enseignement-superieur/" target="_blank"><strong>Les 2 Rives</strong></a> : BTS Conseiller de Clientèle - BTS Assurance - BTS CRSA (Conception et réalisation de systèmes automatiques) - BUT Banque assurance chargé de clientèle. (<em>Landerneau - 29</em>)</li>
+<li><a href="https://www.campus-pouille.com/" target="_blank"><strong>Campus de Pouillé</strong></a> : BTS dans le domaine de la nature, du vivant et de l'environnement. (<em>Angers - 49</em>)</li>
+<li><a href="https://lycee-chaptal-quimper.ac-rennes.fr/" target="_blank"><strong>Chaptal</strong></a> : BTS Bioqualité - Diététique - ESF - Collaborateur-juriste - SAM - SIO - SP3S - DECESF (<em>Quimper - 29</em>)</li>
+<li><a href="https://www.fenelonsup.org/formations/brevet-technicien-superieur-economie-sociale-familiale/" target="_blank"><strong>Fénelon</strong></a> : BTS EFS (Economie Familiale et Sociales). (<em>Brest - 29</em>)</li>
+<li><a href="https://www.javouhey-brest.fr/le-sup/les-formations/" target="_blank"><strong>Javouhey - Rive Droite</strong></a> : BTS Gestion de la PME - BTS Support à l'action Managériale - BTS Comptabilité et Gestion -  BTS Communication. (<em>Brest - 29</em>)</li>
+<li><a href="https://www.lycee-jules-lesven.org/formations-593-0-0-0.html" target="_blank"><strong>Jules Lesven</strong></a> : BTS CG (Comptabilité Gestion) - BTS PI (Professions Immobilières) - BTS CI (Commerce International) - BTS G PME (Gestion de la PME) - BTS MMV (Métiers de la Mode et du Vêtement). (<em>Brest - 29</em>)</li>
+<li><a href="https://www.lycee-lamennais.fr/parcours-services-au-entreprises/" target="_blank"><strong>Lammenais</strong></a> : BTS MCO (<em>Ploërmel - 56</em>)</li>
+<li><a href="https://www.lycee-landivisiau.fr/les-formations/le-bts-mco/" target="_blank"><strong>Lycée du Léon</strong></a> : BTS MCO (<em>landivisiau - 29</em>)</li>
+<li><a href="https://www.notredameguingamp.fr/superieur/bts-me-metiers-de-leau/" target="_blank"><strong>Notre-Dame-de-Guingamp</strong></a> : BTS Métiers de l'eau (<em>Guingamp - 22</em>) - Témoignage <a href="https://www.dropbox.com/scl/fi/5s8svigqtn2ruce5ftjp4/IMG_1947.MOV?rlkey=eraphbq37bb551ecvr1r3i16f&amp;dl=0" target="_blank"><strong>vidéo</strong></a> d'un ancien étudiant. D'autres informations sur <a href="https://www.instagram.com/bts_meguingamp/" target="_blank"><strong>instagram</strong></a>.</li>
+<li><a href="https://www.ndlm56.bzh/pole-sup-notre-dame/" target="_blank"><strong>Notre-Dame Le Ménimur</strong></a> : BTS SP3S - ESF - DECESF - L3PRO APS - Licence 3 Gestion des Organisations du champ de l'Economie sociale et solidaire (en apprentissage) (<em>Vannes - Saint Avé - 56</em>)</li>
+<li><a href="https://www.leparaclet.org/formations-quimper/enseignement-superieur/bts-management-en-hotellerie-restauration/" target="_blank"><strong>Le Paraclet</strong></a> : BTS Management en hôtellerie restauration (<em>Quimper - 29</em>)</li>
+<li><a href="https://www.lp-rosaparks-rostrenen.ac-rennes.fr/spip.php?article273" target="_blank"><strong>Rosa Parks</strong></a> : BTS MOS (Management Opérationnel de la Sécurité) <a href="../pdf/fiche_bts_mos.pdf" target="_blank"><strong>Fiche de présentation</strong></a> (<em>Rostrenen - 22</em>)</li>
+<li><a href="http://www.saint-louis29.net/" target="_blank"><strong>Saint-Louis</strong></a> : BTS SIO (Services Informatiques aux Organisations) (<em>Chateaulin - 29</em>)</li>
+<li><a href="https://www.sainte-therese-quimper.org/bts-sam-enseignement-superieur/" target="_blank"><strong>Sainte-Thérèse</strong></a> : BTS SAM (Support à l'action manageriale) (<em>Quimper - 29</em>)</li>
+<li><a href="https://www.lyceetristancorbiere.fr/brevets-de-technicien-superieurs-bts/" target="_blank"><strong>Tristan Corbière</strong></a> : BTS Aéronautique - BTS CIM (Conception des produits industriels) (<em>Morlaix - 29</em>)</li>
+</ul>
+</div>
+</div>
+</div>
+</details>
+<hr />
+<h3 id="but">BUT<a class="headerlink" href="#but" title="Permanent link">⚓︎</a></h3>
+<details>
+<summary>Liens utiles</summary>
+<div class="tabbed-set tabbed-alternate" data-tabs="20:3"><input checked="checked" id="__tabbed_20_1" name="__tabbed_20" type="radio" /><input id="__tabbed_20_2" name="__tabbed_20" type="radio" /><input id="__tabbed_20_3" name="__tabbed_20" type="radio" /><div class="tabbed-labels"><label for="__tabbed_20_1">PRESENTATION</label><label for="__tabbed_20_2">IUT et SPECIALITES</label><label for="__tabbed_20_3">OU SE FORMER ?</label></div>
+<div class="tabbed-content">
+<div class="tabbed-block">
+<ul>
+<li><a href="hhttps://www.onisep.fr/formation/apres-le-bac-les-etudes-superieures/les-principales-filieres-d-etudes-superieures/les-but-bachelors-universitaires-de-technologie" target="_blank"><strong>BUT</strong></a> - Bachelors Universitaires de Technologie (<em>Sources : Onisep</em>)</li>
+<li><a href="https://www.onisep.fr/orientation/l-enseignement-superieur/quelle-reconnaissance-pour-les-diplomes-du-superieur/les-bachelors" target="_blank"><strong>Quelle reconnaissance pour les diplômes du supérieur</strong></a> : Quelle reconnaissance pour les diplômes du supérieur ? (<em>Sources : Onisep</em>)</li>
+<li><a href="https://www.letudiant.fr/etudes/ecole-de-commerce/qu-est-ce-qu-un-bachelor-1.html" target="_blank"><strong>Qu'est-ce qu'un BACHELOR ?</strong></a> : (<em>L'Etudiant  : Onisep</em>)</li>
+</ul>
+</div>
+<div class="tabbed-block">
+<ul>
+<li><a href="https://www.iut.fr/" target="_blank"><strong>Annuaire des IUT</strong></a> : 108 IUT, 170 campus partout en France, 24 spécialités.</li>
+<li><a href="https://www.iut.fr/le-but-et-ses-specialites/" target="_blank"><strong>Les IUT vers le BUT</strong></a></li>
+<li><a href="https://www.iut.fr/bachelor-universitaire-de-technologie/" target="_blank"><strong>Les 24 spécialités de BUT</strong></a></li>
+</ul>
+</div>
+<div class="tabbed-block">
+<ul>
+<li><a href="https://www.iut-brest.fr/" target="_blank"><strong>IUT Brest-Morlaix</strong></a></li>
+<li><a href="https://iut-lannion.univ-rennes1.fr/" target="_blank"><strong>IUT Lannion-Rennes1</strong></a></li>
+<li><a href="https://iut-stbrieuc.univ-rennes1.fr/" target="_blank"><strong>IUT St-Brieuc-Rennes1</strong></a></li>
+<li><a href="https://iut-stmalo.univ-rennes.fr/" target="_blank"><strong>IUT Saint-Malo</strong></a> - Visite virtuelle <a href="https://www.iut-saintmalo.plateforme360.fr/" target="_blank"><strong>ICI</strong></a></li>
+</ul>
+</div>
+</div>
+</div>
+</details>
+<hr />
+<h3 id="cpeg">CPEG<a class="headerlink" href="#cpeg" title="Permanent link">⚓︎</a></h3>
+<details>
+<summary>Liens utiles</summary>
+<div class="tabbed-set tabbed-alternate" data-tabs="21:5"><input checked="checked" id="__tabbed_21_1" name="__tabbed_21" type="radio" /><input id="__tabbed_21_2" name="__tabbed_21" type="radio" /><input id="__tabbed_21_3" name="__tabbed_21" type="radio" /><input id="__tabbed_21_4" name="__tabbed_21" type="radio" /><input id="__tabbed_21_5" name="__tabbed_21" type="radio" /><div class="tabbed-labels"><label for="__tabbed_21_1">PRESENTATION</label><label for="__tabbed_21_2">ECONOMIQUE ET SOCIALE</label><label for="__tabbed_21_3">LITTERAIRE</label><label for="__tabbed_21_4">SCIENTIFIQUE</label><label for="__tabbed_21_5">SCIENCES PO</label></div>
+<div class="tabbed-content">
+<div class="tabbed-block">
+<ul>
+<li><a href="https://www.onisep.fr/formation/apres-le-bac-les-etudes-superieures/les-principales-filieres-d-etudes-superieures/les-cpge-classes-preparatoires-aux-grandes-ecoles/les-etudes-en-classes-preparatoires" target="_blank"><strong>Les études en classe PREPA</strong></a> : Comment ça marche ? Pourquoi faire une classe préparatoire ? Les différentes classes préparatoires. (<em>Sources : Onisep</em>)</li>
+<li><a href="https://www.letudiant.fr/etudes/classes-prepa.html" target="_blank"><strong>Classes prépas - CPEG</strong></a> : les différents types de classes prépas. Classement des écoles prépas. (<em>Sources : L'Etudiant</em>)</li>
+<li><a href="https://www.enseignementsup-recherche.gouv.fr/fr/classes-preparatoires-aux-grandes-ecoles-cpge-46496" target="_blank"><strong>Classes prépas - CPEG</strong></a> : les différents types de classes prépas. Classement des écoles prépas. (<em>Sources : L'Etudiant</em>)</li>
+<li><a href="https://lycee-la-perouse-kerichen-brest.ac-rennes.fr/spip.php?rubrique273" target="_blank"><strong>Lycée La Pérouse-Kérichen</strong></a> : Pourquoi faire une Prépa ?(<em>Brest - 29</em>)</li>
+</ul>
+</div>
+<div class="tabbed-block">
+<ul>
+<li><a href="https://www.onisep.fr/formation/apres-le-bac-les-etudes-superieures/les-principales-filieres-d-etudes-superieures/les-cpge-classes-preparatoires-aux-grandes-ecoles/les-prepas-economiques-et-commerciales" target="_blank"><strong>Quelle Prépa choisir ?</strong></a> : ECG (Economique et commerciale générale) - ECT (Economique et Commerciale Technologique) - D1 (Droit, économie, management)- D2 (Economie et gestion). (<em>Sources : Onisep</em>)</li>
+</ul>
+</div>
+<div class="tabbed-block">
+<ul>
+<li><a href="https://www.ens.psl.eu/une-formation-d-exception/admission-concours/concours-voie-cpge/concours-voie-cpge-lettres" target="_blank"><strong>ENS</strong></a> : Concours Lettres (concours A/L) et Sciences sociales (concours B/L).</li>
+<li><a href="https://www.prepalitteraire.fr/#" target="_blank"><strong>Prépa littéraire</strong></a> : le site des classes préparatoires littéraires.</li>
+<li><a href="https://lycee-de-cornouaille-quimper.ac-rennes.fr/spip.php?rubrique94" target="_blank"><strong>Lycée de Cornouailles</strong></a> : CPEG Lettres A/L, comment choisir ?. (<em>Quimper - 29</em>)</li>
+<li><a href="https://www.saintbrieuc-prepas.org/classes-prepas/classes-litteraires/" target="_blank"><strong>Lycée Ernest Renan</strong></a> : CPEG littéraire (<em>Sy-Brieuc - 22</em>)</li>
+</ul>
+</div>
+<div class="tabbed-block">
+<ul>
+<li><a href="https://www.cpge-brizeux.fr/wordpress/" target="_blank"><strong>Brizeux</strong></a> : PCSI (Physique Chimie Sciences de l’Ingénieur) et deux classes de deuxième année (PC : Physique Chimie et PSI : Physique Sciences de l’Ingénieur) (<em>Quimper - 29</em>)</li>
+<li><a href="https://www.ens.psl.eu/une-formation-d-exception/admission-concours/concours-voie-cpge/concours-voie-cpge-sciences" target="_blank"><strong>ENS</strong></a> : voie CPEG Sciences à l'Ecole Normale Supérieure.</li>
+<li><a href="https://www.lacroixrouge-brest.fr/ecoles-formations/enseignement-superieur/" target="_blank"><strong>La Croix-Rouge</strong></a> : PTSI (Physique Technologie Sciences de l'Ingénieur) - MPSI-PSI. (<em>Brest - 29</em>)</li>
+<li><a href="https://www.saintbrieuc-prepas.org/classes-prepas/prepa-tsi-chaptal/" target="_blank"><strong>Lycée Chaptal</strong></a> : TSI (Technologie et Sciences Industrielles) - (<em>St-Brieuc - 22</em>)</li>
+<li><a href="https://www.saintbrieuc-prepas.org/classes-prepas/prepa-scientifique-rabelais/" target="_blank"><strong>Lycée Rabelais</strong></a> : MPSI PCSI MP PSI (<em>St-Brieuc - 22</em>)</li>
+<li><a href="https://www.sainte-anne-brest.fr/" target="_blank"><strong>Lycée Sainte-Anne</strong></a> : MPSI (Mathématiques Physique et Sciences de l'ingénieur) - PCSI (Physique Chimie Sciences de l'Ingénieur) - MP (Mathématiques Physique) - PC (Physique Chimie) - PSI (Physique Sciences de l'Ingénieur) - PT (Physique et Technologie). (<em>Brest - 29</em>)</li>
+</ul>
+</div>
+<div class="tabbed-block">
+<ul>
+<li><a href="https://www.sciencespo.fr/fr/" target="_blank"><strong>SCIENCES PO</strong></a> : pour s'inscrire au webinar <a href="https://hodea.fr/events/9/" target="_blank">IEP et Sciences Politiques</a></li>
+</ul>
+</div>
+</div>
+</div>
+</details>
+<hr />
+<h3 id="ecoles-de-commerce">Ecoles de commerce<a class="headerlink" href="#ecoles-de-commerce" title="Permanent link">⚓︎</a></h3>
+<details>
+<summary>Liens utiles</summary>
+<div class="tabbed-set tabbed-alternate" data-tabs="22:1"><input checked="checked" id="__tabbed_22_1" name="__tabbed_22" type="radio" /><div class="tabbed-labels"><label for="__tabbed_22_1">PRESENTATION</label></div>
+<div class="tabbed-content">
+<div class="tabbed-block">
+<ul>
+<li><a href="https://www.onisep.fr/formation/les-principaux-domaines-de-formation/les-ecoles-de-commerce" target="_blank"><strong>Ecoles de commerce</strong></a> : Pour quel profil ? Comment choisir son école ? (<em>Sources : Onisep</em>)</li>
+<li><a href="https://www.letudiant.fr/etudes/ecole-de-commerce.html" target="_blank"><strong>Ecoles de commerce</strong></a> : Quelles sont les spécificités des études en écoles de commerce ? A quels métiers préparent-elles ? Quels sont les critères pour choisir ? Comment intégrer une école ? Comment préparer les concours ? (<em>Sources : L'Etudiant</em>)</li>
+</ul>
+</div>
+</div>
+</div>
+</details>
+<hr />
+<h3 id="ecoles-dingenieurs">Ecoles d'ingénieurs<a class="headerlink" href="#ecoles-dingenieurs" title="Permanent link">⚓︎</a></h3>
+<details>
+<summary>Liens utiles</summary>
+<div class="tabbed-set tabbed-alternate" data-tabs="23:3"><input checked="checked" id="__tabbed_23_1" name="__tabbed_23" type="radio" /><input id="__tabbed_23_2" name="__tabbed_23" type="radio" /><input id="__tabbed_23_3" name="__tabbed_23" type="radio" /><div class="tabbed-labels"><label for="__tabbed_23_1">CONCOURS</label><label for="__tabbed_23_2">ECOLES</label><label for="__tabbed_23_3">IngénieurEs</label></div>
+<div class="tabbed-content">
+<div class="tabbed-block">
+<ul>
+<li><a href="https://concours-advance.fr/" target="_blank"><strong>ADVANCE</strong></a> : concours commun permettant aux élèves  de Terminales générales et STL d’intégrer 4 écoles d’ingénieurs (EPITA, ESME, IPSA et Sup’Biotech) dans le domaine d el'innovation responsable. </li>
+<li><a href="https://www.concoursavenir.fr/" target="_blank"><strong>AVENIR</strong></a> : 1 concours, 7 Grandes Ecoles d'Ingénieurs, 18 Campus.</li>
+<li><a href="https://www.geipi-polytech.org/" target="_blank"><strong>GEIPI POLYTECH</strong></a> : concours d'entrée commun à 35 écoles d'ingénieurs publiques. </li>
+<li><a href="https://www.ipesup.fr/" target="_blank"><strong>IPESUP</strong></a> : prépa concours AVENIR - PUISSANCE ALPHA - GEPI POLYTECH.</li>
+<li><a href="https://www.puissance-alpha.fr/" target="_blank"><strong>Puissance ALPHA</strong></a> : les 19 grandes écoles d'ingénieurs du groupe, modalités d'admission.</li>
+</ul>
+</div>
+<div class="tabbed-block">
+<ul>
+<li><a href="https://www.cpe.fr/" target="_blank"><strong>CPE Lyon</strong></a> : Ecole d'Ingénieurs en Chimie et Sciences du Numérique (<em>Lyon - 69</em>).</li>
+<li><a href="https://www.ensc-rennes.fr/" target="_blank"><strong>ENSCR Rennes</strong></a> : Ecole Nationale Supérieure de Chimie de Rennes (<em>Rennes - 35</em>)</li>
+<li><a href="https://www.enssat.fr/" target="_blank"><strong>ENSSAT Lannion</strong></a> : Ecole Nationale Supérieure des Sciences Appliquées et de Technologie (<em>Lannion - 22</em>)</li>
+<li><a href="https://www.epita.fr/" target="_blank"><strong>EPITA</strong></a> : Ecole des ingénieurs en intelligence informatique.</li>
+<li><a href="https://www.esgt.cnam.fr/presentation/" target="_blank"><strong>ESGT</strong></a> : École Supérieure d'Ingénieurs Géomètres et Topographes. Plaquette  <a href="../pdf/ESGT_plaquette_ecole.pdf" target="_blank"><strong>ESGT</strong></a> - Présentation du cycle <a href="../pdf/ESGT_cycle_ingenieur.pdf" target="_blank"><strong>ingénieur</strong></a> spécialité géomètre et du cycle <a href="../pdf/ESGT_cycle_preparatoire_integre.pdf" target="_blank"><strong>préparatoire</strong></a> (<em>Le Man - 72</em>).</li>
+<li><a href="https://www.esigelec.fr/fr" target="_blank"><strong>ESIGELEC</strong></a> : Ecole d'Ingénieurs généralistes (<em>Saint-Étienne-du-Rouvray - 76</em>).</li>
+<li><a href="https://www.esme.fr/" target="_blank"><strong>ESME</strong></a> : les ingénieurs qui transforment le monde (numérique, robotique et IA et transition énergétique).</li>
+<li><a href="https://eseo.fr/" target="_blank"><strong>ESEO</strong></a> : Ecole d'Ingénieurs généralistes des technologies de la transformation numérique et électronique (<em>Angers - 49 ; Paris-Vélizy - 78 ; Dijon - 21</em>).</li>
+<li><a href="https://www.estaca.fr/" target="_blank"><strong>ESTACA</strong></a> : Ecole d'Ingénieurs dans le domaine des transports (aéronautique - automobile - ferroviaire - spatial - naval) (<em>Talence - 33 ; Laval - 53 ; Saint-Quentin-en-Yvelines - 78</em>).</li>
+<li><a href="https://www.icam.fr/" target="_blank"><strong>ICAM</strong></a> : Ecoles d'Ingénieurs généralistes. <a href="https://www.icam.fr/inscription-journee-immersion/" target="_blank"><strong>Formulaire</strong></a> journées d'immersion.</li>
+<li><a href="https://www.insa-rennes.fr/" target="_blank"><strong>INSA</strong></a> : Institut National des Sciences Appliquées (<em>Rennes - 35</em>).</li>
+<li><a href="https://www.ipsa.fr/" target="_blank"><strong>IPSA</strong></a> : École d'ingénieurs de l'air, de l'espace et de la mobilité durable (<em>Paris - Toulouse</em>).</li>
+<li><a href="https://www.isae-supaero.fr/fr/" target="_blank"><strong>ISAE-SUPAERO</strong></a> : Leader mondial de l’enseignement supérieur dans le domaine de l’ingénierie aérospatiale  (<em>Toulouse - 31</em>)</li>
+<li><a href="https://www.isen.fr/" target="_blank"><strong>ISEN</strong></a> : Formations d'ingénieurs dans le numérique.</li>
+<li><a href="https://www.oniris-nantes.fr/" target="_blank"><strong>ONIRIS - VetAgroBio Nantes</strong></a> : Formations techniciens supérieurs dans l'industrie agroalimentaire pour devenir ingénieur ou vétérinaire.</li>
+<li><a href="https://www.supbiotech.fr/" target="_blank"><strong>SUP'BIOTECH</strong></a> : l'école des ingénieur·e·s en Biotechnologies.</li>
+<li><a href="https://www.unge.net/index.php" target="_blank"><strong>UNGE</strong></a> : Union Nationale des Géomètres-Experts.</li>
+</ul>
+</div>
+<div class="tabbed-block">
+<p><strong>100 FEMMES - 100 METIERS ingénieure demain !</strong> 
+Site de l'<a href="https://www.ensta-bretagne.fr/fr/100-femmes-100-metiers-ingenieure-demain" target="_blank"><strong>ENSTA Bretagne</strong></a>.</p>
+</div>
+</div>
+</div>
+</details>
+<hr />
+<h3 id="universites">Universités<a class="headerlink" href="#universites" title="Permanent link">⚓︎</a></h3>
+<details class="info">
+<summary>Journées découvertes</summary>
+<div class="tabbed-set tabbed-alternate" data-tabs="24:2"><input checked="checked" id="__tabbed_24_1" name="__tabbed_24" type="radio" /><input id="__tabbed_24_2" name="__tabbed_24" type="radio" /><div class="tabbed-labels"><label for="__tabbed_24_1">UBO</label><label for="__tabbed_24_2">UCO Brest-Guingamp</label></div>
+<div class="tabbed-content">
+<div class="tabbed-block">
+<p><mark><strong>Dates d'immersions et liens pour s'inscrire</strong></mark> sur le site de l'<a href="https://www.univ-brest.fr/cap-avenir/fr/page/immersion-individuelle-lubo" target="_blank"><strong>UBO</strong></a> .</p>
+</div>
+<div class="tabbed-block">
+<p>L'actualité de l'<a href="https://guingamp.uco.fr/fr/fr/actualites-guingamp" target="_blank"><strong>UCO</strong></a> Université Catholique de l'Ouest : portes ouvertes, immersions...</p>
+</div>
+</div>
+</div>
+</details>
+<details>
+<summary>Liens utiles pour l'université</summary>
+<div class="tabbed-set tabbed-alternate" data-tabs="25:2"><input checked="checked" id="__tabbed_25_1" name="__tabbed_25" type="radio" /><input id="__tabbed_25_2" name="__tabbed_25" type="radio" /><div class="tabbed-labels"><label for="__tabbed_25_1">PRESENTATION</label><label for="__tabbed_25_2">CAMPUS</label></div>
+<div class="tabbed-content">
+<div class="tabbed-block">
+<ul>
+<li><a href="https://www.letudiant.fr/etudes/fac/universite-les-10-bonnes-raisons-de-choisir-la-fac.html" target="_blank"><strong>Pourquoi choisir la Fac ?</strong></a> (<em>Sources : L'Etudiant</em>).</li>
+</ul>
+</div>
+<div class="tabbed-block">
+<ul>
+<li><a href="https://www.sb-roscoff.fr/" target="_blank"><strong>CNRS Sorbonne Université</strong></a> : Station biologique de Roscoff / CNRS-Sorbonne.</li>
+<li><a href="https://www.icrennes.org/" target="_blank"><strong>ICR</strong></a> : Institut Catholique de Rennes.</li>
+<li><a href="https://www.univ-rennes1.fr/" target="_blank"><strong>RENNES1</strong></a> : Université de Rennes1.</li>
+<li><a href="https://www.univ-rennes2.fr/" target="_blank"><strong>RENNES2</strong></a> : Université de Rennes2.</li>
+<li><a href="https://nouveau.univ-brest.fr/fr" target="_blank"><strong>UBO</strong></a> : Université de Bretagne Occidentale.</li>
+<li><a href="https://www.univ-ubs.fr/fr/index.html" target="_blank"><strong>UBS</strong></a> : Université Bretagne Sud.</li>
+<li><a href="https://www.uco.fr/fr" target="_blank"><strong>UCO</strong></a> : Université Catholique de l'Ouest. </li>
+<li><a href="https://www.utbm.fr/" target="_blank"><strong>UTBM</strong></a> : Université de Technologie de Belfort-Montbéliard.</li>
+<li><a href="https://www.utc.fr/" target="_blank"><strong>UTC</strong></a> : Université de Technologie de Compiègne.</li>
+</ul>
+</div>
+</div>
+</div>
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+
+<style>
+    .jp-RenderedHTMLCommon p {
+        font-size: 0.8rem;
+        line-height: 1.6;
+    }
+
+    .jp-RenderedHTMLCommon li {
+        font-size: .8rem;
+        line-height: 1.6;
+    }
+
+    .jp-RenderedHTMLCommon h1 {
+        margin: 0 0 1.25em;
+        color: var(--md-default-fg-color--light);
+        font-weight: 300;
+        font-size: 2em;
+        line-height: 1.3;
+        letter-spacing: -0.01em;
+    }
+
+    .jp-RenderedHTMLCommon h2 {
+        margin: 1.6em 0 .64em;
+        font-weight: 300;
+        font-size: 1.965em;
+        line-height: 1.4;
+        letter-spacing: -0.01em;
+    }
+
+    .jp-RenderedHTMLCommon h3 {
+        margin: 1.6em 0 .8em;
+        font-weight: 400;
+        font-size: 1.57em;
+        line-height: 1.5;
+        letter-spacing: -0.01em;
+    }
+
+    .jp-RenderedHTMLCommon hr {
+        border: none;
+    }
+</style>
+
+
+
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Retour en haut de la page
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      Document partagé par <a href="https://github.com/JoceDoc" target="_blank">Jocelyne COZ</a> &copy; 2021 sous licence <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr" target="_blank">CC BY-NC-SA 4.0</a> <br> Illustrations par <a href="https://undraw.co/" target="_blank">UnDraw</a>
+    </div>
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+        
+<div class="md-social">
+  
+    
+    
+    
+    
+    <a href="mailto:jocelyne.coz@ecmorlaix.fr" target="_blank" rel="noopener" title="Pour toute question, suggestion ou commentaire, écrire à l&#39;auteur" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M536.4-26.3c9.8-3.5 20.6-1 28 6.3s9.8 18.2 6.3 28l-178 496.9c-5 13.9-18.1 23.1-32.8 23.1-14.2 0-27-8.6-32.3-21.7l-64.2-158c-4.5-11-2.5-23.6 5.2-32.6l94.5-112.4c5.1-6.1 4.7-15-.9-20.6s-14.6-6-20.6-.9l-112.4 94.3c-9.1 7.6-21.6 9.6-32.6 5.2L38.1 216.8c-13.1-5.3-21.7-18.1-21.7-32.3 0-14.7 9.2-27.8 23.1-32.8z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+    <a href="https://github.com/JoceDoc/cdinddmporsmeur_eleves" target="_blank" rel="noopener" title="dépôt github" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M173.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6m-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3m44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9M252.8 8C114.1 8 8 113.3 8 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C436.2 457.8 504 362.9 504 252 504 113.3 391.5 8 252.8 8M105.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1m-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7m32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1m-11.4-14.7c-1.6 1-1.6 3.6 0 5.9s4.3 3.3 5.6 2.3c1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2"/></svg>
+    </a>
+  
+    
+    
+    
+    
+    <a href="https://www.ecmorlaix.fr/nos-etablissements/lycee-notre-dame-du-mur/" target="_blank" rel="noopener" title="Lycée Notre Dame du Mur" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M0 192c0-35.3 28.7-64 64-64h64L255.9 12.9c18.3-16.4 46-16.4 64.2 0L448 128h64c35.3 0 64 28.7 64 64v256c0 35.3-28.7 64-64 64H64c-35.3 0-64-28.7-64-64zm224 184v88h128v-88c0-22.1-17.9-40-40-40h-48c-22.1 0-40 17.9-40 40m-112 8c8.8 0 16-7.2 16-16v-32c0-8.8-7.2-16-16-16H80c-8.8 0-16 7.2-16 16v32c0 8.8 7.2 16 16 16zm16-144v-32c0-8.8-7.2-16-16-16H80c-8.8 0-16 7.2-16 16v32c0 8.8 7.2 16 16 16h32c8.8 0 16-7.2 16-16m368 144c8.8 0 16-7.2 16-16v-32c0-8.8-7.2-16-16-16h-32c-8.8 0-16 7.2-16 16v32c0 8.8 7.2 16 16 16zm16-144v-32c0-8.8-7.2-16-16-16h-32c-8.8 0-16 7.2-16 16v32c0 8.8 7.2 16 16 16h32c8.8 0 16-7.2 16-16m-224 16a64 64 0 1 0 0-128 64 64 0 1 0 0 128"/></svg>
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "..", "features": ["navigation.instant", "navigation.tabs", "navigation.expand", "navigation.top", "toc.integrate", "header.autohide"], "search": "../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copi\u00e9 dans le presse-papier", "clipboard.copy": "Copier dans le presse-papier", "search.result.more.one": "1 de plus sur cette page", "search.result.more.other": "# de plus sur cette page", "search.result.none": "Aucun document trouv\u00e9", "search.result.one": "1 document trouv\u00e9", "search.result.other": "# documents trouv\u00e9s", "search.result.placeholder": "Taper pour d\u00e9marrer la recherche", "search.result.term.missing": "Non trouv\u00e9", "select.version": "S\u00e9lectionner la version"}, "version": null}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.79ae519e.min.js"></script>
+      
+        <script src="../javascripts/config.js"></script>
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+      
+    
+  </body>
+</html>

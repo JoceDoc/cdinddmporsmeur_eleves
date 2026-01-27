@@ -1,0 +1,1078 @@
+<!-- Ajout pour le bouton de téléchargement et le style des jupyter notebook   https://github.com/danielfrg/mkdocs-jupyter -->
+
+
+<!doctype html>
+<html lang="fr" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="Exemple de site de base pour MkDocs avec le thème Material à personaliser">
+      
+      
+        <meta name="author" content="Jocelyne COZ">
+      
+      
+      
+        <link rel="prev" href="../pedagogie/">
+      
+      
+        <link rel="next" href="../orientation/">
+      
+      
+        
+      
+      
+      <link rel="icon" href="../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.1">
+    
+    
+      
+        <title>Culture - Site WEB du CDI</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.484c7ddc.min.css">
+      
+        
+        <link rel="stylesheet" href="../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+    
+    
+      <link rel="stylesheet" href="../stylesheets/extra.css">
+    
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="purple" data-md-color-accent="lime">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#actualites" class="md-skip">
+          Aller au contenu
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="En-tête">
+    <a href=".." title="Site WEB du CDI" class="md-header__button md-logo" aria-label="Site WEB du CDI" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M384 512H96c-53 0-96-43-96-96V96C0 43 43 0 96 0h304c26.5 0 48 21.5 48 48v288c0 20.9-13.4 38.7-32 45.3V448c17.7 0 32 14.3 32 32s-14.3 32-32 32zM96 384c-17.7 0-32 14.3-32 32s14.3 32 32 32h256v-64zm32-232c0 13.3 10.7 24 24 24h176c13.3 0 24-10.7 24-24s-10.7-24-24-24H152c-13.3 0-24 10.7-24 24m24 72c-13.3 0-24 10.7-24 24s10.7 24 24 24h176c13.3 0 24-10.7 24-24s-10.7-24-24-24z"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Site WEB du CDI
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Culture
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="purple" data-md-color-accent="lime"  aria-label="Basculer en mode sombre"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Basculer en mode sombre" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 7a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5m0 2a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3m0-7 2.39 3.42C13.65 5.15 12.84 5 12 5s-1.65.15-2.39.42zM3.34 7l4.16-.35A7.2 7.2 0 0 0 5.94 8.5c-.44.74-.69 1.5-.83 2.29zm.02 10 1.76-3.77a7.131 7.131 0 0 0 2.38 4.14zM20.65 7l-1.77 3.79a7.02 7.02 0 0 0-2.38-4.15zm-.01 10-4.14.36c.59-.51 1.12-1.14 1.54-1.86.42-.73.69-1.5.83-2.29zM12 22l-2.41-3.44c.74.27 1.55.44 2.41.44.82 0 1.63-.17 2.37-.44z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="purple" data-md-color-accent="lime"  aria-label="Basculer en mode clair"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Basculer en mode clair" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m17.75 4.09-2.53 1.94.91 3.06-2.63-1.81-2.63 1.81.91-3.06-2.53-1.94L12.44 4l1.06-3 1.06 3zm3.5 6.91-1.64 1.25.59 1.98-1.7-1.17-1.7 1.17.59-1.98L15.75 11l2.06-.05L18.5 9l.69 1.95zm-2.28 4.95c.83-.08 1.72 1.1 1.19 1.85-.32.45-.66.87-1.08 1.27C15.17 23 8.84 23 4.94 19.07c-3.91-3.9-3.91-10.24 0-14.14.4-.4.82-.76 1.27-1.08.75-.53 1.93.36 1.85 1.19-.27 2.86.69 5.83 2.89 8.02a9.96 9.96 0 0 0 8.02 2.89m-1.64 2.02a12.08 12.08 0 0 1-7.8-3.47c-2.17-2.19-3.33-5-3.49-7.82-2.81 3.14-2.7 7.96.31 10.98 3.02 3.01 7.84 3.12 10.98.31"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Rechercher" placeholder="Rechercher" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Recherche">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Effacer" aria-label="Effacer" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initialisation de la recherche
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="Onglets" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href=".." class="md-tabs__link">
+        
+  
+  
+    
+  
+  Page d'accueil
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../actualites/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Actualités
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../pedagogie/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Pédagogie
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    
+  
+  
+    <li class="md-tabs__item md-tabs__item--active">
+      <a href="./" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Culture
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../orientation/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Parcours avenir
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../citoyen/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Parcours citoyen
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../sante/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Parcours santé
+
+      </a>
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+  
+
+<nav class="md-nav md-nav--primary md-nav--lifted md-nav--integrated" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="Site WEB du CDI" class="md-nav__button md-logo" aria-label="Site WEB du CDI" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M384 512H96c-53 0-96-43-96-96V96C0 43 43 0 96 0h304c26.5 0 48 21.5 48 48v288c0 20.9-13.4 38.7-32 45.3V448c17.7 0 32 14.3 32 32s-14.3 32-32 32zM96 384c-17.7 0-32 14.3-32 32s14.3 32 32 32h256v-64zm32-232c0 13.3 10.7 24 24 24h176c13.3 0 24-10.7 24-24s-10.7-24-24-24H152c-13.3 0-24 10.7-24 24m24 72c-13.3 0-24 10.7-24 24s10.7 24 24 24h176c13.3 0 24-10.7 24-24s-10.7-24-24-24z"/></svg>
+
+    </a>
+    Site WEB du CDI
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href=".." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Page d'accueil
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../actualites/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Actualités
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../pedagogie/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Pédagogie
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Culture
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Culture
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table des matières">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table des matières
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#actualites" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Actualités
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#projets-culturels-au-lycee" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Projets culturels au lycée
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#la-culture-a-morlaix" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        La culture à Morlaix
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#et-un-peu-plus-loin" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        et un peu plus loin...
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#ressources" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Ressources
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Ressources">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#culture-et-enseignement" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Culture et enseignement
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#cinema" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Cinéma
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#theatre" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Théâtre
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#musees" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Musées
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../orientation/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Parcours avenir
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../citoyen/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Parcours citoyen
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../sante/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Parcours santé
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+
+
+
+
+
+                  
+
+
+
+  <h1>Culture</h1>
+
+<details class="example inline end" open="open">
+<summary>Liens utiles</summary>
+<p><a href="https://pass.culture.fr/" target="_blank"><img alt="**PASS CULTURE**" src="../images/culture/pass-culture-logo-france.jpg" title="Page d'accueil PASS CULTURE" width="90%" /></a>
+<a href="https://www.cyrano.education/home" target="_blank"><img alt="**CYRANO**" src="../images/culture/Cyrano.jpg" title="Cyrano" width="85%" /></a>
+<a href="https://www.agendaculturel.fr/" target="_blank"><img alt="**A VOS AGENDAS**" src="../images/culture/logo-agenda-culturel.png" title="Page d'accueil AGENDA" width="125%" /></a>
+<a href="https://melotick.com/"><img alt="**PASS CULTURE**" src="../images/culture/melotick.jpg" title="Mélotick" width="90%" /></a></p>
+<ul>
+<li><a href="https://www.culture.gouv.fr/" target="_blank"><strong>Ministère de la culture</strong></a></li>
+<li><a href="https://www.cultureetpatrimoine.com/" target="_blank"><strong>Culture et patrimoine</strong></a></li>
+<li><a href="https://www.inha.fr/fr/ressources/eac/sitographie.html"><strong>Institut National d'Histoire de l'Art</strong></a></li>
+<li><a href="https://histoiredesarts.culture.gouv.fr/" target="_blank"><strong>Histoire des arts</strong></a></li>
+<li><a href="https://panoramadelart.com/" target="_blank"><strong>Panorama des arts</strong></a></li>
+</ul>
+</details>
+<h2 id="actualites">Actualités<a class="headerlink" href="#actualites" title="Permanent link">⚓︎</a></h2>
+<details open="open">
+<summary><strong>CYRANO la plateforme dédiée au théâtre</strong></summary>
+<p>Visionnez les captations intégrales des pièces de théâtre actuellement au programme.
+<mark><strong>Théâtre classique - Théâtre contemporain - Théâtre de Molière</strong></mark> </p>
+<p><a href="https://www.cyrano.education/home" target="_blank"><img alt="**CYRANO**" src="../images/culture/Cyrano.jpg" title="Cyrano" width="20%" /></a></p>
+</details>
+<details open="open">
+<summary><strong>PASS CULTURE</strong></summary>
+<p>Ce qui change à compter du 1er mars 2025 - <a href="https://pass.culture.fr/actualite/reforme-du-pass-culture" target="_blank"><strong>Actualité</strong></a></p>
+<p>Comment s'inscrire sur l'application <a href="https://pass.culture.fr/" target="_blank"><strong>PASS CULTURE</strong></a></p>
+<p><a href="https://educonnect.education.gouv.fr/" target="_blank"><img alt="**PASS CULTURE**" src="../images/culture/Pass_Culture_Affiche.jpg" title="Accès EduConnet" width="35%" /></a></p>
+</details>
+<h2 id="projets-culturels-au-lycee">Projets culturels au lycée<a class="headerlink" href="#projets-culturels-au-lycee" title="Permanent link">⚓︎</a></h2>
+<details open="open">
+<summary><strong>Projets d'éducation artistique et culturelle au lycée</strong></summary>
+<div class="tabbed-set tabbed-alternate" data-tabs="1:4"><input checked="checked" id="__tabbed_1_1" name="__tabbed_1" type="radio" /><input id="__tabbed_1_2" name="__tabbed_1" type="radio" /><input id="__tabbed_1_3" name="__tabbed_1" type="radio" /><input id="__tabbed_1_4" name="__tabbed_1" type="radio" /><div class="tabbed-labels"><label for="__tabbed_1_1">CINEMA</label><label for="__tabbed_1_2">THEATRE</label><label for="__tabbed_1_3">EXPOSITIONS</label><label for="__tabbed_1_4">JEUNES EN LIBRAIRIE</label></div>
+<div class="tabbed-content">
+<div class="tabbed-block">
+<details open="open">
+<summary>Découvrir des oeuvres cinématographiques</summary>
+<p>L'<a href="https://www.film-et-culture.fr/" target="_blank"><strong>Association Film&amp;Culture - Brest</strong></a> intervient au lycée pour des ateliers de lecture de l'image et des circuits.</p>
+<p><strong>Les films présentés cette année</strong> (<mark><em>Cliquez sur l'affiche pour accéder à la fiche sur le film</em></mark>) :</p>
+<p><a href="../images/culture/FC_Les_suffragettes.pdf" target="_blank"><img alt="Les suffragettes" src="../images/culture/FC_Les_suffragettes.jpg" title="Les suffragettes" width="20%" /></a>
+<a href="../images/culture/FC_1917_00.pdf" target="_blank"><img alt="1917" src="../images/culture/FC_1917.jpg" title="1917" width="20%" /></a>
+<a href="../images/culture/FC_La_zone_dinteret.pdf" target="_blank"><img alt="La zone d'intérêt" src="../images/culture/FC_La_zone_dinteret.jpg" title="La zone d'intérêt" width="20%" /></a></p>
+<p><a href="../images/culture/FC_Lecole_du_bout_du_monde.pdf" target="_blank"><img alt="L'école du bout du monde" src="../images/culture/FC_Lecole_du_bout_monde.jpg" title="L'école du bout du monde" width="19%" /></a>
+<a href="../pdf/Je_verrai_toujours_vos_visages.pdf" target="_blank"><img alt="Je verrai toujours vos visages" src="../images/culture/FC_je_verrai_toujours_vos_visages.jpg" title="Je verrai toujours vos visages" width="19%" /></a>
+<a href="../images/culture/FC_The_good_lie.pdf" target="_blank"><img alt="The good lie" src="../images/culture/FC_The_good_lie.jpg" title="The good lie" width="19%" /></a>
+[<img alt="Moi capitaine" src="../images/culture/FC_Moi_capitaine.jpg" title="Moi capitaine" width="20%" />]</p>
+<p><strong>Ci-dessous, les films présentés en 2023-2024</strong> :</p>
+<p><a href="../pdf/Illusions_perdues_fiche_film_et_culture.pdf" target="_blank"><img alt="Illusions_perdues" src="../images/culture/FC_illusions_perdues.jpg" title="Illusions perdues" width="20%" /></a>
+<a href="../pdf/Woman_at_war.pdf" target="_blank"><img alt="Woman at war" src="../images/culture/FC_woman_at_war.jpg" title="Woman at war" width="19%" /></a>
+<a href="../pdf/Je_verrai_toujours_vos_visages.pdf" target="_blank"><img alt="Je verrai toujours vos visages" src="../images/culture/FC_je_verrai_toujours_vos_visages.jpg" title="Je verrai toujours vos visages" width="19%" /></a></p>
+<p><a href="../pdf/Le_discours_d_un_roi.pdf" target="_blank"><img alt="Le discours d'un roi" src="../images/culture/FC_discours_d_un_roi.jpg" title="Le discours d'un roi" width="19%" /></a>
+<a href="../pdf/Un_triomphe.pdf" target="_blank"><img alt="Un triomphe" src="../images/culture/FC_un-triomphe.jpeg" title="un triomphe" width="19%" /></a>
+<a href="../pdf/La_Couleur_de_la_victoire.pdf" target="_blank"><img alt="La couleur de la victoire" src="../images/culture/FC_la_couleur_de_la_victoire.jpg" title="La couleur de la victoire" width="19%" /></a>
+<a href="../pdf/Trois_mousquetaires.pdf" target="_blank"><img alt="Les trois mousquetaires" src="../images/culture/FC_trois_mousquetaires.jpg" title="Les trois mousquetaires" width="19%" /></a></p>
+</details>
+</div>
+<div class="tabbed-block">
+<p>La proximité du <a href="https://www.theatre-du-pays-de-morlaix.fr/" target="_blank"><strong>Théâtre du Pays de Morlaix</strong></a> permet d'offrir aux élèves la possibilité d'assister à des représentations d'oeuvres de spectacle vivant.</p>
+<p><strong>Saison 2024-2025</strong> :</p>
+<p><a href="https://www.theatre-du-pays-de-morlaix.fr/Howl2122.html" target="_blank"><img alt="**Howl2122**" src="../images/culture/2024-2025_TPMX_Howl2122.jpg" title="Howl 2122 - Jeudi 17 octobre - 20h" width="20%" /></a>
+<a href="https://www.theatre-du-pays-de-morlaix.fr/Iphigenie-a-Splott.html" target="_blank"><img alt="**Iphigénie à Splott**" src="../images/culture/2024-2025_TPMX_iphigenie_a_splott.jpg" title="Iphigénie à Splott - Mercredi 26 février - 20h" width="20%" /></a>
+<a href="https://www.theatre-du-pays-de-morlaix.fr/Macbeth.html" target="_blank"><img alt="**Macbeth**" src="../images/culture/2024-2025_TPMX_Macbeth.jpg" title="Macbeth - Vendredi 15 novembre - 10h" width="26%" /></a>
+<a href="https://www.theatre-du-pays-de-morlaix.fr/18-34.html" target="_blank"><img alt="**18'34**" src="../images/culture/2024-2025_TPMX_1834.png" title="18'34 - Jeudi 19 décembre - 14h" width="28%" /></a>
+<a href="https://www.theatre-du-pays-de-morlaix.fr/Le-Processus.html" target="_blank"><img alt="**Le processus**" src="../images/culture/2024-2025_TPMX_processus.jpg" title="Processus - Mercredi 15 janvier - 10h" width="28%" /></a>
+<a href="https://www.theatre-du-pays-de-morlaix.fr/4211-km.html" target="_blank"><img alt="**4211 km**" src="../images/culture/2024-2025_TPMX_4211km.jpg" title="4211 km - Mardi 21 janvier - 20h" width="28%" /></a>
+<a href="https://www.theatre-du-pays-de-morlaix.fr/Camarades.html" target="_blank"><img alt="**Camarades**" src="../images/culture/2024-2025_TPMX_camarades.jpg" title="Camarades - Vendredi 14 mars - 14h" width="28%" /></a>
+<a href="https://www.theatre-du-pays-de-morlaix.fr/Nos-corps-empoisonnes.html" target="_blank"><img alt="**Nos corps empoisonnés**" src="../images/culture/2024-2025_TPMX_Nos_corps_empoisonn%C3%A9s.jpg" title="Nos corps empoisonnés - Mardi 01 avril - 20h" width="28%" /></a>
+<a href="https://www.theatre-du-pays-de-morlaix.fr/Un-Misanthrope.html" target="_blank"><img alt="**Un misanthrope**" src="../images/culture/2024-2025_TPMX_un_misanthrope.jpg" title="Un misanthrope - Mardi 29 avril - 14h" width="28%" /></a></p>
+<p><strong>Saison 2023-2024</strong> :</p>
+<p><a href="https://www.theatre-du-pays-de-morlaix.fr/A-la-renverse.html" target="_blank"><img alt="**A la renverse**" src="../images/culture/TPMX_2023-2024_A_la_renverse.jpg" title="A la renverse - Vendredi 17 novembre - 10h" width="28%" /></a>
+<a href="https://www.theatre-du-pays-de-morlaix.fr/37-Cielskaia.html" target="_blank"><img alt="**37, Cielskaïa**" src="../images/culture/TPMX_2023-2024_37_cielskaia.jpg" title="37, Cielskaïa - Jeudi 21 novembre - 20h" width="28%" /></a>
+<a href="https://www.theatre-du-pays-de-morlaix.fr/Normalito.html" target="_blank"><img alt="**Normalito**" src="../images/culture/TPMX_2023-2024_normalito.jpg" title="Normalito - Jeudi 30 novembre - 14h" width="28%" /></a>
+<a href="https://www.theatre-du-pays-de-morlaix.fr/Peter-Pan.html" target="_blank"><img alt="**Peter Pan**" src="../images/culture/TPMX_2023-2024_peter_pan.jpg" title="Peter Pan - Jeudi 21 décembre - 14h" width="28%" /></a>
+<a href="https://www.theatre-du-pays-de-morlaix.fr/Fahrenheit-451.html" target="_blank"><img alt="**Fahrenheit 451**" src="../images/culture/TPMX_2023-2024_fahrenheit_451.jpg" title="Fahrenheit 451 - vendredi 02 février - 10h" width="28%" /></a>
+<a href="https://www.theatre-du-pays-de-morlaix.fr/A-la-ligne.html" target="_blank"><img alt="**A la ligne**" src="../images/culture/TPMX_2023-2024_a_la_ligne.jpg" title="A la ligne - jeudi 15 février - 20h" width="28%" /></a>
+<a href="https://www.theatre-du-pays-de-morlaix.fr/Mes-parents.html" target="_blank"><img alt="**Mes parents**" src="../images/culture/TPMX_2023-2024_mes_parents.jpg" title="Mes parents - jeudi 21 mars - 14h" width="28%" /></a></p>
+</div>
+<div class="tabbed-block">
+<details open="open">
+<summary><strong>Exposition en cours au FHEL - Landerneau</strong></summary>
+<p><a href="https://www.fonds-culturel-leclerc.fr/en-cours-animal-646-39-0-0.html" target="_blank"><img alt="**Expo Animals**" src="../images/culture/FHEL_animal.jpg" title="affiche_exposition" width="45%" /></a></p>
+</details>
+</div>
+<div class="tabbed-block">
+<p>Les élèves de 1AEPA, 2nde EPC et TAEPE participent cette année au programme <a href="https://daac.ac-rennes.fr/spip.php?article2268" target="_blank"><strong>Jeunes en librairie</strong></a>, projet d’éducation artistique et culturelle autour des professionnels du livre et de la librairie.</p>
+<p>Dans ce cadre, ils ont rencontré Yuna de la <a href="https://www.dialoguesmorlaix.com/" target="_blank"><strong>Librairie Dialogues Morlaix</strong></a> partenaire du projet, d'abord au lycée puis à la librairie. L'occasion pour eux de découvrir en quoi consiste le travail d'une librairie indépendante, mais aussi d'en apprendre un peu plus sur le circuit du livre ou les métiers en lien avec l'édition et le monde du livre.</p>
+<p>Les élèves auront également la chance de rencontrer, le 6 mai prochain, <a href="https://www.librinova.com/auteur/louise-delgado" target="_blank"><strong>Louise Delgado</strong></a>, et <a href="https://www.facebook.com/sublutetia/?locale=fr_FR"><strong>Eric Senabre</strong></a>. Ils découvriront ainsi les sources d'inspiration, les habitudes de travail, mais aussi les projets de ces deux auteurs reconnus.</p>
+<p>Grâce au dispositif "Jeunes en librairie" les élèves bénéficieront d'un chèque livre de 20 € pour des achats dans la libriaire partenaire.</p>
+<p><img align="right" alt="Jeunes en librairie" src="../images/culture/yuna_cdi_epc.jpg" title="Yuna au CDI avec Term EPC" width="45%" />
+<img align="right" alt="Jeunes en librairie" src="../images/culture/Yuna_cdi_aepe.jpg" title="Yuna au CDI avec Term AEPE" width="45%" />
+<img align="right" alt="Jeunes en librairie" src="../images/culture/JLB_2023-2024_rencontre_Louise_delgado_01.jpg" title="Louise avec les Term AEPE" width="45%" />
+<img align="right" alt="Jeunes en librairie" src="../images/culture/JLB_2023-2024_rencontre_Louise_delgado_02.JPG" title="Louise avec les Term EPC" width="45%" /></p>
+</div>
+</div>
+</div>
+</details>
+<h2 id="la-culture-a-morlaix">La culture à Morlaix<a class="headerlink" href="#la-culture-a-morlaix" title="Permanent link">⚓︎</a></h2>
+<p>La <a href="https://www.morlaix.bzh/vie-quotidienne/culture" target="_blank"><strong>ville de Morlaix</strong></a> propose une offre culturelle diversifiée. Sur le site de la ville, vous  trouverez des informations pratiques concernant les animations, expositions, et infrastuctures diverses : adresses, horaires, programmations des salles de spectacles, cinémas, bibliothèques...</p>
+<details open="open">
+<summary>Accéder aux sites officiels de ces lieux culturels</summary>
+<div class="tabbed-set tabbed-alternate" data-tabs="2:4"><input checked="checked" id="__tabbed_2_1" name="__tabbed_2" type="radio" /><input id="__tabbed_2_2" name="__tabbed_2" type="radio" /><input id="__tabbed_2_3" name="__tabbed_2" type="radio" /><input id="__tabbed_2_4" name="__tabbed_2" type="radio" /><div class="tabbed-labels"><label for="__tabbed_2_1">CINEMA</label><label for="__tabbed_2_2">MUSEES</label><label for="__tabbed_2_3">SPECTACLES VIVANTS</label><label for="__tabbed_2_4">EXPOSITIONS - CONFERENCES</label></div>
+<div class="tabbed-content">
+<div class="tabbed-block">
+<ul>
+<li><a href="https://www.allocine.fr/seance/salle_gen_csalle=P0357.html" target="_blank"><strong>Cinéma Le Rialto</strong></a></li>
+<li><a href="https://cinemalasalamandre.fr/" target="_blank"><strong>La Salamandre</strong></a></li>
+</ul>
+</div>
+<div class="tabbed-block">
+<ul>
+<li><a href="https://lesmoyensdubord.fr/" target="_blank"><strong>Artothèque Les moyens du bord</strong></a></li>
+<li><a href="https://www.espace-sciences.org/morlaix" target="_blank"><strong>Espace des sciences</strong></a></li>
+<li><a href="https://musee.ville.morlaix.fr/" target="_blank"><strong>Musée de Morlaix</strong></a></li>
+<li><a href="https://www.morlaix.bzh/la-virgule" target="_blank"><strong>La Virgule</strong></a></li>
+</ul>
+</div>
+<div class="tabbed-block">
+<ul>
+<li><a href="https://www.mjcmorlaix.com/" target="_blank"><strong>MJC</strong></a> (Maison des Jeunes et de la Culture)</li>
+<li><a href="https://www.espace-roudour.com/" target="_blank"><strong>Le Roudour</strong></a></li>
+<li><a href="https://www.sew-morlaix.com/" target="_blank"><strong>Sew</strong></a></li>
+<li><a href="https://www.theatre-du-pays-de-morlaix.fr/" target="_blank"><strong>Théâtre du Pays de Morlaix</strong></a></li>
+</ul>
+</div>
+<div class="tabbed-block">
+<details class="info" open="open">
+<summary><strong>L'Espace des sciences</strong></summary>
+<p>Le <a href="https://www.espace-sciences.org/morlaix/programme" target="_blank"><strong>Programme</strong></a> du mois de l'<a href="https://www.espace-sciences.org/morlaix" target="_blank"><strong>Espace des sciences</strong></a> </p>
+<p>Collection <a href="https://www.espace-sciences.org/conferences/conferenciers" target="_blank">**Les Mardis de l'Espace des sciences **</a> (Les Champs libres - Rennes)</p>
+</details>
+</div>
+</div>
+</div>
+</details>
+<h2 id="et-un-peu-plus-loin">et un peu plus loin...<a class="headerlink" href="#et-un-peu-plus-loin" title="Permanent link">⚓︎</a></h2>
+<details>
+<summary>Finistère</summary>
+<ul>
+<li><a href="https://www.fonds-culturel-leclerc.fr/" target="_blank"><strong>FHEL - Landerneau</strong></a></li>
+<li><a href="https://www.ateliersdescapucins.fr/fr" target="_blank"><strong>Ateliers des Capucins</strong></a></li>
+<li><a href="https://www.lequartz.com/" target="_blank"><strong>Le Quartz - Brest</strong></a></li>
+<li><a href="https://www.musee-marine.fr/brest" target="_blank"><strong>Musée National de la Marine - Brest</strong></a></li>
+<li><a href="https://www.mbaq.fr/" target="_blank"><strong>Musée des Beaux-Arts - Quimper</strong></a></li>
+</ul>
+</details>
+<details>
+<summary>Bretagne</summary>
+<ul>
+<li><a href="https://www.espace-sciences.org/" target="_blank"><strong>Les Champs Libres</strong></a> : Espace des sciences à Rennes.</li>
+<li><a href="https://www.espace-sciences.org/conferences/conferenciers" target="_blank"><strong>Cycle de conférences : les Mardis de l'Espace des sciences</strong></a></li>
+<li><a href="https://www.spectable.com/bretagne/annuaire-culture/salles-spectacles/n_187-l_31.php" target="_blank"><strong>Annuaire des salles culturelles</strong></a></li>
+</ul>
+</details>
+<h2 id="ressources">Ressources<a class="headerlink" href="#ressources" title="Permanent link">⚓︎</a></h2>
+<h3 id="culture-et-enseignement">Culture et enseignement<a class="headerlink" href="#culture-et-enseignement" title="Permanent link">⚓︎</a></h3>
+<details>
+<summary>Sites incontournables</summary>
+<ul>
+<li><a href="https://eduscol.education.fr/2347/disciplines" target="_blank"><strong>Eduscol</strong></a></li>
+<li><a href="https://eduscol.education.fr/100/je-mene-un-projet-avec-mes-eleves" target="_blank"><strong>Actions éducatives</strong></a></li>
+</ul>
+</details>
+<h3 id="cinema">Cinéma<a class="headerlink" href="#cinema" title="Permanent link">⚓︎</a></h3>
+<details>
+<summary>Sites incontournables</summary>
+<ul>
+<li><a href="https://www.cinematheque-bretagne.bzh/" target="_blank"><strong>Cinémathèque de Bretagne</strong></a></li>
+<li><a href="https://www.cnc.fr/" target="_blank"><strong>Centre National du cinéma et de l'image animée</strong></a></li>
+</ul>
+</details>
+<h3 id="theatre">Théâtre<a class="headerlink" href="#theatre" title="Permanent link">⚓︎</a></h3>
+<details>
+<summary>Sites incontournables</summary>
+<ul>
+<li><a href="https://www.theatral-magazine.com/" target="_blank"><strong>Théâtral magazine</strong></a> : L'actualité de la création théâtrale.</li>
+<li><a href="https://sceneweb.fr/" target="_blank"><strong>Sceneweb</strong></a> : L'actualité du spectacle vivant.</li>
+<li><a href="http://www.pearltrees.com/bordeauxdaac/captation-complete-extraits/id12715437" target="_blank"><strong>Captations complètes ou extraits</strong></a> de pièces de théâtre.</li>
+</ul>
+</details>
+<h3 id="musees">Musées<a class="headerlink" href="#musees" title="Permanent link">⚓︎</a></h3>
+<details>
+<summary>En France</summary>
+<p>Pour rechercher un musée en France, par régions ou par départements, consultez l'<a href="https://www.omusee.com/" target="_blank"><strong>annuaire des musées</strong></a>.</p>
+<p><a href="http://expositions.bnf.fr/" target="blank"><strong>Expositions virtuelles de le BNF</strong></a></p>
+<details class="info">
+<summary>Sites des musées</summary>
+<ul>
+<li><a href="https://www.grandpalais.fr/fr" target="_blank"><strong>Grand Palais</strong></a></li>
+<li><a href="https://www.louvre.fr/visites-en-ligne" target="_blank"><strong>Le Louvre</strong></a></li>
+<li><a href="https://www.musee-orsay.fr/fr" target="_blank"><strong>Musée d'Orsay</strong></a></li>
+</ul>
+</details>
+</details>
+<details>
+<summary>A l'étranger</summary>
+<ul>
+<li><a href="https://www.britishmuseum.org/" target="_blank"><strong>British Museum</strong></a></li>
+<li><a href="https://www.beauxarts.com/series/60-musees-a-visiter-au-moins-une-fois-dans-sa-vie/" target="_blank"><strong>60 Musées à découvrir</strong></a></li>
+</ul>
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+
+<style>
+    .jp-RenderedHTMLCommon p {
+        font-size: 0.8rem;
+        line-height: 1.6;
+    }
+
+    .jp-RenderedHTMLCommon li {
+        font-size: .8rem;
+        line-height: 1.6;
+    }
+
+    .jp-RenderedHTMLCommon h1 {
+        margin: 0 0 1.25em;
+        color: var(--md-default-fg-color--light);
+        font-weight: 300;
+        font-size: 2em;
+        line-height: 1.3;
+        letter-spacing: -0.01em;
+    }
+
+    .jp-RenderedHTMLCommon h2 {
+        margin: 1.6em 0 .64em;
+        font-weight: 300;
+        font-size: 1.965em;
+        line-height: 1.4;
+        letter-spacing: -0.01em;
+    }
+
+    .jp-RenderedHTMLCommon h3 {
+        margin: 1.6em 0 .8em;
+        font-weight: 400;
+        font-size: 1.57em;
+        line-height: 1.5;
+        letter-spacing: -0.01em;
+    }
+
+    .jp-RenderedHTMLCommon hr {
+        border: none;
+    }
+</style>
+
+
+
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Retour en haut de la page
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      Document partagé par <a href="https://github.com/JoceDoc" target="_blank">Jocelyne COZ</a> &copy; 2021 sous licence <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr" target="_blank">CC BY-NC-SA 4.0</a> <br> Illustrations par <a href="https://undraw.co/" target="_blank">UnDraw</a>
+    </div>
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+        
+<div class="md-social">
+  
+    
+    
+    
+    
+    <a href="mailto:jocelyne.coz@ecmorlaix.fr" target="_blank" rel="noopener" title="Pour toute question, suggestion ou commentaire, écrire à l&#39;auteur" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M536.4-26.3c9.8-3.5 20.6-1 28 6.3s9.8 18.2 6.3 28l-178 496.9c-5 13.9-18.1 23.1-32.8 23.1-14.2 0-27-8.6-32.3-21.7l-64.2-158c-4.5-11-2.5-23.6 5.2-32.6l94.5-112.4c5.1-6.1 4.7-15-.9-20.6s-14.6-6-20.6-.9l-112.4 94.3c-9.1 7.6-21.6 9.6-32.6 5.2L38.1 216.8c-13.1-5.3-21.7-18.1-21.7-32.3 0-14.7 9.2-27.8 23.1-32.8z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+    <a href="https://github.com/JoceDoc/cdinddmporsmeur_eleves" target="_blank" rel="noopener" title="dépôt github" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M173.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6m-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3m44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9M252.8 8C114.1 8 8 113.3 8 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C436.2 457.8 504 362.9 504 252 504 113.3 391.5 8 252.8 8M105.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1m-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7m32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1m-11.4-14.7c-1.6 1-1.6 3.6 0 5.9s4.3 3.3 5.6 2.3c1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2"/></svg>
+    </a>
+  
+    
+    
+    
+    
+    <a href="https://www.ecmorlaix.fr/nos-etablissements/lycee-notre-dame-du-mur/" target="_blank" rel="noopener" title="Lycée Notre Dame du Mur" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M0 192c0-35.3 28.7-64 64-64h64L255.9 12.9c18.3-16.4 46-16.4 64.2 0L448 128h64c35.3 0 64 28.7 64 64v256c0 35.3-28.7 64-64 64H64c-35.3 0-64-28.7-64-64zm224 184v88h128v-88c0-22.1-17.9-40-40-40h-48c-22.1 0-40 17.9-40 40m-112 8c8.8 0 16-7.2 16-16v-32c0-8.8-7.2-16-16-16H80c-8.8 0-16 7.2-16 16v32c0 8.8 7.2 16 16 16zm16-144v-32c0-8.8-7.2-16-16-16H80c-8.8 0-16 7.2-16 16v32c0 8.8 7.2 16 16 16h32c8.8 0 16-7.2 16-16m368 144c8.8 0 16-7.2 16-16v-32c0-8.8-7.2-16-16-16h-32c-8.8 0-16 7.2-16 16v32c0 8.8 7.2 16 16 16zm16-144v-32c0-8.8-7.2-16-16-16h-32c-8.8 0-16 7.2-16 16v32c0 8.8 7.2 16 16 16h32c8.8 0 16-7.2 16-16m-224 16a64 64 0 1 0 0-128 64 64 0 1 0 0 128"/></svg>
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "..", "features": ["navigation.instant", "navigation.tabs", "navigation.expand", "navigation.top", "toc.integrate", "header.autohide"], "search": "../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copi\u00e9 dans le presse-papier", "clipboard.copy": "Copier dans le presse-papier", "search.result.more.one": "1 de plus sur cette page", "search.result.more.other": "# de plus sur cette page", "search.result.none": "Aucun document trouv\u00e9", "search.result.one": "1 document trouv\u00e9", "search.result.other": "# documents trouv\u00e9s", "search.result.placeholder": "Taper pour d\u00e9marrer la recherche", "search.result.term.missing": "Non trouv\u00e9", "select.version": "S\u00e9lectionner la version"}, "version": null}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.79ae519e.min.js"></script>
+      
+        <script src="../javascripts/config.js"></script>
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+      
+    
+  </body>
+</html>
