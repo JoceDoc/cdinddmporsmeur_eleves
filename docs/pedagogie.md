@@ -179,13 +179,18 @@ ___
     Ils ont choisi de relever le défi proposé par le concours et se sont engagés à travailler pour progresser dans cet exercice de lecture à voix haute, à s'entraider pour exceller et donner le meilleur d'eux-mêmes.
 
     Découvrez cet atelier pédagogique sur le [**Padlet du groupe d'AP**](https://padlet.com/cdinddmporsmeur/concours_lagrandelibrairie){target=_blank}.
+    
     ![Concours](./images/Si on lisait à voix haute01.jpg "logo du concours"){width=35% align=right}
+
     <figure>
-    <iframe title="Vidéo_Nolan_Stewart_Finaliste_2022_02" src="https://tube-numerique-educatif.apps.education.fr/videos/embed/0a21165a-d5a7-4c0c-a450-20a3e4c45a23" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>
-    <figcaption>Vidéo du représentant du groupe</figcaption>
+    <iframe title="20260115_Romy_Vidéo_concours" width="560" height="315" src="https://tube-numerique-educatif.apps.education.fr/videos/embed/ukjBb6WQ769L46o1bCLvNL" style="border: 0px;" allow="fullscreen" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>
+    <figcaption>Romy Candidate 2026</figcaption>
     </figure>
 
-
+    <figure>
+    <iframe title="20260123_Taly_Vidéo_concours" width="560" height="315" src="https://tube-numerique-educatif.apps.education.fr/videos/embed/rUkCSZjnB6gRQCyP478kKg" style="border: 0px;" allow="fullscreen" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>
+    <figcaption>Taly Candidate 2026</figcaption>
+    </figure>
 
     
 ___
