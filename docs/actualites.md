@@ -5,7 +5,7 @@
 
 ## Rendez-vous
 ???+ "**CAFE PHILO** ==<u>**Prochain rendez-vous CAFE PHILO**</u>=="
-    ![L'allégorie de la caverne](./images/actualites/20260113_affiche_cafe_philo.png "café philo"){width=65% align=left}
+    ![L'allégorie de la caverne](./images/actualites/20260210_affiche_cafe_philo.png "café philo"){width=65% align=left}
 
     [**Les CAFE PHILO de l'année dernière**](./images/actualites/2024-2025_cafes_philo.pdf){target=_blank}
 
@@ -47,24 +47,25 @@
 
 ??? "**Concours d'éloquence**"
     Bravo aux 9 candidats qui se sont inscrits au concours cette année et ont présentés, lors du 1er tour, des discours qui ont su toucher, séduire ou enthousiasmer les élèves de première générale et technologique du lycée et les membres du jury. 
-    
-    Nous retrouverons six d'entre eux pour la demi-finale prévue le 29 janvier. 
 
-    Rappel des sujets du 1er tour :
-        
-    * Et si nous étions tous fous ?
-        
-    * Vivre sans espoir, est-ce cesser de vivre ? 
-    
-    * Qui ne dit mot consent ?
-        
-    * "Soyez vous-mêmes, les autres sont déjà pris  ?" (Oscar Wilde)
-    
-    * Seul on va plus vite, ensemble on va plus loin.
+    Les sujets du 1er tour :  - Et si nous étions tous fous ? - Vivre sans espoir, est-ce cesser de vivre ? - Qui ne dit mot consent ? - "Soyez vous-mêmes, les autres sont déjà pris  ?" (Oscar Wilde) - Seul on va plus vite, ensemble on va plus loin. - La vérité sort-elle vraiment de la bouche des enfants ?
 
-    * La vérité sort-elle vraiment de la bouche des enfants ?
+    La demi-finale s'est déroulée jeudi 29 janvier. Les 6 élèves qui avaient passé le 1er tour ont déclamé des discours sur les sujets suivants :
 
-    ![Finale](./images/actualites/20251218_01_resultats%20_1tour_01.JPG "La proclamation des résultats"){width=45% align=left}
+    * Si votre ombre avait sa propre vie et ses propres secrets que ferait-elle à votre insue ?
+
+    * Il y a une voix que j'écoute trop peu.
+
+    * Discours d'un futur moi à mon moi d'aujourd'hui.
+
+    * Vider sa tasse pour pouvoir la remplir.
+
+    * Ce que je refus de devenir
+
+    * Plaidoyer pour les objets inutiles
+
+    ![1ertour](./images/actualites/20251218_01_resultats_1tour_01.JPG "Résultats_1er_tour"){width=45% align=left}
+    ![demi-finale](./images/actualites/20260129_proclamation_resultats_demi-finale.JPG "Résultats_demi-finale"){width=45% align=left}
    
 
 
