@@ -17,8 +17,8 @@ ___
 
 ## Actualité des disciplines
 
-???+ "**Semaine de la presse et des médias** ==<u>**24 au 29 mars 2025**</u>=="
-    [![Affiche de présentation](./images/actualites/SPME2025_affiche.jpg "Affiche"){width=70% align=left}](https://www.clemi.fr/actions-educatives/semaine-de-la-presse-et-des-medias){target=_blank}
+???+ "**Semaine de la presse et des médias** ==<u>**23 au 28 mars 2026**</u>=="
+    [![Affiche de présentation](./images/pedagogie/2026_affiche_SPME_CLEMI.png "Affiche"){width=70% align=left}](https://www.clemi.fr/actualite/37e-semaine-de-la-presse-et-des-medias-dans-lecole-un-theme-explorer-avec-deux-affiches-et-sous-quatre-angles-complementaires){target=_blank}
 
 ## Méthodologie pour tous
 
@@ -282,7 +282,7 @@ ___
     - [**S'entraîner pour l'oral**](https://wordwall.net/fr/resource/2213377/eaf-oral-2-partie){target=_blank}
     - [**Outils numériques pour les lettres et LCA**](http://www.pearltrees.com/t/lettres-lca-academie-de-rennes/numeriques-lettres-academie/id30360664){target=_blank}
 
-    [![**PRINTEMPS DES POETES**](./images/pedagogie/2025_printemps_poetes_affiche.jpg){width=30%}](https://www.printempsdespoetes.com/Edition2025){target=_blank}
+    [![**PRINTEMPS DES POETES**](./images/pedagogie/2026_affiche_printemps_poetes.jpg){width=30%}](https://www.printempsdespoetes.com/Edition2025){target=_blank}
     
    
  
