@@ -68,10 +68,10 @@ ___
   
 
 ??? info "Ressources diverses"
-    - [**France Culture Education**](https://www.radiofrance.fr/sujets/france-culture-education-des-podcasts-pour-apprendre-et-reviser){target=_blank} : des podcasts pour apprendre et réviser.
+    - [**France Culture Education**](https://www.radiofrance.fr/sujets/reviser-le-bac){target=_blank} : des podcasts pour apprendre et réviser pour le BAC.
     - [**Nouveaux cours**](https://www.fun-mooc.fr/fr/cours/?limit=21&new=new&offset=0){target=_blank} : en ligne sur FunMOOC pour découvrir, apprendre, progresser... dans les différentes disciplines.
     - [**DYS**](https://www.ffdys.com/troubles-dys){target=_blank} : comprendre les troubles cognitifs spécifiques.
-    - [**Documents libres de droits**](https://www.reformedulycee.fr/2019/11/documents-libres-de-droits-nos-sites-preferes/){target=_blank} : liste non exhaustive de sites proposant des images, vidéos et musiques libres de droits. (*Lelivrescolaire.fr*)
+    - [**Documents libres de droits**](https://profpower.lelivrescolaire.fr/ou-trouver-des-textes-et-des-documents-libres-de-droits-ou-en-acces-libre/){target=_blank} : liste non exhaustive de sites proposant des images, vidéos et musiques libres de droits. (*Lelivrescolaire.fr*)
     - [**Musiques libres de droits**](https://www.auboutdufil.com/){target=_blank} à télécharger.
 
 ??? info "Logiciels and Co"
