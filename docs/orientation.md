@@ -14,7 +14,9 @@ L'actualité de l'orientation au lycée et dans la région, les ==**sites incont
 ## ACTUALITES
 
 ???+ info "**IMMERSIONS - JOURNEES DECOUVERTES - PORTES OUVERTES**"
-    [![**IUT St-Malo**](./images/orientation/2026_Affiche_JPO_IUT_Saint-Malo.jpg "JPO IUT St-Malo"){width=35%}](https://www.connect-comtogether.com/flipbook/22c40d4ccbf0f2a17461eee1ce0380e5/#p=1){target=_blank}
+    [![**Immersions_collectives_BRIO*](./images/orientation/202603_Immersion_collective_BRIO.jpg "Immersions collectives"){width=35%}](https://www.linscription.com/pro/activite.php?P1=238098){target=_blank}
+
+    [![**Immersions_sélectives_BRIO*](./images/orientation/202603_Immersion_parcours_sélectifs_BRIO.jpg "Parcours sélectifs"){width=35%}](https://www.linscription.com/pro/activite.php?P1=164264){target=_blank}
 
     [![**Rosa Park - Rostrenen**](./images/orientation/2026_Affiche_PO_Rosa_Parks.jpg "JPO Lycée Rosa Park"){width=35%}](https://www.lp-rosaparks-rostrenen.ac-rennes.fr/){target=_blank}
     
@@ -22,8 +24,6 @@ L'actualité de l'orientation au lycée et dans la région, les ==**sites incont
 
     [![**CUPGE - Lannion**](./images/orientation/2025-2026_Plaquette_CUPGE_Lannion.jpg "JPO IUT Lannion"){width=35%}](./images/orientation/2025-2026_CUPGE_Lannion_plaquette.pdf){target=_blank}
 
-    [![**Lycée Rabelais - St-Brieuc**](./images/orientation/2025-2026_Affiche_JPO_St-Brieuc_Rabelais.jpg "JPO Lycée Rabelais"){width=35%}](https://www.lycee-rabelais-saint-brieuc.ac-rennes.fr/){target=_blank}
-    
     [![**BRIO**](./images/orientation/2025_Continum_Brio.png "Immersions_UBO"){width=45%}](https://www.linscription.com/pro/activite.php?P1=164264){target=_blank} 
 
     [![**IUT-UBO**](./images/orientation/2025-2026_IUT-UBO_insertions.png "Immersions_IUT-UBO"){width=45%}](https://www.linscription.com/pro/activite.php?P1=227696){target=_blank}
@@ -302,6 +302,7 @@ ___
 ??? "Liens utiles"
     === "DROIT"
         - [**Droit et justice**](https://www.onisep.fr/decouvrir-les-metiers/des-metiers-par-secteur/droit-et-justice){target=_blank} : métiers, emploi et formations dans le droit et la justice. (*Sources : Onisep*)
+        - [**Licence professionnelle d'activités juridiques**](https://www.univ-brest.fr/formation-continue-alternance/fr/page/droit-et-administration-des-organisations-licence-professionnelle-activites-juridiques){target=_blank} : Nouvelle formation à la Faculté Droit Éco-gestion AES de l'Université de Bretagne Occidentale.
     === "ECONOMIE - GESTION"
         - [**Comptabilité -  Gestion - Ressources humaines**](https://www.onisep.fr/decouvrir-les-metiers/des-metiers-par-secteur/comptabilite-gestion-ressources-humaines){target=_blank} : métiers et emploi dans le secteur. (*Sources : Onisep*)
    
