@@ -5,7 +5,7 @@
 
 ## Rendez-vous
 ???+ "**CAFE PHILO** ==<u>**Prochain rendez-vous CAFE PHILO**</u>=="
-    ![L'allégorie de la caverne](./images/actualites/20260210_affiche_cafe_philo.png "café philo"){width=65% align=left}
+    ![Philosophie de l'art](./images/actualites/20260317_affiche_cafe_philo.png "café philo"){width=65% align=left}
 
     [**Les CAFE PHILO de l'année dernière**](./images/actualites/2024-2025_cafes_philo.pdf){target=_blank}
 
@@ -78,7 +78,36 @@
    
 ??? "**Kiosque du mois** :newspaper:"
     
-    [![Aide-soignante](./images/abonnements/01_janvier_2026/Aide-soignante_202601_273.jpg "Aide-soignante, janvier 2026, n°273"){width=20%}](./images/abonnements/01_janvier_2026/Aide-soignante_202601_273.pdf){target=_blank}
+    [![Aide-soignante](./images/abonnements/02_fevrier_2026/Aide-soignante_202603_274.jpg "Aide-soignante, février 2026, n°274"){width=20%}](./images/abonnements/02_fevrier_2026/Aide-soignante_202603_274.pdf){target=_blank}
+    [![Alternatives Economiques](./images/abonnements/01_janvier_2026/Alternatives_economiques_202601_132.jpg "Alternatives Economiques, janvier 2026, n°132HS"){width=20%}](./images/abonnements/01_janvier_2026/Alternatives_economiques_202601_132.pdf){target=_blank}
+    [![Alternatives Economiques](./images/abonnements/03_mars_2026/Alternatives_economiques_202603_468.jpg "Alternatives Economiques, mars 2026, n°468"){width=20%}](./images/abonnements/03_mars_2026/Alternatives_economiques_202603_468.pdf){target=_blank}
+    [![Ca m'intéresse](./images/abonnements/03_mars_2026/Ca_m_interesse_202603_541.jpg "Ca m'intéresse, mars 2026, n°541"){width=20%}](./images/abonnements/03_mars_2026/Ca_m_interesse_202603_541.pdf){target=_blank}
+    [![Capital](./images/abonnements/02_fevrier_2026/Capital_202602_413.jpg "Capital, février 2026, n°413"){width=20%}](./images/abonnements/02_fevrier_2026/Capital_202602_413.pdf){target=_blank}
+    [![Documentation photographique](./images/abonnements/02_fevrier_2026/Documentation_photographique_202602_8169.jpg "Documentation photographique, février 2026, n°8169"){width=20%}](./images/abonnements/02_fevrier_2026/Documentation_photographique_202602_8169.pdf){target=_blank}
+    [![Documentation photographique](./images/abonnements/02_fevrier_2026/Documentation_photographique_202602_8170.jpg "Documentation photographique, février 2026, n°8170"){width=20%}](./images/abonnements/02_fevrier_2026/Documentation_photographique_202602_8170.pdf){target=_blank}
+    [![Journal_animation](./images/abonnements/03_mars_2026/Journal_animation_202603_256.jpg "Journal de l'animation, mars 2026, n°256"){width=20%}](./images/abonnements/03_mars_2026/Journal_animation_202603_256.pdf){target=_blank}
+    [![Lire magazine](./images/abonnements/03_mars_2026/Lire_magazine_202603_594.jpg "Lire magazine, mars 2026, n°594"){width=20%}](./images/abonnements/03_mars_2026/Lire_magazine_202603_594.pdf){target=_blank}
+    [![Philosophie magazine](./images/abonnements/03_mars_2026/Philosophie_magazine_202603_197.jpg "Philosophie magazine, mars 2026, n°197"){width=20%}](./images/abonnements/03_mars_2026/Philosophie_magazine_202603_197.pdf){target=_blank}
+    [![Points de vente](./images/abonnements/03_mars_2026/Points_de_vente_202603_1343.jpg "Points de vente, mars 2026, n°1343"){width=20%}](./images/abonnements/03_mars_2026/Points_de_vente_202603_1343.pdf){target=_blank}
+    [![Que choisir](./images/abonnements/03_mars_2026/Que_choisir_202603_655.jpg "Que choisir, mars 2025, n°655"){width=20%}](./images/abonnements/03_mars_2026/Que_choisir_202603_655.pdf){target=_blank}
+    [![Que choisir santé](./images/abonnements/03_mars_2026/Que_choisir_sante_202603_213.jpg "Que choisir santé, mars 2026, n°213"){width=20%}](./images/abonnements/03_mars_2026/Que_choisir_sante_202603_213.pdf){target=_blank}
+    [![Science et Vie](./images/abonnements/03_mars_2026/Science_et_vie_202603_1302.jpg "Science et Vie, mars 2026, n°1302"){width=20%}](./images/abonnements/03_mars_2026/Science_et_vie_202603_1302.pdf){target=_blank}
+    [![Science et Vie](./images/abonnements/02_fevrier_2026/Science_et_vie_202602_324HS.jpg "Science et Vie, février 2026, n°324HS"){width=20%}](./images/abonnements/02_fevrier_2026/Science_et_vie_202602_324HS.pdf){target=_blank}
+    [![Science et Vie Junior](./images/abonnements/03_mars_2026/Science_et_vie_junior_202603_438.jpg "Science et Vie junior, mars 2026, n°438"){width=20%}](./images/abonnements/03_mars_2026/Science_et_vie_junior_202603_438.pdf){target=_blank}
+    [![Science et Vie Junior](./images/abonnements/03_mars_2026/Science_et_vie_junior_202603_176HS.jpg "Science et Vie junior, mars 2026, n°176HS"){width=20%}](./images/abonnements/03_mars_2026/Science_et_vie_junior_202603_176HS.pdf){target=_blank}
+    [![Sciences et avenir](./images/abonnements/03_mars_2026/Sciences_et_avenir_202603_949.jpg "Sciences et avenir, mars 2026, n°949"){width=20%}](./images/abonnements/03_mars_2026/Sciences_et_avenir_202603_949.pdf){target=_blank}
+    [![Sciences humaines](./images/abonnements/03_mars_2026/Sciences_humaines_202603_386.jpg "Sciences humaines, mars 2026, n°386"){width=20%}](./images/abonnements/03_mars_2026/Sciences_humaines_202603_386.pdf){target=_blank}
+    [![Sciences Ouest](./images/abonnements/03_mars_2026/Sciences_ouest_202603_436.jpg "Sciences ouest, mars 2026, n°436"){width=20%}](./images/abonnements/03_mars_2026/Sciences_ouest_202603_436.pdf){target=_blank}
+    [![Sport et vie](./images/abonnements/01_janvier_2026/Sport_et_vie_202601_214.jpg "Sport et Vie, janvier-février 2026, n°214"){width=20%}](./images/abonnements/01_janvier_2026/Sport_et_vie_202601_214.pdf){target=_blank}
+    [![Sport et vie](./images/abonnements/12_decembre_2025/Sport_et_vie_202512_63HS.jpg "Sport et Vie, décembre 2025, n°63HS"){width=20%}](./images/abonnements/12_decembre_2025/Sport_et_vie_202512_63HS.pdf){target=_blank}
+    [![Tangente](./images/abonnements/03_mars_2026/Tangente_202603_228.jpg "Tangente, mars 2026, n°228"){width=20%}](./images/abonnements/03_mars_2026/Tangente_202603_228.pdf){target=_blank}
+    [![Tangente](./images/abonnements/03_mars_2026/Tangente_202603_97HS.jpg "Tangente, mars 2025, n°97HS"){width=20%}](./images/abonnements/03_mars_2026/Tangente_202603_97HS.pdf){target=_blank}
+    [![Virgule](./images/abonnements/03_mars_2026/Virgule_202603_248.jpg "Virgule, mars 2026, n°248"){width=20%}](./images/abonnements/03_mars_2026/Virgule_202603_248.pdf){target=_blank}
+
+
+??? "**Kiosque du mois précédent** :newspaper:"       
+
+    [![Aide-soignante](./images/abonnements/02_fevrier_2026/Aide-soignante_202603_274.jpg "Aide-soignante, février 2026, n°274"){width=20%}](./images/abonnements/02_fevrier_2026/Aide-soignante_202603_274.pdf){target=_blank}
     [![Alternatives Economiques](./images/abonnements/01_janvier_2026/Alternatives_economiques_202601_132.jpg "Alternatives Economiques, janvier 2026, n°132HS"){width=20%}](./images/abonnements/01_janvier_2026/Alternatives_economiques_202601_132.pdf){target=_blank}
     [![Alternatives Economiques](./images/abonnements/02_fevrier_2026/Alternatives_economiques_202602_467.jpg "Alternatives Economiques, février 2026, n°467"){width=20%}](./images/abonnements/02_fevrier_2026/Alternatives_economiques_202602_467.pdf){target=_blank}
     [![Ca m'intéresse](./images/abonnements/02_fevrier_2026/Ca_m_interesse_202602_540.jpg "Ca m'intéresse, février 2026, n°540"){width=20%}](./images/abonnements/02_fevrier_2026/Ca_m_interesse_202602_540.pdf){target=_blank}
@@ -103,34 +132,6 @@
     [![Tangente](./images/abonnements/01_janvier_2026/Tangentes_202601_227.jpg "Tangente, janvier 2026, n°227"){width=20%}](./images/abonnements/01_janvier_2026/Tangentes_202601_227.pdf){target=_blank}
     [![Tangente](./images/abonnements/12_decembre_2025/Tangente_202512_96HS.jpg "Tangente, décembre 2025, n°96HS"){width=20%}](./images/abonnements/12_decembre_2025/Tangente_202512_96HS.pdf){target=_blank}
     [![Virgule](./images/abonnements/02_fevrier_2026/Virgule_202602_247.jpg "Virgule, février 2026, n°247"){width=20%}](./images/abonnements/02_fevrier_2026/Virgule_202602_247.pdf){target=_blank}
-
-
-??? "**Kiosque du mois précédent** :newspaper:"       
-
-    [![Aide-soignante](./images/abonnements/01_janvier_2026/Aide-soignante_202601_273.jpg "Aide-soignante, janvier 2026, n°273"){width=20%}](./images/abonnements/01_janvier_2026/Aide-soignante_202601_273.pdf){target=_blank}
-    [![Alternatives Economiques](./images/abonnements/01_janvier_2026/Alternatives_economiques_202601_132.jpg "Alternatives Economiques, janvier 2026, n°132HS"){width=20%}](./images/abonnements/01_janvier_2026/Alternatives_economiques_202601_132.pdf){target=_blank}
-    [![Alternatives Economiques](./images/abonnements/01_janvier_2026/Alternatives_economiques_202601_466.jpg "Alternatives Economiques, janvier 2026, n°466"){width=20%}](./images/abonnements/01_janvier_2026/Alternatives_economiques_202601_466.pdf){target=_blank}
-    [![Ca m'intéresse](./images/abonnements/01_janvier_2026/Ca_m_interesse_202601_539.jpg "Ca m'intéresse, janvier 2026, n°539"){width=20%}](./images/abonnements/01_janvier_2026/Ca_m_interesse_202601_539.pdf){target=_blank}
-    [![Capital](./images/abonnements/01_janvier_2026/Capital_202601_412.jpg "Capital, janvier 2026, n°412"){width=20%}](./images/abonnements/01_janvier_2026/Capital_202601_412.pdf){target=_blank}
-    [![Documentation photographique](./images/abonnements/11_novembre_2025/Documentation_photographique_202511_8168.jpg "Documentation photographique, novembre 2025, n°8168"){width=20%}](./images/abonnements/11_novembre_2025/Documentation_photographique_202511_8168.pdf){target=_blank}
-    [![Journal_animation](./images/abonnements/01_janvier_2026/Journal_animation_202601_255.jpg "Journal de l'animation, janvier 2026, n°255"){width=20%}](./images/abonnements/01_janvier_2026/Journal_animation_202601_255.pdf){target=_blank}
-    [![Lire magazine](./images/abonnements/01_janvier_2026/Lire_magazine_202601_547.jpg "Lire magazine, janvier 2026, n°547"){width=20%}](./images/abonnements/01_janvier_2026/Lire_magazine_202601_547.pdf){target=_blank}
-    [![Philosophie magazine](./images/abonnements/01_janvier_2026/Philosophie_magazine_202512_195.jpg "Philosophie magazine, décembre 2025 - janvier 2026, n°195"){width=20%}](./images/abonnements/01_janvier_2026/Philosophie_magazine_202512_195.pdf){target=_blank}
-    [![Points de vente](./images/abonnements/12_decembre_2025/Points_de_vente_202512_1341.jpg "Points de vente, décembre 2025, n°1341"){width=20%}](./images/abonnements/12_decembre_2025/Points_de_vente_202512_1341.pdf){target=_blank}
-    [![Que choisir](./images/abonnements/01_janvier_2026/Que_choisir_202601_653.jpg "Que choisir, janvier 2025, n°653"){width=20%}](./images/abonnements/01_janvier_2026/Que_choisir_202601_653.pdf){target=_blank}
-    [![Que choisir santé](./images/abonnements/01_janvier_2026/Que_choisir_sante_202601_211.jpg "Que choisir santé, janvier 2026, n°211"){width=20%}](./images/abonnements/01_janvier_2026/Que_choisir_sante_202601_211.pdf){target=_blank}
-    [![Science et Vie](./images/abonnements/01_janvier_2026/Science_et_vie_202601_1300.jpg "Science et Vie, janvier 2026, n°1300"){width=20%}](./images/abonnements/01_janvier_2026/Science_et_vie_202601_1300.pdf){target=_blank}
-    [![Science et Vie](./images/abonnements/01_janvier_2026/Science_et_vie_202601_323HS.jpg "Science et Vie, janvier 2025, n°323HS"){width=20%}](./images/abonnements/01_janvier_2026/Science_et_vie_202601_323HS.pdf){target=_blank}
-    [![Science et Vie Junior](./images/abonnements/01_janvier_2026/Science_et_vie_junior_202601_436.jpg "Science et Vie junior, janvier 2026, n°436"){width=20%}](./images/abonnements/01_janvier_2026/Science_et_vie_junior_202601_436.pdf){target=_blank}
-    [![Science et Vie Junior](./images/abonnements/01_janvier_2026/Science_et_vie_junior_202601_175%20HS.jpg "Science et Vie junior, janvier 2026, n°175HS"){width=20%}](./images/abonnements/01_janvier_2026/Science_et_vie_junior_202601_175%20HS.pdf){target=_blank}
-    [![Sciences et avenir](./images/abonnements/01_janvier_2026/Sciences_et_avenir_202601_947.jpg "Sciences et avenir, janvier 2026, n°947"){width=20%}](./images/abonnements/01_janvier_2026/Sciences_et_avenir_202601_947.pdf){target=_blank}
-    [![Sciences humaines](./images/abonnements/12_decembre_2025/Sciences_humaines_202512_384.jpg "Sciences humaines, décembre 2025 janvier 2026, n°384"){width=20%}](./images/abonnements/12_decembre_2025/Sciences_humaines_202512_384.pdf){target=_blank}
-    [![Sciences Ouest](./images/abonnements/01_janvier_2026/Sciences_ouest_202601_434.jpg "Sciences ouest, janvier 2026, n°434"){width=20%}](./images/abonnements/01_janvier_2026/Sciences_ouest_202601_434.pdf){target=_blank}
-    [![Sport et vie](./images/abonnements/01_janvier_2026/Sport_et_vie_202601_214.jpg "Sport et Vie, janvier-février 2026, n°214"){width=20%}](./images/abonnements/01_janvier_2026/Sport_et_vie_202601_214.pdf){target=_blank}
-    [![Sport et vie](./images/abonnements/12_decembre_2025/Sport_et_vie_202512_63HS.jpg "Sport et Vie, décembre 2025, n°63HS"){width=20%}](./images/abonnements/12_decembre_2025/Sport_et_vie_202512_63HS.pdf){target=_blank}
-    [![Tangente](./images/abonnements/01_janvier_2026/Tangentes_202601_227.jpg "Tangente, janvier 2026, n°227"){width=20%}](./images/abonnements/01_janvier_2026/Tangentes_202601_227.pdf){target=_blank}
-    [![Tangente](./images/abonnements/12_decembre_2025/Tangente_202512_96HS.jpg "Tangente, décembre 2025, n°96HS"){width=20%}](./images/abonnements/12_decembre_2025/Tangente_202512_96HS.pdf){target=_blank}
-    [![Virgule](./images/abonnements/01_janvier_2026/Virgule_202601_246.jpg "Virgule, janvier 2026, n°246"){width=20%}](./images/abonnements/01_janvier_2026/Virgule_202601_246.pdf){target=_blank}
    
     
 ??? "**Kiosque des langues vivantes** :gb: :de: :es: :it: :cn:"
@@ -147,6 +148,7 @@
     [![Vocable Anglais](./images/abonnements/langues/Vocable_anglais_202512_916.jpg "Vocable Anglais, décembre 2025, n°916"){width=20%}](./images/abonnements/langues/Vocable_anglais_202512_916.pdf){target=_blank}
     [![Vocable Anglais](./images/abonnements/langues/Vocable_anglais_202601_917.jpg "Vocable Anglais, janvier 2026, n°917"){width=20%}](./images/abonnements/langues/Vocable_anglais_202601_917.pdf){target=_blank}
     [![Vocable Anglais](./images/abonnements/langues/Vocable_anglais_202602_918.jpg "Vocable Anglais, février 2026, n°918"){width=20%}](./images/abonnements/langues/Vocable_anglais_202602_918.pdf){target=_blank}
+    [![Vocable Anglais](./images/abonnements/langues/Vocable_anglais_202603_919.jpg "Vocable Anglais, mars 2026, n°919"){width=20%}](./images/abonnements/langues/Vocable_anglais_202603_919.pdf){target=_blank}
 
 
 
@@ -167,6 +169,7 @@
     [![Vocable Allemand](./images/abonnements/langues/Vocable_allemand_202512_909.jpg "Vocable Allemand, décembre 2025, n°909"){width=20%}](./images/abonnements/langues/Vocable_allemand_202512_909.pdf){target=_blank}
     [![Vocable Allemand](./images/abonnements/langues/Vocable_allemand_202601_910.jpg "Vocable Allemand, janvier 2026, n°910"){width=20%}](./images/abonnements/langues/Vocable_allemand_202601_910.pdf){target=_blank}
     [![Vocable Allemand](./images/abonnements/langues/Vocable_allemand_202602_911.jpg "Vocable Allemand, février 2026, n°911"){width=20%}](./images/abonnements/langues/Vocable_allemand_202602_911.pdf){target=_blank}
+    [![Vocable Allemand](./images/abonnements/langues/Vocable_allemand_202603_912.jpg "Vocable Allemand, mars 2026, n°912"){width=20%}](./images/abonnements/langues/Vocable_allemand_202603_912.pdf){target=_blank}
 
     
     ??? Example ":es: **Espagnol** :es:"
@@ -183,6 +186,7 @@
     [![Vocable Espagnol](./images/abonnements/langues/Vocable_espagnol_202512_902.jpg "Vocable Espagnol, décembre 2025, n°902"){width=20%}](./images/abonnements/langues/Vocable_espagnol_202512_902.pdf){target=_blank}
     [![Vocable Espagnol](./images/abonnements/langues/Vocable_espagnol_202601_903.jpg "Vocable Espagnol, janvier 2026, n°903"){width=20%}](./images/abonnements/langues/Vocable_espagnol_202601_903.pdf){target=_blank}
     [![Vocable Espagnol](./images/abonnements/langues/Vocable_espagnol_202602_904.jpg "Vocable Espagnol, février 2026, n°904"){width=20%}](./images/abonnements/langues/Vocable_espagnol_202602_904.pdf){target=_blank}
+    [![Vocable Espagnol](./images/abonnements/langues/Vocable_espagnol_202603_905.jpg "Vocable Espagnol, mars 2026, n°905"){width=20%}](./images/abonnements/langues/Vocable_espagnol_202603_905.pdf){target=_blank}
 
 
 
@@ -203,6 +207,7 @@
     [![Cahiers pédagogiques](./images/abonnements/enseignants/Cahiers_pedagogiques_202509_601.jpg "Cahiers pédagogiques, septembre 2025, n°601"){width=20%}](./images/abonnements/enseignants/Cahiers_pedagogiques_202509_601.pdf){target=_blank}
     [![Cahiers pédagogiques](./images/abonnements/enseignants/Cahiers_pédagogiques_202511_602.jpg "Cahiers pédagogiques, novembre-décembre 2025, n°602"){width=20%}](./images/abonnements/enseignants/Cahiers_pédagogiques_202511_602.pdf){target=_blank}
     [![Cahiers pédagogiques](./images/abonnements/enseignants/Cahiers_pedagogiques_202601_603.jpg "Cahiers pédagogiques, janvier 2026, n°603"){width=20%}](./images/abonnements/enseignants/Cahiers_pedagogiques_202601_603.pdf){target=_blank}
+    [![Cahiers pédagogiques](./images/abonnements/enseignants/Cahiers_pégagogiques_202602-03_604.jpg "Cahiers pédagogiques, février-mars 2026, n°604"){width=20%}](./images/abonnements/enseignants/Cahiers_pégagogiques_202602-03_604.pdf){target=_blank}
 
     ??? Example "**NRP Lycée**"
     
