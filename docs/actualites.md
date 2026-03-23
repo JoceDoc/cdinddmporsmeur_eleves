@@ -5,9 +5,9 @@
 
 ## Rendez-vous
 ???+ "**CAFE PHILO** ==<u>**Prochain rendez-vous CAFE PHILO**</u>=="
-    ![Philosophie de l'art](./images/actualites/20260317_affiche_cafe_philo.png "café philo"){width=65% align=left}
+    ![Affiche café philo](./images/actualites/20260324_Affiche_cafe_philo.png "Café philo 20260324"){width=65% align=left}
 
-    [**Les CAFE PHILO de l'année dernière**](./images/actualites/2024-2025_cafes_philo.pdf){target=_blank}
+    [**Rendez-vous CAFE PHILO de l'année dernière**](./images/actualites/2024-2025_cafes_philo.pdf){target=_blank}
 
 ## Expositions et projets
 ???+ "**FETE DE LA SCIENCE** ==<u>**Du 3 au 13 octobre 2025 : Exposition "Les intelligences différentes par nature"**</u>=="
@@ -64,8 +64,17 @@
 
     * Plaidoyer pour les objets inutiles.
 
+    L'aventure de la 5ème édition du concours d'éloquence s'est terminée jeudi 19 mars avec la finale. Devant un public nombreux et enthousiaste, les trois candidats finalistes, Taly Fortin, Camille-Marie Morel et Thibault Guillemet-Clequin, ainsi que Priam Cardon, candidat surprise, ont présenté leur discours sur le sujet suivant : "Et si Pandore n'avait pas ouvert la boîte" 
+
+    Nous tenons à les féliciter pour leur performance, résultat d'un beau travail d'écriture, d'un entraînement soutenu et d'une détermination remarquable. Chacun à sa manière a su nous faire réfléchir, nous surprendre et nous émouvoir.
+
+    C'est Thibault qui remporte le concours devant Taly et Camille-Marie. BRAVO à tous !
+
     ![1ertour](./images/actualites/20251218_01_resultats_1tour_01.JPG "Résultats_1er_tour"){width=45% align=left}
     ![demi-finale](./images/actualites/20260129_proclamation_resultats_demi-finale.JPG "Résultats_demi-finale"){width=45% align=left}
+    ![finale](./images/actualites/20260319_résultat_02.jpg "Résultats_finale"){width=55% align=right}
+    ![finale](./images/actualites/20260319_résultat_03.PNG "Résultats_finale"){width=55% align=left}
+
    
 
 
@@ -78,7 +87,7 @@
    
 ??? "**Kiosque du mois** :newspaper:"
     
-    [![Aide-soignante](./images/abonnements/02_fevrier_2026/Aide-soignante_202603_274.jpg "Aide-soignante, février 2026, n°274"){width=20%}](./images/abonnements/02_fevrier_2026/Aide-soignante_202603_274.pdf){target=_blank}
+    [![Aide-soignante](./images/abonnements/03_mars_2026/Aide-soignante_202603_275.jpg "Aide-soignante, mars 2026, n°275"){width=20%}](./images/abonnements/03_mars_2026/Aide-soignante_202603_275.pdf){target=_blank}
     [![Alternatives Economiques](./images/abonnements/01_janvier_2026/Alternatives_economiques_202601_132.jpg "Alternatives Economiques, janvier 2026, n°132HS"){width=20%}](./images/abonnements/01_janvier_2026/Alternatives_economiques_202601_132.pdf){target=_blank}
     [![Alternatives Economiques](./images/abonnements/03_mars_2026/Alternatives_economiques_202603_468.jpg "Alternatives Economiques, mars 2026, n°468"){width=20%}](./images/abonnements/03_mars_2026/Alternatives_economiques_202603_468.pdf){target=_blank}
     [![Ca m'intéresse](./images/abonnements/03_mars_2026/Ca_m_interesse_202603_541.jpg "Ca m'intéresse, mars 2026, n°541"){width=20%}](./images/abonnements/03_mars_2026/Ca_m_interesse_202603_541.pdf){target=_blank}
@@ -98,7 +107,7 @@
     [![Sciences et avenir](./images/abonnements/03_mars_2026/Sciences_et_avenir_202603_949.jpg "Sciences et avenir, mars 2026, n°949"){width=20%}](./images/abonnements/03_mars_2026/Sciences_et_avenir_202603_949.pdf){target=_blank}
     [![Sciences humaines](./images/abonnements/03_mars_2026/Sciences_humaines_202603_386.jpg "Sciences humaines, mars 2026, n°386"){width=20%}](./images/abonnements/03_mars_2026/Sciences_humaines_202603_386.pdf){target=_blank}
     [![Sciences Ouest](./images/abonnements/03_mars_2026/Sciences_ouest_202603_436.jpg "Sciences ouest, mars 2026, n°436"){width=20%}](./images/abonnements/03_mars_2026/Sciences_ouest_202603_436.pdf){target=_blank}
-    [![Sport et vie](./images/abonnements/01_janvier_2026/Sport_et_vie_202601_214.jpg "Sport et Vie, janvier-février 2026, n°214"){width=20%}](./images/abonnements/01_janvier_2026/Sport_et_vie_202601_214.pdf){target=_blank}
+    [![Sport et vie](./images/abonnements/03_mars_2026/Sport_et_vie_202603_215.jpg "Sport et Vie, mars-avril 2026, n°215"){width=20%}](./images/abonnements/03_mars_2026/Sport_et_vie_202603_215.pdf){target=_blank}
     [![Sport et vie](./images/abonnements/12_decembre_2025/Sport_et_vie_202512_63HS.jpg "Sport et Vie, décembre 2025, n°63HS"){width=20%}](./images/abonnements/12_decembre_2025/Sport_et_vie_202512_63HS.pdf){target=_blank}
     [![Tangente](./images/abonnements/03_mars_2026/Tangente_202603_228.jpg "Tangente, mars 2026, n°228"){width=20%}](./images/abonnements/03_mars_2026/Tangente_202603_228.pdf){target=_blank}
     [![Tangente](./images/abonnements/03_mars_2026/Tangente_202603_97HS.jpg "Tangente, mars 2025, n°97HS"){width=20%}](./images/abonnements/03_mars_2026/Tangente_202603_97HS.pdf){target=_blank}
