@@ -34,7 +34,7 @@
 
             L'[**Association Film&Culture - Brest**](https://www.film-et-culture.fr/){target=_blank} intervient au lycée pour des ateliers de lecture de l'image et des circuits.
         
-            **Les films présentés cette année** (==*Cliquez sur l'affiche pour accéder à la fiche sur le film*==) :
+            **Les films présentés en 2024-2025** (==*Cliquez sur l'affiche pour accéder à la fiche sur le film*==) :
 
             [![Les suffragettes](./images/culture/FC_Les_suffragettes.jpg "Les suffragettes"){width=20%}](./images/culture/FC_Les_suffragettes.pdf){target=_blank}
             [![1917](./images/culture/FC_1917.jpg "1917"){width=20%}](./images/culture/FC_1917_00.pdf){target=_blank}
@@ -59,6 +59,13 @@
     
     === "THEATRE"
         La proximité du [**Théâtre du Pays de Morlaix**](https://www.theatre-du-pays-de-morlaix.fr/){target=_blank} permet d'offrir aux élèves la possibilité d'assister à des représentations d'oeuvres de spectacle vivant.
+
+        **Saison 2025-2026** :
+        
+        [![**Le Roi Lear**](./images/culture/TPMX_2025-2026_Roi_lear.png "Le Roi Lear - vendredi 5 décembre - 9h30"){width=20%}](https://www.theatre-du-pays-de-morlaix.fr/le-roi-lear.html){target=_blank}
+        [![**Terre étrangère**](./images/culture/TPMX_2025-2026_Terre_etrangere.png "Terre étrangère - vendredi 18 décembre - 14h"){width=30%}](https://www.theatre-du-pays-de-morlaix.fr/terre-etrangere.html){target=_blank}
+        [![**Tour_de_constance**](./images/culture/TPMX_2025-2026_Tour_de_constance.png "Tour de Constance - jeudi 12 mars - 14h"){width=35%}](https://www.theatre-du-pays-de-morlaix.fr/la-tour-de-constance.html){target=_blank}
+
 
         **Saison 2024-2025** :
 
