@@ -52,16 +52,13 @@
         
         - Accéder aux [**textes de référence**](https://www.service-public.fr/particuliers/vosdroits/F1370){target=_blank}.
 
-        - Rôle spécifique des [**éco-délégués**](https://www.education.gouv.fr/des-eleves-eco-delegues-pour-agir-en-faveur-du-developpement-durable-10835){target=_blank} en faveur du développement durable. 
+        - Rôle spécifique des [**éco-délégués**](https://eduscol.education.gouv.fr/6015/les-eco-delegues){target=_blank} en faveur du développement durable. 
 
-    ??? "**Actualités du CVL**"
-
-    ??? "**Projets de l'année**"
 
 
 ### Contre le harcèlement
+???+ "**Lutter contre le harcèlement scolaire**"
 
-???+ info ""
     ![Affiche_men](./images/parcours_citoyen/affiche_harcèlement.jpg "Affiche_harcèlement"){width=30% align=left}
 
     La lutte contre le harcèlement est une des priorités du [**Ministère de l'Education Nationale**](https://www.education.gouv.fr/non-au-harcelement){target=_blank}. Le harcèlement peut prendre différentes formes. 
@@ -70,13 +67,13 @@
 
 
 
-### Service National Universel
+### Engagement citoyen
 
-???+ info ""
-    
-    Présentation et principes du **SNU** sur le [**site officiel**](https://www.snu.gouv.fr/){target=_blank}
+???+ "**En France ou à l'étranger**"
 
-    [![LOGO_SNU](./images/parcours_citoyen/2025_SNU_logo.png "Inscriptions_Finistère"){width=35% align=left}](https://www.snu.gouv.fr/){target=_blank}
+    Comment concrétiser son engagement en France et à l'étranger [**site officiel**](https://www.jeunes.gouv.fr/concretiser-son-engagement-en-france-ou-l-etranger-2820){target=_blank}
+
+    Inscrire son engagement citoyen dans la durée dans les [**Réserves**](https://www.jeunes.gouv.fr/inscrire-son-engagement-dans-la-duree-2822){target=_blank}.
     
     
 ### Vie associative

@@ -50,7 +50,7 @@
 
     Les sujets du 1er tour :  - Et si nous étions tous fous ? - Vivre sans espoir, est-ce cesser de vivre ? - Qui ne dit mot consent ? - "Soyez vous-mêmes, les autres sont déjà pris  ?" (Oscar Wilde) - Seul on va plus vite, ensemble on va plus loin. - La vérité sort-elle vraiment de la bouche des enfants ?
 
-    La demi-finale s'est déroulée jeudi 29 janvier. Les 6 élèves qui avaient passé le 1er tour ont déclamé des discours sur les sujets suivants :
+    La demi-finale s'est déroulée **jeudi 29 janvier**. Les 6 élèves qui avaient passé le 1er tour ont déclamé des discours sur les sujets suivants :
 
     * Si votre ombre avait sa propre vie et ses propres secrets que ferait-elle à votre insue ?
 
@@ -64,11 +64,11 @@
 
     * Plaidoyer pour les objets inutiles.
 
-    L'aventure de la 5ème édition du concours d'éloquence s'est terminée jeudi 19 mars avec la finale. Devant un public nombreux et enthousiaste, les trois candidats finalistes, Taly Fortin, Camille-Marie Morel et Thibault Guillemet-Clequin, ainsi que Priam Cardon, candidat surprise, ont présenté leur discours sur le sujet suivant : "Et si Pandore n'avait pas ouvert la boîte" 
+    L'aventure de la **5ème édition** du concours d'éloquence s'est terminée **jeudi 19 mars** avec la finale. Devant un public nombreux et enthousiaste, les trois candidats finalistes, Taly Fortin, Camille-Marie Morel et Thibault Guillemet-Clequin, ainsi que Priam Cardon, candidat surprise, ont présenté leur discours sur le sujet suivant : "Et si Pandore n'avait pas ouvert la boîte" 
 
     Nous tenons à les féliciter pour leur performance, résultat d'un beau travail d'écriture, d'un entraînement soutenu et d'une détermination remarquable. Chacun à sa manière a su nous faire réfléchir, nous surprendre et nous émouvoir.
 
-    C'est Thibault qui remporte le concours devant Taly et Camille-Marie. BRAVO à tous !
+    ==**C'est Thibault qui remporte le concours devant Taly et Camille-Marie. BRAVO à tous !**==
 
     ![1ertour](./images/actualites/20251218_01_resultats_1tour_01.JPG "Résultats_1er_tour"){width=45% align=left}
     ![demi-finale](./images/actualites/20260129_proclamation_resultats_demi-finale.JPG "Résultats_demi-finale"){width=45% align=left}
