@@ -244,6 +244,9 @@ ___
 ### Armée - Sécurité
 ??? "Liens utiles"
     === "ARMEE"
+        Informations sur l'[**AFSF**](https://www.defense.gouv.fr/comcyber/financer-ses-etudes-grace-larmee-savoir-bourse-informatique-cyber){target=_blank} : allocation financière spécifique de formation.
+
+        - [**Service national**](https://devenir-aviateur.gouv.fr/postuler/service-national){target=_blank} : découvrir le service national
         - [**Armée de l'air**](https://devenir-aviateur.fr/){target=_blank} : devenir aviateur.
         - [**EETAA**](https://eetaa722.fr/){target=_blank} : Ecole d'Enseignement Technique de l'Armée de l'Air et de l'Espace. Avis de recrutement d'élèves en [**1ère**](./pdf/EETAA_20230123_avis_recrutement_premiere.pdf){target=_blank} et [**terminale**](./pdf/EETAA_20230123_avis_recrutement_terminale.pdf){target=-blank}.
         - [**Armée de terre**](https://www.sengager.fr/){target=_blank} : **117 spécialités** dans **16 domaines d'activité**.
