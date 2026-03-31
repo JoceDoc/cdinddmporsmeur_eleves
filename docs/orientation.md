@@ -14,23 +14,13 @@ L'actualité de l'orientation au lycée et dans la région, les ==**sites incont
 ## ACTUALITES
 
 ???+ info "**IMMERSIONS - JOURNEES DECOUVERTES - PORTES OUVERTES**"
-    [![**Immersions_collectives_BRIO*](./images/orientation/202603_Immersion_collective_BRIO.jpg "Immersions collectives"){width=35%}](https://www.linscription.com/pro/activite.php?P1=238098){target=_blank}
-
-    [![**Immersions_sélectives_BRIO*](./images/orientation/202603_Immersion_parcours_sélectifs_BRIO.jpg "Parcours sélectifs"){width=35%}](https://www.linscription.com/pro/activite.php?P1=164264){target=_blank}
-
-    [![**Rosa Park - Rostrenen**](./images/orientation/2026_Affiche_PO_Rosa_Parks.jpg "JPO Lycée Rosa Park"){width=35%}](https://www.lp-rosaparks-rostrenen.ac-rennes.fr/){target=_blank}
-    
-    [![**IUT - Lannion**](./images/orientation/2025-2026_Affiche_JPO_Lannion.jpg "JPO IUT Lannnion"){width=35%}](https://iut-lannion.univ-rennes.fr/){target=_blank}
-
-    [![**CUPGE - Lannion**](./images/orientation/2025-2026_Plaquette_CUPGE_Lannion.jpg "JPO IUT Lannion"){width=35%}](./images/orientation/2025-2026_CUPGE_Lannion_plaquette.pdf){target=_blank}
-
+   
     [![**BRIO**](./images/orientation/2025_Continum_Brio.png "Immersions_UBO"){width=45%}](https://www.linscription.com/pro/activite.php?P1=164264){target=_blank} 
 
     [![**IUT-UBO**](./images/orientation/2025-2026_IUT-UBO_insertions.png "Immersions_IUT-UBO"){width=45%}](https://www.linscription.com/pro/activite.php?P1=227696){target=_blank}
 
     [![**INSTAFAC**](./images/orientation/2025-2026_Instafac.jpg "CAP'AVENIR"){width=45%}](https://nouveau.univ-brest.fr/cap-avenir/fr/page/insta-fac){target=_blank}
 
-    [![**UCO GUINGAMP**](./images/orientation/2025-2026_UCO_Guingamp.png "Journées découvertes UCO"){width=45%}](https://forms.office.com/pages/responsepage.aspx?id=gQWqPAeCVEaEOorw19tTeWGjZIomZ5NHgGlSRtQ5ETtUMVVIQVZXSUxLMkxXUkcyODhEOFJCRFlXNS4u&route=shorturl){target=_blank}
     
     
 ??? info "**Un espace au service de l'emploi**"
