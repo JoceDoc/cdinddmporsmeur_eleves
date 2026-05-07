@@ -5,9 +5,9 @@
 
 ## Rendez-vous
 ???+ "**CAFE PHILO** ==<u>**Prochain rendez-vous CAFE PHILO**</u>=="
-    ![Affiche café philo](./images/actualites/20260407_affiche_cafe_philo.png "Café philo 20260407"){width=65% align=left}
+    ![Affiche café philo](./images/actualites/20260519_affiche_cafe_philo.png "Café philo 20260519"){width=65% align=left}
 
-    [==**Rendez-vous CAFE PHILO de l'année dernière**==](./images/actualites/2024-2025_cafes_philo.pdf){target=_blank}
+    [**Rendez-vous CAFE PHILO de l'année dernière**](./images/actualites/2024-2025_cafes_philo.pdf){target=_blank}
 
 ## Expositions et projets
 ???+ "**FETE DE LA SCIENCE** ==<u>**Du 3 au 13 octobre 2025 : Exposition "Les intelligences différentes par nature"**</u>=="
@@ -179,6 +179,7 @@
     [![Vocable Allemand](./images/abonnements/langues/Vocable_allemand_202601_910.jpg "Vocable Allemand, janvier 2026, n°910"){width=20%}](./images/abonnements/langues/Vocable_allemand_202601_910.pdf){target=_blank}
     [![Vocable Allemand](./images/abonnements/langues/Vocable_allemand_202602_911.jpg "Vocable Allemand, février 2026, n°911"){width=20%}](./images/abonnements/langues/Vocable_allemand_202602_911.pdf){target=_blank}
     [![Vocable Allemand](./images/abonnements/langues/Vocable_allemand_202603_912.jpg "Vocable Allemand, mars 2026, n°912"){width=20%}](./images/abonnements/langues/Vocable_allemand_202603_912.pdf){target=_blank}
+    [![Vocable Allemand](./images/abonnements/langues/Vocable_allemand_202604_913.jpg "Vocable Allemand, avril 2026, n°913"){width=20%}](./images/abonnements/langues/Vocable_allemand_202604_913.pdf){target=_blank}
 
     
     ??? Example ":es: **Espagnol** :es:"
@@ -196,6 +197,7 @@
     [![Vocable Espagnol](./images/abonnements/langues/Vocable_espagnol_202601_903.jpg "Vocable Espagnol, janvier 2026, n°903"){width=20%}](./images/abonnements/langues/Vocable_espagnol_202601_903.pdf){target=_blank}
     [![Vocable Espagnol](./images/abonnements/langues/Vocable_espagnol_202602_904.jpg "Vocable Espagnol, février 2026, n°904"){width=20%}](./images/abonnements/langues/Vocable_espagnol_202602_904.pdf){target=_blank}
     [![Vocable Espagnol](./images/abonnements/langues/Vocable_espagnol_202603_905.jpg "Vocable Espagnol, mars 2026, n°905"){width=20%}](./images/abonnements/langues/Vocable_espagnol_202603_905.pdf){target=_blank}
+    [![Vocable Espagnol](./images/abonnements/langues/Vocable_espagnol_202604_906.jpg "Vocable Espagnol, avril 2026, n°906"){width=20%}](./images/abonnements/langues/Vocable_espagnol_202604_906.pdf){target=_blank}
 
 
 
