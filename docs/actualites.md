@@ -4,10 +4,12 @@
     [![logo ECAM](./images/logo_ecam.jpg "Actualités Lycée"){width=90% align=right}](https://www.ecmorlaix.fr/actualites/){target=_blank}
 
 ## Rendez-vous
-???+ "**CAFE PHILO** ==<u>**Prochain rendez-vous CAFE PHILO**</u>=="
+???+ "**CAFE PHILO** ==<u>**Les rendez-vous CAFE PHILO**</u>=="
     ![Affiche café philo](./images/actualites/20260602_affiche_cafe_philo.png "Café philo 20260602"){width=65% align=left}
 
-    [**Rendez-vous CAFE PHILO de l'année dernière**](./images/actualites/2024-2025_cafes_philo.pdf){target=_blank}
+    [**Sujets des "CAFE PHILO" 2024-2025**](./images/actualites/2024-2025_cafe_philo_compressed.pdf){target=_blank}
+
+    [**Sujets des "CAFE PHILO" 2025-2026**](./images/actualites/2025-2026_cafe_philo_compressed.pdf){target=_blank}
 
 ## Expositions et projets
 ???+ "**FETE DE LA SCIENCE** ==<u>**Du 3 au 13 octobre 2025 : Exposition "Les intelligences différentes par nature"**</u>=="
