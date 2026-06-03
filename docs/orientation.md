@@ -47,9 +47,7 @@ ___
     === "GUIDES"
         Tous les [**guides IDEO**](https://ideo.bretagne.bzh/publications){target=_blank} pour l'aide à l'orientation.
     
-        -[![**Guide "Que faire après la 3e ?"**](./images/orientation/2024-2025_Que_faire_après_la_3e.jpg "Que faire après la 3e"){width=20%}](./images/orientation/2024-2025_Que_faire_après_la_3e.pdf){target=_blank}
-        -[![**Guide "Que faire après le BAC ?"**](./images/orientation/2024-2025_Guide_IDEO_Apres_Bac.jpg "Que faire après le BAC"){width=20%}](./images/orientation/2024-2025_Guide_IDEO_Apres_Bac.pdf){target=_blank}
-       
+              
     === "QUIZ"
         - [**QUIZ de l'ONISEP**](https://www.onisep.fr/decouvrir-les-metiers/les-quiz-de-l-onisep/){target=_blank} :
 
@@ -173,8 +171,8 @@ ___
         - [**SUP'ARMOR**](https://www.suparmor.fr/){target=_blank} : l'équivalent d'Azimut dans le 22 du ==**11 au 13 décembre 2025**==.
         - [**STUDYRAMA**](https://www.studyrama.com/){target=_blank} : dates des prochains salons étudiants...
     === "CONCOURS"
-        - [**EMSLB**](https://uniformesdefrance.com/actualites-site-dates-concours-metiers-uniforme-ouverts-inscriptions-postes-vacants.php){target=_blank} : dates des concours pour l'entrée en Ecoles Militaires de Santé de Lyon-Bron. 
-        - [**EMSLB - infirmier**](https://emslb.defense.gouv.fr/){target=_blank} : devenir infirmier militaire  en intégrant les écoles militaires de santé Lyon-Bron. [**Voir la plaquette**](./pdf/EMSLB_Plaquette_infirmier_militaire.pdf){target=_blank}
+        - [**Métiers en uniforme de la fonction publique**](https://uniformesdefrance.com/actualites-site-dates-concours-metiers-uniforme-ouverts-inscriptions-postes-vacants.php){target=_blank} : concours et recrutement.
+        - [**EMSLB**](https://emslb.defense.gouv.fr/){target=_blank} : devenir soignant militaire  en intégrant les écoles militaires de santé Lyon-Bron. [**Voir la plaquette**](./pdf/EMSLB_Plaquette_infirmier_militaire.pdf){target=_blank}
         - [**IPESUP**](https://www.ipesup.fr/){target=_blank} : préparation aux concours des filères sélectives telles que Sciences PO, ENA, HEC, SESAME, ACCES, ALPHA, AVENIR, GEIPI/POLYTECH, MATH SUP, MATH SPE, DSCG, CELSA...
     === "STMG"  
         - [**Que faire après un BAC STMG ?**](https://www.onisep.fr/formation/apres-le-bac-les-etudes-superieures/apres-un-bac-techno/que-faire-apres-le-bac-stmg){target=_blank}
@@ -243,21 +241,16 @@ ___
         - [**Marine Nationale**](https://www.lamarinerecrute.fr/){target=_blank} : La marine recrute, rejoignez l’équipage...
         - [**ENSM**](https://www.supmaritime.fr/){target=_blank} : Ecole Nationale Supérieure Maritime (Le Havre - Marseille - Nantes - Saint-Malo).
         
-        [![Job dating](./images/orientation/20260408_Job_dating_BA_928_Brest_Loperhet.jpg "S'inscrire"){width=40%}](https://demarche.numerique.gouv.fr/commencer/job-dating){target=_blank}
         [![Recrutement_EETAAE](./images/orientation/EETAAE_recrutement_2024.jpg "Affiche"){width=40%}](https://eetaa722.fr/){target=_blank}
-        [![**AIR actualités"**](./images/orientation/2025-2026_Air_Actu_08-09.jpg "Air actualités, août-septembre 2025"){width=35%}](./images/orientation/2025-2026_Air_Actu_08-09.pdf){target=_blank}
+        [![**AIR actualités"**](./images/orientation/202603_Air_Actu.jpg "Air actualités, mars 2026"){width=35%}](./images/orientation/202603_Air_Actu.pdf){target=_blank}
         [![**EFSOAA"**](./images/orientation/brochure-efsoaa-page-001.jpg "EFSOAA"){width=35%}](./pdf/brochure-efsoaa.pdf){target=_blank}
     === "SECURITE"
         - [**Devenir gendarme**](https://www.devenir-gendarme.fr/){target=_blank}
         - [**Devenir policier**](https://www.devenirpolicier.fr/){target=_blank}
     === "CONCOURS"
-        [**Concours des Ecoles Militaires de Santé Lyon-Bron**](https://www.emslb.defense.gouv.fr/nous-rejoindre-concours){target=_blank} 
+        [**Concours des Ecoles Militaires de Santé Lyon-Bron**](https://www.emslb.defense.gouv.fr/){target=_blank} 
         
-              
-        [![**Concours Médecin militaire**](./images/orientation/ESA_Fiche_Medecin_OSC_Page_1.jpg "Médecin militaire_1"){width=25%}](./images/orientation/ESA_Fiche_Medecin_militaire.pdf){target=_blank}
-        [![**Concours pharmacien militaire**](./images/orientation/ESA_Fiche_Pharmacien_EMSLB_3_Page_1.jpg "Pharmacien militaire_"){width=25%}](./images/orientation/ESA_Fiche_Pharmacien_militaire.pdf){target=_blank}
-
-___ 
+    ___ 
 ### Arts - Artisanat - Culture
 ??? "Liens utiles"
     === "ARTS"
