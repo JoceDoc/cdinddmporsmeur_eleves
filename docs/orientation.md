@@ -107,7 +107,7 @@ ___
 ### Niveau 2nde
 ??? "SECONDE"
     === "RESSOURCES"
-        - [**Horizons21**](https://www.horizons21.fr/){target=_blank} : pour simuler des combinaisons de spécialités et découvrir des pespectives de formations et des métiers.
+        - [**Horizons21**](https://www.onisep.fr/horizons21){target=_blank} : pour simuler des combinaisons de spécialités et découvrir des pespectives de formations et des métiers.
         - [**MODULE AVENIRS LYCEE**](https://lycee-avenirs.onisep.fr/){target=_blank} : les étapes pour construire mon avenir au lycée.
     === "CHOISIR UN METIER"
         - [**Selon mes goûts**](https://www.onisep.fr/decouvrir-les-metiers/Des-metiers-selon-mes-gouts){target=_blank}
@@ -120,10 +120,10 @@ ___
 ??? "PREMIERE"
     === "RESSOURCES"
         - [**Réussir au lycée**](https://www.education.gouv.fr/reussir-au-lycee/choisir-ses-enseignements-de-specialite-au-lycee-pour-preparer-ses-etudes-superieures-325475){target=_blank} : le choix des spécialités.
-        - [**Horizons21**](https://www.horizons21.fr/){target=_blank} : pour simuler des combinaisons de spécialités et découvrir des pespectives de formations et des métiers. 
+        - [**Horizons21**](https://www.onisep.fr/horizons21){target=_blank} : pour simuler des combinaisons de spécialités et découvrir des pespectives de formations et des métiers. 
         - [**MODULE AVENIRS LYCEE**](https://lycee-avenirs.onisep.fr/){target=_blank} : les étapes pour construire mon avenir au lycée.
     === "SPECIALITES"
-        - [**Quelle spécialité abandonner ?**](https://www.letudiant.fr/lycee/premiere/premiere-comment-choisir-la-specialite-a-abandonner.html){target=_blank}
+        - [**Quelle spécialité abandonner ?**](https://www.letudiant.fr/lycee/premiere/premiere-comment-choisir-la-specialite-a-abandonner.html){target=_blank}(*Sources :L'Etudiant*)
         
         Reportez-vous aussi à la rubrique [**SPECIALITES**](https://cdi-lycee.ecmorlaix.fr/orientation/#specialites){target=_blank} plus haut.
     === "CHOISIR UN METIER"
