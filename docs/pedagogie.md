@@ -17,6 +17,13 @@ ___
 
 ## Actualité des disciplines
 
+
+???+ "**Prix de l'inventeur européen 2026 - Vote du public**"
+    
+    **Franck Zal**, fondateur de la société [**Hemarina**](https://www.hemarina.com/avec-ses-vers-marins-qui-soignent-des-victimes-de-crans-montana-ce-breton-est-en-finale-du-prix-de-linventeur-europeen/){target=_blank} en 2007, Président de [**Biotech Santé Bretagne**](https://www.biotech-sante-bretagne.fr/){target=_blank}, membre du conseil de surveillance d’inserm Transfert et VP Médecine Régénérative au sein du conseil d’administration d’Atlanpole Biothérapies, est en lice pour remporter le prix de l'inventeur européen.
+    
+    Vous pouvez le soutenir en ==<u>**votant jusqu'au 2 juillet 2026**</u>== : cliquez sur le logo [![Logo inventeur europeen](./images/pedagogie/Logo_inventeur_europeen.png "Affiche"){width=40% align=right}](https://engage.epo.org/promotions/participate/1010689/357425/){target=_blank}
+
 ???+ "**Semaine de la presse et des médias** ==<u>**23 au 28 mars 2026**</u>=="
     [![Affiche de présentation](./images/pedagogie/2026_affiche_SPME_CLEMI.png "Affiche"){width=70% align=left}](https://www.clemi.fr/actualite/37e-semaine-de-la-presse-et-des-medias-dans-lecole-un-theme-explorer-avec-deux-affiches-et-sous-quatre-angles-complementaires){target=_blank}
 
@@ -335,8 +342,8 @@ ___
 ??? "Ressources" 
     - [**Encyclopédie philosophie**](https://encyclo-philo.fr/){target=_blank}
     - [**La philosophie**](https://la-philosophie.com/){target=_blank} : Les grands philosophes, les courants... préparation du BAC PHILO (Conseils méthodologiques - Résumés - Citations...)
-    - [**Histoire de la philosophie**](http://www.histophilo.com/index.php){target=_blank}
     - [**Les philosophes dans le métro**](https://lesphilosophesdanslemetro.com/plan/){target=_blank}
+    - [**Le phil actu**](https://www.lephildactu.fr/){target=_blank}
     - [**Le pouvoir de la parole**](https://www.franceculture.fr/emissions/les-chemins-de-la-philosophie/le-pouvoir-de-la-parole-14-parler-est-ce-agir){target=_blank} : Série de quatre émissions diffusées sur France Culture, sur le pouvoir de la parole. (^^Episode 1^^ : Parler est-ce agir ? - ^^Épisode 2^^ : Quand la parole ne suffit pas : les stoïciens au secours de l’écologie - ^^Épisode 3^^ : Quand dire, c’est guérir - ^^Épisode 4^^ : Devient-on quelqu’un d’autre quand on ment ?).
    
 ___  
